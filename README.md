@@ -2,6 +2,8 @@
 
 HGeoKG: A Hierarchical Geographic Knowledge Graph for Geographic Knowledge Reasoning
 
+Dataset name: `HGeoKG-MHT-670K`
+
 ## Paper
 
 The corresponding paper is available here:
