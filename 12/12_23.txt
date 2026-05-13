@@ -1,0 +1,231 @@
+<hgeokg/resource/5403858701>	<hgeokg/schema/routeRef>	routeRef-M3
+<hgeokg/resource/275105698>	<hgeokg/schema/addrPostcode>	addrPostcode-10040
+<hgeokg/resource/5672662>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5670176>
+<hgeokg/resource/118529228>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/5797584416>	<hgeokg/schema/shelter>	shelter-no
+<hgeokg/resource/5671788>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/275103961>
+<hgeokg/resource/357621482>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/275105698>
+<hgeokg/resource/5671788>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-W
+<hgeokg/resource/5797586393>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/275103961>
+<hgeokg/resource/489170295>	<hgeokg/schema/maxspeed>	maxspeed-25 mph
+<hgeokg/resource/196117082>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/68668563>	<hgeokg/schema/lanes>	lanes-2
+<hgeokg/resource/118529228>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/357621415>
+<hgeokg/resource/5672662>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/357621482>	<hgeokg/schema/gnisFeatureId>	gnisFeatureId-2083915
+<hgeokg/resource/5797584416>	<http://www.w3.org/2000/01/rdf-schema#label>	Saint Nicholas Avenue & West 193rd Street
+<hgeokg/resource/5669665>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/560350513>
+<hgeokg/resource/5671788>	<http://www.w3.org/2000/01/rdf-schema#label>	West 189th Street
+<hgeokg/resource/5797584416>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/PublicTransportPlatform>
+<hgeokg/resource/68668563>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/489170295>	<hgeokg/schema/lanes>	lanes-3
+<hgeokg/resource/5797586393>	<hgeokg/schema/shelter>	shelter-no
+<hgeokg/resource/275103961>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/196117082>
+<hgeokg/resource/5670176>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/560350513>
+<hgeokg/resource/5672662>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5671788>
+<hgeokg/resource/275103961>	<hgeokg/schema/addrHousenumber>	addrHousenumber-2580
+<hgeokg/resource/275105698>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/357621452>
+<hgeokg/resource/5669665>	<http://www.w3.org/2000/01/rdf-schema#label>	West 192nd Street
+<hgeokg/resource/5797584416>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/BusStop>
+<hgeokg/resource/5671788>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/5671788>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/196117082>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5797586393>
+<hgeokg/resource/357621452>	<hgeokg/schema/ele>	ele-56
+<hgeokg/resource/357621415>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/AmenitySchool>
+<hgeokg/resource/5670176>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/275105698>
+<hgeokg/resource/5671788>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/196117082>
+<hgeokg/resource/5672662>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/196117082>
+<hgeokg/resource/196117082>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-W
+<hgeokg/resource/560350513>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5403858701>
+<hgeokg/resource/5403858701>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/PublicTransportPlatform>
+<hgeokg/resource/5670650>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-W
+<hgeokg/resource/357616308>	<hgeokg/schema/ele>	ele-65
+<hgeokg/resource/5403858701>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5672662>
+<hgeokg/resource/196117082>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/275105698>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/357621415>
+<hgeokg/resource/560350513>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Secondary>
+<hgeokg/resource/5797584416>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5669665>
+<hgeokg/resource/5670176>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/489170295>
+<hgeokg/resource/357621452>	<http://www.w3.org/2000/01/rdf-schema#label>	Law and Public Service High School
+<hgeokg/resource/275105698>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/5797584416>	<hgeokg/schema/bench>	bench-no
+<hgeokg/resource/357616308>	<hgeokg/schema/gnisFeatureId>	gnisFeatureId-2078996
+<hgeokg/resource/275105698>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/AmenitySchool>
+<hgeokg/resource/5797586393>	<hgeokg/schema/bus>	bus-yes
+<hgeokg/resource/5797584416>	<Point_transport-Adjacent-Point_transport>	<hgeokg/resource/5403858701>
+<hgeokg/resource/5672662>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/275105698>
+<hgeokg/resource/275105698>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5669665>
+<hgeokg/resource/5672662>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5669665>
+<hgeokg/resource/275105698>	<hgeokg/schema/gnisFeatureId>	gnisFeatureId-951005
+<hgeokg/resource/68668563>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5671788>
+<hgeokg/resource/5797586393>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/PublicTransportPlatform>
+<hgeokg/resource/357616308>	<http://www.w3.org/2000/01/rdf-schema#label>	Jacob K Javits Athletic Field
+<hgeokg/resource/357621482>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/AmenitySchool>
+<hgeokg/resource/275103961>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5671788>
+<hgeokg/resource/357621482>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/275105698>	<http://www.w3.org/2000/01/rdf-schema#label>	George Washington High School
+<hgeokg/resource/5671788>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/275103961>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5797586393>
+<hgeokg/resource/196117082>	<http://www.w3.org/2000/01/rdf-schema#label>	West 190th Street
+<hgeokg/resource/196117082>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/357616308>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/275103961>	<hgeokg/schema/addrPostcode>	addrPostcode-10040
+<hgeokg/resource/68668563>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/196117082>
+<hgeokg/resource/489170295>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/CyclewayLane>
+<hgeokg/resource/68668563>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/275103961>
+<hgeokg/resource/5670650>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5672662>
+<hgeokg/resource/275105698>	<hgeokg/schema/height>	height-21.8
+<hgeokg/resource/118529228>	<http://www.w3.org/2000/01/rdf-schema#label>	Jacob K Javits Athletic Field
+<hgeokg/resource/5670650>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/196117082>
+<hgeokg/resource/118529228>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/560350513>
+<hgeokg/resource/357621452>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/357621482>
+<hgeokg/resource/5403858701>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/560350513>
+<hgeokg/resource/5797586393>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/BusStop>
+<hgeokg/resource/275103961>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5672662>
+<hgeokg/resource/489170295>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5669665>
+<hgeokg/resource/68668563>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/CyclewayLane>
+<hgeokg/resource/5669665>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5670176>
+<hgeokg/resource/560350513>	<http://www.w3.org/2000/01/rdf-schema#label>	Fort George Avenue
+<hgeokg/resource/5672662>	<hgeokg/schema/wikipedia>	wikipedia-en:Audubon Avenue
+<hgeokg/resource/560350513>	<hgeokg/schema/maxspeed>	maxspeed-25 mph
+<hgeokg/resource/5797584416>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/68668563>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Secondary>
+<hgeokg/resource/5672662>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/560350513>
+<hgeokg/resource/5670176>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/118529228>
+<hgeokg/resource/5672662>	<hgeokg/schema/motorVehicleConditional>	motorVehicleConditional-destination @ (08:00-20:00)
+<hgeokg/resource/275103961>	<http://www.w3.org/2000/01/rdf-schema#label>	Public School 189
+<hgeokg/resource/5672662>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/275103961>
+<hgeokg/resource/5670176>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-W
+<hgeokg/resource/357621482>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/118529228>
+<hgeokg/resource/118529228>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/5670176>
+<hgeokg/resource/5797584416>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/560350513>
+<hgeokg/resource/5670176>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/118529228>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/275105698>
+<hgeokg/resource/489170295>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/489170295>	<http://www.w3.org/2000/01/rdf-schema#label>	Saint Nicholas Avenue
+<hgeokg/resource/560350513>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/5403858701>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5670176>
+<hgeokg/resource/357621482>	<hgeokg/schema/ele>	ele-56
+<hgeokg/resource/5670650>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/5669665>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5670650>
+<hgeokg/resource/357616308>	<Point_pois-Within-Point_pois>	<hgeokg/resource/118529228>
+<hgeokg/resource/357621415>	<http://www.w3.org/2000/01/rdf-schema#label>	International High School for Business and Finance
+<hgeokg/resource/5669665>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/5797584416>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/489170295>
+<hgeokg/resource/68668563>	<hgeokg/schema/maxspeed>	maxspeed-25 mph
+<hgeokg/resource/357616308>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Park>
+<hgeokg/resource/5403858701>	<hgeokg/schema/surface>	surface-concrete
+<hgeokg/resource/68668563>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5797586393>
+<hgeokg/resource/560350513>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5672662>
+<hgeokg/resource/357621452>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/275105698>
+<hgeokg/resource/275103961>	<hgeokg/schema/height>	height-28.2
+<hgeokg/resource/357621452>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/357621415>
+<hgeokg/resource/560350513>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/118529228>
+<hgeokg/resource/5672662>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/SharedLane>
+<hgeokg/resource/5669665>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/275105698>	<hgeokg/schema/nycdoittBin>	nycdoittBin-1076751
+<hgeokg/resource/357621415>	<hgeokg/schema/ele>	ele-56
+<hgeokg/resource/5403858701>	<Point_transport-Adjacent-Point_transport>	<hgeokg/resource/5797584416>
+<hgeokg/resource/5669665>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-W
+<hgeokg/resource/5403858701>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/489170295>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Secondary>
+<hgeokg/resource/5669665>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/275105698>
+<hgeokg/resource/196117082>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/5669665>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5672662>
+<hgeokg/resource/196117082>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5671788>
+<hgeokg/resource/5797584416>	<hgeokg/schema/bus>	bus-yes
+<hgeokg/resource/357621415>	<hgeokg/schema/gnisFeatureId>	gnisFeatureId-2083900
+<hgeokg/resource/68668563>	<hgeokg/schema/wikipedia>	wikipedia-en:Tenth Avenue (Manhattan)
+<hgeokg/resource/5669665>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/5403858701>	<hgeokg/schema/shelter>	shelter-yes
+<hgeokg/resource/68668563>	<http://www.w3.org/2000/01/rdf-schema#label>	Amsterdam Avenue
+<hgeokg/resource/5670650>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/5672662>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5403858701>
+<hgeokg/resource/196117082>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5672662>
+<hgeokg/resource/357621452>	<hgeokg/schema/gnisFeatureId>	gnisFeatureId-2083908
+<hgeokg/resource/196117082>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5670650>
+<hgeokg/resource/275105698>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5672662>
+<hgeokg/resource/5670176>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5669665>
+<hgeokg/resource/5670650>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/5403858701>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/489170295>
+<hgeokg/resource/5671788>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5672662>
+<hgeokg/resource/68668563>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/357621415>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/357621482>
+<hgeokg/resource/5670650>	<hgeokg/schema/cyclewayBoth>	cyclewayBoth-no
+<hgeokg/resource/118529228>	<Point_pois-Contain-Point_pois>	<hgeokg/resource/357616308>
+<hgeokg/resource/5797586393>	<hgeokg/schema/bench>	bench-no
+<hgeokg/resource/5669665>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5797584416>
+<hgeokg/resource/5670176>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5797584416>
+<hgeokg/resource/275105698>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5670176>
+<hgeokg/resource/118529228>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/357621482>
+<hgeokg/resource/5670176>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5672662>
+<hgeokg/resource/275103961>	<hgeokg/schema/nycdoittBin>	nycdoittBin-1076750
+<hgeokg/resource/5671788>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/560350513>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5670176>
+<hgeokg/resource/5669665>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/357621415>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/5672662>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Tertiary>
+<hgeokg/resource/357621452>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/AmenitySchool>
+<hgeokg/resource/560350513>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5797584416>
+<hgeokg/resource/560350513>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/489170295>
+<hgeokg/resource/357621482>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/357621415>
+<hgeokg/resource/5670176>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/357621452>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/118529228>
+<hgeokg/resource/196117082>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/275103961>
+<hgeokg/resource/357621482>	<http://www.w3.org/2000/01/rdf-schema#label>	Media and Communications High School
+<hgeokg/resource/275105698>	<hgeokg/schema/addrHousenumber>	addrHousenumber-549
+<hgeokg/resource/560350513>	<hgeokg/schema/lanes>	lanes-2
+<hgeokg/resource/5403858701>	<hgeokg/schema/bus>	bus-yes
+<hgeokg/resource/5670650>	<http://www.w3.org/2000/01/rdf-schema#label>	West 191st Street
+<hgeokg/resource/5797586393>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/275105698>	<hgeokg/schema/ele>	ele-58
+<hgeokg/resource/5670650>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5669665>
+<hgeokg/resource/275103961>	<hgeokg/schema/ele>	ele-61
+<hgeokg/resource/5671788>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5797586393>
+<hgeokg/resource/275103961>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/5797586393>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/68668563>
+<hgeokg/resource/5672662>	<http://www.w3.org/2000/01/rdf-schema#label>	Audubon Avenue
+<hgeokg/resource/489170295>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5670176>
+<hgeokg/resource/275105698>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/357621482>
+<hgeokg/resource/5797586393>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/196117082>
+<hgeokg/resource/5670176>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5403858701>
+<hgeokg/resource/5671788>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/68668563>
+<hgeokg/resource/5797586393>	<hgeokg/schema/routeRef>	routeRef-M101
+<hgeokg/resource/5669665>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/489170295>
+<hgeokg/resource/5670176>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/560350513>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5669665>
+<hgeokg/resource/560350513>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/CyclewayLane>
+<hgeokg/resource/118529228>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/5672662>
+<hgeokg/resource/5672662>	<hgeokg/schema/maxspeedConditional>	maxspeedConditional-5 mph @ (08:00-20:00)
+<hgeokg/resource/275103961>	<hgeokg/schema/gnisFeatureId>	gnisFeatureId-961466
+<hgeokg/resource/489170295>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/5797584416>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5670176>
+<hgeokg/resource/357621482>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/357621452>
+<hgeokg/resource/5672662>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/118529228>
+<hgeokg/resource/5797586393>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5671788>
+<hgeokg/resource/196117082>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/68668563>
+<hgeokg/resource/275105698>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/118529228>
+<hgeokg/resource/5403858701>	<hgeokg/schema/bench>	bench-yes
+<hgeokg/resource/5670176>	<http://www.w3.org/2000/01/rdf-schema#label>	West 193rd Street
+<hgeokg/resource/357621415>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/357621452>
+<hgeokg/resource/5403858701>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/BusStop>
+<hgeokg/resource/5672662>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/489170295>	<hgeokg/schema/wikipedia>	wikipedia-en:St. Nicholas Avenue
+<hgeokg/resource/275103961>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/AmenitySchool>
+<hgeokg/resource/5670176>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/357621452>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/5669665>	<hgeokg/schema/cyclewayBoth>	cyclewayBoth-no
+<hgeokg/resource/560350513>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/489170295>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5403858701>
+<hgeokg/resource/357621415>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/118529228>
+<hgeokg/resource/357621415>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/275105698>
+<hgeokg/resource/489170295>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/560350513>
+<hgeokg/resource/5797586393>	<http://www.w3.org/2000/01/rdf-schema#label>	Amsterdam Avenue & West 189th Street
+<hgeokg/resource/5670650>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/489170295>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5797584416>
+<hgeokg/resource/5672662>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5670650>
+<hgeokg/resource/5797584416>	<hgeokg/schema/routeRef>	routeRef-M3
+<hgeokg/resource/118529228>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/357621452>
+<hgeokg/resource/275103961>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/68668563>
+<hgeokg/resource/118529228>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/LeisureTrack>
+<hgeokg/resource/5403858701>	<http://www.w3.org/2000/01/rdf-schema#label>	Fort George Avenue & West 193rd Street

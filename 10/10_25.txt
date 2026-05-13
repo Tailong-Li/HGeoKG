@@ -1,0 +1,111 @@
+<hgeokg/resource/5415653037>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/4111168991>
+<hgeokg/resource/5415654673>	<hgeokg/schema/shelter>	shelter-yes
+<hgeokg/resource/243056519>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/664893485>
+<hgeokg/resource/4111168991>	<hgeokg/schema/website>	website-https://www.starbucks.com/store-locator/store/18230/145th-bradhurst-301-w-145th-st-new-york-ny-100393159-us
+<hgeokg/resource/4450364090>	<http://www.w3.org/2000/01/rdf-schema#label>	Manhattanville Coffee
+<hgeokg/resource/5415653037>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/243056519>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5670851>
+<hgeokg/resource/4111168991>	<http://www.w3.org/2000/01/rdf-schema#label>	Starbucks
+<hgeokg/resource/5415653037>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/PublicTransportPlatform>
+<hgeokg/resource/5670851>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/5415654673>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/664893485>
+<hgeokg/resource/4111168991>	<hgeokg/schema/takeaway>	takeaway-yes
+<hgeokg/resource/6296848388>	<hgeokg/schema/openingHours>	openingHours-Mo-Su 10:00-22:00
+<hgeokg/resource/243056519>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6296848388>
+<hgeokg/resource/4111168991>	<hgeokg/schema/addrPostcode>	addrPostcode-10039
+<hgeokg/resource/4450364090>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Cafe>
+<hgeokg/resource/5415653037>	<hgeokg/schema/lit>	lit-yes
+<hgeokg/resource/664893485>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5415654673>
+<hgeokg/resource/4111168991>	<hgeokg/schema/brand>	brand-Starbucks
+<hgeokg/resource/5415653037>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/BusStop>
+<hgeokg/resource/4450364090>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5670851>
+<hgeokg/resource/5670851>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/243046574>
+<hgeokg/resource/5415654673>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/4111168991>	<hgeokg/schema/drinkTea>	drinkTea-yes
+<hgeokg/resource/5670851>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/243056519>
+<hgeokg/resource/664893485>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5384049995>
+<hgeokg/resource/5670851>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/664893485>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6296848388>
+<hgeokg/resource/4111168991>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/4111168991>	<hgeokg/schema/addrHousenumber>	addrHousenumber-301
+<hgeokg/resource/5670851>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/4450364090>
+<hgeokg/resource/243046574>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/4111168991>	<hgeokg/schema/cuisine>	cuisine-coffee_shop
+<hgeokg/resource/243056519>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-W
+<hgeokg/resource/5415654673>	<hgeokg/schema/routeRef>	routeRef-M10
+<hgeokg/resource/4450364090>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/243056519>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/664893485>	<http://www.w3.org/2000/01/rdf-schema#label>	Frederick Douglass Boulevard
+<hgeokg/resource/4111168991>	<hgeokg/schema/openingHours>	openingHours-Mo-Th, Su 06:00-22:00; Fr 06:00-22:30; Sa 05:30-22:30
+<hgeokg/resource/5384049995>	<http://www.w3.org/2000/01/rdf-schema#label>	Frederick Douglass Boulevard & West 147th Street
+<hgeokg/resource/4450364090>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/243046574>
+<hgeokg/resource/4111168991>	<hgeokg/schema/brandWikidata>	brandWikidata-Q37158
+<hgeokg/resource/5384049995>	<hgeokg/schema/shelter>	shelter-no
+<hgeokg/resource/664893485>	<hgeokg/schema/lanes>	lanes-4
+<hgeokg/resource/243046574>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/5415654673>	<hgeokg/schema/bench>	bench-yes
+<hgeokg/resource/5384049995>	<hgeokg/schema/routeRef>	routeRef-M10
+<hgeokg/resource/664893485>	<hgeokg/schema/wikipedia>	wikipedia-en:Eighth Avenue (Manhattan)
+<hgeokg/resource/6296848388>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Restaurant>
+<hgeokg/resource/664893485>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/4111168991>
+<hgeokg/resource/243046574>	<http://www.w3.org/2000/01/rdf-schema#label>	Edgecombe Avenue
+<hgeokg/resource/664893485>	<hgeokg/schema/nameEtymologyWikidata>	nameEtymologyWikidata-Q215562
+<hgeokg/resource/664893485>	<hgeokg/schema/oneway>	oneway-no
+<hgeokg/resource/664893485>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/664893485>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Secondary>
+<hgeokg/resource/243056519>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/6296848388>	<http://www.w3.org/2000/01/rdf-schema#label>	Jacob Restaurant
+<hgeokg/resource/4111168991>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5415653037>
+<hgeokg/resource/6296848388>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/243056519>
+<hgeokg/resource/4111168991>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Cafe>
+<hgeokg/resource/5415653037>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/664893485>
+<hgeokg/resource/6296848388>	<hgeokg/schema/phone>	phone-+1-212-866-3663
+<hgeokg/resource/5415653037>	<hgeokg/schema/routeRef>	routeRef-M10
+<hgeokg/resource/5415653037>	<hgeokg/schema/shelter>	shelter-yes
+<hgeokg/resource/5384049995>	<hgeokg/schema/bench>	bench-no
+<hgeokg/resource/5670851>	<http://www.w3.org/2000/01/rdf-schema#label>	Bradhurst Avenue
+<hgeokg/resource/664893485>	<hgeokg/schema/hgv>	hgv-destination
+<hgeokg/resource/5415654673>	<hgeokg/schema/wheelchair>	wheelchair-yes
+<hgeokg/resource/5384049995>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/PublicTransportPlatform>
+<hgeokg/resource/243056519>	<http://www.w3.org/2000/01/rdf-schema#label>	West 144th Street
+<hgeokg/resource/5670851>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/5384049995>	<hgeokg/schema/bus>	bus-yes
+<hgeokg/resource/4111168991>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5670851>
+<hgeokg/resource/5670851>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Tertiary>
+<hgeokg/resource/6296848388>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/664893485>
+<hgeokg/resource/6296848388>	<hgeokg/schema/cuisine>	cuisine-soul
+<hgeokg/resource/664893485>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5415653037>
+<hgeokg/resource/664893485>	<hgeokg/schema/surface>	surface-asphalt
+<hgeokg/resource/243056519>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/5415654673>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/PublicTransportPlatform>
+<hgeokg/resource/4111168991>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/664893485>
+<hgeokg/resource/664893485>	<hgeokg/schema/lit>	lit-yes
+<hgeokg/resource/243056519>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5415653037>
+<hgeokg/resource/5415653037>	<hgeokg/schema/bus>	bus-yes
+<hgeokg/resource/4450364090>	<hgeokg/schema/nameEn>	nameEn-Manhattanville Coffee
+<hgeokg/resource/664893485>	<hgeokg/schema/maxspeedType>	maxspeedType-US-NY:urban
+<hgeokg/resource/5415654673>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/BusStop>
+<hgeokg/resource/5415653037>	<hgeokg/schema/wheelchair>	wheelchair-yes
+<hgeokg/resource/243046574>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/4450364090>
+<hgeokg/resource/5415653037>	<hgeokg/schema/bench>	bench-yes
+<hgeokg/resource/4111168991>	<hgeokg/schema/brandWikipedia>	brandWikipedia-en:Starbucks
+<hgeokg/resource/6296848388>	<hgeokg/schema/email>	email-cateringquote@jacobrestaurant.com;jacob373@jacobrestaurant.com
+<hgeokg/resource/5415654673>	<http://www.w3.org/2000/01/rdf-schema#label>	Frederick Douglass Boulevard & West 150th Street
+<hgeokg/resource/4111168991>	<hgeokg/schema/phone>	phone-+1 212-690-7835
+<hgeokg/resource/664893485>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/243056519>
+<hgeokg/resource/664893485>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/5415654673>	<hgeokg/schema/bus>	bus-yes
+<hgeokg/resource/5415653037>	<http://www.w3.org/2000/01/rdf-schema#label>	Frederick Douglass Boulevard & West 145th Street
+<hgeokg/resource/6296848388>	<hgeokg/schema/addrHousenumber>	addrHousenumber-2695
+<hgeokg/resource/6296848388>	<hgeokg/schema/website>	website-http://www.jacobrestaurant.com
+<hgeokg/resource/5670851>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/4111168991>
+<hgeokg/resource/243046574>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Tertiary>
+<hgeokg/resource/243046574>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/5384049995>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/664893485>
+<hgeokg/resource/5384049995>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/5415653037>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/243056519>
+<hgeokg/resource/5384049995>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/BusStop>
+<hgeokg/resource/243056519>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/243046574>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5670851>
+<hgeokg/resource/6296848388>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/5415654673>	<hgeokg/schema/lit>	lit-yes

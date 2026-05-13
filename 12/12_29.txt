@@ -1,0 +1,124 @@
+<hgeokg/resource/275113779>	<http://www.w3.org/2000/01/rdf-schema#label>	Intermediate School 218
+<hgeokg/resource/275114059>	<hgeokg/schema/height>	height-20.9
+<hgeokg/resource/5672050>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Primary>
+<hgeokg/resource/5671703>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/275114046>	<hgeokg/schema/nycdoittBin>	nycdoittBin-1064216
+<hgeokg/resource/275114046>	<http://www.w3.org/2000/01/rdf-schema#label>	35 Thayer
+<hgeokg/resource/275114059>	<http://www.w3.org/2000/01/rdf-schema#label>	Kingdom Hall of Jehovah's Witnesses
+<hgeokg/resource/275114059>	<Point_pofw-Adjacent-Polygon_buildings>	<hgeokg/resource/275114046>
+<hgeokg/resource/275114059>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/PlaceOfWorship>
+<hgeokg/resource/357624576>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/734864202>
+<hgeokg/resource/5669981>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5673361>
+<hgeokg/resource/357624576>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/5673361>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/275114059>
+<hgeokg/resource/275114046>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Apartments>
+<hgeokg/resource/275114046>	<hgeokg/schema/addrHousenumber>	addrHousenumber-35
+<hgeokg/resource/5671703>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/5669981>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/5671645>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/275114046>	<hgeokg/schema/addrPostcode>	addrPostcode-10040
+<hgeokg/resource/5673361>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/357624576>
+<hgeokg/resource/734864203>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/734864202>
+<hgeokg/resource/275114059>	<hgeokg/schema/religion>	religion-christian
+<hgeokg/resource/275114046>	<hgeokg/schema/height>	height-18.7
+<hgeokg/resource/5671703>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/357624576>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/5669981>
+<hgeokg/resource/5669981>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5671645>
+<hgeokg/resource/275113779>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/BuildingSchool>
+<hgeokg/resource/5672050>	<hgeokg/schema/lanes>	lanes-3
+<hgeokg/resource/489170296>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/5669981>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/5673361>	<http://www.w3.org/2000/01/rdf-schema#label>	Thayer Street
+<hgeokg/resource/275114059>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/275113779>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/5671703>
+<hgeokg/resource/275113779>	<hgeokg/schema/addrPostcode>	addrPostcode-10040
+<hgeokg/resource/275113779>	<hgeokg/schema/nycdoittBin>	nycdoittBin-1076756
+<hgeokg/resource/357624576>	<Point_pofw-Within-Point_pofw>	<hgeokg/resource/275114059>
+<hgeokg/resource/489170296>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/357624576>	<hgeokg/schema/ele>	ele-8
+<hgeokg/resource/5672050>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/734864203>	<hgeokg/schema/sidewalk>	sidewalk-separate
+<hgeokg/resource/357624576>	<hgeokg/schema/denomination>	denomination-jehovahs_witness
+<hgeokg/resource/489170296>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5669679>
+<hgeokg/resource/5671703>	<http://www.w3.org/2000/01/rdf-schema#label>	West 196th Street
+<hgeokg/resource/5673361>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/5673361>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5669981>
+<hgeokg/resource/357624576>	<hgeokg/schema/gnisFeatureId>	gnisFeatureId-2099804
+<hgeokg/resource/5673361>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/275114046>
+<hgeokg/resource/734864202>	<hgeokg/schema/lanes>	lanes-2
+<hgeokg/resource/5669679>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/5669981>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/275114059>
+<hgeokg/resource/734864202>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/734864203>
+<hgeokg/resource/275113779>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/489170296>
+<hgeokg/resource/5671645>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/734864203>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5673361>
+<hgeokg/resource/734864203>	<http://www.w3.org/2000/01/rdf-schema#label>	Fort George Hill
+<hgeokg/resource/357624576>	<http://www.w3.org/2000/01/rdf-schema#label>	Kingdom Hall of Jehovah's Witnesses
+<hgeokg/resource/5671645>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5669981>
+<hgeokg/resource/734864202>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Primary>
+<hgeokg/resource/5673361>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/5669981>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/275114059>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/5669981>
+<hgeokg/resource/275113779>	<hgeokg/schema/addrHousenumber>	addrHousenumber-4600
+<hgeokg/resource/734864202>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/489170296>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5671703>
+<hgeokg/resource/5671645>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/5669981>	<http://www.w3.org/2000/01/rdf-schema#label>	Arden Street
+<hgeokg/resource/5671703>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/275113779>
+<hgeokg/resource/5673361>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/5669679>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/5672050>	<http://www.w3.org/2000/01/rdf-schema#label>	Nagle Avenue
+<hgeokg/resource/734864202>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/5671645>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5669679>
+<hgeokg/resource/5669679>	<hgeokg/schema/cyclewayRight>	cyclewayRight-lane
+<hgeokg/resource/5671645>	<http://www.w3.org/2000/01/rdf-schema#label>	Sickles Street
+<hgeokg/resource/275113779>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/5669679>
+<hgeokg/resource/734864203>	<hgeokg/schema/bicycle>	bicycle-designated
+<hgeokg/resource/275114046>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/5673361>
+<hgeokg/resource/357624576>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/PlaceOfWorship>
+<hgeokg/resource/734864202>	<hgeokg/schema/hgv>	hgv-local
+<hgeokg/resource/5673361>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/734864202>
+<hgeokg/resource/275113779>	<hgeokg/schema/gnisFeatureId>	gnisFeatureId-2083896
+<hgeokg/resource/734864202>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/275114059>	<hgeokg/schema/nycdoittBin>	nycdoittBin-1064180
+<hgeokg/resource/5672050>	<hgeokg/schema/surface>	surface-asphalt
+<hgeokg/resource/275114059>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/734864202>
+<hgeokg/resource/5673361>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/275113779>	<hgeokg/schema/ele>	ele-11
+<hgeokg/resource/5669679>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/275113779>
+<hgeokg/resource/275113779>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Polygon>
+<hgeokg/resource/5672050>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/5673361>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/734864203>
+<hgeokg/resource/734864202>	<http://www.w3.org/2000/01/rdf-schema#label>	Nagle Avenue
+<hgeokg/resource/734864202>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/275114059>
+<hgeokg/resource/275114046>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Polygon>
+<hgeokg/resource/489170296>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/5669679>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5671645>
+<hgeokg/resource/275114059>	<Point_pofw-Contain-Point_pofw>	<hgeokg/resource/357624576>
+<hgeokg/resource/275113779>	<hgeokg/schema/height>	height-28.9
+<hgeokg/resource/275114046>	<hgeokg/schema/buildingLevels>	buildingLevels-5
+<hgeokg/resource/357624576>	<hgeokg/schema/religion>	religion-christian
+<hgeokg/resource/489170296>	<http://www.w3.org/2000/01/rdf-schema#label>	Ellwood Street
+<hgeokg/resource/5669679>	<http://www.w3.org/2000/01/rdf-schema#label>	Sherman Avenue
+<hgeokg/resource/5669981>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/357624576>
+<hgeokg/resource/5671645>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/489170296>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/5672050>	<hgeokg/schema/hgv>	hgv-local
+<hgeokg/resource/5671703>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-W
+<hgeokg/resource/275114059>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/5673361>
+<hgeokg/resource/5669679>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Secondary>
+<hgeokg/resource/5671703>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/489170296>
+<hgeokg/resource/734864202>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/357624576>
+<hgeokg/resource/357624576>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/5673361>
+<hgeokg/resource/734864202>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5673361>
+<hgeokg/resource/734864203>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/489170296>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/275113779>
+<hgeokg/resource/5669679>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/489170296>
+<hgeokg/resource/5669981>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/275113779>	<hgeokg/schema/buildingLevels>	buildingLevels-5
+<hgeokg/resource/734864203>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/734864203>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/734864202>	<hgeokg/schema/sidewalk>	sidewalk-separate
+<hgeokg/resource/734864203>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Secondary>
+<hgeokg/resource/275114059>	<hgeokg/schema/denomination>	denomination-jehovahs_witness
+<hgeokg/resource/275114046>	<Point_pofw-Adjacent-Polygon_buildings>	<hgeokg/resource/275114059>

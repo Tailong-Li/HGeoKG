@@ -1,0 +1,196 @@
+<hgeokg/resource/5670574>	<hgeokg/schema/surface>	surface-asphalt
+<hgeokg/resource/2826581769>	<hgeokg/schema/addrPostcode>	addrPostcode-10002
+<hgeokg/resource/801764674>	<hgeokg/schema/lit>	lit-yes
+<hgeokg/resource/2826581781>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5017973122>
+<hgeokg/resource/278258566>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Library>
+<hgeokg/resource/2826581781>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/108235836>
+<hgeokg/resource/2826581781>	<hgeokg/schema/addrPostcode>	addrPostcode-10002
+<hgeokg/resource/613508218>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/FootwayCrossing>
+<hgeokg/resource/3708656303>	<http://www.w3.org/2000/01/rdf-schema#label>	Citi Bike
+<hgeokg/resource/2826581781>	<hgeokg/schema/addrHousenumber>	addrHousenumber-379
+<hgeokg/resource/2826581781>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/2622180738>
+<hgeokg/resource/2826581781>	<http://www.w3.org/2000/01/rdf-schema#label>	The Doughnut Plant
+<hgeokg/resource/2826581781>	<hgeokg/schema/addrCountry>	addrCountry-US
+<hgeokg/resource/108235836>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5017973122>
+<hgeokg/resource/2826581781>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Cafe>
+<hgeokg/resource/7674034587>	<http://www.w3.org/2000/01/rdf-schema#label>	Citibank
+<hgeokg/resource/801764674>	<hgeokg/schema/hgv>	hgv-destination
+<hgeokg/resource/278258566>	<hgeokg/schema/nycdoittBin>	nycdoittBin-1004053
+<hgeokg/resource/39662323>	<hgeokg/schema/lit>	lit-yes
+<hgeokg/resource/108235836>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5231713029>
+<hgeokg/resource/108235836>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/496977101>
+<hgeokg/resource/2826581769>	<hgeokg/schema/openingHours>	openingHours-Mo-Su 07:00-22:00
+<hgeokg/resource/5017973122>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/108235836>
+<hgeokg/resource/496977101>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/2622180738>
+<hgeokg/resource/496977101>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5017973122>
+<hgeokg/resource/2826581781>	<hgeokg/schema/website>	website-https://www.doughnutplant.com/
+<hgeokg/resource/5670574>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/39956203>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/613508218>
+<hgeokg/resource/2826581781>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/496977101>
+<hgeokg/resource/39956203>	<hgeokg/schema/wikipedia>	wikipedia-en:East Broadway (Manhattan)
+<hgeokg/resource/5670574>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/39956203>
+<hgeokg/resource/278258566>	<hgeokg/schema/addrHousenumber>	addrHousenumber-192
+<hgeokg/resource/496977101>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/3117106008>
+<hgeokg/resource/2622180738>	<hgeokg/schema/phone>	phone-(212)228-5483
+<hgeokg/resource/7674034587>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/39662323>
+<hgeokg/resource/801764674>	<hgeokg/schema/note>	note-This segment is oneway as of 2019 STOP CHANGING IT
+<hgeokg/resource/3117106008>	<hgeokg/schema/openingHours>	openingHours-Sa-Su 11:00-18:00
+<hgeokg/resource/39956203>	<hgeokg/schema/surface>	surface-asphalt
+<hgeokg/resource/3117106008>	<http://www.w3.org/2000/01/rdf-schema#label>	Hester Street Fair
+<hgeokg/resource/3708656303>	<hgeokg/schema/brand>	brand-Citi Bike
+<hgeokg/resource/801764674>	<hgeokg/schema/lanes>	lanes-1
+<hgeokg/resource/613508218>	<http://www.w3.org/2000/01/rdf-schema#label>	Grand Street
+<hgeokg/resource/278258566>	<hgeokg/schema/toilets>	toilets-yes
+<hgeokg/resource/496977101>	<hgeokg/schema/surface>	surface-asphalt
+<hgeokg/resource/278258566>	<hgeokg/schema/operatorWikipedia>	operatorWikipedia-en:New York Public Library
+<hgeokg/resource/39956203>	<hgeokg/schema/maxspeed>	maxspeed-25 mph
+<hgeokg/resource/2622180738>	<hgeokg/schema/cuisine>	cuisine-pizza
+<hgeokg/resource/801764674>	<hgeokg/schema/bicycle>	bicycle-yes
+<hgeokg/resource/5017973122>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/2826581781>
+<hgeokg/resource/5231713029>	<hgeokg/schema/bus>	bus-yes
+<hgeokg/resource/278258566>	<hgeokg/schema/drinkingWater>	drinkingWater-yes
+<hgeokg/resource/496977101>	<hgeokg/schema/lit>	lit-yes
+<hgeokg/resource/3708656303>	<hgeokg/schema/website>	website-https://citibikenyc.com/
+<hgeokg/resource/2826581781>	<hgeokg/schema/phone>	phone-+1 212-505-3700
+<hgeokg/resource/613508218>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5670574>
+<hgeokg/resource/5231713029>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/PublicTransportPlatform>
+<hgeokg/resource/801764674>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/39956203>
+<hgeokg/resource/496977101>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/2826581781>
+<hgeokg/resource/7674034587>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Bank>
+<hgeokg/resource/278258566>	<hgeokg/schema/addrState>	addrState-NY
+<hgeokg/resource/2622180738>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5017973122>
+<hgeokg/resource/39662323>	<hgeokg/schema/bicycle>	bicycle-yes
+<hgeokg/resource/108235836>	<http://www.w3.org/2000/01/rdf-schema#label>	Seward Park
+<hgeokg/resource/5017973122>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/ShopBakery>
+<hgeokg/resource/801764674>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Secondary>
+<hgeokg/resource/39956203>	<hgeokg/schema/bicycle>	bicycle-yes
+<hgeokg/resource/39956203>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/2826581781>	<hgeokg/schema/nameEn>	nameEn-Doughnut Plant
+<hgeokg/resource/801764674>	<hgeokg/schema/wikipedia>	wikipedia-en:East Broadway (Manhattan)
+<hgeokg/resource/278258566>	<http://www.w3.org/2000/01/rdf-schema#label>	Seward Park Library
+<hgeokg/resource/2826581769>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/278258566>	<hgeokg/schema/wikipedia>	wikipedia-en:List of New York Public Library Branches
+<hgeokg/resource/5231713029>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/496977101>
+<hgeokg/resource/108235836>	<Point_pois-Contain-Point_pois>	<hgeokg/resource/3117106008>
+<hgeokg/resource/2622180738>	<hgeokg/schema/addrPostcode>	addrPostcode-10002
+<hgeokg/resource/278258566>	<hgeokg/schema/operator>	operator-New York Public Library
+<hgeokg/resource/801764674>	<hgeokg/schema/surface>	surface-asphalt
+<hgeokg/resource/5017973122>	<hgeokg/schema/nameEn>	nameEn-kossar's bialys
+<hgeokg/resource/39662323>	<hgeokg/schema/cyclewayLeft>	cyclewayLeft-track
+<hgeokg/resource/496977101>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/2622180738>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Restaurant>
+<hgeokg/resource/108235836>	<hgeokg/schema/wikipedia>	wikipedia-en:Seward Park (Manhattan)
+<hgeokg/resource/278258566>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/108235836>
+<hgeokg/resource/2826581769>	<hgeokg/schema/addrState>	addrState-NY
+<hgeokg/resource/2826581781>	<hgeokg/schema/addrState>	addrState-NY
+<hgeokg/resource/39956203>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-E
+<hgeokg/resource/613508218>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/2826581769>	<hgeokg/schema/addrHousenumber>	addrHousenumber-175
+<hgeokg/resource/3708656303>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/2826581769>
+<hgeokg/resource/3117106008>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/3708656303>	<hgeokg/schema/brandWikidata>	brandWikidata-Q2974438
+<hgeokg/resource/5670574>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/5231713029>	<http://www.w3.org/2000/01/rdf-schema#label>	Essex Street & Canal Street
+<hgeokg/resource/39662323>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/39956203>	<hgeokg/schema/hgv>	hgv-destination
+<hgeokg/resource/39956203>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/801764674>
+<hgeokg/resource/801764674>	<http://www.w3.org/2000/01/rdf-schema#label>	East Broadway
+<hgeokg/resource/5017973122>	<http://www.w3.org/2000/01/rdf-schema#label>	kossar's bialys
+<hgeokg/resource/7674034587>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/108235836>	<hgeokg/schema/website>	website-https://www.nycgovparks.org/parks/seward-park
+<hgeokg/resource/2826581781>	<hgeokg/schema/cuisine>	cuisine-donut
+<hgeokg/resource/39956203>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/39662323>
+<hgeokg/resource/5231713029>	<hgeokg/schema/routeRef>	routeRef-M9
+<hgeokg/resource/496977101>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/3708656303>	<hgeokg/schema/operatorWikipedia>	operatorWikipedia-en:Motivate (company)
+<hgeokg/resource/7674034587>	<hgeokg/schema/brand>	brand-Citibank
+<hgeokg/resource/5231713029>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/BusStop>
+<hgeokg/resource/613508218>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Footway>
+<hgeokg/resource/2826581769>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/3708656303>
+<hgeokg/resource/39956203>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/CyclewayLane>
+<hgeokg/resource/3708656303>	<hgeokg/schema/brandWikipedia>	brandWikipedia-en:Citi Bike
+<hgeokg/resource/801764674>	<hgeokg/schema/maxspeed>	maxspeed-25 mph
+<hgeokg/resource/3708656303>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/BicycleRental>
+<hgeokg/resource/5231713029>	<hgeokg/schema/shelter>	shelter-no
+<hgeokg/resource/5670574>	<hgeokg/schema/bicycle>	bicycle-yes
+<hgeokg/resource/2622180738>	<http://www.w3.org/2000/01/rdf-schema#label>	Pizza a Casa - Pizza School
+<hgeokg/resource/5670574>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Secondary>
+<hgeokg/resource/496977101>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/108235836>
+<hgeokg/resource/3708656303>	<hgeokg/schema/networkWikidata>	networkWikidata-Q2974438
+<hgeokg/resource/7674034587>	<hgeokg/schema/brandWikidata>	brandWikidata-Q857063
+<hgeokg/resource/3117106008>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/496977101>
+<hgeokg/resource/2826581769>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/ShopSupermarket>
+<hgeokg/resource/108235836>	<hgeokg/schema/ele>	ele-10
+<hgeokg/resource/108235836>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Park>
+<hgeokg/resource/3708656303>	<hgeokg/schema/capacity>	capacity-28
+<hgeokg/resource/2622180738>	<hgeokg/schema/website>	website-https://pizzaschool.com/
+<hgeokg/resource/496977101>	<hgeokg/schema/oneway>	oneway-no
+<hgeokg/resource/2826581769>	<http://www.w3.org/2000/01/rdf-schema#label>	Fine Fare Supermarket
+<hgeokg/resource/2826581769>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/39662323>
+<hgeokg/resource/801764674>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-E
+<hgeokg/resource/3117106008>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Marketplace>
+<hgeokg/resource/496977101>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5231713029>
+<hgeokg/resource/5670574>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/CyclewayTrack>
+<hgeokg/resource/3708656303>	<hgeokg/schema/network>	network-Citi Bike
+<hgeokg/resource/7674034587>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/2826581769>
+<hgeokg/resource/39662323>	<http://www.w3.org/2000/01/rdf-schema#label>	Clinton Street
+<hgeokg/resource/5017973122>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/39662323>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/7674034587>
+<hgeokg/resource/39956203>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Secondary>
+<hgeokg/resource/39956203>	<http://www.w3.org/2000/01/rdf-schema#label>	East Broadway
+<hgeokg/resource/2826581781>	<hgeokg/schema/openingHours>	openingHours-Mo-Th, Su 06:30-20:00; Fr-Sa 06:30-21:00
+<hgeokg/resource/5231713029>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/39662323>	<hgeokg/schema/maxspeed>	maxspeed-25 mph
+<hgeokg/resource/2622180738>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/108235836>	<hgeokg/schema/openingHours>	openingHours-Mo-Su 06:00-22:00
+<hgeokg/resource/39662323>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/108235836>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/278258566>
+<hgeokg/resource/278258566>	<hgeokg/schema/website>	website-http://www.nypl.org/locations/seward-park
+<hgeokg/resource/613508218>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/39956203>
+<hgeokg/resource/5670574>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/613508218>
+<hgeokg/resource/801764674>	<hgeokg/schema/cyclewayRight>	cyclewayRight-lane
+<hgeokg/resource/108235836>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/2826581781>
+<hgeokg/resource/2622180738>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/108235836>
+<hgeokg/resource/3708656303>	<hgeokg/schema/operatorType>	operatorType-private
+<hgeokg/resource/278258566>	<hgeokg/schema/addrPostcode>	addrPostcode-10002
+<hgeokg/resource/3708656303>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/39662323>
+<hgeokg/resource/3708656303>	<hgeokg/schema/fee>	fee-yes
+<hgeokg/resource/278258566>	<hgeokg/schema/phone>	phone-+1-212-477-6770
+<hgeokg/resource/108235836>	<hgeokg/schema/gnisFeatureId>	gnisFeatureId-964887
+<hgeokg/resource/496977101>	<hgeokg/schema/wikipedia>	wikipedia-en:Essex Street
+<hgeokg/resource/39662323>	<hgeokg/schema/surface>	surface-asphalt
+<hgeokg/resource/108235836>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/3708656303>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/7674034587>
+<hgeokg/resource/3117106008>	<Point_pois-Within-Point_pois>	<hgeokg/resource/108235836>
+<hgeokg/resource/2826581769>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/7674034587>
+<hgeokg/resource/278258566>	<hgeokg/schema/height>	height-20.9
+<hgeokg/resource/39662323>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/39956203>
+<hgeokg/resource/2622180738>	<hgeokg/schema/addrHousenumber>	addrHousenumber-371
+<hgeokg/resource/5231713029>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/108235836>
+<hgeokg/resource/278258566>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/801764674>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/39956203>	<hgeokg/schema/lanes>	lanes-2
+<hgeokg/resource/613508218>	<hgeokg/schema/crossing>	crossing-zebra
+<hgeokg/resource/3708656303>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/5670574>	<hgeokg/schema/maxspeed>	maxspeed-25 mph
+<hgeokg/resource/108235836>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/2622180738>
+<hgeokg/resource/2826581781>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/39956203>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5670574>
+<hgeokg/resource/39662323>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/3708656303>
+<hgeokg/resource/3117106008>	<hgeokg/schema/addrPostcode>	addrPostcode-10002
+<hgeokg/resource/5670574>	<http://www.w3.org/2000/01/rdf-schema#label>	Samuel Dickstein Plaza
+<hgeokg/resource/7674034587>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/3708656303>
+<hgeokg/resource/278258566>	<hgeokg/schema/operatorType>	operatorType-public
+<hgeokg/resource/2622180738>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/2826581781>
+<hgeokg/resource/5017973122>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/496977101>
+<hgeokg/resource/496977101>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/5017973122>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/2622180738>
+<hgeokg/resource/496977101>	<hgeokg/schema/maxspeed>	maxspeed-25 mph
+<hgeokg/resource/3708656303>	<hgeokg/schema/operator>	operator-Motivate
+<hgeokg/resource/2622180738>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/496977101>
+<hgeokg/resource/7674034587>	<hgeokg/schema/brandWikipedia>	brandWikipedia-en:Citibank
+<hgeokg/resource/5231713029>	<hgeokg/schema/bench>	bench-no
+<hgeokg/resource/801764674>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/39662323>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/2826581769>
+<hgeokg/resource/496977101>	<http://www.w3.org/2000/01/rdf-schema#label>	Essex Street
+<hgeokg/resource/278258566>	<hgeokg/schema/wheelchair>	wheelchair-yes

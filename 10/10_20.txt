@@ -1,0 +1,187 @@
+<hgeokg/resource/1667407048>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/68674970>
+<hgeokg/resource/5782507630>	<hgeokg/schema/reservation>	reservation-yes
+<hgeokg/resource/5263698203>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/460596360>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/581134346>
+<hgeokg/resource/1667407048>	<hgeokg/schema/branch>	branch-Harlem
+<hgeokg/resource/581134345>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-W
+<hgeokg/resource/46613632>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/195743202>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/46613632>
+<hgeokg/resource/5782507630>	<hgeokg/schema/takeaway>	takeaway-yes
+<hgeokg/resource/806169765>	<hgeokg/schema/maxspeed>	maxspeed-25 mph
+<hgeokg/resource/1667405946>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/806169765>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/1667407048>
+<hgeokg/resource/581134346>	<http://www.w3.org/2000/01/rdf-schema#label>	Manhattan Avenue
+<hgeokg/resource/460596360>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/195743202>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/68674970>
+<hgeokg/resource/5672660>	<http://www.w3.org/2000/01/rdf-schema#label>	West 114th Street
+<hgeokg/resource/68674970>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/46613632>
+<hgeokg/resource/5672660>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/1667407048>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/1667405946>
+<hgeokg/resource/5782507630>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Restaurant>
+<hgeokg/resource/195743202>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/581134346>
+<hgeokg/resource/5782507630>	<hgeokg/schema/openingHours>	openingHours-Tu-Th 12:00-21:00; Fr, Sa 12:00-22:00; Su 11:00-21:00
+<hgeokg/resource/5782507630>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/1667407048>
+<hgeokg/resource/46613632>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-W
+<hgeokg/resource/5263698203>	<hgeokg/schema/bus>	bus-yes
+<hgeokg/resource/1667405946>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/806169765>
+<hgeokg/resource/581134345>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5672660>
+<hgeokg/resource/195743202>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/460596360>
+<hgeokg/resource/68674970>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/195743202>
+<hgeokg/resource/46613632>	<hgeokg/schema/maxspeedConditional>	maxspeedConditional-5 mph @ (08:00-20:00)
+<hgeokg/resource/68674970>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/46613632>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/68674970>
+<hgeokg/resource/806169765>	<http://www.w3.org/2000/01/rdf-schema#label>	Frederick Douglass Boulevard
+<hgeokg/resource/581134345>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/1667410041>
+<hgeokg/resource/581134346>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/68674970>
+<hgeokg/resource/46613632>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/5782507630>	<hgeokg/schema/delivery>	delivery-yes
+<hgeokg/resource/68674970>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/806169765>
+<hgeokg/resource/5672660>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/806169765>	<hgeokg/schema/nameEtymologyWikidata>	nameEtymologyWikidata-Q215562
+<hgeokg/resource/1667405946>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/1667407727>
+<hgeokg/resource/806169765>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/806169765>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/1667405946>
+<hgeokg/resource/1667407048>	<hgeokg/schema/openingHours>	openingHours-Mo-Sa 08:00-19:00; Su 09:00-19:00
+<hgeokg/resource/1667407727>	<hgeokg/schema/brandWikipedia>	brandWikipedia-en:Subway (restaurant)
+<hgeokg/resource/1667407727>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/1667405946>
+<hgeokg/resource/5782507630>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/1667407727>
+<hgeokg/resource/68674970>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5782507630>
+<hgeokg/resource/460596360>	<http://www.w3.org/2000/01/rdf-schema#label>	Morningside Avenue
+<hgeokg/resource/581134345>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/581134346>
+<hgeokg/resource/581134346>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/46613632>
+<hgeokg/resource/68674970>	<http://www.w3.org/2000/01/rdf-schema#label>	West 116th Street
+<hgeokg/resource/1667405946>	<http://www.w3.org/2000/01/rdf-schema#label>	Harlem Tavern
+<hgeokg/resource/581134346>	<hgeokg/schema/wikipedia>	wikipedia-en:Manhattan Avenue (Manhattan)
+<hgeokg/resource/581134345>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/68674970>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/1667405946>
+<hgeokg/resource/581134346>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/581134345>
+<hgeokg/resource/460596360>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/5782507630>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/806169765>
+<hgeokg/resource/1667405946>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5263698203>
+<hgeokg/resource/68674970>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/1667407048>
+<hgeokg/resource/5672660>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/581134346>
+<hgeokg/resource/1667407048>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/806169765>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/1667410041>
+<hgeokg/resource/1667407048>	<hgeokg/schema/addrHousenumber>	addrHousenumber-2167
+<hgeokg/resource/46613632>	<hgeokg/schema/motorVehicleConditional>	motorVehicleConditional-destination @ (08:00-20:00)
+<hgeokg/resource/5263698203>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/PublicTransportPlatform>
+<hgeokg/resource/460596360>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/195743202>
+<hgeokg/resource/806169765>	<hgeokg/schema/motorVehicleConditional>	motorVehicleConditional-destination @ (Fr 17:00-23:00; Sa-Su 12:00-23:00)
+<hgeokg/resource/460596360>	<hgeokg/schema/oneway>	oneway-no
+<hgeokg/resource/5782507630>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/581134346>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/460596360>
+<hgeokg/resource/1667407727>	<hgeokg/schema/brand>	brand-Subway
+<hgeokg/resource/5672660>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-W
+<hgeokg/resource/1667407727>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/46613632>
+<hgeokg/resource/1667407727>	<http://www.w3.org/2000/01/rdf-schema#label>	Subway
+<hgeokg/resource/806169765>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5782507630>
+<hgeokg/resource/5782507630>	<hgeokg/schema/wheelchair>	wheelchair-no
+<hgeokg/resource/581134345>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/1667407727>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/1667407048>
+<hgeokg/resource/5263698203>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/1667410041>
+<hgeokg/resource/1667405946>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/68674970>
+<hgeokg/resource/806169765>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/CyclewayLane>
+<hgeokg/resource/5782507630>	<hgeokg/schema/contactTwitter>	contactTwitter-LOLOSSeafood
+<hgeokg/resource/806169765>	<hgeokg/schema/lanes>	lanes-2
+<hgeokg/resource/5782507630>	<hgeokg/schema/outdoorSeating>	outdoorSeating-yes
+<hgeokg/resource/806169765>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5263698203>
+<hgeokg/resource/46613632>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/5263698203>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/BusStop>
+<hgeokg/resource/46613632>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/581134346>
+<hgeokg/resource/46613632>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/1667407048>
+<hgeokg/resource/581134346>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/1667407048>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/1667407727>
+<hgeokg/resource/1667407727>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5263698203>
+<hgeokg/resource/1667410041>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/806169765>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/581134345>
+<hgeokg/resource/1667405946>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/46613632>
+<hgeokg/resource/1667405946>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5782507630>
+<hgeokg/resource/1667407727>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/806169765>
+<hgeokg/resource/460596360>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/1667407727>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5782507630>
+<hgeokg/resource/806169765>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/1667410041>	<http://www.w3.org/2000/01/rdf-schema#label>	Mod Squad Cycles
+<hgeokg/resource/1667405946>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Pub>
+<hgeokg/resource/581134345>	<http://www.w3.org/2000/01/rdf-schema#label>	West 114th Street
+<hgeokg/resource/5782507630>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5263698203>
+<hgeokg/resource/5782507630>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/46613632>
+<hgeokg/resource/5263698203>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/806169765>
+<hgeokg/resource/5263698203>	<hgeokg/schema/routeRef>	routeRef-M10
+<hgeokg/resource/806169765>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Secondary>
+<hgeokg/resource/1667407727>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/1667407048>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/46613632>
+<hgeokg/resource/5782507630>	<hgeokg/schema/level>	level-0
+<hgeokg/resource/5782507630>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/68674970>
+<hgeokg/resource/806169765>	<hgeokg/schema/hgv>	hgv-destination
+<hgeokg/resource/5263698203>	<hgeokg/schema/bench>	bench-yes
+<hgeokg/resource/1667407048>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5782507630>
+<hgeokg/resource/5782507630>	<hgeokg/schema/cuisine>	cuisine-seafood;caribbean
+<hgeokg/resource/5263698203>	<http://www.w3.org/2000/01/rdf-schema#label>	Frederick Douglass Boulevard & West 116th Street
+<hgeokg/resource/195743202>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/5782507630>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/1667405946>
+<hgeokg/resource/806169765>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/46613632>
+<hgeokg/resource/46613632>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/806169765>
+<hgeokg/resource/68674970>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/581134346>
+<hgeokg/resource/1667407048>	<hgeokg/schema/phone>	phone-+1 917-464-3789
+<hgeokg/resource/806169765>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/68674970>
+<hgeokg/resource/46613632>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5782507630>
+<hgeokg/resource/195743202>	<hgeokg/schema/oneway>	oneway-no
+<hgeokg/resource/68674970>	<hgeokg/schema/oneway>	oneway-no
+<hgeokg/resource/68674970>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-W
+<hgeokg/resource/1667407727>	<hgeokg/schema/takeaway>	takeaway-yes
+<hgeokg/resource/1667407048>	<hgeokg/schema/wheelchair>	wheelchair-yes
+<hgeokg/resource/195743202>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Tertiary>
+<hgeokg/resource/1667407727>	<hgeokg/schema/cuisine>	cuisine-sandwich
+<hgeokg/resource/68674970>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5263698203>
+<hgeokg/resource/195743202>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/5263698203>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5782507630>
+<hgeokg/resource/5782507630>	<hgeokg/schema/contactFacebook>	contactFacebook-lolosseafoodshack
+<hgeokg/resource/460596360>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/581134345>
+<hgeokg/resource/581134345>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/68674970>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/1667410041>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/806169765>
+<hgeokg/resource/581134346>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/195743202>
+<hgeokg/resource/46613632>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/1667405946>
+<hgeokg/resource/1667405946>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/1667407048>
+<hgeokg/resource/581134345>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/46613632>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/1667410041>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/581134345>
+<hgeokg/resource/195743202>	<http://www.w3.org/2000/01/rdf-schema#label>	West 116th Street
+<hgeokg/resource/581134346>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/581134346>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5672660>
+<hgeokg/resource/5263698203>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/68674970>
+<hgeokg/resource/5672660>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/460596360>
+<hgeokg/resource/68674970>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Tertiary>
+<hgeokg/resource/1667407727>	<hgeokg/schema/brandWikidata>	brandWikidata-Q244457
+<hgeokg/resource/1667407048>	<http://www.w3.org/2000/01/rdf-schema#label>	Levain Bakery
+<hgeokg/resource/5782507630>	<http://www.w3.org/2000/01/rdf-schema#label>	Lolo's Seafood Shack
+<hgeokg/resource/581134345>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/806169765>
+<hgeokg/resource/5263698203>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/1667407727>
+<hgeokg/resource/806169765>	<hgeokg/schema/wikipedia>	wikipedia-en:Eighth Avenue (Manhattan)
+<hgeokg/resource/195743202>	<hgeokg/schema/wikipedia>	wikipedia-en:116th Street (Manhattan)
+<hgeokg/resource/1667407727>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/68674970>
+<hgeokg/resource/581134346>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/46613632>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/1667407727>
+<hgeokg/resource/46613632>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/195743202>
+<hgeokg/resource/581134345>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/460596360>
+<hgeokg/resource/46613632>	<http://www.w3.org/2000/01/rdf-schema#label>	West 117th Street
+<hgeokg/resource/1667407048>	<hgeokg/schema/website>	website-https://www.levainbakery.com/locations#harlem
+<hgeokg/resource/460596360>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5672660>
+<hgeokg/resource/195743202>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-W
+<hgeokg/resource/460596360>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/46613632>
+<hgeokg/resource/5672660>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/806169765>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/1667407727>
+<hgeokg/resource/46613632>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/SharedLane>
+<hgeokg/resource/1667407727>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/FastFood>
+<hgeokg/resource/5672660>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/581134345>
+<hgeokg/resource/46613632>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/460596360>
+<hgeokg/resource/5263698203>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/1667405946>
+<hgeokg/resource/1667407048>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/806169765>
+<hgeokg/resource/5782507630>	<hgeokg/schema/addrHousenumber>	addrHousenumber-303
+<hgeokg/resource/1667407048>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/ShopBakery>
+<hgeokg/resource/5263698203>	<hgeokg/schema/shelter>	shelter-yes
+<hgeokg/resource/68674970>	<hgeokg/schema/wikipedia>	wikipedia-en:116th Street (Manhattan)
+<hgeokg/resource/68674970>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/1667407727>
+<hgeokg/resource/1667410041>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/ShopBicycle>
+<hgeokg/resource/1667410041>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5263698203>
+<hgeokg/resource/5782507630>	<hgeokg/schema/addrPostcode>	addrPostcode-10026

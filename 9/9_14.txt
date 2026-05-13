@@ -1,0 +1,689 @@
+<hgeokg/resource/4928962208>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5281909145>
+<hgeokg/resource/275081116>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/5670688>
+<hgeokg/resource/5798773617>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/PublicTransportPlatform>
+<hgeokg/resource/271901800>	<hgeokg/schema/wheelchair>	wheelchair-yes
+<hgeokg/resource/118524658>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/2603955364>
+<hgeokg/resource/4459312803>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/68668550>
+<hgeokg/resource/5281929160>	<hgeokg/schema/bench>	bench-yes
+<hgeokg/resource/118527538>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/4111168784>
+<hgeokg/resource/357579266>	<hgeokg/schema/ele>	ele-37
+<hgeokg/resource/5671257>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5798771852>
+<hgeokg/resource/2603955342>	<hgeokg/schema/openingHours>	openingHours-24/7
+<hgeokg/resource/5281931376>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/4928962213>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/ShopSupermarket>
+<hgeokg/resource/5670688>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/542225570>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5671257>
+<hgeokg/resource/2603955364>	<hgeokg/schema/addrPostcode>	addrPostcode-10031
+<hgeokg/resource/745617597>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/4928962209>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/271901800>
+<hgeokg/resource/524558207>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/4928962213>
+<hgeokg/resource/223503127>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/5281931376>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/223503127>
+<hgeokg/resource/4928962213>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/4459312803>
+<hgeokg/resource/5281909145>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/BusStop>
+<hgeokg/resource/4928962213>	<hgeokg/schema/addrHousenumber>	addrHousenumber-3550
+<hgeokg/resource/765239335>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/46568279>
+<hgeokg/resource/745617599>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Secondary>
+<hgeokg/resource/4459312803>	<hgeokg/schema/note>	note-no in-station transfer between platforms
+<hgeokg/resource/2603955364>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5670688>
+<hgeokg/resource/2603955354>	<hgeokg/schema/nameEn>	nameEn-Pentecostal Church of God, I.M.
+<hgeokg/resource/5671137>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5798760802>
+<hgeokg/resource/745617599>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5671257>
+<hgeokg/resource/745617598>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/735173276>
+<hgeokg/resource/5798759825>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/542225570>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/2603955357>
+<hgeokg/resource/745617599>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/4928962213>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/68668550>
+<hgeokg/resource/46568279>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/118524657>
+<hgeokg/resource/524558207>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5671257>
+<hgeokg/resource/271905144>	<http://www.w3.org/2000/01/rdf-schema#label>	St Joseph Friary
+<hgeokg/resource/2603955357>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5671257>
+<hgeokg/resource/6825007395>	<hgeokg/schema/email>	email-discountcarleaseny@gmail.com
+<hgeokg/resource/5798760802>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5670688>
+<hgeokg/resource/5281928940>	<Point_transport-Adjacent-Point_transport>	<hgeokg/resource/5281929160>
+<hgeokg/resource/271905144>	<hgeokg/schema/height>	height-13.8
+<hgeokg/resource/6825007395>	<hgeokg/schema/phone>	phone-+1-646-837-5070
+<hgeokg/resource/5671257>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/542225570>
+<hgeokg/resource/4928962208>	<hgeokg/schema/disusedAmenity>	disusedAmenity-cafe
+<hgeokg/resource/5671257>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/118524657>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/745617599>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/275081116>
+<hgeokg/resource/118524658>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/68668550>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/735173276>
+<hgeokg/resource/745617597>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/735173276>
+<hgeokg/resource/271905144>	<hgeokg/schema/nycdoittBin>	nycdoittBin-1081829
+<hgeokg/resource/2603955354>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/542225570>
+<hgeokg/resource/4928962208>	<hgeokg/schema/addrHousenumber>	addrHousenumber-1730
+<hgeokg/resource/5281929160>	<Point_transport-Adjacent-Point_transport>	<hgeokg/resource/5281931376>
+<hgeokg/resource/5281908451>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5798643423>
+<hgeokg/resource/5798643423>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/357579266>
+<hgeokg/resource/4928962209>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/223503127>	<hgeokg/schema/wikipedia>	wikipedia-en:Broadway (Manhattan)
+<hgeokg/resource/735173276>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5798760802>
+<hgeokg/resource/2603955342>	<http://www.w3.org/2000/01/rdf-schema#label>	East & West Deli & Grocery
+<hgeokg/resource/745617597>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5671137>
+<hgeokg/resource/4459312803>	<hgeokg/schema/internetAccess>	internetAccess-wlan
+<hgeokg/resource/5281931376>	<http://www.w3.org/2000/01/rdf-schema#label>	Broadway & West 145th Street
+<hgeokg/resource/5972714809>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/BusStop>
+<hgeokg/resource/2603955354>	<http://www.w3.org/2000/01/rdf-schema#label>	Iglesia de Dios Pentecostal, M.I. Exodo
+<hgeokg/resource/271901800>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/4928962209>
+<hgeokg/resource/745617599>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/5798773617>	<hgeokg/schema/shelter>	shelter-yes
+<hgeokg/resource/271905144>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/5671137>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5671257>
+<hgeokg/resource/2603955348>	<Point_pofw-Adjacent-Point_pois>	<hgeokg/resource/2603955354>
+<hgeokg/resource/2603955364>	<Point_pofw-Adjacent-Point_pois>	<hgeokg/resource/2603955354>
+<hgeokg/resource/4459312803>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5671257>
+<hgeokg/resource/5671137>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/118524658>
+<hgeokg/resource/271901800>	<http://www.w3.org/2000/01/rdf-schema#label>	Hamilton Grange Library
+<hgeokg/resource/5281929160>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/223503127>
+<hgeokg/resource/5281928940>	<Point_transport-Adjacent-Point_transport>	<hgeokg/resource/5281932782>
+<hgeokg/resource/68668550>	<http://www.w3.org/2000/01/rdf-schema#label>	West 145th Street
+<hgeokg/resource/5281929160>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/4928962213>
+<hgeokg/resource/5798759825>	<hgeokg/schema/bench>	bench-no
+<hgeokg/resource/5281932782>	<http://www.w3.org/2000/01/rdf-schema#label>	Broadway & West 145th Street
+<hgeokg/resource/6825007395>	<hgeokg/schema/startDate>	startDate-2004-07-08
+<hgeokg/resource/5281932782>	<hgeokg/schema/shelter>	shelter-yes
+<hgeokg/resource/5281928940>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/68668550>
+<hgeokg/resource/5798759825>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/PublicTransportPlatform>
+<hgeokg/resource/2603955354>	<Point_pofw-Adjacent-Point_pois>	<hgeokg/resource/2603955364>
+<hgeokg/resource/745617597>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5670688>
+<hgeokg/resource/118524658>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/2603955357>
+<hgeokg/resource/5798771852>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5671257>
+<hgeokg/resource/271901800>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/5798759825>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/735173276>
+<hgeokg/resource/5281909145>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5671257>
+<hgeokg/resource/5281931376>	<hgeokg/schema/bus>	bus-yes
+<hgeokg/resource/118527538>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/118524657>
+<hgeokg/resource/6825007395>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/68668550>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5281931376>
+<hgeokg/resource/4928962209>	<hgeokg/schema/addrHousenumber>	addrHousenumber-500
+<hgeokg/resource/357579266>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5281908451>
+<hgeokg/resource/4928962213>	<hgeokg/schema/brand>	brand-Key Food
+<hgeokg/resource/745617598>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/275081116>
+<hgeokg/resource/68668550>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5281928940>
+<hgeokg/resource/275081116>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/5671137>
+<hgeokg/resource/271905144>	<hgeokg/schema/denomination>	denomination-catholic
+<hgeokg/resource/5281932782>	<hgeokg/schema/bus>	bus-yes
+<hgeokg/resource/223503127>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5281928940>
+<hgeokg/resource/271901800>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/357579266>
+<hgeokg/resource/275081116>	<hgeokg/schema/substation>	substation-traction
+<hgeokg/resource/542225570>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/2603955354>
+<hgeokg/resource/271905144>	<hgeokg/schema/addrHousenumber>	addrHousenumber-523
+<hgeokg/resource/409216519>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/745617598>
+<hgeokg/resource/745617598>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/5798771852>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/46568279>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/765239335>
+<hgeokg/resource/275081116>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/735173276>
+<hgeokg/resource/5671257>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5281909145>
+<hgeokg/resource/4459312803>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/524558207>
+<hgeokg/resource/2603955354>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/5670688>
+<hgeokg/resource/4459312803>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/5281932782>	<hgeokg/schema/passengerInformationDisplay>	passengerInformationDisplay-no
+<hgeokg/resource/6825007395>	<hgeokg/schema/addrPostcode>	addrPostcode-10031
+<hgeokg/resource/765239335>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/118527538>
+<hgeokg/resource/5670688>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/2603955354>
+<hgeokg/resource/2603955354>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/357579266>	<http://www.w3.org/2000/01/rdf-schema#label>	Public School 186
+<hgeokg/resource/2603955354>	<hgeokg/schema/addrState>	addrState-NY
+<hgeokg/resource/271905144>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/5670688>
+<hgeokg/resource/4459312803>	<hgeokg/schema/wikipedia>	wikipedia-en:145th Street station (IRT Broadway–Seventh Avenue Line)
+<hgeokg/resource/5798759825>	<http://www.w3.org/2000/01/rdf-schema#label>	Riverside Drive & West 144th Street
+<hgeokg/resource/223503127>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5670688>
+<hgeokg/resource/5798773617>	<hgeokg/schema/routeRef>	routeRef-Bx19
+<hgeokg/resource/5798643423>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/2603955342>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5281909145>
+<hgeokg/resource/524558207>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Secondary>
+<hgeokg/resource/5972714809>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/PublicTransportPlatform>
+<hgeokg/resource/6825007395>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5281929160>
+<hgeokg/resource/5798759825>	<hgeokg/schema/shelter>	shelter-no
+<hgeokg/resource/271905144>	<hgeokg/schema/usage>	usage-Friary
+<hgeokg/resource/4111168784>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/765239335>
+<hgeokg/resource/5671137>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/2603955354>
+<hgeokg/resource/5798760778>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/735173276>
+<hgeokg/resource/5798771852>	<http://www.w3.org/2000/01/rdf-schema#label>	West 145th Street & Riverside Drive
+<hgeokg/resource/5798760802>	<hgeokg/schema/bench>	bench-no
+<hgeokg/resource/5798773617>	<hgeokg/schema/bus>	bus-yes
+<hgeokg/resource/5281908451>	<hgeokg/schema/addrHousenumber>	addrHousenumber-528
+<hgeokg/resource/745617598>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/745617597>
+<hgeokg/resource/5670688>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/2603955357>
+<hgeokg/resource/5281908451>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6825007395>
+<hgeokg/resource/118527538>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/765239335>
+<hgeokg/resource/5281929160>	<Point_transport-Adjacent-Point_transport>	<hgeokg/resource/5281932782>
+<hgeokg/resource/2603955348>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5670688>
+<hgeokg/resource/5671257>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/275081116>
+<hgeokg/resource/271901800>	<hgeokg/schema/website>	website-http://www.nypl.org/locations/hamilton-grange
+<hgeokg/resource/745617597>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/745617599>
+<hgeokg/resource/68668550>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/524558207>
+<hgeokg/resource/2603955357>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5670688>
+<hgeokg/resource/5670688>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/542225570>
+<hgeokg/resource/524558207>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/745617598>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5671137>
+<hgeokg/resource/118527538>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/735173276>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/745617597>
+<hgeokg/resource/5798771852>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/PublicTransportPlatform>
+<hgeokg/resource/275081116>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Polygon>
+<hgeokg/resource/5798759825>	<hgeokg/schema/bus>	bus-yes
+<hgeokg/resource/745617599>	<hgeokg/schema/wikipedia>	wikipedia-en:Riverside Drive (Manhattan)
+<hgeokg/resource/4111168784>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/118527538>
+<hgeokg/resource/5281929160>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/6825007395>
+<hgeokg/resource/5671137>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/223503127>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Primary>
+<hgeokg/resource/2603955348>	<hgeokg/schema/openingHours>	openingHours-24/7
+<hgeokg/resource/5798760802>	<hgeokg/schema/shelter>	shelter-no
+<hgeokg/resource/5798773617>	<Point_transport-Adjacent-Point_transport>	<hgeokg/resource/5798760778>
+<hgeokg/resource/5671257>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5281929160>
+<hgeokg/resource/2603955357>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/542225570>
+<hgeokg/resource/357579266>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/AmenitySchool>
+<hgeokg/resource/5671257>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-W
+<hgeokg/resource/5798759825>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/BusStop>
+<hgeokg/resource/5972714809>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/271901800>
+<hgeokg/resource/5671257>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6825007395>
+<hgeokg/resource/2603955348>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5671257>
+<hgeokg/resource/5281929160>	<hgeokg/schema/bus>	bus-yes
+<hgeokg/resource/5281929160>	<hgeokg/schema/shelter>	shelter-yes
+<hgeokg/resource/745617597>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/4928962208>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/4928962209>
+<hgeokg/resource/4928962213>	<hgeokg/schema/addrState>	addrState-NY
+<hgeokg/resource/745617599>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/2603955357>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Convenience>
+<hgeokg/resource/5798760778>	<hgeokg/schema/routeRef>	routeRef-M11
+<hgeokg/resource/118527538>	<hgeokg/schema/addrState>	addrState-NY
+<hgeokg/resource/68668550>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5798773617>
+<hgeokg/resource/5798760802>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/5972714809>	<hgeokg/schema/shelter>	shelter-yes
+<hgeokg/resource/68668550>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5798759825>
+<hgeokg/resource/68668550>	<hgeokg/schema/oneway>	oneway-no
+<hgeokg/resource/5281908451>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/5281929160>	<hgeokg/schema/networkWikidata>	networkWikidata-Q1325591
+<hgeokg/resource/542225570>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/223503127>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/4928962213>
+<hgeokg/resource/5671137>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/745617599>
+<hgeokg/resource/5281931376>	<hgeokg/schema/routeRef>	routeRef-M4;M4ltd;M5;M5ltd
+<hgeokg/resource/5281932782>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/524558207>
+<hgeokg/resource/4928962209>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/2603955342>
+<hgeokg/resource/5281928940>	<hgeokg/schema/shelter>	shelter-no
+<hgeokg/resource/2603955357>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/2603955364>
+<hgeokg/resource/223503127>	<http://www.w3.org/2000/01/rdf-schema#label>	Broadway
+<hgeokg/resource/271901800>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/2603955342>
+<hgeokg/resource/2603955348>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/2603955357>
+<hgeokg/resource/5281908451>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5671257>
+<hgeokg/resource/5281928940>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/46568279>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/118527522>
+<hgeokg/resource/2603955364>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/542225570>
+<hgeokg/resource/524558207>	<http://www.w3.org/2000/01/rdf-schema#label>	West 145th Street
+<hgeokg/resource/2603955364>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/118524658>
+<hgeokg/resource/68668550>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/223503127>
+<hgeokg/resource/118524658>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/2603955348>
+<hgeokg/resource/735173276>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5798759825>
+<hgeokg/resource/5281931376>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/BusStop>
+<hgeokg/resource/542225570>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/2603955354>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/PlaceOfWorship>
+<hgeokg/resource/2603955364>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/2603955348>
+<hgeokg/resource/5671257>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/4459312803>
+<hgeokg/resource/745617597>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5798760802>
+<hgeokg/resource/5281932782>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/PublicTransportPlatform>
+<hgeokg/resource/5798759825>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5671257>
+<hgeokg/resource/5281931376>	<hgeokg/schema/networkWikidata>	networkWikidata-Q1325591
+<hgeokg/resource/4459312803>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/4928962213>
+<hgeokg/resource/5798760802>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/745617599>
+<hgeokg/resource/5671137>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-W
+<hgeokg/resource/524558207>	<hgeokg/schema/hgv>	hgv-local
+<hgeokg/resource/271905144>	<hgeokg/schema/addrPostcode>	addrPostcode-10031
+<hgeokg/resource/5798760802>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/745617597>
+<hgeokg/resource/4459312803>	<hgeokg/schema/internetAccessFee>	internetAccessFee-no
+<hgeokg/resource/4459312803>	<http://www.w3.org/2000/01/rdf-schema#label>	145th Street
+<hgeokg/resource/5671257>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/2603955357>
+<hgeokg/resource/4459312803>	<hgeokg/schema/openingHours>	openingHours-24/7
+<hgeokg/resource/5281928940>	<hgeokg/schema/networkWikidata>	networkWikidata-Q1325591
+<hgeokg/resource/524558207>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5281932782>
+<hgeokg/resource/5281929160>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/BusStop>
+<hgeokg/resource/5798760778>	<Point_transport-Adjacent-Point_transport>	<hgeokg/resource/5798759825>
+<hgeokg/resource/524558207>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/4459312803>
+<hgeokg/resource/4928962213>	<hgeokg/schema/brandWikipedia>	brandWikipedia-en:Key Food
+<hgeokg/resource/6825007395>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Car>
+<hgeokg/resource/5798771852>	<hgeokg/schema/shelter>	shelter-no
+<hgeokg/resource/2603955364>	<http://www.w3.org/2000/01/rdf-schema#label>	Yellow Banana Snack Bar
+<hgeokg/resource/409216519>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/118524657>
+<hgeokg/resource/68668550>	<hgeokg/schema/hgv>	hgv-destination
+<hgeokg/resource/118524658>	<hgeokg/schema/oldName>	oldName-Alexander Hamilton Square
+<hgeokg/resource/5671137>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/542225570>
+<hgeokg/resource/409216519>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Soccer>
+<hgeokg/resource/46568279>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayService>
+<hgeokg/resource/5281932782>	<Point_transport-Adjacent-Point_transport>	<hgeokg/resource/5281929160>
+<hgeokg/resource/5281909145>	<hgeokg/schema/shelter>	shelter-yes
+<hgeokg/resource/5281909145>	<Point_transport-Adjacent-Point_transport>	<hgeokg/resource/5972714809>
+<hgeokg/resource/542225570>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5972714809>
+<hgeokg/resource/5798760778>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5671257>
+<hgeokg/resource/745617598>	<hgeokg/schema/altName>	altName-Riverside Drive East
+<hgeokg/resource/5281909145>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/2603955342>
+<hgeokg/resource/745617597>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-W
+<hgeokg/resource/6825007395>	<hgeokg/schema/openingHours>	openingHours-Mo-Th, Sa 09:00-21:00; Fr 09:00-19:00; Su 10:00-19:00
+<hgeokg/resource/5281928940>	<hgeokg/schema/bench>	bench-no
+<hgeokg/resource/118524657>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/223503127>	<hgeokg/schema/nameRu>	nameRu-Бродвей
+<hgeokg/resource/735173276>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/745617597>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/745617598>
+<hgeokg/resource/5972714809>	<hgeokg/schema/bench>	bench-yes
+<hgeokg/resource/4459312803>	<hgeokg/schema/startDate>	startDate-1904-10-27
+<hgeokg/resource/5281909145>	<hgeokg/schema/bench>	bench-yes
+<hgeokg/resource/745617599>	<hgeokg/schema/hgv>	hgv-no
+<hgeokg/resource/271901800>	<hgeokg/schema/height>	height-23.1
+<hgeokg/resource/5281932782>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/223503127>
+<hgeokg/resource/6825007395>	<hgeokg/schema/addrState>	addrState-NY
+<hgeokg/resource/271901800>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/4928962208>
+<hgeokg/resource/5798759825>	<Point_transport-Adjacent-Point_transport>	<hgeokg/resource/5798760778>
+<hgeokg/resource/5281932782>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/4111168784>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/46568279>
+<hgeokg/resource/745617599>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5671137>
+<hgeokg/resource/4111168784>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/PublicTransportPlatform>
+<hgeokg/resource/735173276>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/68668550>
+<hgeokg/resource/6825007395>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5671257>
+<hgeokg/resource/745617598>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/409216519>
+<hgeokg/resource/4459312803>	<Point_transport-Adjacent-Point_transport>	<hgeokg/resource/5281929160>
+<hgeokg/resource/5281932782>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/68668550>
+<hgeokg/resource/5671257>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/745617598>
+<hgeokg/resource/118524657>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/4111168784>
+<hgeokg/resource/4111168784>	<hgeokg/schema/bus>	bus-yes
+<hgeokg/resource/5281928940>	<Point_transport-Adjacent-Point_transport>	<hgeokg/resource/4459312803>
+<hgeokg/resource/5670688>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/745617597>
+<hgeokg/resource/118527538>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Restaurant>
+<hgeokg/resource/5670688>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5671137>
+<hgeokg/resource/2603955354>	<hgeokg/schema/religion>	religion-christian
+<hgeokg/resource/118524657>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/765239335>
+<hgeokg/resource/5798771852>	<hgeokg/schema/bench>	bench-no
+<hgeokg/resource/118524658>	<http://www.w3.org/2000/01/rdf-schema#label>	Johnny Hartman Plaza
+<hgeokg/resource/2603955348>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5671137>
+<hgeokg/resource/4928962213>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5281929160>
+<hgeokg/resource/5798773617>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/68668550>
+<hgeokg/resource/5798760802>	<http://www.w3.org/2000/01/rdf-schema#label>	Riverside Drive & West 142nd Street
+<hgeokg/resource/357579266>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/271901800>
+<hgeokg/resource/2603955342>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Convenience>
+<hgeokg/resource/118527538>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/118527522>
+<hgeokg/resource/118527522>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Polygon>
+<hgeokg/resource/2603955357>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5671137>
+<hgeokg/resource/5281932782>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/4928962213>
+<hgeokg/resource/735173276>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5670688>
+<hgeokg/resource/5671137>	<http://www.w3.org/2000/01/rdf-schema#label>	West 143rd Street
+<hgeokg/resource/5798771852>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/735173276>
+<hgeokg/resource/5670688>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5798760802>
+<hgeokg/resource/357579266>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/118524657>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/46568279>
+<hgeokg/resource/5281908451>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5281929160>
+<hgeokg/resource/5798760802>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/745617598>
+<hgeokg/resource/5972714809>	<Point_transport-Adjacent-Point_transport>	<hgeokg/resource/5281909145>
+<hgeokg/resource/46568279>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/409216519>
+<hgeokg/resource/118527538>	<hgeokg/schema/addrHousenumber>	addrHousenumber-679
+<hgeokg/resource/735173276>	<hgeokg/schema/hgv>	hgv-no
+<hgeokg/resource/2603955348>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/2603955364>
+<hgeokg/resource/271905144>	<hgeokg/schema/buildingLevels>	buildingLevels-4
+<hgeokg/resource/118524657>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/118527522>
+<hgeokg/resource/275081116>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/223503127>
+<hgeokg/resource/6825007395>	<hgeokg/schema/secondHand>	secondHand-no
+<hgeokg/resource/5281929160>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5281908451>
+<hgeokg/resource/118524658>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5670688>
+<hgeokg/resource/5281929160>	<http://www.w3.org/2000/01/rdf-schema#label>	West 145th Street & Broadway
+<hgeokg/resource/46568279>	<hgeokg/schema/oneway>	oneway-no
+<hgeokg/resource/223503127>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5281931376>
+<hgeokg/resource/5798773617>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/6825007395>	<hgeokg/schema/addrHousenumber>	addrHousenumber-553
+<hgeokg/resource/118524658>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5671137>
+<hgeokg/resource/5281909145>	<http://www.w3.org/2000/01/rdf-schema#label>	West 145th Street & Amsterdam Avenue
+<hgeokg/resource/765239335>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/118524657>
+<hgeokg/resource/118527538>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/46568279>
+<hgeokg/resource/68668550>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5798771852>
+<hgeokg/resource/745617598>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/5281931376>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/PublicTransportPlatform>
+<hgeokg/resource/4928962213>	<hgeokg/schema/brandWikidata>	brandWikidata-Q6398037
+<hgeokg/resource/2603955348>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Convenience>
+<hgeokg/resource/745617598>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/745617599>
+<hgeokg/resource/5798771852>	<hgeokg/schema/routeRef>	routeRef-Bx19
+<hgeokg/resource/271901800>	<hgeokg/schema/phone>	phone-+1 (212) 926-2147
+<hgeokg/resource/2603955342>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/271901800>
+<hgeokg/resource/5671137>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/5798760778>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/68668550>
+<hgeokg/resource/5670688>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/5281932782>	<hgeokg/schema/routeRef>	routeRef-M4;M4ltd;M5;M5ltd
+<hgeokg/resource/2603955342>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/5798773617>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5671257>
+<hgeokg/resource/745617598>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5671257>
+<hgeokg/resource/5798759825>	<Point_transport-Adjacent-Point_transport>	<hgeokg/resource/5798773617>
+<hgeokg/resource/5281908451>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/357579266>
+<hgeokg/resource/5671137>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/745617597>
+<hgeokg/resource/765239335>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/542225570>	<http://www.w3.org/2000/01/rdf-schema#label>	Hamilton Place
+<hgeokg/resource/271901800>	<hgeokg/schema/addrPostcode>	addrPostcode-10031
+<hgeokg/resource/5670688>	<http://www.w3.org/2000/01/rdf-schema#label>	West 142nd Street
+<hgeokg/resource/745617599>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/745617598>
+<hgeokg/resource/5281909145>	<hgeokg/schema/bus>	bus-yes
+<hgeokg/resource/745617599>	<http://www.w3.org/2000/01/rdf-schema#label>	Riverside Drive
+<hgeokg/resource/5281931376>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/68668550>
+<hgeokg/resource/4459312803>	<hgeokg/schema/operator>	operator-New York City Transit Authority
+<hgeokg/resource/5671257>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/735173276>
+<hgeokg/resource/5670688>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/735173276>
+<hgeokg/resource/2603955364>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/2603955357>
+<hgeokg/resource/765239335>	<http://www.w3.org/2000/01/rdf-schema#label>	Riverbank State Park
+<hgeokg/resource/5798760778>	<hgeokg/schema/bench>	bench-yes
+<hgeokg/resource/5281928940>	<Point_transport-Adjacent-Point_transport>	<hgeokg/resource/5281931376>
+<hgeokg/resource/5281928940>	<hgeokg/schema/network>	network-NYC Transit
+<hgeokg/resource/275081116>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/5671257>
+<hgeokg/resource/735173276>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Secondary>
+<hgeokg/resource/5798773617>	<Point_transport-Adjacent-Point_transport>	<hgeokg/resource/5798771852>
+<hgeokg/resource/271905144>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/5671137>
+<hgeokg/resource/5281909145>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/542225570>
+<hgeokg/resource/118524657>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayService>
+<hgeokg/resource/271901800>	<hgeokg/schema/operator>	operator-New York Public Library
+<hgeokg/resource/275081116>	<hgeokg/schema/nycdoittBin>	nycdoittBin-1062348
+<hgeokg/resource/68668550>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5281929160>
+<hgeokg/resource/46568279>	<http://www.w3.org/2000/01/rdf-schema#label>	Riverbank Park Access Road
+<hgeokg/resource/5281908451>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Restaurant>
+<hgeokg/resource/4928962209>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5281909145>
+<hgeokg/resource/5281932782>	<Point_transport-Adjacent-Point_transport>	<hgeokg/resource/5281931376>
+<hgeokg/resource/745617599>	<hgeokg/schema/altName>	altName-Riverside Drive East
+<hgeokg/resource/5798773617>	<Point_transport-Adjacent-Point_transport>	<hgeokg/resource/5798759825>
+<hgeokg/resource/118527522>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/118524657>
+<hgeokg/resource/2603955364>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Cafe>
+<hgeokg/resource/4459312803>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/PublicTransportStation>
+<hgeokg/resource/5281929160>	<Point_transport-Adjacent-Point_transport>	<hgeokg/resource/5281928940>
+<hgeokg/resource/542225570>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/6825007395>	<hgeokg/schema/website>	website-http://discountcarlease.com
+<hgeokg/resource/4928962208>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/2603955342>
+<hgeokg/resource/271901800>	<hgeokg/schema/addrHousenumber>	addrHousenumber-503
+<hgeokg/resource/4928962213>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/5671137>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/2603955364>
+<hgeokg/resource/5671137>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/68668550>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/4459312803>
+<hgeokg/resource/5281909145>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/271901800>
+<hgeokg/resource/542225570>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/2603955364>
+<hgeokg/resource/5798760778>	<hgeokg/schema/bus>	bus-yes
+<hgeokg/resource/5671257>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/2603955348>
+<hgeokg/resource/5671257>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5972714809>
+<hgeokg/resource/2603955357>	<Point_pofw-Adjacent-Point_pois>	<hgeokg/resource/2603955354>
+<hgeokg/resource/271901800>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Library>
+<hgeokg/resource/68668550>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Secondary>
+<hgeokg/resource/271901800>	<hgeokg/schema/nycdoittBin>	nycdoittBin-1061938
+<hgeokg/resource/271905144>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/AmenityMonastery>
+<hgeokg/resource/5281909145>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/4928962209>
+<hgeokg/resource/223503127>	<hgeokg/schema/lanes>	lanes-2
+<hgeokg/resource/275081116>	<hgeokg/schema/addrHousenumber>	addrHousenumber-606
+<hgeokg/resource/4928962209>	<hgeokg/schema/cuisine>	cuisine-japanese
+<hgeokg/resource/5798773617>	<http://www.w3.org/2000/01/rdf-schema#label>	West 145th Street & Riverside Drive
+<hgeokg/resource/5798643423>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5281908451>
+<hgeokg/resource/5281932782>	<Point_transport-Adjacent-Point_transport>	<hgeokg/resource/5281928940>
+<hgeokg/resource/223503127>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5281932782>
+<hgeokg/resource/5671257>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/524558207>
+<hgeokg/resource/4928962213>	<hgeokg/schema/addrPostcode>	addrPostcode-10031
+<hgeokg/resource/745617599>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/745617597>
+<hgeokg/resource/5798760802>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/BusStop>
+<hgeokg/resource/223503127>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/524558207>
+<hgeokg/resource/5798771852>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/BusStop>
+<hgeokg/resource/2603955364>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5671137>
+<hgeokg/resource/5798643423>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/271901800>
+<hgeokg/resource/5671137>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/735173276>
+<hgeokg/resource/5972714809>	<http://www.w3.org/2000/01/rdf-schema#label>	Amsterdam Avenue & West 145th Street
+<hgeokg/resource/5671137>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/5281931376>	<hgeokg/schema/network>	network-NYC Transit
+<hgeokg/resource/745617597>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/5281931376>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/524558207>
+<hgeokg/resource/542225570>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/118524658>
+<hgeokg/resource/5798760778>	<Point_transport-Adjacent-Point_transport>	<hgeokg/resource/5798771852>
+<hgeokg/resource/118524658>	<hgeokg/schema/ele>	ele-40
+<hgeokg/resource/118524658>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Park>
+<hgeokg/resource/5670688>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/271905144>
+<hgeokg/resource/745617598>	<http://www.w3.org/2000/01/rdf-schema#label>	Riverside Drive
+<hgeokg/resource/409216519>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/46568279>
+<hgeokg/resource/5281931376>	<hgeokg/schema/shelter>	shelter-yes
+<hgeokg/resource/68668550>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/4928962213>
+<hgeokg/resource/5281928940>	<http://www.w3.org/2000/01/rdf-schema#label>	West 145th Street & Broadway
+<hgeokg/resource/5798760802>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5671137>
+<hgeokg/resource/2603955348>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/745617598>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/223503127>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5671257>
+<hgeokg/resource/409216519>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Pitch>
+<hgeokg/resource/524558207>	<hgeokg/schema/oneway>	oneway-no
+<hgeokg/resource/5281909145>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/PublicTransportPlatform>
+<hgeokg/resource/4928962209>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/4928962208>
+<hgeokg/resource/542225570>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/5798771852>	<Point_transport-Adjacent-Point_transport>	<hgeokg/resource/5798759825>
+<hgeokg/resource/5671257>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/5281928940>	<hgeokg/schema/bus>	bus-yes
+<hgeokg/resource/5281931376>	<hgeokg/schema/bench>	bench-yes
+<hgeokg/resource/118527538>	<http://www.w3.org/2000/01/rdf-schema#label>	Sofrito
+<hgeokg/resource/5281928940>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/223503127>
+<hgeokg/resource/5798759825>	<hgeokg/schema/routeRef>	routeRef-M11
+<hgeokg/resource/118527538>	<hgeokg/schema/source>	source-Bing
+<hgeokg/resource/2603955342>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5972714809>
+<hgeokg/resource/2603955348>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/118524658>
+<hgeokg/resource/5281931376>	<Point_transport-Adjacent-Point_transport>	<hgeokg/resource/5281928940>
+<hgeokg/resource/46568279>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/5671257>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/68668550>
+<hgeokg/resource/735173276>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/275081116>
+<hgeokg/resource/735173276>	<hgeokg/schema/altName>	altName-Riverside Drive East
+<hgeokg/resource/5281931376>	<Point_transport-Adjacent-Point_transport>	<hgeokg/resource/5281932782>
+<hgeokg/resource/4459312803>	<Point_transport-Adjacent-Point_transport>	<hgeokg/resource/5281932782>
+<hgeokg/resource/4459312803>	<hgeokg/schema/station>	station-subway
+<hgeokg/resource/68668550>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/5671257>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/2603955348>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/542225570>
+<hgeokg/resource/5972714809>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/4459312803>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/223503127>
+<hgeokg/resource/4459312803>	<Point_transport-Adjacent-Point_transport>	<hgeokg/resource/5281928940>
+<hgeokg/resource/5798759825>	<Point_transport-Adjacent-Point_transport>	<hgeokg/resource/5798771852>
+<hgeokg/resource/5281928940>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/4928962213>
+<hgeokg/resource/271905144>	<hgeokg/schema/religion>	religion-christian
+<hgeokg/resource/118527538>	<hgeokg/schema/addrPostcode>	addrPostcode-10031
+<hgeokg/resource/275081116>	<hgeokg/schema/operator>	operator-New York City Transit Authority
+<hgeokg/resource/542225570>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/2603955348>
+<hgeokg/resource/118524657>	<hgeokg/schema/bicycle>	bicycle-dismount
+<hgeokg/resource/4928962208>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/223503127>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/4459312803>
+<hgeokg/resource/5972714809>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5671257>
+<hgeokg/resource/5281909145>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/4928962208>	<hgeokg/schema/addrPostcode>	addrPostcode-10031
+<hgeokg/resource/223503127>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/275081116>
+<hgeokg/resource/118527522>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/765239335>
+<hgeokg/resource/735173276>	<http://www.w3.org/2000/01/rdf-schema#label>	Riverside Drive
+<hgeokg/resource/4928962208>	<hgeokg/schema/addrState>	addrState-NY
+<hgeokg/resource/4459312803>	<hgeokg/schema/wikimediaCommons>	wikimediaCommons-Category:145th Street (IRT Broadway – Seventh Avenue Line)
+<hgeokg/resource/5798643423>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/TourismHotel>
+<hgeokg/resource/271901800>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5281909145>
+<hgeokg/resource/5671137>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/2603955348>
+<hgeokg/resource/275081116>	<hgeokg/schema/operatorWikipedia>	operatorWikipedia-en:New York City Transit Authority
+<hgeokg/resource/271901800>	<hgeokg/schema/wikipedia>	wikipedia-en:New York Public Library, Hamilton Grange Branch
+<hgeokg/resource/5281929160>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/524558207>
+<hgeokg/resource/5671257>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5798759825>
+<hgeokg/resource/5798760802>	<hgeokg/schema/bus>	bus-yes
+<hgeokg/resource/118527522>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/118527538>
+<hgeokg/resource/2603955354>	<Point_pofw-Adjacent-Point_pois>	<hgeokg/resource/118524658>
+<hgeokg/resource/4111168784>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/BusStop>
+<hgeokg/resource/5798760778>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/BusStop>
+<hgeokg/resource/5972714809>	<hgeokg/schema/routeRef>	routeRef-M100;M101
+<hgeokg/resource/4928962213>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/524558207>
+<hgeokg/resource/5670688>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/5671257>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5798760778>
+<hgeokg/resource/4111168784>	<hgeokg/schema/layer>	layer-2
+<hgeokg/resource/5671257>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5671137>
+<hgeokg/resource/745617599>	<hgeokg/schema/lanes>	lanes-2
+<hgeokg/resource/5798760778>	<hgeokg/schema/shelter>	shelter-no
+<hgeokg/resource/735173276>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/745617598>
+<hgeokg/resource/5281931376>	<Point_transport-Adjacent-Point_transport>	<hgeokg/resource/4459312803>
+<hgeokg/resource/2603955364>	<hgeokg/schema/addrCountry>	addrCountry-US
+<hgeokg/resource/5281929160>	<Point_transport-Adjacent-Point_transport>	<hgeokg/resource/4459312803>
+<hgeokg/resource/2603955354>	<hgeokg/schema/addrHousenumber>	addrHousenumber-1664
+<hgeokg/resource/2603955354>	<hgeokg/schema/addrCountry>	addrCountry-US
+<hgeokg/resource/5281909145>	<hgeokg/schema/routeRef>	routeRef-Bx19
+<hgeokg/resource/118524658>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5671257>
+<hgeokg/resource/745617598>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5798760802>
+<hgeokg/resource/2603955357>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/4928962213>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5281932782>
+<hgeokg/resource/5281932782>	<hgeokg/schema/bench>	bench-yes
+<hgeokg/resource/5671137>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/223503127>
+<hgeokg/resource/4928962213>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/223503127>
+<hgeokg/resource/2603955357>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/2603955348>
+<hgeokg/resource/118524658>	<Point_pofw-Adjacent-Point_pois>	<hgeokg/resource/2603955354>
+<hgeokg/resource/5281928940>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/524558207>
+<hgeokg/resource/2603955364>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/4928962209>	<hgeokg/schema/addrState>	addrState-NY
+<hgeokg/resource/735173276>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5798760778>
+<hgeokg/resource/5671137>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/271905144>
+<hgeokg/resource/5798771852>	<Point_transport-Adjacent-Point_transport>	<hgeokg/resource/5798773617>
+<hgeokg/resource/118527538>	<hgeokg/schema/cuisine>	cuisine-regional
+<hgeokg/resource/5972714809>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/542225570>
+<hgeokg/resource/4459312803>	<hgeokg/schema/level>	level--1
+<hgeokg/resource/5671137>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/2603955357>
+<hgeokg/resource/5798771852>	<Point_transport-Adjacent-Point_transport>	<hgeokg/resource/5798760778>
+<hgeokg/resource/745617598>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5670688>
+<hgeokg/resource/46568279>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/5281909145>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/4928962208>
+<hgeokg/resource/5798643423>	<hgeokg/schema/addrHousenumber>	addrHousenumber-515
+<hgeokg/resource/223503127>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5281929160>
+<hgeokg/resource/5281908451>	<http://www.w3.org/2000/01/rdf-schema#label>	Jimbo's Hamburgers
+<hgeokg/resource/46568279>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/118527538>
+<hgeokg/resource/118524657>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/409216519>
+<hgeokg/resource/2603955354>	<hgeokg/schema/addrPostcode>	addrPostcode-10031
+<hgeokg/resource/5671257>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/118524658>
+<hgeokg/resource/6825007395>	<http://www.w3.org/2000/01/rdf-schema#label>	Discount Car Lease
+<hgeokg/resource/4459312803>	<hgeokg/schema/wheelchair>	wheelchair-no
+<hgeokg/resource/5798760802>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/PublicTransportPlatform>
+<hgeokg/resource/5671137>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/745617598>
+<hgeokg/resource/5281928940>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/PublicTransportPlatform>
+<hgeokg/resource/5798773617>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/BusStop>
+<hgeokg/resource/735173276>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5671137>
+<hgeokg/resource/745617597>	<http://www.w3.org/2000/01/rdf-schema#label>	West 142nd Street
+<hgeokg/resource/745617599>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/735173276>
+<hgeokg/resource/5281929160>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/68668550>
+<hgeokg/resource/2603955354>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/5671137>
+<hgeokg/resource/275081116>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Substation>
+<hgeokg/resource/5281929160>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5671257>
+<hgeokg/resource/5670688>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/275081116>
+<hgeokg/resource/275081116>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/745617598>
+<hgeokg/resource/5671137>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/275081116>
+<hgeokg/resource/2603955364>	<hgeokg/schema/addrState>	addrState-NY
+<hgeokg/resource/223503127>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5671137>
+<hgeokg/resource/5798773617>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/735173276>
+<hgeokg/resource/271901800>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5798643423>
+<hgeokg/resource/5972714809>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/2603955342>
+<hgeokg/resource/524558207>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5281929160>
+<hgeokg/resource/2603955357>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/118524658>
+<hgeokg/resource/223503127>	<hgeokg/schema/hgv>	hgv-local
+<hgeokg/resource/275081116>	<hgeokg/schema/height>	height-20.8
+<hgeokg/resource/68668550>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5281932782>
+<hgeokg/resource/4928962209>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Restaurant>
+<hgeokg/resource/5281931376>	<Point_transport-Adjacent-Point_transport>	<hgeokg/resource/5281929160>
+<hgeokg/resource/275081116>	<hgeokg/schema/addrPostcode>	addrPostcode-10031
+<hgeokg/resource/745617598>	<hgeokg/schema/lanes>	lanes-2
+<hgeokg/resource/223503127>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/5281932782>	<hgeokg/schema/networkWikidata>	networkWikidata-Q1325591
+<hgeokg/resource/5798773617>	<hgeokg/schema/bench>	bench-yes
+<hgeokg/resource/542225570>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5671137>
+<hgeokg/resource/745617598>	<hgeokg/schema/hgv>	hgv-no
+<hgeokg/resource/5670688>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/5670688>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/118524658>
+<hgeokg/resource/765239335>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/118527522>
+<hgeokg/resource/6825007395>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5281908451>
+<hgeokg/resource/271905144>	<hgeokg/schema/addrState>	addrState-NY
+<hgeokg/resource/735173276>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5798773617>
+<hgeokg/resource/68668550>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/68668550>	<hgeokg/schema/wikipedia>	wikipedia-en:145th Street (Manhattan)
+<hgeokg/resource/2603955342>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/4928962209>
+<hgeokg/resource/5281928940>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/BusStop>
+<hgeokg/resource/5798759825>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/68668550>
+<hgeokg/resource/5281932782>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/BusStop>
+<hgeokg/resource/5670688>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-W
+<hgeokg/resource/5281931376>	<hgeokg/schema/passengerInformationDisplay>	passengerInformationDisplay-no
+<hgeokg/resource/4928962213>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5281928940>
+<hgeokg/resource/5281931376>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/4928962213>
+<hgeokg/resource/745617597>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/5670688>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/2603955348>
+<hgeokg/resource/2603955342>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/4928962208>
+<hgeokg/resource/4111168784>	<http://www.w3.org/2000/01/rdf-schema#label>	Riverbank St. Park (Bx19, M11)
+<hgeokg/resource/118524658>	<hgeokg/schema/gnisFeatureId>	gnisFeatureId-2083663
+<hgeokg/resource/5670688>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/745617599>
+<hgeokg/resource/735173276>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/118527522>	<http://www.w3.org/2000/01/rdf-schema#label>	Carousel
+<hgeokg/resource/4928962209>	<http://www.w3.org/2000/01/rdf-schema#label>	Chopped Parsley
+<hgeokg/resource/5798760778>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/PublicTransportPlatform>
+<hgeokg/resource/5670688>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/223503127>
+<hgeokg/resource/271901800>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5972714809>
+<hgeokg/resource/68668550>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-W
+<hgeokg/resource/275081116>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/BuildingService>
+<hgeokg/resource/745617598>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Secondary>
+<hgeokg/resource/765239335>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/4111168784>
+<hgeokg/resource/745617599>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5798760802>
+<hgeokg/resource/5798760802>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/735173276>
+<hgeokg/resource/5798760778>	<Point_transport-Adjacent-Point_transport>	<hgeokg/resource/5798773617>
+<hgeokg/resource/745617598>	<hgeokg/schema/wikipedia>	wikipedia-en:Riverside Drive (Manhattan)
+<hgeokg/resource/4928962213>	<http://www.w3.org/2000/01/rdf-schema#label>	Key Food
+<hgeokg/resource/118524657>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/118527538>
+<hgeokg/resource/6825007395>	<hgeokg/schema/operator>	operator-Henry Long
+<hgeokg/resource/4459312803>	<hgeokg/schema/network>	network-NYC Subway
+<hgeokg/resource/745617599>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5670688>
+<hgeokg/resource/542225570>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5281909145>
+<hgeokg/resource/5281932782>	<Point_transport-Adjacent-Point_transport>	<hgeokg/resource/4459312803>
+<hgeokg/resource/46568279>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/4111168784>
+<hgeokg/resource/357579266>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5798643423>
+<hgeokg/resource/4111168784>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/118524657>
+<hgeokg/resource/4928962208>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/271901800>
+<hgeokg/resource/5281929160>	<hgeokg/schema/routeRef>	routeRef-Bx19
+<hgeokg/resource/2603955364>	<hgeokg/schema/addrHousenumber>	addrHousenumber-1658
+<hgeokg/resource/275081116>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/745617599>
+<hgeokg/resource/2603955342>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5798643423>
+<hgeokg/resource/118527538>	<hgeokg/schema/openingHours>	openingHours-17:00-04:00
+<hgeokg/resource/2603955348>	<http://www.w3.org/2000/01/rdf-schema#label>	Karama Deli Grocery
+<hgeokg/resource/524558207>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/524558207>	<hgeokg/schema/wikipedia>	wikipedia-en:145th Street (Manhattan)
+<hgeokg/resource/2603955354>	<Point_pofw-Adjacent-Point_pois>	<hgeokg/resource/2603955357>
+<hgeokg/resource/524558207>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5281928940>
+<hgeokg/resource/4111168784>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/5798760778>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/118524658>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/542225570>
+<hgeokg/resource/5798643423>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/2603955342>
+<hgeokg/resource/5671257>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/745617599>
+<hgeokg/resource/5281929160>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/765239335>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/AmenityDrinkingWater>
+<hgeokg/resource/357579266>	<hgeokg/schema/gnisFeatureId>	gnisFeatureId-961461
+<hgeokg/resource/5798643423>	<http://www.w3.org/2000/01/rdf-schema#label>	Hotel
+<hgeokg/resource/2603955354>	<Point_pofw-Adjacent-Point_pois>	<hgeokg/resource/2603955348>
+<hgeokg/resource/5671257>	<http://www.w3.org/2000/01/rdf-schema#label>	West 144th Street
+<hgeokg/resource/5798771852>	<hgeokg/schema/bus>	bus-yes
+<hgeokg/resource/5798771852>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/68668550>
+<hgeokg/resource/5670688>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/745617598>
+<hgeokg/resource/5281932782>	<hgeokg/schema/network>	network-NYC Transit
+<hgeokg/resource/5671257>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5798773617>
+<hgeokg/resource/4459312803>	<Point_transport-Adjacent-Point_transport>	<hgeokg/resource/5281931376>
+<hgeokg/resource/5972714809>	<hgeokg/schema/bus>	bus-yes
+<hgeokg/resource/5670688>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/2603955364>
+<hgeokg/resource/46568279>	<hgeokg/schema/bicycle>	bicycle-dismount
+<hgeokg/resource/5671137>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5670688>
+<hgeokg/resource/68668550>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5671257>
+<hgeokg/resource/4459312803>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/RailwayStation>
+<hgeokg/resource/524558207>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/223503127>
+<hgeokg/resource/5798760778>	<http://www.w3.org/2000/01/rdf-schema#label>	Riverside Drive & West 145th Street
+<hgeokg/resource/2603955357>	<http://www.w3.org/2000/01/rdf-schema#label>	Red Apple Deli Supermarket
+<hgeokg/resource/5671257>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5281908451>
+<hgeokg/resource/409216519>	<hgeokg/schema/location>	location-Hamilton Heights
+<hgeokg/resource/118524657>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/118524657>	<http://www.w3.org/2000/01/rdf-schema#label>	Riverbank Park Access Road
+<hgeokg/resource/5671257>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/542225570>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5670688>
+<hgeokg/resource/735173276>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5671257>
+<hgeokg/resource/68668550>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5798760778>
+<hgeokg/resource/524558207>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/68668550>
+<hgeokg/resource/275081116>	<http://www.w3.org/2000/01/rdf-schema#label>	West 143rd Street Substation
+<hgeokg/resource/524558207>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-W
+<hgeokg/resource/409216519>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/5281929160>	<hgeokg/schema/network>	network-NYC Transit
+<hgeokg/resource/5798760802>	<hgeokg/schema/routeRef>	routeRef-M11
+<hgeokg/resource/5281929160>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/PublicTransportPlatform>
+<hgeokg/resource/735173276>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5798771852>
+<hgeokg/resource/223503127>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/68668550>
+<hgeokg/resource/4459312803>	<hgeokg/schema/subway>	subway-yes
+<hgeokg/resource/2603955354>	<hgeokg/schema/denomination>	denomination-pentecostal
+<hgeokg/resource/5671257>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/223503127>
+<hgeokg/resource/735173276>	<hgeokg/schema/wikipedia>	wikipedia-en:Riverside Drive (Manhattan)
+<hgeokg/resource/118527522>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/46568279>
+<hgeokg/resource/118524658>	<hgeokg/schema/source>	source-Bing
+<hgeokg/resource/735173276>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/745617599>
+<hgeokg/resource/223503127>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/4928962213>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5281931376>
+<hgeokg/resource/524558207>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5281931376>

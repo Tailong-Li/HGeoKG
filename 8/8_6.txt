@@ -1,0 +1,978 @@
+<hgeokg/resource/5670707>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6356444688>
+<hgeokg/resource/6377007361>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5766202314>
+<hgeokg/resource/2724054779>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/7108601966>
+<hgeokg/resource/46694766>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5309538286>
+<hgeokg/resource/5794912652>	<hgeokg/schema/phone>	phone-+1 929-325-1980
+<hgeokg/resource/5653258147>	<hgeokg/schema/brand>	brand-Rite Aid
+<hgeokg/resource/2620513858>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5266895221>
+<hgeokg/resource/5794935823>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5400492388>
+<hgeokg/resource/4365213715>	<Point_pois-Adjacent-Point_pofw>	<hgeokg/resource/266910535>
+<hgeokg/resource/6356444688>	<hgeokg/schema/takeaway>	takeaway-yes
+<hgeokg/resource/46694766>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-E
+<hgeokg/resource/2724054779>	<hgeokg/schema/addrHousenumber>	addrHousenumber-1431
+<hgeokg/resource/5401946320>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/46694764>
+<hgeokg/resource/5794935823>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/5266895221>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/BusStop>
+<hgeokg/resource/5640748792>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5400492388>
+<hgeokg/resource/6356444688>	<hgeokg/schema/addrPostcode>	addrPostcode-10028
+<hgeokg/resource/2623014636>	<hgeokg/schema/internetAccessFee>	internetAccessFee-no
+<hgeokg/resource/5406372923>	<hgeokg/schema/level>	level-0
+<hgeokg/resource/5400492388>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5794912652>
+<hgeokg/resource/2620513914>	<hgeokg/schema/phone>	phone-+1 212-288-2056
+<hgeokg/resource/5794912652>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5670797>
+<hgeokg/resource/579565231>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/2724054779>
+<hgeokg/resource/5670707>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5266898481>
+<hgeokg/resource/7108601966>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/2724054779>
+<hgeokg/resource/5309538286>	<hgeokg/schema/routeRef>	routeRef-M15
+<hgeokg/resource/7108604986>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/579565231>
+<hgeokg/resource/4571057189>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Restaurant>
+<hgeokg/resource/4571057189>	<hgeokg/schema/reservation>	reservation-yes
+<hgeokg/resource/266910535>	<hgeokg/schema/denomination>	denomination-catholic
+<hgeokg/resource/46694766>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/579565231>
+<hgeokg/resource/579565231>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5266898481>
+<hgeokg/resource/266909355>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/46694764>
+<hgeokg/resource/2620513858>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5670797>
+<hgeokg/resource/2623014696>	<hgeokg/schema/operator>	operator-Chase
+<hgeokg/resource/5766202314>	<hgeokg/schema/openingHours>	openingHours-Mo-Th 11:00-22:30; Fr 11:00-23:30; Sa 11:30-23:30; Su 11:30-22:30
+<hgeokg/resource/4365213715>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/579565231>
+<hgeokg/resource/5799942462>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/46694766>
+<hgeokg/resource/6356444688>	<hgeokg/schema/openingHours>	openingHours-Mo-Th 17:00-01:00; Fr,Sa 12:00-01:00; Su 12:00-23:00
+<hgeokg/resource/6346043620>	<hgeokg/schema/phone>	phone-+1-212-772-6660
+<hgeokg/resource/2620513914>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Convenience>
+<hgeokg/resource/6237222967>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/4571057189>
+<hgeokg/resource/5766202314>	<http://www.w3.org/2000/01/rdf-schema#label>	Bua Thai Ramen & Robata Grill
+<hgeokg/resource/6237222967>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/357621680>
+<hgeokg/resource/4571057189>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/46694766>
+<hgeokg/resource/6206645049>	<hgeokg/schema/addrHousenumber>	addrHousenumber-1575
+<hgeokg/resource/2623014636>	<hgeokg/schema/openingHours>	openingHours-Mo-Th 05:30-22:00; Fr 05:30-23:00; Sa 06:00-23:00; Su 05:45-22:00
+<hgeokg/resource/5799942462>	<hgeokg/schema/addrPostcode>	addrPostcode-10028
+<hgeokg/resource/5266898481>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/7108604986>
+<hgeokg/resource/46694764>	<http://www.w3.org/2000/01/rdf-schema#label>	East 81st Street
+<hgeokg/resource/2623014700>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5670707>
+<hgeokg/resource/2623014705>	<hgeokg/schema/ref>	ref-1007500008
+<hgeokg/resource/7108601966>	<http://www.w3.org/2000/01/rdf-schema#label>	Eli's Table
+<hgeokg/resource/5794935823>	<hgeokg/schema/website>	website-http://www.comicstriplive.com
+<hgeokg/resource/5406372923>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6356444688>
+<hgeokg/resource/6356480886>	<hgeokg/schema/website>	website-https://www.meijinramen.com/
+<hgeokg/resource/5794912652>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5794935823>
+<hgeokg/resource/5640748792>	<hgeokg/schema/branch>	branch-Upper East Side
+<hgeokg/resource/6206645049>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Cafe>
+<hgeokg/resource/5653258147>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/2623014636>
+<hgeokg/resource/4571057189>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5670797>
+<hgeokg/resource/5794912652>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6356480886>
+<hgeokg/resource/2620513914>	<hgeokg/schema/brandWikipedia>	brandWikipedia-en:7-Eleven
+<hgeokg/resource/6206645049>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/2623014636>
+<hgeokg/resource/6346043620>	<hgeokg/schema/cuisine>	cuisine-american
+<hgeokg/resource/46694764>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/2724054779>
+<hgeokg/resource/5794912652>	<http://www.w3.org/2000/01/rdf-schema#label>	Insomnia Cookies
+<hgeokg/resource/357621680>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6237222967>
+<hgeokg/resource/5799942462>	<http://www.w3.org/2000/01/rdf-schema#label>	Vintage Grape
+<hgeokg/resource/5653258147>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5406372923>
+<hgeokg/resource/46694766>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/4365213715>
+<hgeokg/resource/6346043620>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Restaurant>
+<hgeokg/resource/266910048>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/579565231>
+<hgeokg/resource/5400492388>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5406372923>
+<hgeokg/resource/6377007361>	<http://www.w3.org/2000/01/rdf-schema#label>	The Penrose
+<hgeokg/resource/5406372923>	<hgeokg/schema/addrPostcode>	addrPostcode-10028
+<hgeokg/resource/2620513839>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/46694764>
+<hgeokg/resource/46694764>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/266910048>
+<hgeokg/resource/6206645850>	<hgeokg/schema/website>	website-http://eatvinniespizzeria.com/
+<hgeokg/resource/266910261>	<hgeokg/schema/addrState>	addrState-NY
+<hgeokg/resource/266910048>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/2620513858>
+<hgeokg/resource/266910048>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/2620513914>
+<hgeokg/resource/266910048>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5799942462>
+<hgeokg/resource/6377007361>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6356480886>
+<hgeokg/resource/266909355>	<hgeokg/schema/addrHousenumber>	addrHousenumber-225
+<hgeokg/resource/5266895221>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/579565231>
+<hgeokg/resource/6356444688>	<http://www.w3.org/2000/01/rdf-schema#label>	San Matteo Pizzeria e Cucina
+<hgeokg/resource/5653258147>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5640748792>
+<hgeokg/resource/2623014696>	<hgeokg/schema/brandWikipedia>	brandWikipedia-en:Chase Bank
+<hgeokg/resource/6356480886>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5670797>
+<hgeokg/resource/6356444688>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Restaurant>
+<hgeokg/resource/46694764>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-E
+<hgeokg/resource/5799942462>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/579565231>
+<hgeokg/resource/2620513858>	<hgeokg/schema/openingHours>	openingHours-Mo-Fr 12:00-04:00; Sa, Su 11:00-04:00
+<hgeokg/resource/5799942462>	<hgeokg/schema/addrHousenumber>	addrHousenumber-1479
+<hgeokg/resource/5670797>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-E
+<hgeokg/resource/5266898481>	<hgeokg/schema/routeRef>	routeRef-M98;M101;M102;M103
+<hgeokg/resource/579565231>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/2623014700>	<hgeokg/schema/operator>	operator-United States Postal Service
+<hgeokg/resource/266910535>	<hgeokg/schema/addrHousenumber>	addrHousenumber-211
+<hgeokg/resource/6206645049>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6742941217>
+<hgeokg/resource/46694764>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/2620513839>
+<hgeokg/resource/6206645049>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5406372923>
+<hgeokg/resource/2620513914>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/46694766>
+<hgeokg/resource/2623014700>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/2623014572>
+<hgeokg/resource/6742941217>	<hgeokg/schema/cocktails>	cocktails-yes
+<hgeokg/resource/5266895221>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/2620513858>
+<hgeokg/resource/6356480886>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/357579307>
+<hgeokg/resource/6356480886>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/357621680>
+<hgeokg/resource/266910261>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Polygon>
+<hgeokg/resource/5640748792>	<http://www.w3.org/2000/01/rdf-schema#label>	H&H Midtown Bagels East
+<hgeokg/resource/5403595965>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/266910261>
+<hgeokg/resource/5406372923>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5400492388>
+<hgeokg/resource/357621680>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/357579307>
+<hgeokg/resource/5766202314>	<hgeokg/schema/takeaway>	takeaway-yes
+<hgeokg/resource/6377007361>	<hgeokg/schema/openingHours>	openingHours-Mo-Fr 11:00-04:00; Sa, Su 09:30-04:00
+<hgeokg/resource/5309539007>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5401946320>
+<hgeokg/resource/5670797>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6377007361>
+<hgeokg/resource/2623014696>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/7108601966>
+<hgeokg/resource/357621680>	<http://www.w3.org/2000/01/rdf-schema#label>	Public School 290
+<hgeokg/resource/6356480886>	<http://www.w3.org/2000/01/rdf-schema#label>	Meijin Ramen
+<hgeokg/resource/5653258147>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5670707>
+<hgeokg/resource/266909355>	<Point_pois-Adjacent-Point_pofw>	<hgeokg/resource/5401946320>
+<hgeokg/resource/6244721584>	<Point_pois-Adjacent-Point_pofw>	<hgeokg/resource/266910535>
+<hgeokg/resource/5309538286>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5403595965>
+<hgeokg/resource/5266895221>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/266910048>
+<hgeokg/resource/295250268>	<hgeokg/schema/startDate>	startDate-1973
+<hgeokg/resource/46694766>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/266910048>
+<hgeokg/resource/5406372923>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/46694764>
+<hgeokg/resource/46694764>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5640748792>
+<hgeokg/resource/5653258147>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/4571057189>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/357621680>
+<hgeokg/resource/46694766>	<http://www.w3.org/2000/01/rdf-schema#label>	East 83rd Street
+<hgeokg/resource/5653258147>	<hgeokg/schema/brandWikidata>	brandWikidata-Q3433273
+<hgeokg/resource/4365213715>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/2620513858>
+<hgeokg/resource/46694766>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5766202314>
+<hgeokg/resource/6346043620>	<hgeokg/schema/email>	email-contact@dorrians-nyc.com
+<hgeokg/resource/5640748792>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5794935823>
+<hgeokg/resource/6356444688>	<hgeokg/schema/addrHousenumber>	addrHousenumber-1559
+<hgeokg/resource/6742941217>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5640748792>
+<hgeokg/resource/6377007361>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6237222967>
+<hgeokg/resource/5766202314>	<hgeokg/schema/website>	website-http://buathairamennyc.com
+<hgeokg/resource/2724054779>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/7108604986>
+<hgeokg/resource/46694764>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6356480886>
+<hgeokg/resource/4365213715>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/7108601966>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5266898481>
+<hgeokg/resource/5309538286>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/6206645850>
+<hgeokg/resource/5309538286>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/295250268>	<hgeokg/schema/addrHousenumber>	addrHousenumber-301
+<hgeokg/resource/5403595965>	<hgeokg/schema/openingHours>	openingHours-Tu-Su 17:30-21:30
+<hgeokg/resource/5266898481>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/2623014696>
+<hgeokg/resource/4365213715>	<hgeokg/schema/brand>	brand-Just Salad
+<hgeokg/resource/4365213715>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/FastFood>
+<hgeokg/resource/5640748792>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5670707>
+<hgeokg/resource/5794935823>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6206645049>
+<hgeokg/resource/357579307>	<http://www.w3.org/2000/01/rdf-schema#label>	Public School 190
+<hgeokg/resource/5766202314>	<hgeokg/schema/addrHousenumber>	addrHousenumber-1611
+<hgeokg/resource/7108604986>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5266898481>
+<hgeokg/resource/7108604986>	<hgeokg/schema/website>	website-https://elizabarwine.com/
+<hgeokg/resource/5794935823>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6237222967>
+<hgeokg/resource/2623014636>	<hgeokg/schema/addrPostcode>	addrPostcode-10028
+<hgeokg/resource/579565231>	<hgeokg/schema/lanes>	lanes-5
+<hgeokg/resource/2620513839>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/2620513914>
+<hgeokg/resource/6206645850>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/46694766>
+<hgeokg/resource/579565231>	<hgeokg/schema/wikipedia>	wikipedia-en:Third Avenue
+<hgeokg/resource/46694764>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5794935823>
+<hgeokg/resource/46694766>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6206645850>
+<hgeokg/resource/5670797>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/2620513914>
+<hgeokg/resource/4365213715>	<hgeokg/schema/cuisine>	cuisine-salad
+<hgeokg/resource/5670707>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5640748792>
+<hgeokg/resource/46694766>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/266910261>
+<hgeokg/resource/357621680>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6377007361>
+<hgeokg/resource/5406372923>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5670707>
+<hgeokg/resource/2620513914>	<hgeokg/schema/brandWikidata>	brandWikidata-Q259340
+<hgeokg/resource/5653258147>	<http://www.w3.org/2000/01/rdf-schema#label>	Rite Aid
+<hgeokg/resource/2724054779>	<hgeokg/schema/disusedAmenity>	disusedAmenity-restaurant
+<hgeokg/resource/266910048>	<http://www.w3.org/2000/01/rdf-schema#label>	Hungarian House of New York
+<hgeokg/resource/6206645049>	<http://www.w3.org/2000/01/rdf-schema#label>	ATeaz
+<hgeokg/resource/266910048>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6244721584>
+<hgeokg/resource/2623014700>	<hgeokg/schema/brandWikipedia>	brandWikipedia-en:United States Postal Service
+<hgeokg/resource/5401946320>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/6377007361>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5794912652>
+<hgeokg/resource/6237222967>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5794912652>
+<hgeokg/resource/2623014700>	<hgeokg/schema/operatorWikipedia>	operatorWikipedia-en:United States Postal Service
+<hgeokg/resource/7108601966>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/46694764>
+<hgeokg/resource/2623014705>	<hgeokg/schema/collectionTimes>	collectionTimes-Mo-Fr 11:00; Sa 13:00
+<hgeokg/resource/2724054779>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/579565231>
+<hgeokg/resource/579565231>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/2623014705>
+<hgeokg/resource/5266898481>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/579565231>
+<hgeokg/resource/5794935823>	<hgeokg/schema/addrPostcode>	addrPostcode-10028
+<hgeokg/resource/5266898481>	<hgeokg/schema/bus>	bus-yes
+<hgeokg/resource/2620513858>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/2620513914>
+<hgeokg/resource/5919283363>	<hgeokg/schema/clothes>	clothes-men;suits
+<hgeokg/resource/6356480886>	<hgeokg/schema/happyHours>	happyHours-Mo-Th 17:00-19:00
+<hgeokg/resource/6206645049>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6377007361>
+<hgeokg/resource/46694764>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/7108601966>
+<hgeokg/resource/295250268>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Polygon>
+<hgeokg/resource/5266895221>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/PublicTransportPlatform>
+<hgeokg/resource/2623014572>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/2623014700>
+<hgeokg/resource/46694764>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5794912652>
+<hgeokg/resource/7108604986>	<hgeokg/schema/phone>	phone-+1 212-717-1999
+<hgeokg/resource/2623014705>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5266898481>
+<hgeokg/resource/5400492388>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6742941217>
+<hgeokg/resource/2620513858>	<hgeokg/schema/website>	website-https://www.dylanmurphysnyc.com/
+<hgeokg/resource/7108604986>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Alcohol>
+<hgeokg/resource/295250268>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/5653258147>
+<hgeokg/resource/5640748792>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5653258147>
+<hgeokg/resource/266910535>	<Point_pois-Adjacent-Point_pofw>	<hgeokg/resource/5799942462>
+<hgeokg/resource/5670707>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5401946320>
+<hgeokg/resource/6356444688>	<hgeokg/schema/level>	level-0
+<hgeokg/resource/5670797>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/357579307>
+<hgeokg/resource/579565231>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/2623014696>
+<hgeokg/resource/2623014705>	<hgeokg/schema/brand>	brand-USPS
+<hgeokg/resource/266909355>	<hgeokg/schema/religion>	religion-christian
+<hgeokg/resource/5670797>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5794935823>
+<hgeokg/resource/2623014572>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5670707>
+<hgeokg/resource/46694764>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/2623014636>
+<hgeokg/resource/5670797>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5919283363>
+<hgeokg/resource/6356444688>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5670707>
+<hgeokg/resource/6356480886>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/46694764>
+<hgeokg/resource/5401946320>	<http://www.w3.org/2000/01/rdf-schema#label>	Everest
+<hgeokg/resource/5400492388>	<http://www.w3.org/2000/01/rdf-schema#label>	Amura
+<hgeokg/resource/5766202314>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6377007361>
+<hgeokg/resource/6244721584>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/46694766>
+<hgeokg/resource/5309538286>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/PublicTransportPlatform>
+<hgeokg/resource/2620513839>	<hgeokg/schema/openingHours>	openingHours-Mo-Fr 08:30-18:00; Sa 09:00-15:00
+<hgeokg/resource/2623014696>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/579565231>
+<hgeokg/resource/6346043620>	<hgeokg/schema/twitter>	twitter-dorriansnyc
+<hgeokg/resource/295250268>	<hgeokg/schema/buildingColour>	buildingColour-#CDC3BA
+<hgeokg/resource/2623014572>	<hgeokg/schema/addrCountry>	addrCountry-US
+<hgeokg/resource/4365213715>	<http://www.w3.org/2000/01/rdf-schema#label>	Just Salad
+<hgeokg/resource/5919283363>	<hgeokg/schema/phone>	phone-+1 212-734-2739
+<hgeokg/resource/6206645850>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6377007361>
+<hgeokg/resource/6356444688>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5400492388>
+<hgeokg/resource/2620513914>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/4365213715>
+<hgeokg/resource/2623014572>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/5766202314>	<hgeokg/schema/addrPostcode>	addrPostcode-10028
+<hgeokg/resource/6346043620>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5766202314>
+<hgeokg/resource/4571057189>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/5794935823>	<hgeokg/schema/phone>	phone-+1 212-861-9386
+<hgeokg/resource/266909355>	<hgeokg/schema/height>	height-15.5
+<hgeokg/resource/5670707>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/2623014636>
+<hgeokg/resource/2620513914>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/2620513858>
+<hgeokg/resource/6346043620>	<hgeokg/schema/addrHousenumber>	addrHousenumber-1616
+<hgeokg/resource/5406372923>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6206645049>
+<hgeokg/resource/266910535>	<Point_pois-Adjacent-Point_pofw>	<hgeokg/resource/6244721584>
+<hgeokg/resource/266910261>	<hgeokg/schema/addrHousenumber>	addrHousenumber-330
+<hgeokg/resource/6206645850>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/5266895221>	<hgeokg/schema/routeRef>	routeRef-M101;M102;M103
+<hgeokg/resource/4571057189>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/357579307>
+<hgeokg/resource/5766202314>	<hgeokg/schema/reservation>	reservation-yes
+<hgeokg/resource/46694764>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5670707>
+<hgeokg/resource/2620513839>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5266895221>
+<hgeokg/resource/2623014700>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/579565231>
+<hgeokg/resource/46694766>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6377007361>
+<hgeokg/resource/46694764>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/5670707>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6742941217>
+<hgeokg/resource/6206645049>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6356444688>
+<hgeokg/resource/5670797>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/2724054779>
+<hgeokg/resource/5794912652>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/ShopBakery>
+<hgeokg/resource/2724054779>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5670707>
+<hgeokg/resource/5794912652>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6237222967>
+<hgeokg/resource/5640748792>	<hgeokg/schema/phone>	phone-+1-212-734-7441
+<hgeokg/resource/46694764>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5401946320>
+<hgeokg/resource/5653258147>	<hgeokg/schema/website>	website-https://www.riteaid.com/locations/ny/new-york/1535-2nd-avenue.html
+<hgeokg/resource/5794912652>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5400492388>
+<hgeokg/resource/5794912652>	<hgeokg/schema/website>	website-https://insomniacookies.com/locations/store/23
+<hgeokg/resource/6356444688>	<hgeokg/schema/cuisine>	cuisine-italian
+<hgeokg/resource/46694766>	<hgeokg/schema/surface>	surface-asphalt
+<hgeokg/resource/5653258147>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5309539007>
+<hgeokg/resource/266909355>	<hgeokg/schema/addrPostcode>	addrPostcode-10028
+<hgeokg/resource/7108604986>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5670707>
+<hgeokg/resource/5682498984>	<Point_pois-Within-Polygon_buildings>	<hgeokg/resource/295250268>
+<hgeokg/resource/5266898481>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/2623014705>
+<hgeokg/resource/5670797>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/2623014636>
+<hgeokg/resource/5682498984>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5653258147>
+<hgeokg/resource/5266895221>	<hgeokg/schema/shelter>	shelter-yes
+<hgeokg/resource/5309538286>	<hgeokg/schema/bus>	bus-yes
+<hgeokg/resource/2623014696>	<hgeokg/schema/brand>	brand-Chase
+<hgeokg/resource/5403595965>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6346043620>
+<hgeokg/resource/2620513839>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/266910048>
+<hgeokg/resource/6237222967>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6206645850>
+<hgeokg/resource/5403595965>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Restaurant>
+<hgeokg/resource/357621680>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5794935823>
+<hgeokg/resource/46694766>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/5309539007>	<hgeokg/schema/bus>	bus-yes
+<hgeokg/resource/6356444688>	<hgeokg/schema/website>	website-https://www.sanmatteonyc.com
+<hgeokg/resource/357621680>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6356480886>
+<hgeokg/resource/266910048>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/46694766>
+<hgeokg/resource/357621680>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5670797>
+<hgeokg/resource/2620513914>	<hgeokg/schema/addrPostcode>	addrPostcode-10028
+<hgeokg/resource/579565231>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/46694766>
+<hgeokg/resource/2724054779>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/2620513839>
+<hgeokg/resource/5309539007>	<hgeokg/schema/shelter>	shelter-yes
+<hgeokg/resource/5403595965>	<hgeokg/schema/reservation>	reservation-yes
+<hgeokg/resource/5670797>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/4571057189>
+<hgeokg/resource/46694764>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5670797>
+<hgeokg/resource/5670707>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/2724054779>
+<hgeokg/resource/5794935823>	<hgeokg/schema/wikipedia>	wikipedia-en:Comic Strip Live
+<hgeokg/resource/6377007361>	<hgeokg/schema/cocktails>	cocktails-yes
+<hgeokg/resource/6377007361>	<hgeokg/schema/contactFacebook>	contactFacebook-ThePenrose
+<hgeokg/resource/5309539007>	<http://www.w3.org/2000/01/rdf-schema#label>	East 79th Street & 2nd Avenue
+<hgeokg/resource/5266898481>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5670707>
+<hgeokg/resource/5653258147>	<hgeokg/schema/addrPostcode>	addrPostcode-10075
+<hgeokg/resource/266909355>	<hgeokg/schema/denomination>	denomination-baptist
+<hgeokg/resource/5400492388>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6356480886>
+<hgeokg/resource/2620513914>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/2620513839>
+<hgeokg/resource/5403595965>	<hgeokg/schema/addrHousenumber>	addrHousenumber-309
+<hgeokg/resource/5400492388>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5794935823>
+<hgeokg/resource/2623014636>	<http://www.w3.org/2000/01/rdf-schema#label>	Starbucks
+<hgeokg/resource/5794935823>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/357621680>
+<hgeokg/resource/5266895221>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5670797>
+<hgeokg/resource/5653258147>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/295250268>
+<hgeokg/resource/5309538286>	<http://www.w3.org/2000/01/rdf-schema#label>	2 Av/E 84 St
+<hgeokg/resource/5640748792>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Cafe>
+<hgeokg/resource/2620513858>	<hgeokg/schema/internetAccess>	internetAccess-wlan
+<hgeokg/resource/5670707>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5653258147>
+<hgeokg/resource/5670707>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-E
+<hgeokg/resource/5794935823>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6356444688>
+<hgeokg/resource/5266898481>	<http://www.w3.org/2000/01/rdf-schema#label>	3rd Avenue & East 79th Street
+<hgeokg/resource/5309538286>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/46694766>
+<hgeokg/resource/6356444688>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5670797>
+<hgeokg/resource/5670797>	<Line_roads-Adjacent-Point_pofw>	<hgeokg/resource/266910535>
+<hgeokg/resource/5670797>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5403595965>
+<hgeokg/resource/5794912652>	<hgeokg/schema/brandWikipedia>	brandWikipedia-en:Insomnia Cookies
+<hgeokg/resource/6206645049>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5400492388>
+<hgeokg/resource/266910048>	<hgeokg/schema/phone>	phone-+1 212-249-9360
+<hgeokg/resource/2724054779>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/46694764>
+<hgeokg/resource/5670707>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/2623014696>
+<hgeokg/resource/5682498984>	<hgeokg/schema/brandWikipedia>	brandWikipedia-en:Duane Reade
+<hgeokg/resource/7108601966>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/579565231>
+<hgeokg/resource/2623014700>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5266898481>
+<hgeokg/resource/6356444688>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/5794935823>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6356480886>
+<hgeokg/resource/6356444688>	<hgeokg/schema/reservation>	reservation-yes
+<hgeokg/resource/5403595965>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5670797>
+<hgeokg/resource/5670797>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5794912652>
+<hgeokg/resource/5682498984>	<hgeokg/schema/addrHousenumber>	addrHousenumber-1524
+<hgeokg/resource/5670707>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/295250268>
+<hgeokg/resource/6377007361>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/357621680>
+<hgeokg/resource/2620513858>	<hgeokg/schema/phone>	phone-+1 212-988-9434
+<hgeokg/resource/5266895221>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5799942462>
+<hgeokg/resource/2620513858>	<hgeokg/schema/internetAccessFee>	internetAccessFee-no
+<hgeokg/resource/295250268>	<hgeokg/schema/roofShape>	roofShape-flat
+<hgeokg/resource/6237222967>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/46694766>
+<hgeokg/resource/266910535>	<hgeokg/schema/ele>	ele-22
+<hgeokg/resource/5309539007>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/6742941217>	<http://www.w3.org/2000/01/rdf-schema#label>	Jaiya
+<hgeokg/resource/6742941217>	<hgeokg/schema/phone>	phone-+1 212-717-8877
+<hgeokg/resource/5640748792>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6356444688>
+<hgeokg/resource/7108604986>	<hgeokg/schema/openingHours>	openingHours-Mo-Sa 10:00-21:00; Su 12:00-21:00
+<hgeokg/resource/5766202314>	<hgeokg/schema/cocktails>	cocktails-yes
+<hgeokg/resource/2620513858>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Bar>
+<hgeokg/resource/5794912652>	<hgeokg/schema/addrState>	addrState-NY
+<hgeokg/resource/6356444688>	<hgeokg/schema/phone>	phone-+1 212-861-2434
+<hgeokg/resource/5309538286>	<hgeokg/schema/operator>	operator-Metropolitan Transportation Authority
+<hgeokg/resource/5406372923>	<hgeokg/schema/phone>	phone-+1 212-772-9675
+<hgeokg/resource/46694766>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6346043620>
+<hgeokg/resource/6356444688>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5794912652>
+<hgeokg/resource/6742941217>	<hgeokg/schema/addrHousenumber>	addrHousenumber-1553
+<hgeokg/resource/46694764>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6742941217>
+<hgeokg/resource/2620513914>	<http://www.w3.org/2000/01/rdf-schema#label>	7-Eleven
+<hgeokg/resource/5640748792>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6742941217>
+<hgeokg/resource/5766202314>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6346043620>
+<hgeokg/resource/5406372923>	<hgeokg/schema/delivery>	delivery-yes
+<hgeokg/resource/5794912652>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/46694764>
+<hgeokg/resource/5403595965>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6377007361>
+<hgeokg/resource/2623014696>	<hgeokg/schema/operatorWikipedia>	operatorWikipedia-en:Chase Bank
+<hgeokg/resource/6742941217>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/2620513839>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/2620513858>
+<hgeokg/resource/2620513914>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/579565231>
+<hgeokg/resource/266910048>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/5670797>
+<hgeokg/resource/5266898481>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/7108601966>
+<hgeokg/resource/266909355>	<hgeokg/schema/ele>	ele-14
+<hgeokg/resource/46694764>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5406372923>
+<hgeokg/resource/5406372923>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5794935823>
+<hgeokg/resource/5919283363>	<hgeokg/schema/openingHours>	openingHours-Mo-Fr 11:00-19:00; Sa 10:00-18:00; Su 12:00-17:00
+<hgeokg/resource/5799942462>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/266910048>
+<hgeokg/resource/46694766>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/6206645049>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5640748792>
+<hgeokg/resource/2620513839>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/2724054779>
+<hgeokg/resource/579565231>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/266910048>
+<hgeokg/resource/5670707>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/5799942462>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/46694766>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6237222967>
+<hgeokg/resource/5400492388>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Restaurant>
+<hgeokg/resource/2623014705>	<hgeokg/schema/operator>	operator-United States Postal Service
+<hgeokg/resource/5406372923>	<hgeokg/schema/addrHousenumber>	addrHousenumber-1557
+<hgeokg/resource/579565231>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Primary>
+<hgeokg/resource/5266895221>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/2620513914>
+<hgeokg/resource/6346043620>	<hgeokg/schema/wheelchair>	wheelchair-yes
+<hgeokg/resource/6206645049>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5794935823>
+<hgeokg/resource/5406372923>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Restaurant>
+<hgeokg/resource/2623014700>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/PostBox>
+<hgeokg/resource/5670707>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5919283363>
+<hgeokg/resource/5403595965>	<hgeokg/schema/phone>	phone-+1-212-737-5656
+<hgeokg/resource/579565231>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5670797>
+<hgeokg/resource/5406372923>	<hgeokg/schema/wheelchair>	wheelchair-yes
+<hgeokg/resource/6206645049>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/46694764>
+<hgeokg/resource/357579307>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/AmenitySchool>
+<hgeokg/resource/5401946320>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5653258147>
+<hgeokg/resource/266910535>	<Line_roads-Adjacent-Point_pofw>	<hgeokg/resource/46694766>
+<hgeokg/resource/2623014705>	<hgeokg/schema/brandWikidata>	brandWikidata-Q668687
+<hgeokg/resource/2623014705>	<hgeokg/schema/operatorWikipedia>	operatorWikipedia-en:United States Postal Service
+<hgeokg/resource/266909355>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/5794912652>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/2623014636>
+<hgeokg/resource/6356444688>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/46694764>
+<hgeokg/resource/295250268>	<hgeokg/schema/buildingLevels>	buildingLevels-35
+<hgeokg/resource/2620513839>	<hgeokg/schema/brandWikipedia>	brandWikipedia-en:Citibank
+<hgeokg/resource/6356480886>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5400492388>
+<hgeokg/resource/266910535>	<hgeokg/schema/nycdoittBin>	nycdoittBin-1073219
+<hgeokg/resource/2620513858>	<http://www.w3.org/2000/01/rdf-schema#label>	Dylan Murphy's
+<hgeokg/resource/5266895221>	<hgeokg/schema/bus>	bus-yes
+<hgeokg/resource/2623014636>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5670707>
+<hgeokg/resource/2623014572>	<hgeokg/schema/openingHours>	openingHours-Mo-Fr 08:00-18:00; Sa 09:00-15:00
+<hgeokg/resource/6356480886>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6206645049>
+<hgeokg/resource/357579307>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6356480886>
+<hgeokg/resource/266909355>	<hgeokg/schema/website>	website-http://www.hungarianbaptistchurchnyc.org/
+<hgeokg/resource/4365213715>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5799942462>
+<hgeokg/resource/5406372923>	<hgeokg/schema/cuisine>	cuisine-japanese
+<hgeokg/resource/2620513858>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/579565231>
+<hgeokg/resource/6377007361>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/4571057189>
+<hgeokg/resource/6356480886>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5794935823>
+<hgeokg/resource/4571057189>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5794935823>
+<hgeokg/resource/5309539007>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5670707>
+<hgeokg/resource/4365213715>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/266910048>
+<hgeokg/resource/6346043620>	<hgeokg/schema/openingHours>	openingHours-11:00-03:45
+<hgeokg/resource/6237222967>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/6356444688>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6356480886>
+<hgeokg/resource/7108601966>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Restaurant>
+<hgeokg/resource/6237222967>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6206645049>
+<hgeokg/resource/5670797>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/2623014705>	<hgeokg/schema/operatorType>	operatorType-public
+<hgeokg/resource/5653258147>	<hgeokg/schema/addrHousenumber>	addrHousenumber-1535
+<hgeokg/resource/46694766>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/357621680>
+<hgeokg/resource/6742941217>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6206645049>
+<hgeokg/resource/4365213715>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/2620513914>
+<hgeokg/resource/2623014696>	<http://www.w3.org/2000/01/rdf-schema#label>	Chase
+<hgeokg/resource/6356444688>	<hgeokg/schema/fax>	fax-+1 212-861-2426
+<hgeokg/resource/6742941217>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Restaurant>
+<hgeokg/resource/46694766>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/7108604986>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/2724054779>
+<hgeokg/resource/5309538286>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/4571057189>
+<hgeokg/resource/5670797>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/2620513858>
+<hgeokg/resource/6377007361>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/46694766>
+<hgeokg/resource/46694766>	<Line_roads-Adjacent-Point_pofw>	<hgeokg/resource/266910535>
+<hgeokg/resource/2623014636>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/46694764>
+<hgeokg/resource/579565231>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/4365213715>
+<hgeokg/resource/579565231>	<http://www.w3.org/2000/01/rdf-schema#label>	3rd Avenue
+<hgeokg/resource/6206645850>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6237222967>
+<hgeokg/resource/2620513839>	<hgeokg/schema/addrState>	addrState-NY
+<hgeokg/resource/5403595965>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/266910535>	<Point_transport-Adjacent-Point_pofw>	<hgeokg/resource/5266895221>
+<hgeokg/resource/5670797>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/2620513839>
+<hgeokg/resource/4365213715>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/46694766>
+<hgeokg/resource/46694764>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6206645049>
+<hgeokg/resource/6377007361>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5309538286>
+<hgeokg/resource/4571057189>	<hgeokg/schema/cuisine>	cuisine-chinese
+<hgeokg/resource/6377007361>	<hgeokg/schema/reservation>	reservation-yes
+<hgeokg/resource/5403595965>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5309538286>
+<hgeokg/resource/2623014696>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/2623014572>
+<hgeokg/resource/2620513839>	<http://www.w3.org/2000/01/rdf-schema#label>	Citibank
+<hgeokg/resource/7108601966>	<hgeokg/schema/openingHours>	openingHours-Sa, Su 08:00-15:00, 17:30-22:00; Mo-Fr 17:30-22:00
+<hgeokg/resource/2623014636>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5794912652>
+<hgeokg/resource/266910048>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/CommunityCentre>
+<hgeokg/resource/5794935823>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5406372923>
+<hgeokg/resource/5403595965>	<http://www.w3.org/2000/01/rdf-schema#label>	Donguri
+<hgeokg/resource/7108604986>	<hgeokg/schema/addrPostcode>	addrPostcode-10028
+<hgeokg/resource/6237222967>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5670797>
+<hgeokg/resource/5794935823>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/2623014636>
+<hgeokg/resource/2623014700>	<hgeokg/schema/collectionTimes>	collectionTimes-Mo-Fr 11:00; Sa 13:00
+<hgeokg/resource/5401946320>	<Point_pois-Adjacent-Point_pofw>	<hgeokg/resource/266909355>
+<hgeokg/resource/6377007361>	<hgeokg/schema/outdoorSeating>	outdoorSeating-sidewalk
+<hgeokg/resource/46694766>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5799942462>
+<hgeokg/resource/4365213715>	<hgeokg/schema/level>	level-0
+<hgeokg/resource/5309539007>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/PublicTransportPlatform>
+<hgeokg/resource/266910048>	<hgeokg/schema/wikipedia>	wikipedia-en:Hungarian House of New York
+<hgeokg/resource/6346043620>	<hgeokg/schema/cocktails>	cocktails-yes
+<hgeokg/resource/2724054779>	<hgeokg/schema/oldName>	oldName-Beyoglu
+<hgeokg/resource/6237222967>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5400492388>
+<hgeokg/resource/5799942462>	<Point_pois-Adjacent-Point_pofw>	<hgeokg/resource/266910535>
+<hgeokg/resource/6237222967>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6356480886>
+<hgeokg/resource/266910048>	<hgeokg/schema/owner>	owner-American Hungarian Library and Historical Society;Hungarian Scout Association in Exteris; Széchenyi István Society
+<hgeokg/resource/5640748792>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5406372923>
+<hgeokg/resource/2623014636>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5670797>
+<hgeokg/resource/2620513858>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/46694766>
+<hgeokg/resource/6742941217>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5670707>
+<hgeokg/resource/6742941217>	<hgeokg/schema/website>	website-http://www.jaiya.com/
+<hgeokg/resource/266910048>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/2620513839>
+<hgeokg/resource/6742941217>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6356444688>
+<hgeokg/resource/2623014636>	<hgeokg/schema/brandWikipedia>	brandWikipedia-en:Starbucks
+<hgeokg/resource/4365213715>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5266895221>
+<hgeokg/resource/2623014636>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5640748792>
+<hgeokg/resource/266910535>	<hgeokg/schema/addrPostcode>	addrPostcode-10028
+<hgeokg/resource/6356480886>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6356444688>
+<hgeokg/resource/5400492388>	<hgeokg/schema/cuisine>	cuisine-japanese
+<hgeokg/resource/2620513839>	<hgeokg/schema/brandWikidata>	brandWikidata-Q857063
+<hgeokg/resource/2623014636>	<hgeokg/schema/brand>	brand-Starbucks
+<hgeokg/resource/4571057189>	<hgeokg/schema/phone>	phone-+1 212-396-3339
+<hgeokg/resource/357621680>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/46694764>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/7108604986>
+<hgeokg/resource/5766202314>	<hgeokg/schema/email>	email-buathairamennyc@gmail.com
+<hgeokg/resource/5670707>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/2623014696>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5266898481>
+<hgeokg/resource/5670707>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/266909355>
+<hgeokg/resource/5766202314>	<hgeokg/schema/cuisine>	cuisine-thai
+<hgeokg/resource/5266895221>	<Point_transport-Adjacent-Point_pofw>	<hgeokg/resource/266910535>
+<hgeokg/resource/5403595965>	<hgeokg/schema/website>	website-https://www.donguriny.com/
+<hgeokg/resource/357579307>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5403595965>
+<hgeokg/resource/5309538286>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/6237222967>
+<hgeokg/resource/2623014700>	<hgeokg/schema/brandWikidata>	brandWikidata-Q668687
+<hgeokg/resource/5919283363>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Clothes>
+<hgeokg/resource/46694766>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/4571057189>
+<hgeokg/resource/357579307>	<hgeokg/schema/ele>	ele-17
+<hgeokg/resource/4571057189>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5309538286>
+<hgeokg/resource/5799942462>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Alcohol>
+<hgeokg/resource/5794935823>	<hgeokg/schema/cocktails>	cocktails-yes
+<hgeokg/resource/6377007361>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Pub>
+<hgeokg/resource/7108601966>	<hgeokg/schema/cuisine>	cuisine-american
+<hgeokg/resource/295250268>	<hgeokg/schema/roofMaterial>	roofMaterial-concrete
+<hgeokg/resource/6346043620>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5403595965>
+<hgeokg/resource/6356480886>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Restaurant>
+<hgeokg/resource/5766202314>	<hgeokg/schema/outdoorSeating>	outdoorSeating-yes
+<hgeokg/resource/2623014696>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5670707>
+<hgeokg/resource/5309539007>	<hgeokg/schema/bench>	bench-yes
+<hgeokg/resource/5794935823>	<http://www.w3.org/2000/01/rdf-schema#label>	Comic Strip Live
+<hgeokg/resource/6356444688>	<hgeokg/schema/delivery>	delivery-yes
+<hgeokg/resource/2623014572>	<hgeokg/schema/brand>	brand-Chase
+<hgeokg/resource/266909355>	<hgeokg/schema/nycdoittBin>	nycdoittBin-1048527
+<hgeokg/resource/5266898481>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/5653258147>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Pharmacy>
+<hgeokg/resource/5794912652>	<hgeokg/schema/brand>	brand-Insomnia Cookies
+<hgeokg/resource/2620513858>	<hgeokg/schema/contactFacebook>	contactFacebook-https://www.facebook.com/dylanmurphys/
+<hgeokg/resource/2623014705>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/2623014696>
+<hgeokg/resource/2623014636>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5406372923>
+<hgeokg/resource/2623014700>	<http://www.w3.org/2000/01/rdf-schema#label>	USPS
+<hgeokg/resource/6377007361>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5670797>
+<hgeokg/resource/46694766>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6244721584>
+<hgeokg/resource/5794912652>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6206645049>
+<hgeokg/resource/6206645850>	<hgeokg/schema/openingHours>	openingHours-Tu-Su 11:00-23:30
+<hgeokg/resource/357579307>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6377007361>
+<hgeokg/resource/5309539007>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5653258147>
+<hgeokg/resource/5640748792>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/46694764>
+<hgeokg/resource/357579307>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/46694766>
+<hgeokg/resource/5670797>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/266910048>	<hgeokg/schema/height>	height-10.3
+<hgeokg/resource/2623014572>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/2623014705>
+<hgeokg/resource/6356444688>	<hgeokg/schema/outdoorSeating>	outdoorSeating-yes
+<hgeokg/resource/266909355>	<hgeokg/schema/gnisFeatureId>	gnisFeatureId-2083596
+<hgeokg/resource/5682498984>	<hgeokg/schema/phone>	phone-+1 646-422-1023
+<hgeokg/resource/5309539007>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5682498984>
+<hgeokg/resource/2623014700>	<hgeokg/schema/operatorType>	operatorType-public
+<hgeokg/resource/5266898481>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/BusStop>
+<hgeokg/resource/6206645850>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5766202314>
+<hgeokg/resource/6742941217>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/2623014636>
+<hgeokg/resource/7108601966>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/2623014696>
+<hgeokg/resource/5794912652>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6377007361>
+<hgeokg/resource/46694766>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/357579307>
+<hgeokg/resource/5794935823>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5670797>
+<hgeokg/resource/2620513839>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5670797>
+<hgeokg/resource/46694764>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5400492388>
+<hgeokg/resource/2623014705>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/PostBox>
+<hgeokg/resource/5400492388>	<hgeokg/schema/delivery>	delivery-yes
+<hgeokg/resource/6346043620>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/46694766>
+<hgeokg/resource/5766202314>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Restaurant>
+<hgeokg/resource/6346043620>	<hgeokg/schema/startDate>	startDate-1960
+<hgeokg/resource/266910535>	<Point_pofw-Adjacent-Point_pois>	<hgeokg/resource/266910048>
+<hgeokg/resource/5682498984>	<hgeokg/schema/brand>	brand-Duane Reade
+<hgeokg/resource/46694766>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/2620513858>
+<hgeokg/resource/5670797>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6244721584>
+<hgeokg/resource/6356480886>	<hgeokg/schema/openingHours>	openingHours-Mo-Th 12:00-15:00, 17:00-22:00; Fr 12:00-15:00, 17:00-22:30; Sa 12:00-22:30; Su 12:00-22:00
+<hgeokg/resource/5766202314>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6206645850>
+<hgeokg/resource/46694766>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/6377007361>	<hgeokg/schema/addrHousenumber>	addrHousenumber-1590
+<hgeokg/resource/5670707>	<http://www.w3.org/2000/01/rdf-schema#label>	East 80th Street
+<hgeokg/resource/5653258147>	<hgeokg/schema/brandWikipedia>	brandWikipedia-en:Rite Aid
+<hgeokg/resource/5400492388>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/266910048>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/46694764>
+<hgeokg/resource/5682498984>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5309539007>
+<hgeokg/resource/5670707>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/7108601966>
+<hgeokg/resource/5406372923>	<hgeokg/schema/website>	website-https://www.yukajapanese.com
+<hgeokg/resource/5670707>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5406372923>
+<hgeokg/resource/6356444688>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6206645049>
+<hgeokg/resource/5670797>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/46694764>
+<hgeokg/resource/5266895221>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/6356444688>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/2623014636>
+<hgeokg/resource/357621680>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/46694766>
+<hgeokg/resource/7108601966>	<hgeokg/schema/phone>	phone-+1 212-717-9798
+<hgeokg/resource/5919283363>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5670707>
+<hgeokg/resource/5266898481>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/2623014700>
+<hgeokg/resource/5794935823>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6377007361>
+<hgeokg/resource/295250268>	<http://www.w3.org/2000/01/rdf-schema#label>	Continental Towers
+<hgeokg/resource/266910048>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/4365213715>
+<hgeokg/resource/2620513858>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/2620513839>
+<hgeokg/resource/5670797>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5400492388>
+<hgeokg/resource/266910535>	<hgeokg/schema/religion>	religion-christian
+<hgeokg/resource/4365213715>	<hgeokg/schema/website>	website-https://www.justsalad.com/
+<hgeokg/resource/2623014572>	<hgeokg/schema/addrHousenumber>	addrHousenumber-201
+<hgeokg/resource/6206645850>	<hgeokg/schema/phone>	phone-+1 212-585-0400
+<hgeokg/resource/4571057189>	<hgeokg/schema/addrPostcode>	addrPostcode-10028
+<hgeokg/resource/5403595965>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/46694766>
+<hgeokg/resource/2623014696>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Atm>
+<hgeokg/resource/46694766>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/2620513914>
+<hgeokg/resource/5653258147>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5682498984>
+<hgeokg/resource/579565231>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5266895221>
+<hgeokg/resource/266910048>	<hgeokg/schema/startDate>	startDate-1966
+<hgeokg/resource/5309539007>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/BusStop>
+<hgeokg/resource/266910535>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/6356480886>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5794912652>
+<hgeokg/resource/6206645049>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/4571057189>
+<hgeokg/resource/5919283363>	<hgeokg/schema/addrPostcode>	addrPostcode-10028
+<hgeokg/resource/266910535>	<Point_pois-Adjacent-Point_pofw>	<hgeokg/resource/4365213715>
+<hgeokg/resource/5400492388>	<hgeokg/schema/addrPostcode>	addrPostcode-10028
+<hgeokg/resource/5670707>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5309539007>
+<hgeokg/resource/4571057189>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6206645049>
+<hgeokg/resource/5799942462>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/4365213715>
+<hgeokg/resource/266910048>	<hgeokg/schema/website>	website-http://www.hungarianhouse.org/
+<hgeokg/resource/5400492388>	<hgeokg/schema/website>	website-https://www.amurajapanese.com
+<hgeokg/resource/7108604986>	<hgeokg/schema/email>	email-admin@elizabarwine.com
+<hgeokg/resource/295250268>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Apartments>
+<hgeokg/resource/5670797>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/2620513839>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Bank>
+<hgeokg/resource/5794912652>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/266910535>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/PlaceOfWorship>
+<hgeokg/resource/5406372923>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5653258147>
+<hgeokg/resource/579565231>	<hgeokg/schema/hgv>	hgv-local
+<hgeokg/resource/5266895221>	<http://www.w3.org/2000/01/rdf-schema#label>	3rd Avenue & East 82nd Street
+<hgeokg/resource/5799942462>	<hgeokg/schema/openingHours>	openingHours-Mo-Th, Su 10:00-20:00; Fr, Sa 12:00-21:00
+<hgeokg/resource/2623014636>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5653258147>
+<hgeokg/resource/46694764>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/579565231>
+<hgeokg/resource/7108604986>	<hgeokg/schema/addrHousenumber>	addrHousenumber-1413
+<hgeokg/resource/6377007361>	<hgeokg/schema/happyHours>	happyHours-Mo-Fr 15:00-19:00
+<hgeokg/resource/7108601966>	<hgeokg/schema/addrPostcode>	addrPostcode-10028
+<hgeokg/resource/5400492388>	<hgeokg/schema/takeaway>	takeaway-yes
+<hgeokg/resource/6237222967>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5309538286>
+<hgeokg/resource/6206645850>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5309538286>
+<hgeokg/resource/7108604986>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/46694764>
+<hgeokg/resource/5309538286>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5766202314>
+<hgeokg/resource/5406372923>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6742941217>
+<hgeokg/resource/295250268>	<hgeokg/schema/addrPostcode>	addrPostcode-10075
+<hgeokg/resource/6742941217>	<hgeokg/schema/branch>	branch-Upper East Side
+<hgeokg/resource/4365213715>	<hgeokg/schema/brandWikidata>	brandWikidata-Q23091823
+<hgeokg/resource/2620513914>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5670797>
+<hgeokg/resource/2620513858>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/5682498984>	<hgeokg/schema/brandWikidata>	brandWikidata-Q5310380
+<hgeokg/resource/5653258147>	<Point_pois-Adjacent-Point_pofw>	<hgeokg/resource/266909355>
+<hgeokg/resource/6346043620>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/5670707>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/2623014705>
+<hgeokg/resource/5794912652>	<hgeokg/schema/brandWikidata>	brandWikidata-Q16997024
+<hgeokg/resource/5653258147>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5401946320>
+<hgeokg/resource/7108601966>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/7108604986>
+<hgeokg/resource/5309538286>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/BusStop>
+<hgeokg/resource/5400492388>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/46694764>
+<hgeokg/resource/5403595965>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/357621680>
+<hgeokg/resource/5766202314>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/6237222967>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/357579307>
+<hgeokg/resource/2620513839>	<hgeokg/schema/brand>	brand-Citibank
+<hgeokg/resource/5309539007>	<Point_transport-Adjacent-Polygon_buildings>	<hgeokg/resource/295250268>
+<hgeokg/resource/6356444688>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5794935823>
+<hgeokg/resource/2623014636>	<hgeokg/schema/takeaway>	takeaway-yes
+<hgeokg/resource/4571057189>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6237222967>
+<hgeokg/resource/2620513839>	<hgeokg/schema/addrHousenumber>	addrHousenumber-1445
+<hgeokg/resource/5640748792>	<hgeokg/schema/addrPostcode>	addrPostcode-10028
+<hgeokg/resource/579565231>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/2620513914>
+<hgeokg/resource/2623014572>	<hgeokg/schema/brandWikidata>	brandWikidata-Q524629
+<hgeokg/resource/5794912652>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/4571057189>
+<hgeokg/resource/579565231>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5799942462>
+<hgeokg/resource/5670797>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6206645049>
+<hgeokg/resource/5309538286>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/6377007361>
+<hgeokg/resource/6377007361>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5403595965>
+<hgeokg/resource/266910048>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/5670797>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/46694766>
+<hgeokg/resource/46694764>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/5670707>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/2623014700>
+<hgeokg/resource/2623014700>	<hgeokg/schema/ref>	ref-1007500007
+<hgeokg/resource/5794935823>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/46694764>
+<hgeokg/resource/5266898481>	<hgeokg/schema/shelter>	shelter-no
+<hgeokg/resource/5919283363>	<http://www.w3.org/2000/01/rdf-schema#label>	Gentlemen's Resale
+<hgeokg/resource/579565231>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/7108601966>
+<hgeokg/resource/6356444688>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6742941217>
+<hgeokg/resource/266910535>	<http://www.w3.org/2000/01/rdf-schema#label>	Saint Elizabeth of Hungary Roman Catholic Church
+<hgeokg/resource/6237222967>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6377007361>
+<hgeokg/resource/5403595965>	<hgeokg/schema/cuisine>	cuisine-japanese
+<hgeokg/resource/4365213715>	<hgeokg/schema/takeaway>	takeaway-yes
+<hgeokg/resource/5670797>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5266895221>
+<hgeokg/resource/5266895221>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/2620513839>
+<hgeokg/resource/5406372923>	<http://www.w3.org/2000/01/rdf-schema#label>	Yuka Japanese
+<hgeokg/resource/6742941217>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5794935823>
+<hgeokg/resource/295250268>	<Point_transport-Adjacent-Polygon_buildings>	<hgeokg/resource/5309539007>
+<hgeokg/resource/5670707>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/2623014572>
+<hgeokg/resource/5919283363>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5794935823>
+<hgeokg/resource/4365213715>	<hgeokg/schema/branch>	branch-Yorkville
+<hgeokg/resource/5794935823>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6742941217>
+<hgeokg/resource/5766202314>	<hgeokg/schema/phone>	phone-+1 212-879-7999
+<hgeokg/resource/6356444688>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5406372923>
+<hgeokg/resource/5406372923>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/295250268>	<hgeokg/schema/buildingPart>	buildingPart-yes
+<hgeokg/resource/579565231>	<hgeokg/schema/surface>	surface-asphalt
+<hgeokg/resource/579565231>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/2623014572>
+<hgeokg/resource/266910048>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5266895221>
+<hgeokg/resource/579565231>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/6356480886>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6237222967>
+<hgeokg/resource/6356480886>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6377007361>
+<hgeokg/resource/5266898481>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/2623014572>
+<hgeokg/resource/5794935823>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5640748792>
+<hgeokg/resource/7108604986>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/579565231>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/2623014700>
+<hgeokg/resource/2623014572>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5266898481>
+<hgeokg/resource/266909355>	<http://www.w3.org/2000/01/rdf-schema#label>	Hungarian Baptist Church
+<hgeokg/resource/2623014705>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5670707>
+<hgeokg/resource/5794912652>	<hgeokg/schema/delivery>	delivery-yes
+<hgeokg/resource/6356444688>	<hgeokg/schema/email>	email-fabiosanmatteo@gmail.com
+<hgeokg/resource/5400492388>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6356444688>
+<hgeokg/resource/7108604986>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/7108601966>
+<hgeokg/resource/2620513914>	<hgeokg/schema/openingHours>	openingHours-24/7
+<hgeokg/resource/46694764>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/266910048>	<hgeokg/schema/addrHousenumber>	addrHousenumber-213
+<hgeokg/resource/2620513914>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/6356480886>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/4571057189>
+<hgeokg/resource/5670797>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6237222967>
+<hgeokg/resource/5400492388>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6206645049>
+<hgeokg/resource/7108601966>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/6346043620>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6206645850>
+<hgeokg/resource/2620513914>	<hgeokg/schema/website>	website-https://www.7-eleven.com/locations/ny/new%20york/1453-3rd-ave-33579
+<hgeokg/resource/2623014636>	<hgeokg/schema/addrState>	addrState-NY
+<hgeokg/resource/46694764>	<hgeokg/schema/surface>	surface-asphalt
+<hgeokg/resource/6346043620>	<hgeokg/schema/altName>	altName-Dorrian's Red Hand
+<hgeokg/resource/5799942462>	<hgeokg/schema/delivery>	delivery-Mo-We 10:30-19:00; Th 10:30-19:30; Fr, Sa 10:30-20:30; Su 12:30-19:30
+<hgeokg/resource/6742941217>	<hgeokg/schema/reservation>	reservation-yes
+<hgeokg/resource/4571057189>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5794912652>
+<hgeokg/resource/6237222967>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5794935823>
+<hgeokg/resource/2623014705>	<hgeokg/schema/brandWikipedia>	brandWikipedia-en:United States Postal Service
+<hgeokg/resource/295250268>	<hgeokg/schema/height>	height-105.7
+<hgeokg/resource/4571057189>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5403595965>
+<hgeokg/resource/2620513839>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/579565231>
+<hgeokg/resource/266910535>	<Line_roads-Adjacent-Point_pofw>	<hgeokg/resource/5670797>
+<hgeokg/resource/5640748792>	<hgeokg/schema/addrHousenumber>	addrHousenumber-1551
+<hgeokg/resource/5799942462>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5266895221>
+<hgeokg/resource/357579307>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6237222967>
+<hgeokg/resource/6346043620>	<http://www.w3.org/2000/01/rdf-schema#label>	Dorrian's
+<hgeokg/resource/266910261>	<hgeokg/schema/height>	height-18.1
+<hgeokg/resource/5640748792>	<hgeokg/schema/website>	website-https://www.hhmidtownbagelseast.com/
+<hgeokg/resource/4571057189>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6377007361>
+<hgeokg/resource/5794935823>	<hgeokg/schema/theatreGenre>	theatreGenre-stand_up_comedy
+<hgeokg/resource/295250268>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/5670707>
+<hgeokg/resource/5670707>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/579565231>
+<hgeokg/resource/5406372923>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/2623014636>
+<hgeokg/resource/5403595965>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/4571057189>
+<hgeokg/resource/4571057189>	<http://www.w3.org/2000/01/rdf-schema#label>	Wa Jeal Sichuan Chili House
+<hgeokg/resource/5640748792>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/6356480886>	<hgeokg/schema/takeaway>	takeaway-yes
+<hgeokg/resource/2623014700>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/2623014705>
+<hgeokg/resource/6356480886>	<hgeokg/schema/phone>	phone-+1-212-327-2800
+<hgeokg/resource/6206645850>	<hgeokg/schema/addrHousenumber>	addrHousenumber-1603
+<hgeokg/resource/7108601966>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5670707>
+<hgeokg/resource/2620513839>	<hgeokg/schema/addrCountry>	addrCountry-US
+<hgeokg/resource/46694764>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5919283363>
+<hgeokg/resource/5794935823>	<hgeokg/schema/addrHousenumber>	addrHousenumber-1568
+<hgeokg/resource/5919283363>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/46694764>
+<hgeokg/resource/6346043620>	<hgeokg/schema/bar>	bar-yes
+<hgeokg/resource/266910048>	<hgeokg/schema/contactFacebook>	contactFacebook-https://www.facebook.com/hungarianhouse/
+<hgeokg/resource/6206645850>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Restaurant>
+<hgeokg/resource/46694764>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/266910535>	<Line_roads-Adjacent-Point_pofw>	<hgeokg/resource/579565231>
+<hgeokg/resource/2623014700>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/2623014696>
+<hgeokg/resource/5400492388>	<hgeokg/schema/addrHousenumber>	addrHousenumber-1567
+<hgeokg/resource/6346043620>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5309538286>
+<hgeokg/resource/5794935823>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5794912652>
+<hgeokg/resource/5794912652>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5406372923>
+<hgeokg/resource/2623014572>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/2623014696>
+<hgeokg/resource/6356444688>	<hgeokg/schema/cocktails>	cocktails-yes
+<hgeokg/resource/579565231>	<Line_roads-Adjacent-Point_pofw>	<hgeokg/resource/266910535>
+<hgeokg/resource/6237222967>	<hgeokg/schema/disusedAmenity>	disusedAmenity-restaurant
+<hgeokg/resource/5401946320>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5309539007>
+<hgeokg/resource/5653258147>	<hgeokg/schema/dispensing>	dispensing-yes
+<hgeokg/resource/5309538286>	<hgeokg/schema/shelter>	shelter-no
+<hgeokg/resource/266910048>	<hgeokg/schema/addrPostcode>	addrPostcode-10028
+<hgeokg/resource/2623014636>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Cafe>
+<hgeokg/resource/2623014636>	<hgeokg/schema/internetAccess>	internetAccess-wlan
+<hgeokg/resource/5309538286>	<hgeokg/schema/gtfsStopId>	gtfsStopId-401754
+<hgeokg/resource/7108601966>	<hgeokg/schema/website>	website-https://www.elizabar.com/Elis-Table.aspx
+<hgeokg/resource/6377007361>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/357579307>
+<hgeokg/resource/5670797>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/266910048>
+<hgeokg/resource/4571057189>	<hgeokg/schema/website>	website-http://wajealrestaurant.com
+<hgeokg/resource/5682498984>	<http://www.w3.org/2000/01/rdf-schema#label>	Duane Reade
+<hgeokg/resource/5670707>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/357621680>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/AmenitySchool>
+<hgeokg/resource/2620513858>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/266910048>
+<hgeokg/resource/5266895221>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/4365213715>
+<hgeokg/resource/266910261>	<hgeokg/schema/addrPostcode>	addrPostcode-10028
+<hgeokg/resource/579565231>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/2620513858>
+<hgeokg/resource/5682498984>	<hgeokg/schema/addrPostcode>	addrPostcode-10075
+<hgeokg/resource/266909355>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/PlaceOfWorship>
+<hgeokg/resource/2623014572>	<http://www.w3.org/2000/01/rdf-schema#label>	Chase
+<hgeokg/resource/5682498984>	<hgeokg/schema/ref>	ref-14236
+<hgeokg/resource/2623014696>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/2623014636>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6356444688>
+<hgeokg/resource/4365213715>	<hgeokg/schema/internetAccess>	internetAccess-wlan
+<hgeokg/resource/2623014572>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Bank>
+<hgeokg/resource/5266898481>	<hgeokg/schema/bench>	bench-no
+<hgeokg/resource/5400492388>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5640748792>
+<hgeokg/resource/46694766>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5670797>
+<hgeokg/resource/7108601966>	<hgeokg/schema/reservation>	reservation-yes
+<hgeokg/resource/2623014572>	<hgeokg/schema/addrPostcode>	addrPostcode-10075
+<hgeokg/resource/295250268>	<hgeokg/schema/nycdoittBin>	nycdoittBin-1049261
+<hgeokg/resource/6206645049>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6237222967>
+<hgeokg/resource/2620513858>	<hgeokg/schema/cocktails>	cocktails-yes
+<hgeokg/resource/5266895221>	<hgeokg/schema/bench>	bench-yes
+<hgeokg/resource/2623014636>	<hgeokg/schema/cuisine>	cuisine-coffee_shop
+<hgeokg/resource/5400492388>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5670797>
+<hgeokg/resource/4365213715>	<hgeokg/schema/phone>	phone-+1 212-244-1111
+<hgeokg/resource/2623014705>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/2623014700>
+<hgeokg/resource/5653258147>	<hgeokg/schema/ref>	ref-04215
+<hgeokg/resource/6377007361>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6206645850>
+<hgeokg/resource/5670797>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6356444688>
+<hgeokg/resource/4571057189>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6206645850>
+<hgeokg/resource/5766202314>	<hgeokg/schema/delivery>	delivery-yes
+<hgeokg/resource/5400492388>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/2623014636>
+<hgeokg/resource/5670797>	<http://www.w3.org/2000/01/rdf-schema#label>	East 82nd Street
+<hgeokg/resource/5653258147>	<hgeokg/schema/phone>	phone-+1 212-327-4757
+<hgeokg/resource/7108604986>	<hgeokg/schema/delivery>	delivery-yes
+<hgeokg/resource/5794935823>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5919283363>
+<hgeokg/resource/266910048>	<hgeokg/schema/nycdoittBin>	nycdoittBin-1048645
+<hgeokg/resource/4365213715>	<hgeokg/schema/openingHours>	openingHours-Mo-Fr 10:30-21:00; Sa, Su 11:00-20:30
+<hgeokg/resource/2623014572>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/7108601966>
+<hgeokg/resource/2623014636>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6742941217>
+<hgeokg/resource/46694764>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/266909355>
+<hgeokg/resource/266910261>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/5403595965>
+<hgeokg/resource/5400492388>	<hgeokg/schema/phone>	phone-+1-212-772-1688
+<hgeokg/resource/2623014700>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/5766202314>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/46694766>
+<hgeokg/resource/6356480886>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/5309538286>	<hgeokg/schema/network>	network-MTA New York City Bus
+<hgeokg/resource/357579307>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5670797>
+<hgeokg/resource/2724054779>	<hgeokg/schema/addrPostcode>	addrPostcode-10028
+<hgeokg/resource/7108601966>	<hgeokg/schema/email>	email-elistable@elizabar.com
+<hgeokg/resource/6742941217>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5653258147>
+<hgeokg/resource/6377007361>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5794935823>
+<hgeokg/resource/295250268>	<Polygon_buildings-Contain-Point_pois>	<hgeokg/resource/5682498984>
+<hgeokg/resource/6742941217>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5406372923>
+<hgeokg/resource/2620513914>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/266910048>
+<hgeokg/resource/2623014705>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/7108601966>
+<hgeokg/resource/2724054779>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/5682498984>	<hgeokg/schema/dispensing>	dispensing-yes
+<hgeokg/resource/266909355>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/5670707>
+<hgeokg/resource/5682498984>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Pharmacy>
+<hgeokg/resource/2623014636>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6206645049>
+<hgeokg/resource/2623014636>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/6244721584>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5670797>
+<hgeokg/resource/5401946320>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5670707>
+<hgeokg/resource/2623014636>	<hgeokg/schema/addrCountry>	addrCountry-US
+<hgeokg/resource/4365213715>	<hgeokg/schema/addrHousenumber>	addrHousenumber-1471
+<hgeokg/resource/6356480886>	<hgeokg/schema/addrHousenumber>	addrHousenumber-1574
+<hgeokg/resource/2623014705>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/2623014572>
+<hgeokg/resource/5640748792>	<hgeokg/schema/openingHours>	openingHours-Mo-Su 05:30-21:00
+<hgeokg/resource/7108601966>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/2623014572>
+<hgeokg/resource/5794912652>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6356444688>
+<hgeokg/resource/6742941217>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/46694764>
+<hgeokg/resource/2623014636>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5400492388>
+<hgeokg/resource/357621680>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5403595965>
+<hgeokg/resource/5670707>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/46694764>
+<hgeokg/resource/357579307>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/2620513839>	<hgeokg/schema/addrPostcode>	addrPostcode-10028
+<hgeokg/resource/2623014636>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5794935823>
+<hgeokg/resource/2623014636>	<hgeokg/schema/brandWikidata>	brandWikidata-Q37158
+<hgeokg/resource/7108601966>	<hgeokg/schema/cocktails>	cocktails-yes
+<hgeokg/resource/6356480886>	<hgeokg/schema/delivery>	delivery-yes
+<hgeokg/resource/6206645049>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6356480886>
+<hgeokg/resource/2623014572>	<hgeokg/schema/brandWikipedia>	brandWikipedia-en:Chase Bank
+<hgeokg/resource/266910261>	<hgeokg/schema/nycdoittBin>	nycdoittBin-1049938
+<hgeokg/resource/5640748792>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6206645049>
+<hgeokg/resource/4571057189>	<hgeokg/schema/openingHours>	openingHours-Sa 12:00-23:30; Su 12:00-23:00; Mo 11:00-23:30; Tu-Fr 11:30-23:30
+<hgeokg/resource/2623014700>	<hgeokg/schema/brand>	brand-USPS
+<hgeokg/resource/5682498984>	<hgeokg/schema/website>	website-https://www.walgreens.com/locator/duane+reade-1524+2nd+ave-new+york-ny-10075/id=14236
+<hgeokg/resource/2623014705>	<http://www.w3.org/2000/01/rdf-schema#label>	USPS
+<hgeokg/resource/6244721584>	<http://www.w3.org/2000/01/rdf-schema#label>	Angel X's Cleaners
+<hgeokg/resource/5919283363>	<hgeokg/schema/secondHand>	secondHand-only
+<hgeokg/resource/5406372923>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5794912652>
+<hgeokg/resource/6346043620>	<hgeokg/schema/facebook>	facebook-dorrians.nyc
+<hgeokg/resource/6346043620>	<hgeokg/schema/outdoorSeating>	outdoorSeating-street
+<hgeokg/resource/2620513858>	<hgeokg/schema/cuisine>	cuisine-pub
+<hgeokg/resource/5403595965>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/357579307>
+<hgeokg/resource/5670797>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/579565231>
+<hgeokg/resource/2620513858>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/4365213715>
+<hgeokg/resource/5919283363>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5670797>
+<hgeokg/resource/6346043620>	<hgeokg/schema/website>	website-https://www.dorrians-nyc.com
+<hgeokg/resource/4571057189>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6356480886>
+<hgeokg/resource/7108601966>	<hgeokg/schema/addrHousenumber>	addrHousenumber-1413
+<hgeokg/resource/579565231>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5670707>
+<hgeokg/resource/266910261>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/46694766>
+<hgeokg/resource/2724054779>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5670797>
+<hgeokg/resource/6244721584>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/266910048>
+<hgeokg/resource/2623014696>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/2623014700>
+<hgeokg/resource/5670707>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/6377007361>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/6206645850>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/4571057189>
+<hgeokg/resource/6356480886>	<hgeokg/schema/cuisine>	cuisine-ramen
+<hgeokg/resource/5400492388>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6237222967>
+<hgeokg/resource/6742941217>	<hgeokg/schema/cuisine>	cuisine-thai
+<hgeokg/resource/357621680>	<hgeokg/schema/gnisFeatureId>	gnisFeatureId-2083998
+<hgeokg/resource/266910048>	<hgeokg/schema/buildingLevels>	buildingLevels-3
+<hgeokg/resource/2623014696>	<hgeokg/schema/brandWikidata>	brandWikidata-Q524629
+<hgeokg/resource/5266895221>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/46694766>
+<hgeokg/resource/266910048>	<Point_pofw-Adjacent-Point_pois>	<hgeokg/resource/266910535>
+<hgeokg/resource/2620513839>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/2623014572>	<hgeokg/schema/addrState>	addrState-NY
+<hgeokg/resource/5401946320>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Convenience>
+<hgeokg/resource/5670797>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/357621680>
+<hgeokg/resource/5309538286>	<hgeokg/schema/bench>	bench-no
+<hgeokg/resource/46694766>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5266895221>
+<hgeokg/resource/6206645850>	<http://www.w3.org/2000/01/rdf-schema#label>	Vinnie's Pizza
+<hgeokg/resource/5682498984>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5670707>
+<hgeokg/resource/6356444688>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5640748792>
+<hgeokg/resource/6377007361>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6206645049>
+<hgeokg/resource/5670707>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/7108604986>
+<hgeokg/resource/6356480886>	<hgeokg/schema/facebook>	facebook-meijinramen
+<hgeokg/resource/579565231>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/7108604986>
+<hgeokg/resource/2623014636>	<hgeokg/schema/addrHousenumber>	addrHousenumber-1559
+<hgeokg/resource/4365213715>	<hgeokg/schema/brandWikipedia>	brandWikipedia-en:Just Salad
+<hgeokg/resource/357579307>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/357621680>
+<hgeokg/resource/5919283363>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/6206645049>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5794912652>
+<hgeokg/resource/2620513914>	<hgeokg/schema/delivery>	delivery-yes
+<hgeokg/resource/5682498984>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/357579307>	<hgeokg/schema/gnisFeatureId>	gnisFeatureId-961473
+<hgeokg/resource/6206645850>	<hgeokg/schema/cuisine>	cuisine-pizza
+<hgeokg/resource/5919283363>	<hgeokg/schema/website>	website-http://gentlemensresaleclothing.com
+<hgeokg/resource/5670797>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6356480886>
+<hgeokg/resource/5919283363>	<hgeokg/schema/addrHousenumber>	addrHousenumber-322
+<hgeokg/resource/4571057189>	<hgeokg/schema/delivery>	delivery-yes
+<hgeokg/resource/5640748792>	<hgeokg/schema/cuisine>	cuisine-bagel
+<hgeokg/resource/2623014705>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/579565231>
+<hgeokg/resource/6244721584>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Laundry>
+<hgeokg/resource/5406372923>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5640748792>
+<hgeokg/resource/5653258147>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6742941217>
+<hgeokg/resource/2623014696>	<hgeokg/schema/openingHours>	openingHours-24/7
+<hgeokg/resource/5794935823>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Theatre>
+<hgeokg/resource/2623014705>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/6244721584>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/5266898481>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/PublicTransportPlatform>
+<hgeokg/resource/5670797>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/5766202314>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5309538286>
+<hgeokg/resource/5794912652>	<hgeokg/schema/openingHours>	openingHours-Mo-Fr 09:00-03:00; Sa, Su 11:00-03:00
+<hgeokg/resource/266910048>	<hgeokg/schema/email>	email-hungarianhousenyc@gmail.com
+<hgeokg/resource/6742941217>	<hgeokg/schema/openingHours>	openingHours-Mo-Th 17:00-23:00; Fr 11:00-15:00, 17:00-00:00; Sa 11:45-00:00; Su 11:45-23:00
+<hgeokg/resource/2620513858>	<hgeokg/schema/addrHousenumber>	addrHousenumber-1453
+<hgeokg/resource/266909355>	<Point_pois-Adjacent-Point_pofw>	<hgeokg/resource/5653258147>
+<hgeokg/resource/5794912652>	<hgeokg/schema/addrHousenumber>	addrHousenumber-1579
+<hgeokg/resource/357621680>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/4571057189>
+<hgeokg/resource/6356480886>	<hgeokg/schema/outdoorSeating>	outdoorSeating-sidewalk
+<hgeokg/resource/7108601966>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/2623014705>
+<hgeokg/resource/5794935823>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/4571057189>
+<hgeokg/resource/5794912652>	<hgeokg/schema/addrPostcode>	addrPostcode-10028
+<hgeokg/resource/266910535>	<hgeokg/schema/gnisFeatureId>	gnisFeatureId-2083598
+<hgeokg/resource/2620513914>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5266895221>
+<hgeokg/resource/579565231>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/2620513839>
+<hgeokg/resource/5799942462>	<hgeokg/schema/contactFacebook>	contactFacebook-VintageGrapeWines
+<hgeokg/resource/4365213715>	<hgeokg/schema/delivery>	delivery-yes
+<hgeokg/resource/2623014572>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/579565231>
+<hgeokg/resource/5670707>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5682498984>
+<hgeokg/resource/7108604986>	<http://www.w3.org/2000/01/rdf-schema#label>	Eli's List
+<hgeokg/resource/6206645850>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6346043620>
+<hgeokg/resource/2620513914>	<hgeokg/schema/addrHousenumber>	addrHousenumber-1453
+<hgeokg/resource/266910535>	<hgeokg/schema/height>	height-14.9
+<hgeokg/resource/6356480886>	<hgeokg/schema/cocktails>	cocktails-yes
+<hgeokg/resource/2620513914>	<hgeokg/schema/brand>	brand-7-Eleven
+<hgeokg/resource/5406372923>	<hgeokg/schema/openingHours>	openingHours-Tu-Su 13:00-21:30
+<hgeokg/resource/5309538286>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/6346043620>
+<hgeokg/resource/2623014696>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/2623014705>
+<hgeokg/resource/6206645049>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/579565231>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/46694764>
+<hgeokg/resource/6742941217>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5400492388>
+<hgeokg/resource/46694764>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6356444688>
+<hgeokg/resource/6346043620>	<hgeokg/schema/addrPostcode>	addrPostcode-10028
+<hgeokg/resource/6206645049>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5670797>
+<hgeokg/resource/46694766>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5403595965>
+<hgeokg/resource/5640748792>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/2623014636>
+<hgeokg/resource/357579307>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/4571057189>

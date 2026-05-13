@@ -1,0 +1,423 @@
+<hgeokg/resource/5000630008>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/46240205>
+<hgeokg/resource/46240188>	<http://www.w3.org/2000/01/rdf-schema#label>	East 132nd Street
+<hgeokg/resource/68668534>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/357579817>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/46693907>
+<hgeokg/resource/271624691>	<hgeokg/schema/nycdoittBin>	nycdoittBin-1054276
+<hgeokg/resource/46240205>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/357621313>
+<hgeokg/resource/271610663>	<hgeokg/schema/addrPostcode>	addrPostcode-10035
+<hgeokg/resource/794487279>	<hgeokg/schema/gauge>	gauge-1435
+<hgeokg/resource/357621094>	<Point_pofw-Adjacent-Point_pois>	<hgeokg/resource/271610663>
+<hgeokg/resource/68668534>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/357621313>
+<hgeokg/resource/357621088>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/46693907>
+<hgeokg/resource/275298526>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/46693907>
+<hgeokg/resource/46240205>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/46240188>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/46594125>
+<hgeokg/resource/46693907>	<hgeokg/schema/cyclewayLeft>	cyclewayLeft-lane
+<hgeokg/resource/46240205>	<hgeokg/schema/lanes>	lanes-1
+<hgeokg/resource/46594125>	<Line_roads-Intersect-Line_railway>	<hgeokg/resource/794487279>
+<hgeokg/resource/118524669>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/46594126>
+<hgeokg/resource/357621082>	<Point_pofw-Adjacent-Point_pofw>	<hgeokg/resource/5000630008>
+<hgeokg/resource/46594126>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/794487279>
+<hgeokg/resource/68668534>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/275298526>
+<hgeokg/resource/46693866>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/357621082>	<hgeokg/schema/addrPostcode>	addrPostcode-10035
+<hgeokg/resource/357621313>	<hgeokg/schema/ele>	ele-6
+<hgeokg/resource/68668534>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/357579460>
+<hgeokg/resource/357621313>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/46693907>
+<hgeokg/resource/46240205>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/46594123>
+<hgeokg/resource/118524669>	<hgeokg/schema/source>	source-Bing
+<hgeokg/resource/46130044>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/5000630008>	<Point_pofw-Adjacent-Line_railway>	<hgeokg/resource/794487279>
+<hgeokg/resource/794487279>	<hgeokg/schema/owner>	owner-Metropolitan Transportation Authority
+<hgeokg/resource/275298530>	<http://www.w3.org/2000/01/rdf-schema#label>	East 129th Street
+<hgeokg/resource/271624691>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/BuildingSchool>
+<hgeokg/resource/46693907>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/271610665>
+<hgeokg/resource/5000630008>	<Point_pofw-Adjacent-Point_pofw>	<hgeokg/resource/357621082>
+<hgeokg/resource/46240188>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-E; W
+<hgeokg/resource/46693907>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/275298528>
+<hgeokg/resource/794487279>	<Line_roads-Intersect-Line_railway>	<hgeokg/resource/46594125>
+<hgeokg/resource/46240188>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/68668534>
+<hgeokg/resource/271624691>	<hgeokg/schema/height>	height-15.8
+<hgeokg/resource/46693866>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Rail>
+<hgeokg/resource/46240188>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/357579460>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/46130044>
+<hgeokg/resource/275298526>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/271610665>
+<hgeokg/resource/46693866>	<Line_roads-Intersect-Line_railway>	<hgeokg/resource/275298530>
+<hgeokg/resource/46693866>	<Point_pofw-Adjacent-Line_railway>	<hgeokg/resource/5000630008>
+<hgeokg/resource/275298526>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/46240205>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/5000033690>	<Point_pofw-Adjacent-Point_pois>	<hgeokg/resource/271610663>
+<hgeokg/resource/46693866>	<hgeokg/schema/bridgeName>	bridgeName-Park Avenue Viaduct
+<hgeokg/resource/271610665>	<hgeokg/schema/nycdoittBin>	nycdoittBin-1054214
+<hgeokg/resource/357621313>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/AmenitySchool>
+<hgeokg/resource/275298528>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/275298526>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/271610663>
+<hgeokg/resource/794487279>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/46240205>
+<hgeokg/resource/357579817>	<http://www.w3.org/2000/01/rdf-schema#label>	Public School 24
+<hgeokg/resource/46693866>	<Line_roads-Intersect-Line_railway>	<hgeokg/resource/46240188>
+<hgeokg/resource/46594123>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/46130044>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/68668534>
+<hgeokg/resource/271610665>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/46693866>	<Line_railway-Adjacent-Line_railway>	<hgeokg/resource/794487279>
+<hgeokg/resource/46130044>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/357579817>
+<hgeokg/resource/5000033690>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/46693907>
+<hgeokg/resource/46240188>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/46693866>	<hgeokg/schema/level>	level-1
+<hgeokg/resource/46693907>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/357579460>
+<hgeokg/resource/271624691>	<hgeokg/schema/gnisFeatureId>	gnisFeatureId-961325
+<hgeokg/resource/271610665>	<hgeokg/schema/gnisFeatureId>	gnisFeatureId-2083871
+<hgeokg/resource/357621082>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/5000033690>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/46240205>	<http://www.w3.org/2000/01/rdf-schema#label>	Park Avenue
+<hgeokg/resource/46693907>	<Line_roads-Intersect-Line_railway>	<hgeokg/resource/46693866>
+<hgeokg/resource/5000630008>	<hgeokg/schema/addrState>	addrState-NY
+<hgeokg/resource/46693866>	<hgeokg/schema/owner>	owner-Metropolitan Transportation Authority
+<hgeokg/resource/271610663>	<Point_pofw-Adjacent-Point_pois>	<hgeokg/resource/118524669>
+<hgeokg/resource/68668534>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/275298528>
+<hgeokg/resource/46130044>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/46693907>
+<hgeokg/resource/46240205>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/5000630008>
+<hgeokg/resource/357621094>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/275298528>
+<hgeokg/resource/5000033690>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/275298530>
+<hgeokg/resource/46693907>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5000033690>
+<hgeokg/resource/46693866>	<hgeokg/schema/frequency>	frequency-0
+<hgeokg/resource/46693866>	<Line_roads-Intersect-Line_railway>	<hgeokg/resource/46594123>
+<hgeokg/resource/271610663>	<Point_pofw-Adjacent-Point_pois>	<hgeokg/resource/357621094>
+<hgeokg/resource/271624691>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/46594123>
+<hgeokg/resource/46693866>	<http://www.w3.org/2000/01/rdf-schema#label>	Hudson Line MT2
+<hgeokg/resource/68668534>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/46240188>
+<hgeokg/resource/46693907>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/357579817>
+<hgeokg/resource/357621082>	<http://www.w3.org/2000/01/rdf-schema#label>	Metropolitan Community Methodist Church
+<hgeokg/resource/271624691>	<hgeokg/schema/addrHousenumber>	addrHousenumber-2121
+<hgeokg/resource/68668534>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/46130044>
+<hgeokg/resource/46130044>	<Line_roads-Intersect-Line_railway>	<hgeokg/resource/794487279>
+<hgeokg/resource/46130044>	<http://www.w3.org/2000/01/rdf-schema#label>	East 127th Street
+<hgeokg/resource/275298526>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5000033690>
+<hgeokg/resource/794487279>	<Point_pois-Adjacent-Line_railway>	<hgeokg/resource/5000033690>
+<hgeokg/resource/357621313>	<hgeokg/schema/gnisFeatureId>	gnisFeatureId-2083872
+<hgeokg/resource/46240188>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/118524669>
+<hgeokg/resource/275298528>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/275298526>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/46594126>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/118524669>
+<hgeokg/resource/68668534>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/46693907>
+<hgeokg/resource/46594125>	<http://www.w3.org/2000/01/rdf-schema#label>	East 131st Street
+<hgeokg/resource/118524669>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/46594123>
+<hgeokg/resource/275298528>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/118524669>
+<hgeokg/resource/794487279>	<hgeokg/schema/bridgeName>	bridgeName-Park Avenue Viaduct
+<hgeokg/resource/357621088>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/357621094>	<hgeokg/schema/addrPostcode>	addrPostcode-10035
+<hgeokg/resource/357579460>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/68668534>
+<hgeokg/resource/271610665>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/275298526>
+<hgeokg/resource/271610665>	<Point_pofw-Adjacent-Point_pois>	<hgeokg/resource/271610663>
+<hgeokg/resource/357621082>	<hgeokg/schema/ele>	ele-7
+<hgeokg/resource/271610663>	<hgeokg/schema/religion>	religion-christian
+<hgeokg/resource/794487279>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/275298526>
+<hgeokg/resource/46693907>	<Line_roads-Intersect-Line_railway>	<hgeokg/resource/794487279>
+<hgeokg/resource/275298528>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/275298530>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5000033690>
+<hgeokg/resource/118524669>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/357621094>
+<hgeokg/resource/271610665>	<hgeokg/schema/addrHousenumber>	addrHousenumber-70
+<hgeokg/resource/275298528>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/357621094>
+<hgeokg/resource/46240205>	<hgeokg/schema/oldName>	oldName-4th Avenue
+<hgeokg/resource/46693866>	<hgeokg/schema/voltage>	voltage-700
+<hgeokg/resource/46693866>	<hgeokg/schema/railwayTrackRef>	railwayTrackRef-2
+<hgeokg/resource/357579460>	<http://www.w3.org/2000/01/rdf-schema#label>	Intermediate School 201
+<hgeokg/resource/46594126>	<http://www.w3.org/2000/01/rdf-schema#label>	East 131st Street
+<hgeokg/resource/275298530>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/271610665>
+<hgeokg/resource/271610665>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/AmenitySchool>
+<hgeokg/resource/46693907>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/46240205>
+<hgeokg/resource/794487279>	<Line_roads-Intersect-Line_railway>	<hgeokg/resource/46693907>
+<hgeokg/resource/5000033690>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/AmenitySchool>
+<hgeokg/resource/271624691>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/68668534>
+<hgeokg/resource/46240205>	<hgeokg/schema/wikipedia>	wikipedia-en:Park Avenue
+<hgeokg/resource/5000033690>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/275298526>
+<hgeokg/resource/5000033690>	<Point_pois-Adjacent-Line_railway>	<hgeokg/resource/794487279>
+<hgeokg/resource/46693907>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/794487279>	<hgeokg/schema/railwayTrackRef>	railwayTrackRef-4
+<hgeokg/resource/357579460>	<hgeokg/schema/gnisFeatureId>	gnisFeatureId-961505
+<hgeokg/resource/46594123>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/46594125>
+<hgeokg/resource/5000630008>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/357579460>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/AmenitySchool>
+<hgeokg/resource/275298526>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/46693866>
+<hgeokg/resource/46240205>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/46693907>
+<hgeokg/resource/46693866>	<hgeokg/schema/layer>	layer-1
+<hgeokg/resource/794487279>	<hgeokg/schema/oldRailwayOperator>	oldRailwayOperator-NYC
+<hgeokg/resource/46240205>	<hgeokg/schema/maxspeed>	maxspeed-25
+<hgeokg/resource/794487279>	<Point_pois-Adjacent-Line_railway>	<hgeokg/resource/357579460>
+<hgeokg/resource/118524669>	<hgeokg/schema/gnisFeatureId>	gnisFeatureId-2500800
+<hgeokg/resource/46240205>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/275298530>
+<hgeokg/resource/275298528>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-E
+<hgeokg/resource/357621082>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/46130044>
+<hgeokg/resource/271610663>	<hgeokg/schema/denomination>	denomination-catholic
+<hgeokg/resource/46594125>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/46594126>
+<hgeokg/resource/5000033690>	<Point_pois-Adjacent-Line_railway>	<hgeokg/resource/46693866>
+<hgeokg/resource/275298526>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/271610663>	<http://www.w3.org/2000/01/rdf-schema#label>	All Saints Roman Catholic Church
+<hgeokg/resource/271610665>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/46240205>
+<hgeokg/resource/46594126>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/46594123>
+<hgeokg/resource/275298530>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/275298526>
+<hgeokg/resource/46693907>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/46130044>
+<hgeokg/resource/46130044>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/5000630008>
+<hgeokg/resource/68668534>	<hgeokg/schema/wikipedia>	wikipedia-en:Madison Avenue
+<hgeokg/resource/275298526>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/357621094>
+<hgeokg/resource/275298530>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/46240205>
+<hgeokg/resource/46594125>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/46240205>
+<hgeokg/resource/271624691>	<http://www.w3.org/2000/01/rdf-schema#label>	Public School 133
+<hgeokg/resource/357579817>	<hgeokg/schema/ele>	ele-7
+<hgeokg/resource/46693866>	<hgeokg/schema/oldRailwayOperator>	oldRailwayOperator-NYC
+<hgeokg/resource/794487279>	<hgeokg/schema/maxspeed>	maxspeed-40 mph
+<hgeokg/resource/357621313>	<Point_pois-Adjacent-Line_railway>	<hgeokg/resource/794487279>
+<hgeokg/resource/357621313>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/46240205>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/46130044>
+<hgeokg/resource/271610663>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/275298526>
+<hgeokg/resource/794487279>	<Line_roads-Intersect-Line_railway>	<hgeokg/resource/46594123>
+<hgeokg/resource/357621094>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/46594123>
+<hgeokg/resource/357621313>	<http://www.w3.org/2000/01/rdf-schema#label>	Choir Academy of Harlem
+<hgeokg/resource/68668534>	<hgeokg/schema/maxspeed>	maxspeed-25 mph
+<hgeokg/resource/46594123>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/68668534>
+<hgeokg/resource/794487279>	<hgeokg/schema/usage>	usage-main
+<hgeokg/resource/46130044>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/357621088>
+<hgeokg/resource/118524669>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/271624691>
+<hgeokg/resource/271610663>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/275298528>
+<hgeokg/resource/275298526>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/68668534>
+<hgeokg/resource/275298528>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/271610663>
+<hgeokg/resource/118524669>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/68668534>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/271610663>
+<hgeokg/resource/46594125>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/68668534>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/271624691>
+<hgeokg/resource/275298526>	<http://www.w3.org/2000/01/rdf-schema#label>	East 129th Street
+<hgeokg/resource/68668534>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/118524669>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/275298528>
+<hgeokg/resource/46594123>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/275298526>
+<hgeokg/resource/275298526>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/275298530>
+<hgeokg/resource/271624691>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/275298528>
+<hgeokg/resource/357621082>	<hgeokg/schema/religion>	religion-christian
+<hgeokg/resource/271610665>	<http://www.w3.org/2000/01/rdf-schema#label>	Children's Storefront School
+<hgeokg/resource/794487279>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/46594126>
+<hgeokg/resource/46594126>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/46693866>
+<hgeokg/resource/46240188>	<Line_roads-Intersect-Line_railway>	<hgeokg/resource/46693866>
+<hgeokg/resource/46240188>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/46240205>
+<hgeokg/resource/357579817>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/46130044>
+<hgeokg/resource/357621094>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/275298526>
+<hgeokg/resource/46594123>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/271624691>
+<hgeokg/resource/46693907>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/275298526>
+<hgeokg/resource/46693866>	<Line_roads-Intersect-Line_railway>	<hgeokg/resource/46693907>
+<hgeokg/resource/46594125>	<Line_roads-Intersect-Line_railway>	<hgeokg/resource/46693866>
+<hgeokg/resource/275298526>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/46594123>
+<hgeokg/resource/275298530>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-E
+<hgeokg/resource/5000630008>	<hgeokg/schema/addrPostcode>	addrPostcode-10035
+<hgeokg/resource/46693907>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/357621088>
+<hgeokg/resource/794487279>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/275298526>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/794487279>
+<hgeokg/resource/5000630008>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/46130044>
+<hgeokg/resource/271610665>	<hgeokg/schema/addrPostcode>	addrPostcode-10035
+<hgeokg/resource/357621094>	<hgeokg/schema/ele>	ele-6
+<hgeokg/resource/357621094>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5000033690>
+<hgeokg/resource/275298530>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/46693907>
+<hgeokg/resource/5000033690>	<hgeokg/schema/addrHousenumber>	addrHousenumber-59
+<hgeokg/resource/46240205>	<hgeokg/schema/nameEn>	nameEn-Park Avenue
+<hgeokg/resource/357621088>	<http://www.w3.org/2000/01/rdf-schema#label>	Saint Andrew's Episcopal Church
+<hgeokg/resource/46594126>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/357621094>
+<hgeokg/resource/271624691>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Polygon>
+<hgeokg/resource/46240205>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Secondary>
+<hgeokg/resource/275298530>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/357621082>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/68668534>
+<hgeokg/resource/5000033690>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/357621094>
+<hgeokg/resource/357579460>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/46693907>
+<hgeokg/resource/68668534>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Secondary>
+<hgeokg/resource/46594126>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/46594125>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-W; E
+<hgeokg/resource/794487279>	<http://www.w3.org/2000/01/rdf-schema#label>	Hudson Line MT4
+<hgeokg/resource/68668534>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/46594123>
+<hgeokg/resource/275298526>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/46594123>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/275298530>
+<hgeokg/resource/46693866>	<hgeokg/schema/bridge>	bridge-yes
+<hgeokg/resource/357579460>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/46240205>
+<hgeokg/resource/357621088>	<hgeokg/schema/gnisFeatureId>	gnisFeatureId-2083709
+<hgeokg/resource/794487279>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Rail>
+<hgeokg/resource/46693907>	<http://www.w3.org/2000/01/rdf-schema#label>	East 128th Street
+<hgeokg/resource/794487279>	<hgeokg/schema/operator>	operator-Metro-North Railroad
+<hgeokg/resource/46594126>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/271624691>
+<hgeokg/resource/46240205>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/794487279>
+<hgeokg/resource/46240205>	<hgeokg/schema/hgv>	hgv-destination
+<hgeokg/resource/357621082>	<hgeokg/schema/denomination>	denomination-methodist
+<hgeokg/resource/357621088>	<hgeokg/schema/religion>	religion-christian
+<hgeokg/resource/46594126>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/68668534>
+<hgeokg/resource/46240205>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/357579460>
+<hgeokg/resource/46594123>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/275298528>
+<hgeokg/resource/118524669>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/68668534>
+<hgeokg/resource/275298530>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/275298528>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/68668534>
+<hgeokg/resource/357621082>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/PlaceOfWorship>
+<hgeokg/resource/357621313>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/46240205>
+<hgeokg/resource/794487279>	<Line_railway-Adjacent-Line_railway>	<hgeokg/resource/46693866>
+<hgeokg/resource/357621094>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/118524669>
+<hgeokg/resource/46693907>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/271610663>
+<hgeokg/resource/46130044>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/68668534>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/118524669>
+<hgeokg/resource/46693866>	<Line_roads-Intersect-Line_railway>	<hgeokg/resource/46594125>
+<hgeokg/resource/68668534>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/68668534>	<hgeokg/schema/hgv>	hgv-local
+<hgeokg/resource/46594123>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/46594126>
+<hgeokg/resource/271610665>	<hgeokg/schema/height>	height-12.9
+<hgeokg/resource/118524669>	<http://www.w3.org/2000/01/rdf-schema#label>	Moore Playground
+<hgeokg/resource/794487279>	<Line_roads-Intersect-Line_railway>	<hgeokg/resource/46130044>
+<hgeokg/resource/357621082>	<hgeokg/schema/addrHousenumber>	addrHousenumber-1975
+<hgeokg/resource/46594123>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/46240188>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/46594126>
+<hgeokg/resource/46594123>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5000033690>
+<hgeokg/resource/46594123>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/118524669>
+<hgeokg/resource/5000630008>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/PlaceOfWorship>
+<hgeokg/resource/271610665>	<hgeokg/schema/ele>	ele-6
+<hgeokg/resource/46130044>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-E; W
+<hgeokg/resource/794487279>	<Point_pois-Adjacent-Line_railway>	<hgeokg/resource/271610665>
+<hgeokg/resource/46594123>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-E; W
+<hgeokg/resource/46693866>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/275298526>
+<hgeokg/resource/68668534>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/357621094>
+<hgeokg/resource/275298530>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/46130044>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/357579460>
+<hgeokg/resource/46693866>	<Line_roads-Intersect-Line_railway>	<hgeokg/resource/46130044>
+<hgeokg/resource/271610665>	<Point_pois-Adjacent-Line_railway>	<hgeokg/resource/794487279>
+<hgeokg/resource/46693907>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/46594123>	<Line_roads-Intersect-Line_railway>	<hgeokg/resource/794487279>
+<hgeokg/resource/271610663>	<hgeokg/schema/ele>	ele-6
+<hgeokg/resource/271624691>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/118524669>
+<hgeokg/resource/5000033690>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/46594123>
+<hgeokg/resource/46594123>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/271610663>
+<hgeokg/resource/357621088>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/PlaceOfWorship>
+<hgeokg/resource/68668534>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/357621082>
+<hgeokg/resource/794487279>	<Point_pois-Adjacent-Line_railway>	<hgeokg/resource/357621313>
+<hgeokg/resource/46693907>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-E;W
+<hgeokg/resource/5000630008>	<hgeokg/schema/religion>	religion-christian
+<hgeokg/resource/275298528>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/46594123>
+<hgeokg/resource/275298526>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/275298528>
+<hgeokg/resource/46240205>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/46594126>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/118524669>	<hgeokg/schema/ele>	ele-5
+<hgeokg/resource/357621094>	<hgeokg/schema/gnisFeatureId>	gnisFeatureId-2083711
+<hgeokg/resource/271610663>	<hgeokg/schema/nycdoittBin>	nycdoittBin-1054234
+<hgeokg/resource/46594126>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/46594125>
+<hgeokg/resource/275298526>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-E
+<hgeokg/resource/275298526>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/118524669>
+<hgeokg/resource/275298528>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/271624691>
+<hgeokg/resource/794487279>	<hgeokg/schema/layer>	layer-1
+<hgeokg/resource/275298526>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/46240205>
+<hgeokg/resource/275298528>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/794487279>	<Line_roads-Intersect-Line_railway>	<hgeokg/resource/46240188>
+<hgeokg/resource/46594123>	<Line_roads-Intersect-Line_railway>	<hgeokg/resource/46693866>
+<hgeokg/resource/68668534>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/46594126>
+<hgeokg/resource/46594126>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/5000630008>	<Point_pofw-Adjacent-Line_railway>	<hgeokg/resource/46693866>
+<hgeokg/resource/68668534>	<hgeokg/schema/lanes>	lanes-3
+<hgeokg/resource/794487279>	<hgeokg/schema/frequency>	frequency-0
+<hgeokg/resource/46693866>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/46240205>
+<hgeokg/resource/46693866>	<hgeokg/schema/operator>	operator-Metro-North Railroad
+<hgeokg/resource/357579460>	<hgeokg/schema/ele>	ele-6
+<hgeokg/resource/271610663>	<hgeokg/schema/gnisFeatureId>	gnisFeatureId-2083710
+<hgeokg/resource/271610665>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5000033690>
+<hgeokg/resource/46594126>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/46594125>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/46594123>
+<hgeokg/resource/46240205>	<hgeokg/schema/nameRu>	nameRu-Парк-Авеню
+<hgeokg/resource/794487279>	<hgeokg/schema/voltage>	voltage-700
+<hgeokg/resource/46240205>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/275298526>
+<hgeokg/resource/357579817>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/68668534>
+<hgeokg/resource/271610663>	<Point_pofw-Adjacent-Point_pois>	<hgeokg/resource/5000033690>
+<hgeokg/resource/5000630008>	<Point_pofw-Adjacent-Point_pois>	<hgeokg/resource/357621313>
+<hgeokg/resource/357621082>	<hgeokg/schema/gnisFeatureId>	gnisFeatureId-2083707
+<hgeokg/resource/357579817>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/AmenitySchool>
+<hgeokg/resource/357579460>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/357621313>
+<hgeokg/resource/46130044>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/46240205>
+<hgeokg/resource/357579460>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/357621088>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/46130044>
+<hgeokg/resource/5000630008>	<http://www.w3.org/2000/01/rdf-schema#label>	United New Church of Christ
+<hgeokg/resource/271624691>	<hgeokg/schema/ele>	ele-6
+<hgeokg/resource/46240188>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/46693866>	<hgeokg/schema/electrified>	electrified-rail
+<hgeokg/resource/5000630008>	<hgeokg/schema/addrHousenumber>	addrHousenumber-57
+<hgeokg/resource/271610663>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/275298530>	<Line_roads-Intersect-Line_railway>	<hgeokg/resource/794487279>
+<hgeokg/resource/357621094>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/AmenitySchool>
+<hgeokg/resource/5000033690>	<http://www.w3.org/2000/01/rdf-schema#label>	The Children's Storefront Academy
+<hgeokg/resource/46693866>	<Point_pois-Adjacent-Line_railway>	<hgeokg/resource/5000033690>
+<hgeokg/resource/46693866>	<Point_pois-Adjacent-Line_railway>	<hgeokg/resource/271610665>
+<hgeokg/resource/5000033690>	<hgeokg/schema/addrPostcode>	addrPostcode-10035
+<hgeokg/resource/357621094>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/46594123>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/68668534>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/357579817>
+<hgeokg/resource/46693866>	<hgeokg/schema/gauge>	gauge-1435
+<hgeokg/resource/46130044>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/271610665>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/275298530>
+<hgeokg/resource/271610665>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/46693907>
+<hgeokg/resource/357621313>	<Point_pofw-Adjacent-Point_pois>	<hgeokg/resource/5000630008>
+<hgeokg/resource/357579817>	<hgeokg/schema/gnisFeatureId>	gnisFeatureId-961562
+<hgeokg/resource/275298530>	<Line_roads-Intersect-Line_railway>	<hgeokg/resource/46693866>
+<hgeokg/resource/794487279>	<hgeokg/schema/level>	level-1
+<hgeokg/resource/46240205>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/46594126>
+<hgeokg/resource/357579817>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/46693866>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/46594126>
+<hgeokg/resource/46693907>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/271624691>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/46594126>
+<hgeokg/resource/118524669>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/46240188>
+<hgeokg/resource/794487279>	<hgeokg/schema/bridge>	bridge-yes
+<hgeokg/resource/794487279>	<Point_pofw-Adjacent-Line_railway>	<hgeokg/resource/5000630008>
+<hgeokg/resource/357621313>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/357579460>
+<hgeokg/resource/794487279>	<Line_roads-Intersect-Line_railway>	<hgeokg/resource/275298530>
+<hgeokg/resource/271610663>	<hgeokg/schema/addrHousenumber>	addrHousenumber-47
+<hgeokg/resource/5000033690>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/271610665>
+<hgeokg/resource/357621094>	<hgeokg/schema/addrHousenumber>	addrHousenumber-52
+<hgeokg/resource/46240205>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/46594125>
+<hgeokg/resource/271610663>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/PlaceOfWorship>
+<hgeokg/resource/271610665>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/46594123>
+<hgeokg/resource/275298528>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/275298526>
+<hgeokg/resource/357621088>	<hgeokg/schema/ele>	ele-7
+<hgeokg/resource/5000033690>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/46240205>
+<hgeokg/resource/46594125>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/46240188>
+<hgeokg/resource/357579460>	<Point_pois-Adjacent-Line_railway>	<hgeokg/resource/794487279>
+<hgeokg/resource/46693907>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/357621313>
+<hgeokg/resource/271610663>	<Point_pofw-Adjacent-Point_pois>	<hgeokg/resource/271610665>
+<hgeokg/resource/271610663>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/46594123>
+<hgeokg/resource/118524669>	<Point_pofw-Adjacent-Point_pois>	<hgeokg/resource/271610663>
+<hgeokg/resource/5000033690>	<hgeokg/schema/addrState>	addrState-NY
+<hgeokg/resource/271624691>	<hgeokg/schema/addrPostcode>	addrPostcode-10037
+<hgeokg/resource/46594125>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/118524669>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Park>
+<hgeokg/resource/46693907>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/275298530>
+<hgeokg/resource/46130044>	<Line_roads-Intersect-Line_railway>	<hgeokg/resource/46693866>
+<hgeokg/resource/357621313>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/46130044>
+<hgeokg/resource/357621094>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/46594126>
+<hgeokg/resource/46594126>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/46240188>
+<hgeokg/resource/46594123>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/46240205>
+<hgeokg/resource/46240205>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/46693866>
+<hgeokg/resource/46594126>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-W; E
+<hgeokg/resource/46693866>	<hgeokg/schema/usage>	usage-main
+<hgeokg/resource/46693866>	<hgeokg/schema/maxspeed>	maxspeed-40 mph
+<hgeokg/resource/46693907>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/68668534>
+<hgeokg/resource/46240188>	<Line_roads-Intersect-Line_railway>	<hgeokg/resource/794487279>
+<hgeokg/resource/46594123>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/794487279>	<hgeokg/schema/electrified>	electrified-rail
+<hgeokg/resource/357621094>	<http://www.w3.org/2000/01/rdf-schema#label>	All Saints School
+<hgeokg/resource/46130044>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/46594126>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/46240205>
+<hgeokg/resource/275298528>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/46693907>
+<hgeokg/resource/68668534>	<http://www.w3.org/2000/01/rdf-schema#label>	Madison Avenue
+<hgeokg/resource/271610663>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/46693907>
+<hgeokg/resource/46240205>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5000033690>
+<hgeokg/resource/275298528>	<http://www.w3.org/2000/01/rdf-schema#label>	East 129th Street
+<hgeokg/resource/46130044>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/357621082>
+<hgeokg/resource/357621313>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/68668534>
+<hgeokg/resource/46240205>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/271610665>
+<hgeokg/resource/275298530>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/357621094>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/68668534>
+<hgeokg/resource/271610663>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/68668534>
+<hgeokg/resource/271610665>	<Point_pois-Adjacent-Line_railway>	<hgeokg/resource/46693866>
+<hgeokg/resource/118524669>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/275298526>
+<hgeokg/resource/46693907>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/46594123>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/271610665>
+<hgeokg/resource/46130044>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/357621313>
+<hgeokg/resource/46594123>	<http://www.w3.org/2000/01/rdf-schema#label>	East 130th Street
+<hgeokg/resource/357621088>	<hgeokg/schema/addrPostcode>	addrPostcode-10035
+<hgeokg/resource/271610663>	<hgeokg/schema/height>	height-18.9
+<hgeokg/resource/275298530>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/46594123>
+<hgeokg/resource/46594125>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/46240205>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/46240188>
+<hgeokg/resource/357621088>	<hgeokg/schema/addrHousenumber>	addrHousenumber-2067
+<hgeokg/resource/46594123>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/357621094>

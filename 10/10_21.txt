@@ -1,0 +1,60 @@
+<hgeokg/resource/271875895>	<Point_transport-Adjacent-Polygon_buildings>	<hgeokg/resource/5415651945>
+<hgeokg/resource/5415651945>	<hgeokg/schema/bench>	bench-yes
+<hgeokg/resource/420895470>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Primary>
+<hgeokg/resource/6296851689>	<http://www.w3.org/2000/01/rdf-schema#label>	Hot Pot Under De Tree
+<hgeokg/resource/5415651945>	<hgeokg/schema/lit>	lit-no
+<hgeokg/resource/204084138>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6296851689>
+<hgeokg/resource/5296084265>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/PublicTransportPlatform>
+<hgeokg/resource/5415651945>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/271875895>	<hgeokg/schema/addrPostcode>	addrPostcode-10039
+<hgeokg/resource/5415651945>	<hgeokg/schema/shelter>	shelter-yes
+<hgeokg/resource/420895470>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5296084265>
+<hgeokg/resource/420895470>	<hgeokg/schema/hgv>	hgv-local
+<hgeokg/resource/5296084265>	<http://www.w3.org/2000/01/rdf-schema#label>	Frederick Douglass Boulevard & West 155th Street
+<hgeokg/resource/420895470>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/204084138>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/6296851689>	<hgeokg/schema/cuisine>	cuisine-jamaican
+<hgeokg/resource/420895470>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/6296851689>	<hgeokg/schema/phone>	phone-+1-212-234-3505
+<hgeokg/resource/5296084265>	<Point_transport-Adjacent-Polygon_buildings>	<hgeokg/resource/271875895>
+<hgeokg/resource/5296084265>	<Point_transport-Adjacent-Point_transport>	<hgeokg/resource/5415651945>
+<hgeokg/resource/5415651945>	<Point_transport-Adjacent-Polygon_buildings>	<hgeokg/resource/271875895>
+<hgeokg/resource/420895470>	<hgeokg/schema/bridgeName>	bridgeName-Macombs Dam Bridge
+<hgeokg/resource/5296084265>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/420895470>
+<hgeokg/resource/271875895>	<hgeokg/schema/nycdoittBin>	nycdoittBin-1060902
+<hgeokg/resource/5296084265>	<hgeokg/schema/bench>	bench-yes
+<hgeokg/resource/5296084265>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/271875895>	<http://www.w3.org/2000/01/rdf-schema#label>	Henry Brooks Senior Housing
+<hgeokg/resource/5415651945>	<hgeokg/schema/wheelchair>	wheelchair-yes
+<hgeokg/resource/271875895>	<hgeokg/schema/socialFacilityFor>	socialFacilityFor-underprivileged
+<hgeokg/resource/204084138>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/5415651945>	<Point_transport-Adjacent-Point_transport>	<hgeokg/resource/5296084265>
+<hgeokg/resource/6296851689>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Restaurant>
+<hgeokg/resource/6296851689>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/204084138>
+<hgeokg/resource/420895470>	<http://www.w3.org/2000/01/rdf-schema#label>	West 155th Street
+<hgeokg/resource/420895470>	<hgeokg/schema/wikipedia>	wikipedia-en:Macombs Dam Bridge
+<hgeokg/resource/271875895>	<Point_transport-Adjacent-Polygon_buildings>	<hgeokg/resource/5296084265>
+<hgeokg/resource/5415651945>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/BusStop>
+<hgeokg/resource/5296084265>	<hgeokg/schema/shelter>	shelter-yes
+<hgeokg/resource/204084138>	<http://www.w3.org/2000/01/rdf-schema#label>	West 151st Street
+<hgeokg/resource/420895470>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/271875895>
+<hgeokg/resource/271875895>	<hgeokg/schema/addrHousenumber>	addrHousenumber-304
+<hgeokg/resource/204084138>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-W
+<hgeokg/resource/204084138>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/5296084265>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/BusStop>
+<hgeokg/resource/271875895>	<hgeokg/schema/height>	height-9.9
+<hgeokg/resource/420895470>	<hgeokg/schema/layer>	layer-2
+<hgeokg/resource/204084138>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/420895470>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-W
+<hgeokg/resource/271875895>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/420895470>
+<hgeokg/resource/6296851689>	<hgeokg/schema/addrHousenumber>	addrHousenumber-2839
+<hgeokg/resource/5415651945>	<http://www.w3.org/2000/01/rdf-schema#label>	Frederick Douglass Boulevard & West 154th Street
+<hgeokg/resource/6296851689>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/420895470>	<hgeokg/schema/bridge>	bridge-yes
+<hgeokg/resource/5296084265>	<hgeokg/schema/routeRef>	routeRef-M10
+<hgeokg/resource/5296084265>	<hgeokg/schema/bus>	bus-yes
+<hgeokg/resource/5415651945>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/PublicTransportPlatform>
+<hgeokg/resource/420895470>	<hgeokg/schema/oneway>	oneway-no
+<hgeokg/resource/5415651945>	<hgeokg/schema/routeRef>	routeRef-M10
+<hgeokg/resource/271875895>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Polygon>
+<hgeokg/resource/5415651945>	<hgeokg/schema/bus>	bus-yes

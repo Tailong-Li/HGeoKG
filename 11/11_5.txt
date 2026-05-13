@@ -1,0 +1,254 @@
+<hgeokg/resource/793654755>	<hgeokg/schema/electrified>	electrified-rail
+<hgeokg/resource/6001870250>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/BicycleRental>
+<hgeokg/resource/584971390>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/271279022>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/6001870250>
+<hgeokg/resource/195743184>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Secondary>
+<hgeokg/resource/6379089482>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/6001870250>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/195743184>
+<hgeokg/resource/271279022>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/195743184>
+<hgeokg/resource/271279022>	<hgeokg/schema/addrHousenumber>	addrHousenumber-1615
+<hgeokg/resource/357621430>	<http://www.w3.org/2000/01/rdf-schema#label>	Junior High School 13
+<hgeokg/resource/195743338>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/584971390>
+<hgeokg/resource/5671368>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/195743338>
+<hgeokg/resource/793654755>	<Line_railway-Adjacent-Point_pois>	<hgeokg/resource/225171034>
+<hgeokg/resource/357621430>	<Point_pois-Within-Point_pois>	<hgeokg/resource/3623507>
+<hgeokg/resource/357621430>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/793654755>	<hgeokg/schema/railwayTrackRef>	railwayTrackRef-2
+<hgeokg/resource/5671368>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/584971390>	<hgeokg/schema/lit>	lit-yes
+<hgeokg/resource/793654755>	<hgeokg/schema/frequency>	frequency-0
+<hgeokg/resource/195743338>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Secondary>
+<hgeokg/resource/793654755>	<hgeokg/schema/oldRailwayOperator>	oldRailwayOperator-NYC
+<hgeokg/resource/46613662>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/46613662>	<hgeokg/schema/maxspeed>	maxspeed-25 mph
+<hgeokg/resource/584971390>	<hgeokg/schema/surface>	surface-asphalt
+<hgeokg/resource/3623507>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6270572929>
+<hgeokg/resource/4407040193>	<hgeokg/schema/wheelchair>	wheelchair-yes
+<hgeokg/resource/357621430>	<hgeokg/schema/ele>	ele-5
+<hgeokg/resource/6217851895>	<hgeokg/schema/wheelchair>	wheelchair-yes
+<hgeokg/resource/793654755>	<hgeokg/schema/level>	level-1
+<hgeokg/resource/357621430>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/195743184>
+<hgeokg/resource/3623507>	<Point_pois-Contain-Point_pois>	<hgeokg/resource/357621430>
+<hgeokg/resource/3623507>	<hgeokg/schema/pollingStation>	pollingStation-yes
+<hgeokg/resource/793654755>	<hgeokg/schema/usage>	usage-main
+<hgeokg/resource/3623507>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/584971390>
+<hgeokg/resource/225188063>	<http://www.w3.org/2000/01/rdf-schema#label>	Central Park East Community Playground
+<hgeokg/resource/195743184>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6270572929>
+<hgeokg/resource/4407040193>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/6217851895>
+<hgeokg/resource/3623507>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/AmenitySchool>
+<hgeokg/resource/5671368>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6270576692>
+<hgeokg/resource/4407040193>	<hgeokg/schema/website>	website-https://www.shopassociated.com/
+<hgeokg/resource/4407040193>	<hgeokg/schema/addrHousenumber>	addrHousenumber-1588
+<hgeokg/resource/793654755>	<hgeokg/schema/bridge>	bridge-yes
+<hgeokg/resource/6217851895>	<hgeokg/schema/covered>	covered-no
+<hgeokg/resource/6270572929>	<hgeokg/schema/addrHousenumber>	addrHousenumber-1608
+<hgeokg/resource/6217851895>	<hgeokg/schema/operator>	operator-Metropolitan Transportation Authority
+<hgeokg/resource/225171034>	<http://www.w3.org/2000/01/rdf-schema#label>	Peter Minuit Playground
+<hgeokg/resource/5671368>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/4407040193>
+<hgeokg/resource/5671368>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/357621430>
+<hgeokg/resource/271279022>	<hgeokg/schema/nycdoittBin>	nycdoittBin-1051584
+<hgeokg/resource/3623507>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/4407040193>
+<hgeokg/resource/6270575256>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/271279022>
+<hgeokg/resource/6270572929>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6270576692>
+<hgeokg/resource/3623507>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/6217851895>
+<hgeokg/resource/6379089482>	<hgeokg/schema/operator>	operator-United States Postal Service
+<hgeokg/resource/6217851895>	<http://www.w3.org/2000/01/rdf-schema#label>	E 106 St & Madison Av
+<hgeokg/resource/5671368>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-E
+<hgeokg/resource/6270575256>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Hairdresser>
+<hgeokg/resource/6270572929>	<http://www.w3.org/2000/01/rdf-schema#label>	Eco Green Pharmacy
+<hgeokg/resource/5671368>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/195743184>
+<hgeokg/resource/6270575256>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/584971390>	<hgeokg/schema/lanes>	lanes-2
+<hgeokg/resource/6270576692>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5671368>
+<hgeokg/resource/195743338>	<http://www.w3.org/2000/01/rdf-schema#label>	5th Avenue
+<hgeokg/resource/584971390>	<hgeokg/schema/hgv>	hgv-destination
+<hgeokg/resource/195743184>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/584971390>
+<hgeokg/resource/584971390>	<hgeokg/schema/sidewalk>	sidewalk-both
+<hgeokg/resource/6270575256>	<hgeokg/schema/addrHousenumber>	addrHousenumber-1606
+<hgeokg/resource/793654755>	<hgeokg/schema/voltage>	voltage-700
+<hgeokg/resource/195743338>	<hgeokg/schema/hgv>	hgv-destination;no
+<hgeokg/resource/793654755>	<hgeokg/schema/gauge>	gauge-1435
+<hgeokg/resource/793654755>	<hgeokg/schema/owner>	owner-Metropolitan Transportation Authority
+<hgeokg/resource/5671368>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6270572929>
+<hgeokg/resource/225171034>	<Line_railway-Adjacent-Point_pois>	<hgeokg/resource/793654755>
+<hgeokg/resource/225171034>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/271279022>
+<hgeokg/resource/6270572929>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/195743184>
+<hgeokg/resource/4407040193>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/3623507>
+<hgeokg/resource/4407040193>	<hgeokg/schema/phone>	phone-+1 646-449-8780
+<hgeokg/resource/3623507>	<hgeokg/schema/addrPostcode>	addrPostcode-10029
+<hgeokg/resource/271279022>	<http://www.w3.org/2000/01/rdf-schema#label>	Public School 108
+<hgeokg/resource/195743338>	<hgeokg/schema/nameRu>	nameRu-5-я авеню
+<hgeokg/resource/584971390>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5671368>
+<hgeokg/resource/6379089482>	<hgeokg/schema/operatorWikipedia>	operatorWikipedia-en:United States Postal Service
+<hgeokg/resource/195743184>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/357621430>
+<hgeokg/resource/3623507>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/6001870250>	<hgeokg/schema/brand>	brand-Citi Bike
+<hgeokg/resource/6270572929>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/3623507>
+<hgeokg/resource/6270572929>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6270575256>
+<hgeokg/resource/4407040193>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6270576692>
+<hgeokg/resource/6217851895>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5671368>
+<hgeokg/resource/584971390>	<hgeokg/schema/oneway>	oneway-no
+<hgeokg/resource/5671368>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/584971390>
+<hgeokg/resource/793654755>	<Point_pois-Adjacent-Line_railway>	<hgeokg/resource/3623507>
+<hgeokg/resource/271279022>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/6270572929>
+<hgeokg/resource/6270575256>	<hgeokg/schema/phone>	phone-+1-212-876-8606
+<hgeokg/resource/6379089482>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/195743338>
+<hgeokg/resource/195743184>	<hgeokg/schema/hgv>	hgv-destination
+<hgeokg/resource/195743338>	<hgeokg/schema/wikipedia>	wikipedia-en:Fifth Avenue
+<hgeokg/resource/357621430>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/4407040193>
+<hgeokg/resource/6001870250>	<hgeokg/schema/networkWikidata>	networkWikidata-Q2974438
+<hgeokg/resource/225171034>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/195743184>
+<hgeokg/resource/195743338>	<hgeokg/schema/nameEn>	nameEn-5th Avenue
+<hgeokg/resource/357621430>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/AmenitySchool>
+<hgeokg/resource/46613662>	<hgeokg/schema/cyclewayRight>	cyclewayRight-lane
+<hgeokg/resource/195743184>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/5671368>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/3623507>
+<hgeokg/resource/6217851895>	<hgeokg/schema/bin>	bin-no
+<hgeokg/resource/3623507>	<hgeokg/schema/height>	height-16.0
+<hgeokg/resource/195743338>	<hgeokg/schema/maxspeed>	maxspeed-25 mph
+<hgeokg/resource/195743184>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5671368>
+<hgeokg/resource/3623507>	<http://www.w3.org/2000/01/rdf-schema#label>	Central Park East Secondary School
+<hgeokg/resource/6001870250>	<hgeokg/schema/operator>	operator-Citi Bike
+<hgeokg/resource/6217851895>	<hgeokg/schema/bench>	bench-no
+<hgeokg/resource/195743338>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/6217851895>	<hgeokg/schema/network>	network-MTA New York City Bus
+<hgeokg/resource/6217851895>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/BusStop>
+<hgeokg/resource/3623507>	<hgeokg/schema/nycdoittBin>	nycdoittBin-1051515
+<hgeokg/resource/3623507>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5671368>
+<hgeokg/resource/225188063>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/357621430>
+<hgeokg/resource/195743184>	<http://www.w3.org/2000/01/rdf-schema#label>	Madison Avenue
+<hgeokg/resource/6270576692>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6270575256>
+<hgeokg/resource/6270575256>	<http://www.w3.org/2000/01/rdf-schema#label>	Eddie's Hair Salon
+<hgeokg/resource/195743184>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/4407040193>
+<hgeokg/resource/6270576692>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Convenience>
+<hgeokg/resource/6217851895>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/3623507>
+<hgeokg/resource/793654755>	<http://www.w3.org/2000/01/rdf-schema#label>	Hudson Line MT2
+<hgeokg/resource/195743184>	<hgeokg/schema/lanes>	lanes-5
+<hgeokg/resource/225188063>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/6379089482>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/PostBox>
+<hgeokg/resource/271279022>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/BuildingSchool>
+<hgeokg/resource/6270572929>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Pharmacy>
+<hgeokg/resource/793654755>	<Line_railway-Adjacent-Point_pois>	<hgeokg/resource/225188063>
+<hgeokg/resource/271279022>	<hgeokg/schema/gnisFeatureId>	gnisFeatureId-961243
+<hgeokg/resource/6270575256>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6270576692>
+<hgeokg/resource/6217851895>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/6379089482>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5671368>
+<hgeokg/resource/4407040193>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/357621430>
+<hgeokg/resource/6270575256>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/195743184>
+<hgeokg/resource/225171034>	<hgeokg/schema/fenceType>	fenceType-chain_link
+<hgeokg/resource/6270576692>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/46613662>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/6270576692>	<http://www.w3.org/2000/01/rdf-schema#label>	Ranch Market
+<hgeokg/resource/4407040193>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/ShopSupermarket>
+<hgeokg/resource/793654755>	<hgeokg/schema/layer>	layer-1
+<hgeokg/resource/6270576692>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/3623507>
+<hgeokg/resource/195743184>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6270576692>
+<hgeokg/resource/6270576692>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/271279022>
+<hgeokg/resource/4407040193>	<hgeokg/schema/delivery>	delivery-yes
+<hgeokg/resource/195743184>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/6217851895>
+<hgeokg/resource/4407040193>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5671368>
+<hgeokg/resource/5671368>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/584971390>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/195743338>
+<hgeokg/resource/6217851895>	<hgeokg/schema/tactilePaving>	tactilePaving-no
+<hgeokg/resource/195743184>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/225171034>
+<hgeokg/resource/584971390>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Secondary>
+<hgeokg/resource/4407040193>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/584971390>
+<hgeokg/resource/195743184>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/271279022>
+<hgeokg/resource/271279022>	<hgeokg/schema/ele>	ele-5
+<hgeokg/resource/3623507>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/195743184>
+<hgeokg/resource/3623507>	<Point_pois-Intersect-Point_pois>	<hgeokg/resource/225188063>
+<hgeokg/resource/271279022>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Polygon>
+<hgeokg/resource/793654755>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Rail>
+<hgeokg/resource/5671368>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6379089482>
+<hgeokg/resource/6270572929>	<hgeokg/schema/openingHours>	openingHours-Mo-Fr 09:00-19:00
+<hgeokg/resource/4407040193>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/195743184>
+<hgeokg/resource/195743338>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/584971390>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/195743184>
+<hgeokg/resource/6270572929>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5671368>
+<hgeokg/resource/195743338>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6379089482>
+<hgeokg/resource/357621430>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/225188063>
+<hgeokg/resource/271279022>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/225171034>
+<hgeokg/resource/6270575256>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6270572929>
+<hgeokg/resource/5671368>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6270575256>
+<hgeokg/resource/195743184>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6001870250>
+<hgeokg/resource/6217851895>	<hgeokg/schema/passengerInformationDisplay>	passengerInformationDisplay-no
+<hgeokg/resource/46613662>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/46613662>	<hgeokg/schema/nameEtymologyWikidata>	nameEtymologyWikidata-Q4030
+<hgeokg/resource/4407040193>	<hgeokg/schema/addrPostcode>	addrPostcode-10029
+<hgeokg/resource/6217851895>	<hgeokg/schema/routeRef>	routeRef-M106
+<hgeokg/resource/6270575256>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/3623507>
+<hgeokg/resource/6379089482>	<http://www.w3.org/2000/01/rdf-schema#label>	USPS
+<hgeokg/resource/5671368>	<http://www.w3.org/2000/01/rdf-schema#label>	East 107th Street
+<hgeokg/resource/195743338>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5671368>
+<hgeokg/resource/6001870250>	<hgeokg/schema/network>	network-Citi Bike
+<hgeokg/resource/584971390>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/CyclewayLane>
+<hgeokg/resource/271279022>	<hgeokg/schema/addrPostcode>	addrPostcode-10029
+<hgeokg/resource/195743184>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/3623507>
+<hgeokg/resource/584971390>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/357621430>
+<hgeokg/resource/271279022>	<hgeokg/schema/height>	height-17.8
+<hgeokg/resource/271279022>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/6270576692>
+<hgeokg/resource/6217851895>	<hgeokg/schema/shelter>	shelter-no
+<hgeokg/resource/6001870250>	<http://www.w3.org/2000/01/rdf-schema#label>	Citi Bike - E 110 St / Madison Av
+<hgeokg/resource/6217851895>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/584971390>
+<hgeokg/resource/793654755>	<hgeokg/schema/operator>	operator-Metro-North Railroad
+<hgeokg/resource/225171034>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/5671368>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/3623507>	<Point_pois-Adjacent-Line_railway>	<hgeokg/resource/793654755>
+<hgeokg/resource/6270572929>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/271279022>
+<hgeokg/resource/46613662>	<hgeokg/schema/oldName>	oldName-Frawley Circle
+<hgeokg/resource/6001870250>	<hgeokg/schema/brandWikidata>	brandWikidata-Q2974438
+<hgeokg/resource/225188063>	<Line_railway-Adjacent-Point_pois>	<hgeokg/resource/793654755>
+<hgeokg/resource/3623507>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6270575256>
+<hgeokg/resource/225188063>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Playground>
+<hgeokg/resource/3623507>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/BuildingSchool>
+<hgeokg/resource/793654755>	<hgeokg/schema/bridgeName>	bridgeName-Park Avenue Viaduct
+<hgeokg/resource/6270576692>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/4407040193>
+<hgeokg/resource/6217851895>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/PublicTransportPlatform>
+<hgeokg/resource/6270572929>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/357621430>	<hgeokg/schema/oldName>	oldName-Junior High School 13
+<hgeokg/resource/195743184>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6270575256>
+<hgeokg/resource/6270575256>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5671368>
+<hgeokg/resource/357621430>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/584971390>
+<hgeokg/resource/793654755>	<hgeokg/schema/maxspeed>	maxspeed-60 mph
+<hgeokg/resource/584971390>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/6217851895>
+<hgeokg/resource/6270576692>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/195743184>
+<hgeokg/resource/195743184>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/584971390>	<http://www.w3.org/2000/01/rdf-schema#label>	East 106th Street
+<hgeokg/resource/5671368>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/6217851895>
+<hgeokg/resource/6217851895>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/195743184>
+<hgeokg/resource/357621430>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5671368>
+<hgeokg/resource/195743184>	<hgeokg/schema/maxspeed>	maxspeed-25
+<hgeokg/resource/6379089482>	<hgeokg/schema/operatorType>	operatorType-public
+<hgeokg/resource/6217851895>	<hgeokg/schema/bus>	bus-yes
+<hgeokg/resource/6270576692>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6270572929>
+<hgeokg/resource/584971390>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/4407040193>
+<hgeokg/resource/6217851895>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/4407040193>
+<hgeokg/resource/225171034>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Fence>
+<hgeokg/resource/4407040193>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/584971390>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/3623507>
+<hgeokg/resource/584971390>	<hgeokg/schema/maxspeed>	maxspeed-25 mph
+<hgeokg/resource/3623507>	<hgeokg/schema/type>	type-multipolygon
+<hgeokg/resource/195743184>	<hgeokg/schema/wikipedia>	wikipedia-en:Madison Avenue
+<hgeokg/resource/4407040193>	<http://www.w3.org/2000/01/rdf-schema#label>	Associated Fresh Supermarket
+<hgeokg/resource/357621430>	<hgeokg/schema/altName>	altName-Jackie Robinson Educational Complex
+<hgeokg/resource/6001870250>	<hgeokg/schema/brandWikipedia>	brandWikipedia-en:Citi Bike
+<hgeokg/resource/6001870250>	<hgeokg/schema/website>	website-https://citibikenyc.com/
+<hgeokg/resource/6217851895>	<hgeokg/schema/departuresBoard>	departuresBoard-timetable
+<hgeokg/resource/195743184>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/225188063>	<Point_pois-Intersect-Point_pois>	<hgeokg/resource/3623507>
+<hgeokg/resource/6270576692>	<hgeokg/schema/addrHousenumber>	addrHousenumber-1600
+<hgeokg/resource/225171034>	<hgeokg/schema/website>	website-https://www.nycgovparks.org/parks/peter-minuit-playground/
+<hgeokg/resource/195743338>	<hgeokg/schema/lanes>	lanes-2
+<hgeokg/resource/3623507>	<hgeokg/schema/addrHousenumber>	addrHousenumber-1573
+<hgeokg/resource/271279022>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/6270575256>
+<hgeokg/resource/3623507>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6270576692>
+<hgeokg/resource/6001870250>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/271279022>
+<hgeokg/resource/46613662>	<http://www.w3.org/2000/01/rdf-schema#label>	Duke Ellington Circle
+<hgeokg/resource/6001870250>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/357621430>	<hgeokg/schema/gnisFeatureId>	gnisFeatureId-2083903
+<hgeokg/resource/6001870250>	<hgeokg/schema/operatorWikipedia>	operatorWikipedia-en:Citi Bike
+<hgeokg/resource/584971390>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-E
+<hgeokg/resource/5671368>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/6270572929>	<hgeokg/schema/phone>	phone-+1-212-369-3084
+<hgeokg/resource/225171034>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Park>
+<hgeokg/resource/793654755>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>

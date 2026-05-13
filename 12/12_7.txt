@@ -1,0 +1,135 @@
+<hgeokg/resource/104502445>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5406637838>
+<hgeokg/resource/104502445>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/517694722>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5984057921>
+<hgeokg/resource/5406637838>	<Point_transport-Adjacent-Point_transport>	<hgeokg/resource/5984057921>
+<hgeokg/resource/275117815>	<http://www.w3.org/2000/01/rdf-schema#label>	Beth Medrash Jeshurun
+<hgeokg/resource/275110416>	<hgeokg/schema/height>	height-15.0
+<hgeokg/resource/5984057921>	<hgeokg/schema/shelter>	shelter-no
+<hgeokg/resource/517694723>	<hgeokg/schema/motorVehicleConditional>	motorVehicleConditional-destination @ (08:00-20:00)
+<hgeokg/resource/5406637838>	<hgeokg/schema/wheelchair>	wheelchair-no
+<hgeokg/resource/275117815>	<hgeokg/schema/addrPostcode>	addrPostcode-10040
+<hgeokg/resource/275110416>	<http://www.w3.org/2000/01/rdf-schema#label>	Evangelical Lutheran Church of Our Saviours Atonement
+<hgeokg/resource/517694722>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/5673064>	<hgeokg/schema/lit>	lit-yes
+<hgeokg/resource/275117832>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/5673064>
+<hgeokg/resource/104502445>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/517694723>
+<hgeokg/resource/517694723>	<hgeokg/schema/maxspeedConditional>	maxspeedConditional-5 mph @ (08:00-20:00)
+<hgeokg/resource/104502445>	<http://www.w3.org/2000/01/rdf-schema#label>	Margaret Corbin Plaza
+<hgeokg/resource/5984057921>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/BusStop>
+<hgeokg/resource/5406637838>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/5673064>	<hgeokg/schema/surface>	surface-asphalt
+<hgeokg/resource/5673064>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-W
+<hgeokg/resource/517694722>	<hgeokg/schema/motorVehicleConditional>	motorVehicleConditional-destination @ (08:00-20:00)
+<hgeokg/resource/517694723>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/104502445>
+<hgeokg/resource/61914064>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-W
+<hgeokg/resource/5406637838>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/RailwayStation>
+<hgeokg/resource/61914064>	<http://www.w3.org/2000/01/rdf-schema#label>	West 187th Street
+<hgeokg/resource/275117815>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/AmenitySchool>
+<hgeokg/resource/517694723>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5406637838>
+<hgeokg/resource/104502445>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/517694722>
+<hgeokg/resource/5406637838>	<hgeokg/schema/operator>	operator-New York City Transit Authority
+<hgeokg/resource/104502445>	<hgeokg/schema/motorVehicleConditional>	motorVehicleConditional-destination @ (08:00-20:00)
+<hgeokg/resource/275110416>	<Polygon_buildings-Adjacent-Polygon_buildings>	<hgeokg/resource/275117832>
+<hgeokg/resource/5406637838>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/104502445>
+<hgeokg/resource/61914064>	<hgeokg/schema/surface>	surface-asphalt
+<hgeokg/resource/275117832>	<hgeokg/schema/nycdoittBin>	nycdoittBin-1064472
+<hgeokg/resource/275110416>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Polygon>
+<hgeokg/resource/5406637838>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/517694722>
+<hgeokg/resource/61914064>	<hgeokg/schema/lit>	lit-yes
+<hgeokg/resource/104502445>	<hgeokg/schema/maxspeedConditional>	maxspeedConditional-5 mph @ (08:00-20:00)
+<hgeokg/resource/275117815>	<hgeokg/schema/addrHousenumber>	addrHousenumber-220
+<hgeokg/resource/5984057921>	<hgeokg/schema/tactilePaving>	tactilePaving-no
+<hgeokg/resource/5673064>	<hgeokg/schema/maxspeed>	maxspeed-20 mph
+<hgeokg/resource/5984057921>	<hgeokg/schema/bus>	bus-yes
+<hgeokg/resource/5406637838>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/PublicTransportStation>
+<hgeokg/resource/61914064>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/61914064>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/5673064>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/275117832>	<hgeokg/schema/addrPostcode>	addrPostcode-10040
+<hgeokg/resource/275117832>	<http://www.w3.org/2000/01/rdf-schema#label>	Ft Tryon Nursing Home
+<hgeokg/resource/517694722>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/104502445>
+<hgeokg/resource/5406637838>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/517694723>
+<hgeokg/resource/275117832>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Polygon>
+<hgeokg/resource/275117832>	<Polygon_buildings-Adjacent-Polygon_buildings>	<hgeokg/resource/275110416>
+<hgeokg/resource/275117815>	<hgeokg/schema/nycdoittBin>	nycdoittBin-1084216
+<hgeokg/resource/61914064>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/226010206>
+<hgeokg/resource/5673064>	<http://www.w3.org/2000/01/rdf-schema#label>	West 190th Street
+<hgeokg/resource/226010206>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/5984057921>	<Point_transport-Adjacent-Point_transport>	<hgeokg/resource/5406637838>
+<hgeokg/resource/275117815>	<hgeokg/schema/height>	height-2.6
+<hgeokg/resource/104502445>	<hgeokg/schema/cyclewayRight>	cyclewayRight-lane
+<hgeokg/resource/275117832>	<Point_pofw-Adjacent-Polygon_buildings>	<hgeokg/resource/275117815>
+<hgeokg/resource/517694722>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/5406637838>	<hgeokg/schema/internetAccess>	internetAccess-wlan
+<hgeokg/resource/226010206>	<hgeokg/schema/incline>	incline-down
+<hgeokg/resource/517694722>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/517694723>
+<hgeokg/resource/5984057921>	<http://www.w3.org/2000/01/rdf-schema#label>	Fort Washington Avenue & Cabrini Boulevard
+<hgeokg/resource/5984057921>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/104502445>
+<hgeokg/resource/517694723>	<hgeokg/schema/surface>	surface-asphalt
+<hgeokg/resource/104502445>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5984057921>
+<hgeokg/resource/226010206>	<hgeokg/schema/stepCount>	stepCount-130
+<hgeokg/resource/517694722>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5406637838>
+<hgeokg/resource/5984057921>	<hgeokg/schema/routeRef>	routeRef-M4;M98ltd
+<hgeokg/resource/517694723>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/517694723>	<hgeokg/schema/lanes>	lanes-1
+<hgeokg/resource/61914064>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/5984057921>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/5984057921>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/517694722>
+<hgeokg/resource/5984057921>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/PublicTransportPlatform>
+<hgeokg/resource/104502445>	<hgeokg/schema/lanes>	lanes-1
+<hgeokg/resource/5406637838>	<hgeokg/schema/station>	station-subway
+<hgeokg/resource/275117815>	<Point_pofw-Adjacent-Polygon_buildings>	<hgeokg/resource/275117832>
+<hgeokg/resource/5406637838>	<hgeokg/schema/startDate>	startDate-1932-09-10
+<hgeokg/resource/275117832>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/BuildingCommercial>
+<hgeokg/resource/275117832>	<hgeokg/schema/buildingLevels>	buildingLevels-6
+<hgeokg/resource/226010206>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Steps>
+<hgeokg/resource/275110416>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/5673064>
+<hgeokg/resource/5673064>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/275117832>
+<hgeokg/resource/517694723>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/5984057921>	<hgeokg/schema/bin>	bin-no
+<hgeokg/resource/226010206>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/61914064>
+<hgeokg/resource/5673064>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/275117815>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/5673064>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/275110416>
+<hgeokg/resource/275117832>	<hgeokg/schema/addrHousenumber>	addrHousenumber-801
+<hgeokg/resource/104502445>	<hgeokg/schema/junction>	junction-roundabout
+<hgeokg/resource/5406637838>	<hgeokg/schema/subway>	subway-yes
+<hgeokg/resource/517694722>	<hgeokg/schema/maxspeedConditional>	maxspeedConditional-5 mph @ (08:00-20:00)
+<hgeokg/resource/517694723>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Unclassified>
+<hgeokg/resource/517694723>	<http://www.w3.org/2000/01/rdf-schema#label>	Margaret Corbin Plaza
+<hgeokg/resource/517694723>	<hgeokg/schema/cyclewayRight>	cyclewayRight-lane
+<hgeokg/resource/275110416>	<hgeokg/schema/addrPostcode>	addrPostcode-10040
+<hgeokg/resource/226010206>	<hgeokg/schema/surface>	surface-concrete
+<hgeokg/resource/275110416>	<hgeokg/schema/addrHousenumber>	addrHousenumber-178
+<hgeokg/resource/5406637838>	<hgeokg/schema/level>	level--2
+<hgeokg/resource/104502445>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/5406637838>	<hgeokg/schema/wikipedia>	wikipedia-en:190th Street station
+<hgeokg/resource/226010206>	<hgeokg/schema/lit>	lit-yes
+<hgeokg/resource/104502445>	<hgeokg/schema/surface>	surface-asphalt
+<hgeokg/resource/104502445>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Unclassified>
+<hgeokg/resource/517694722>	<hgeokg/schema/lanes>	lanes-1
+<hgeokg/resource/517694722>	<hgeokg/schema/cyclewayRight>	cyclewayRight-lane
+<hgeokg/resource/226010206>	<hgeokg/schema/foot>	foot-designated
+<hgeokg/resource/226010206>	<hgeokg/schema/motorVehicle>	motorVehicle-no
+<hgeokg/resource/226010206>	<hgeokg/schema/handrail>	handrail-yes
+<hgeokg/resource/61914064>	<hgeokg/schema/maxspeed>	maxspeed-20 mph
+<hgeokg/resource/517694722>	<http://www.w3.org/2000/01/rdf-schema#label>	Margaret Corbin Plaza
+<hgeokg/resource/5673064>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Tertiary>
+<hgeokg/resource/5673064>	<hgeokg/schema/lanes>	lanes-2
+<hgeokg/resource/5984057921>	<hgeokg/schema/bench>	bench-no
+<hgeokg/resource/226010206>	<http://www.w3.org/2000/01/rdf-schema#label>	West 187th Street
+<hgeokg/resource/517694722>	<hgeokg/schema/junction>	junction-roundabout
+<hgeokg/resource/226010206>	<hgeokg/schema/ramp>	ramp-no
+<hgeokg/resource/5984057921>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/517694723>
+<hgeokg/resource/275110416>	<hgeokg/schema/nycdoittBin>	nycdoittBin-1064455
+<hgeokg/resource/5406637838>	<http://www.w3.org/2000/01/rdf-schema#label>	190th Street
+<hgeokg/resource/5406637838>	<hgeokg/schema/wikimediaCommons>	wikimediaCommons-Category:190th Street (IND Eighth Avenue Line)
+<hgeokg/resource/275117832>	<hgeokg/schema/height>	height-24.1
+<hgeokg/resource/5984057921>	<hgeokg/schema/lit>	lit-yes
+<hgeokg/resource/517694722>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Unclassified>
+<hgeokg/resource/275117815>	<hgeokg/schema/religion>	religion-jewish
+<hgeokg/resource/517694723>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/517694722>
+<hgeokg/resource/517694723>	<hgeokg/schema/junction>	junction-roundabout
+<hgeokg/resource/5406637838>	<hgeokg/schema/network>	network-NYC Subway
+<hgeokg/resource/517694722>	<hgeokg/schema/surface>	surface-asphalt
+<hgeokg/resource/517694723>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5984057921>

@@ -1,0 +1,511 @@
+<hgeokg/resource/250265144>	<Line_roads-Adjacent-Point_pofw>	<hgeokg/resource/421863331>
+<hgeokg/resource/46582968>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/421863332>
+<hgeokg/resource/5673085>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/1493005669>
+<hgeokg/resource/2380318410>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/672800424>
+<hgeokg/resource/421863335>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/421863337>
+<hgeokg/resource/5673085>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5248783479>
+<hgeokg/resource/5248783488>	<http://www.w3.org/2000/01/rdf-schema#label>	Avenue C & East 7th Street
+<hgeokg/resource/5209387822>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/4159335689>
+<hgeokg/resource/5672646>	<hgeokg/schema/bicycle>	bicycle-yes
+<hgeokg/resource/5248783488>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/2380318410>
+<hgeokg/resource/5167467623>	<hgeokg/schema/addrPostcode>	addrPostcode-10009
+<hgeokg/resource/5673085>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/1989533254>
+<hgeokg/resource/4407036591>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5248783488>
+<hgeokg/resource/5672646>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/4189750278>
+<hgeokg/resource/4159335689>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/46582968>
+<hgeokg/resource/4407036591>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5248783479>
+<hgeokg/resource/5248783479>	<hgeokg/schema/network>	network-NYC Transit
+<hgeokg/resource/421863335>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5248792880>
+<hgeokg/resource/250265127>	<Point_pois-Adjacent-Point_pofw>	<hgeokg/resource/357650321>
+<hgeokg/resource/5653566695>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/1989533254>
+<hgeokg/resource/5248792786>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5209387822>
+<hgeokg/resource/5209387822>	<http://www.w3.org/2000/01/rdf-schema#label>	ABC Beer Co.
+<hgeokg/resource/3596708393>	<hgeokg/schema/openingHours>	openingHours-Su-Th 08:30-21:00; Fr,Sa 08:30-22:00
+<hgeokg/resource/46582968>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/4555818591>
+<hgeokg/resource/4006284839>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Convenience>
+<hgeokg/resource/5209387822>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Beverages>
+<hgeokg/resource/4006284841>	<http://www.w3.org/2000/01/rdf-schema#label>	Manhatten Express Deli Grocery
+<hgeokg/resource/5248783488>	<hgeokg/schema/bus>	bus-yes
+<hgeokg/resource/5248792786>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/4006285144>
+<hgeokg/resource/5248783479>	<Point_transport-Adjacent-Point_transport>	<hgeokg/resource/5248783488>
+<hgeokg/resource/5673085>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/421863331>
+<hgeokg/resource/5248783488>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5673085>
+<hgeokg/resource/5248783479>	<hgeokg/schema/mapillary>	mapillary-893286298185873
+<hgeokg/resource/4407036591>	<hgeokg/schema/addrHousenumber>	addrHousenumber-123
+<hgeokg/resource/46582968>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/5672646>	<hgeokg/schema/surface>	surface-asphalt
+<hgeokg/resource/421863331>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/421863337>
+<hgeokg/resource/46582968>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/5248783479>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/250265144>	<Line_roads-Adjacent-Point_pofw>	<hgeokg/resource/421863337>
+<hgeokg/resource/4555818591>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/4006285140>
+<hgeokg/resource/46582968>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5672646>
+<hgeokg/resource/4189750278>	<hgeokg/schema/addrHousenumber>	addrHousenumber-116
+<hgeokg/resource/4407036591>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5248792786>
+<hgeokg/resource/46582968>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5248792786>
+<hgeokg/resource/250265127>	<hgeokg/schema/nycdoittBin>	nycdoittBin-1084768
+<hgeokg/resource/421863337>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/421863335>
+<hgeokg/resource/2380318410>	<hgeokg/schema/operator>	operator-New York Police Department
+<hgeokg/resource/421863332>	<http://www.w3.org/2000/01/rdf-schema#label>	Avenue B
+<hgeokg/resource/46582968>	<hgeokg/schema/maxspeed>	maxspeed-20 mph
+<hgeokg/resource/5248783488>	<hgeokg/schema/lit>	lit-yes
+<hgeokg/resource/5672646>	<hgeokg/schema/wikipedia>	wikipedia-en:Avenue C (Manhattan)
+<hgeokg/resource/421863335>	<hgeokg/schema/crossing>	crossing-marked
+<hgeokg/resource/421863331>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/4006285140>
+<hgeokg/resource/4006285144>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5672646>
+<hgeokg/resource/5673085>	<hgeokg/schema/wikipedia>	wikipedia-en:8th Street and St. Mark's Place
+<hgeokg/resource/5673085>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/3596708393>
+<hgeokg/resource/5673085>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5653566695>
+<hgeokg/resource/4006285140>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/4555818591>
+<hgeokg/resource/250265144>	<Line_roads-Adjacent-Point_pofw>	<hgeokg/resource/46582968>
+<hgeokg/resource/5248783488>	<hgeokg/schema/bench>	bench-yes
+<hgeokg/resource/5248792786>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/46582968>
+<hgeokg/resource/5672646>	<hgeokg/schema/maxspeed>	maxspeed-20 mph
+<hgeokg/resource/421863337>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/4006285140>
+<hgeokg/resource/5209387822>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5672646>
+<hgeokg/resource/5248792880>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/421863331>
+<hgeokg/resource/4159335689>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/4407036591>
+<hgeokg/resource/4407036591>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5672646>
+<hgeokg/resource/5653566695>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/3596708393>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/4159335689>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5672646>
+<hgeokg/resource/5167467623>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5248792786>
+<hgeokg/resource/1989533254>	<http://www.w3.org/2000/01/rdf-schema#label>	East Drive Pharmacy
+<hgeokg/resource/250265144>	<hgeokg/schema/gnisFeatureId>	gnisFeatureId-2091988
+<hgeokg/resource/46582968>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/4006285140>
+<hgeokg/resource/421863337>	<Line_roads-Adjacent-Point_pofw>	<hgeokg/resource/250265144>
+<hgeokg/resource/5987859685>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/672800424>
+<hgeokg/resource/5673085>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/5653566695>	<hgeokg/schema/brandWikidata>	brandWikidata-Q3433273
+<hgeokg/resource/4159335689>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/4006284841>	<hgeokg/schema/openingHoursSigned>	openingHoursSigned-no
+<hgeokg/resource/421863331>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Footway>
+<hgeokg/resource/5248792786>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5167467623>
+<hgeokg/resource/4159335689>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5248783479>
+<hgeokg/resource/4006285144>	<http://www.w3.org/2000/01/rdf-schema#label>	Wholesome Foods
+<hgeokg/resource/2380318410>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5672646>
+<hgeokg/resource/4407036591>	<http://www.w3.org/2000/01/rdf-schema#label>	Associated Supermarket
+<hgeokg/resource/250265144>	<Point_pois-Adjacent-Point_pofw>	<hgeokg/resource/357650321>
+<hgeokg/resource/5248792786>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Vacant>
+<hgeokg/resource/46582968>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/1989533254>
+<hgeokg/resource/5672646>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/4006285144>
+<hgeokg/resource/2380318410>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/4189750278>
+<hgeokg/resource/46582968>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/4006284841>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/1989533254>
+<hgeokg/resource/421863335>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/421863337>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5673085>
+<hgeokg/resource/250265127>	<hgeokg/schema/ele>	ele-5
+<hgeokg/resource/5209387822>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/4006285144>
+<hgeokg/resource/250265144>	<Point_pois-Adjacent-Point_pofw>	<hgeokg/resource/4555818591>
+<hgeokg/resource/5673085>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5672646>
+<hgeokg/resource/5209387822>	<hgeokg/schema/phone>	phone-+1 646-422-7103
+<hgeokg/resource/4407036591>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/672800424>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/421863331>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/4189750278>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5209387822>
+<hgeokg/resource/4006285144>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Convenience>
+<hgeokg/resource/46582968>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/4006284841>
+<hgeokg/resource/4006285144>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/4407036591>
+<hgeokg/resource/5653566695>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/46582968>
+<hgeokg/resource/5653566695>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5673085>
+<hgeokg/resource/4006285144>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/5248792786>	<hgeokg/schema/addrHousenumber>	addrHousenumber-111
+<hgeokg/resource/5673085>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/250265127>	<hgeokg/schema/gnisFeatureId>	gnisFeatureId-2083002
+<hgeokg/resource/5209387822>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5248783479>
+<hgeokg/resource/5167467623>	<hgeokg/schema/cuisine>	cuisine-american
+<hgeokg/resource/5248792786>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5673085>
+<hgeokg/resource/421863332>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/4006285140>
+<hgeokg/resource/5653566695>	<hgeokg/schema/brandWikipedia>	brandWikipedia-en:Rite Aid
+<hgeokg/resource/421863335>	<hgeokg/schema/surface>	surface-asphalt
+<hgeokg/resource/5248792786>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5672646>
+<hgeokg/resource/4555818591>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5673085>
+<hgeokg/resource/4407036591>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/46582968>
+<hgeokg/resource/5672646>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/672800424>
+<hgeokg/resource/46582968>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5167467623>
+<hgeokg/resource/5248783488>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/4159335689>
+<hgeokg/resource/5248783488>	<hgeokg/schema/routeRef>	routeRef-M9
+<hgeokg/resource/4006285140>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/421863335>
+<hgeokg/resource/421863335>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/4006285140>
+<hgeokg/resource/4407036591>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/4189750278>
+<hgeokg/resource/5248783488>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/PublicTransportPlatform>
+<hgeokg/resource/4189750278>	<http://www.w3.org/2000/01/rdf-schema#label>	Kafana
+<hgeokg/resource/5248792880>	<hgeokg/schema/addrHousenumber>	addrHousenumber-93
+<hgeokg/resource/46582968>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/421863337>
+<hgeokg/resource/357650321>	<Point_pois-Adjacent-Point_pofw>	<hgeokg/resource/250265144>
+<hgeokg/resource/5673085>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/421863337>
+<hgeokg/resource/5248792786>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/4159335689>
+<hgeokg/resource/5248783488>	<Point_transport-Adjacent-Point_transport>	<hgeokg/resource/5248783479>
+<hgeokg/resource/4189750278>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5248792786>
+<hgeokg/resource/4006284841>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5673085>
+<hgeokg/resource/5673085>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/4006285140>
+<hgeokg/resource/4006284839>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/5248783479>	<hgeokg/schema/surveyDate>	surveyDate-2019-12-19
+<hgeokg/resource/250265127>	<hgeokg/schema/addrPostcode>	addrPostcode-10009
+<hgeokg/resource/4555818591>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Restaurant>
+<hgeokg/resource/5673085>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/4006285144>
+<hgeokg/resource/2380318410>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5987859685>
+<hgeokg/resource/421863337>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/46582968>
+<hgeokg/resource/5167467623>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/4006285144>
+<hgeokg/resource/1989533254>	<hgeokg/schema/phone>	phone-+1-212-228-0400
+<hgeokg/resource/421863337>	<http://www.w3.org/2000/01/rdf-schema#label>	East 7th Street
+<hgeokg/resource/5248792880>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Restaurant>
+<hgeokg/resource/421863332>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/5673085>	<hgeokg/schema/lit>	lit-yes
+<hgeokg/resource/46582968>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/4189750278>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/46582968>
+<hgeokg/resource/5248783479>	<hgeokg/schema/networkWikidata>	networkWikidata-Q1325591
+<hgeokg/resource/672800424>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5673085>
+<hgeokg/resource/2380318410>	<hgeokg/schema/operatorWikipedia>	operatorWikipedia-en:New York City Police Department
+<hgeokg/resource/5248783488>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/4006284841>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/672800424>	<hgeokg/schema/addrPostcode>	addrPostcode-10009
+<hgeokg/resource/4189750278>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5248783488>
+<hgeokg/resource/421863343>	<hgeokg/schema/lit>	lit-yes
+<hgeokg/resource/3596708393>	<hgeokg/schema/addrHousenumber>	addrHousenumber-125
+<hgeokg/resource/4189750278>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5672646>
+<hgeokg/resource/250265144>	<hgeokg/schema/height>	height-22.7
+<hgeokg/resource/5167467623>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Restaurant>
+<hgeokg/resource/2380318410>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/250265144>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/PlaceOfWorship>
+<hgeokg/resource/250265144>	<Line_roads-Adjacent-Point_pofw>	<hgeokg/resource/421863332>
+<hgeokg/resource/250265144>	<http://www.w3.org/2000/01/rdf-schema#label>	Saint Brigid's Church
+<hgeokg/resource/4006285144>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5248792786>
+<hgeokg/resource/250265144>	<Point_pofw-Adjacent-Point_pofw>	<hgeokg/resource/250265127>
+<hgeokg/resource/4407036591>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5673085>
+<hgeokg/resource/4189750278>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5673085>
+<hgeokg/resource/5248783488>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/4006285144>
+<hgeokg/resource/5167467623>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5209387822>
+<hgeokg/resource/4006285140>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/421863332>
+<hgeokg/resource/421863343>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/357650321>
+<hgeokg/resource/4407036591>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/ShopSupermarket>
+<hgeokg/resource/421863343>	<http://www.w3.org/2000/01/rdf-schema#label>	East 9th Street
+<hgeokg/resource/5248792786>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5248783488>
+<hgeokg/resource/5672646>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Secondary>
+<hgeokg/resource/5673085>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/4006284841>
+<hgeokg/resource/5672646>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5248783479>
+<hgeokg/resource/4189750278>	<hgeokg/schema/addrPostcode>	addrPostcode-10009
+<hgeokg/resource/421863331>	<http://www.w3.org/2000/01/rdf-schema#label>	Avenue B
+<hgeokg/resource/5673085>	<hgeokg/schema/surface>	surface-asphalt
+<hgeokg/resource/5167467623>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/4189750278>
+<hgeokg/resource/4555818591>	<Point_pois-Adjacent-Point_pofw>	<hgeokg/resource/250265144>
+<hgeokg/resource/5248792880>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/46582968>
+<hgeokg/resource/46582968>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/4189750278>
+<hgeokg/resource/421863335>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/421863332>
+<hgeokg/resource/4555818591>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/421863337>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5248792880>
+<hgeokg/resource/421863343>	<hgeokg/schema/surface>	surface-asphalt
+<hgeokg/resource/421863332>	<Line_roads-Adjacent-Point_pofw>	<hgeokg/resource/250265127>
+<hgeokg/resource/5987859685>	<hgeokg/schema/addrHousenumber>	addrHousenumber-700
+<hgeokg/resource/250265144>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/421863331>	<hgeokg/schema/surface>	surface-asphalt
+<hgeokg/resource/421863343>	<Line_roads-Adjacent-Point_pofw>	<hgeokg/resource/250265144>
+<hgeokg/resource/5248783488>	<hgeokg/schema/shelter>	shelter-yes
+<hgeokg/resource/5248792880>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/421863337>
+<hgeokg/resource/4006285140>	<Point_pois-Adjacent-Point_pofw>	<hgeokg/resource/250265144>
+<hgeokg/resource/5673085>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/421863335>
+<hgeokg/resource/5987859685>	<hgeokg/schema/openingHours>	openingHours-We-Fr 16:00-22:00; Sa,Su 14:00-22:00
+<hgeokg/resource/5209387822>	<hgeokg/schema/addrPostcode>	addrPostcode-10019
+<hgeokg/resource/421863332>	<hgeokg/schema/lit>	lit-yes
+<hgeokg/resource/5248783488>	<hgeokg/schema/network>	network-NYC Transit
+<hgeokg/resource/5673085>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/4555818591>
+<hgeokg/resource/421863337>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Footway>
+<hgeokg/resource/421863331>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5673085>
+<hgeokg/resource/5167467623>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5248783488>
+<hgeokg/resource/672800424>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5987859685>
+<hgeokg/resource/3596708393>	<http://www.w3.org/2000/01/rdf-schema#label>	Karibbean Restaurant
+<hgeokg/resource/421863337>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/5248792880>	<http://www.w3.org/2000/01/rdf-schema#label>	Horus
+<hgeokg/resource/250265144>	<hgeokg/schema/nycdoittBin>	nycdoittBin-1082499
+<hgeokg/resource/5987859685>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/2380318410>
+<hgeokg/resource/5209387822>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Bar>
+<hgeokg/resource/672800424>	<hgeokg/schema/openingHours>	openingHours-Mo-Su 07:00-20:00
+<hgeokg/resource/250265127>	<hgeokg/schema/denomination>	denomination-lutheran
+<hgeokg/resource/250265127>	<hgeokg/schema/addrHousenumber>	addrHousenumber-602
+<hgeokg/resource/5653566695>	<hgeokg/schema/website>	website-https://locations.riteaid.com/locations/ny/new-york/99-avenue-d.html
+<hgeokg/resource/1493005669>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5673085>
+<hgeokg/resource/46582968>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5248792880>
+<hgeokg/resource/4006284839>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/1989533254>
+<hgeokg/resource/5673085>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/4189750278>	<hgeokg/schema/website>	website-http://www.kafananyc.com/
+<hgeokg/resource/1989533254>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/46582968>
+<hgeokg/resource/250265144>	<hgeokg/schema/wikipedia>	wikipedia-en:St. Brigid's Roman Catholic Church (Manhattan)
+<hgeokg/resource/4006284839>	<hgeokg/schema/openingHoursSigned>	openingHoursSigned-no
+<hgeokg/resource/4555818591>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/46582968>
+<hgeokg/resource/5673085>	<http://www.w3.org/2000/01/rdf-schema#label>	East 8th Street
+<hgeokg/resource/421863343>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/421863343>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Footway>
+<hgeokg/resource/2380318410>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Police>
+<hgeokg/resource/4159335689>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5209387822>
+<hgeokg/resource/5672646>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/4159335689>
+<hgeokg/resource/4407036591>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/4006285144>
+<hgeokg/resource/2380318410>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/4407036591>
+<hgeokg/resource/4006284839>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5653566695>
+<hgeokg/resource/4006284839>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/4006284841>
+<hgeokg/resource/5248783479>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/4159335689>
+<hgeokg/resource/5248783479>	<hgeokg/schema/bench>	bench-yes
+<hgeokg/resource/421863331>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/421863335>
+<hgeokg/resource/46582968>	<hgeokg/schema/surface>	surface-asphalt
+<hgeokg/resource/672800424>	<http://www.w3.org/2000/01/rdf-schema#label>	9th St Espresso
+<hgeokg/resource/5248783479>	<hgeokg/schema/shelter>	shelter-yes
+<hgeokg/resource/421863335>	<hgeokg/schema/lit>	lit-yes
+<hgeokg/resource/5653566695>	<http://www.w3.org/2000/01/rdf-schema#label>	Rite Aid
+<hgeokg/resource/5672646>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5987859685>
+<hgeokg/resource/46582968>	<Line_roads-Adjacent-Point_pofw>	<hgeokg/resource/250265144>
+<hgeokg/resource/5248783479>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5248792786>
+<hgeokg/resource/5673085>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/672800424>
+<hgeokg/resource/4189750278>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Restaurant>
+<hgeokg/resource/4006284841>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/4006284839>
+<hgeokg/resource/421863332>	<hgeokg/schema/surface>	surface-asphalt
+<hgeokg/resource/4006285140>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5248792880>
+<hgeokg/resource/5987859685>	<http://www.w3.org/2000/01/rdf-schema#label>	The Wayland
+<hgeokg/resource/4006284841>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Convenience>
+<hgeokg/resource/421863335>	<http://www.w3.org/2000/01/rdf-schema#label>	East 7th Street
+<hgeokg/resource/4006285140>	<http://www.w3.org/2000/01/rdf-schema#label>	St. Brigid School
+<hgeokg/resource/5653566695>	<hgeokg/schema/dispensing>	dispensing-yes
+<hgeokg/resource/5248792786>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/4189750278>
+<hgeokg/resource/357650321>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/421863343>
+<hgeokg/resource/1493005669>	<hgeokg/schema/openingHours>	openingHours-Mo-Sa 07:00-22:00; Su 07:30-21:00
+<hgeokg/resource/672800424>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Cafe>
+<hgeokg/resource/4006284839>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/46582968>
+<hgeokg/resource/2380318410>	<http://www.w3.org/2000/01/rdf-schema#label>	NYPD 9 PCT
+<hgeokg/resource/421863337>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/421863331>
+<hgeokg/resource/5987859685>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5673085>
+<hgeokg/resource/1989533254>	<hgeokg/schema/addrPostcode>	addrPostcode-10009
+<hgeokg/resource/5672646>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5167467623>
+<hgeokg/resource/4189750278>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/2380318410>
+<hgeokg/resource/4407036591>	<hgeokg/schema/openingHours>	openingHours-Mo-Su 07:30-22:00
+<hgeokg/resource/4159335689>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5167467623>
+<hgeokg/resource/5248783488>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/BusStop>
+<hgeokg/resource/357650321>	<http://www.w3.org/2000/01/rdf-schema#label>	De Colores Community Yard
+<hgeokg/resource/5248783488>	<hgeokg/schema/surveyDate>	surveyDate-2019-12-18
+<hgeokg/resource/421863337>	<hgeokg/schema/surface>	surface-asphalt
+<hgeokg/resource/421863335>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Footway>
+<hgeokg/resource/4159335689>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5248783488>
+<hgeokg/resource/5209387822>	<hgeokg/schema/openingHours>	openingHours-Mo-Th, Su 12:00-24:00; Fr, Sa 12:00-02:00
+<hgeokg/resource/5248783479>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5672646>
+<hgeokg/resource/672800424>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5672646>
+<hgeokg/resource/5209387822>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/46582968>
+<hgeokg/resource/5248783479>	<hgeokg/schema/bus>	bus-yes
+<hgeokg/resource/4189750278>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/4407036591>
+<hgeokg/resource/1989533254>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5653566695>
+<hgeokg/resource/5653566695>	<hgeokg/schema/addrPostcode>	addrPostcode-10009
+<hgeokg/resource/46582968>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/4006284839>
+<hgeokg/resource/250265127>	<Line_roads-Adjacent-Point_pofw>	<hgeokg/resource/421863343>
+<hgeokg/resource/421863332>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Footway>
+<hgeokg/resource/4407036591>	<hgeokg/schema/addrPostcode>	addrPostcode-10009
+<hgeokg/resource/1989533254>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/4006284841>
+<hgeokg/resource/5987859685>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/5673085>	<hgeokg/schema/maxspeed>	maxspeed-20 mph
+<hgeokg/resource/421863332>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/421863337>
+<hgeokg/resource/5248783488>	<hgeokg/schema/tactilePaving>	tactilePaving-no
+<hgeokg/resource/4006285140>	<hgeokg/schema/website>	website-https://www.stbrigidschoolny.com/
+<hgeokg/resource/5673085>	<Line_roads-Adjacent-Point_pofw>	<hgeokg/resource/250265127>
+<hgeokg/resource/5248783488>	<hgeokg/schema/mapillary>	mapillary-138419401605745
+<hgeokg/resource/421863332>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/421863331>
+<hgeokg/resource/5248783488>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5167467623>
+<hgeokg/resource/4006285144>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/46582968>
+<hgeokg/resource/46582968>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/4159335689>
+<hgeokg/resource/46582968>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5653566695>
+<hgeokg/resource/421863343>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/421863332>
+<hgeokg/resource/421863332>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/46582968>
+<hgeokg/resource/5248783488>	<hgeokg/schema/networkWikidata>	networkWikidata-Q1325591
+<hgeokg/resource/5209387822>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/4006285140>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/421863331>
+<hgeokg/resource/357650321>	<hgeokg/schema/ele>	ele-4
+<hgeokg/resource/421863332>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5673085>
+<hgeokg/resource/5167467623>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/46582968>
+<hgeokg/resource/1989533254>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Pharmacy>
+<hgeokg/resource/5248783488>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5209387822>
+<hgeokg/resource/250265127>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/PlaceOfWorship>
+<hgeokg/resource/421863343>	<Line_roads-Adjacent-Point_pofw>	<hgeokg/resource/250265127>
+<hgeokg/resource/5673085>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/421863332>
+<hgeokg/resource/5248783488>	<hgeokg/schema/ref>	ref-402038
+<hgeokg/resource/357650321>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5673085>
+<hgeokg/resource/2380318410>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5248783488>
+<hgeokg/resource/5653566695>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Pharmacy>
+<hgeokg/resource/4006285144>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/4189750278>
+<hgeokg/resource/357650321>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Park>
+<hgeokg/resource/4006285140>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/421863337>
+<hgeokg/resource/5248783479>	<http://www.w3.org/2000/01/rdf-schema#label>	Avenue C & East 8th Street
+<hgeokg/resource/5248783479>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5209387822>
+<hgeokg/resource/250265127>	<http://www.w3.org/2000/01/rdf-schema#label>	Trinity Lower East Side
+<hgeokg/resource/4006285140>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/AmenitySchool>
+<hgeokg/resource/5672646>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5209387822>
+<hgeokg/resource/5248783479>	<hgeokg/schema/routeRef>	routeRef-M9
+<hgeokg/resource/5248783479>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/46582968>
+<hgeokg/resource/1989533254>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/1989533254>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/4006284839>
+<hgeokg/resource/4189750278>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/4159335689>
+<hgeokg/resource/5248783479>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/4407036591>
+<hgeokg/resource/4006285144>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5209387822>
+<hgeokg/resource/4189750278>	<hgeokg/schema/openingHours>	openingHours-Mo-Th 17:00-23:00, Fr 17:00-01:00, Sa 12:00-01:00, Su 12:00-23:00
+<hgeokg/resource/421863332>	<Line_roads-Adjacent-Point_pofw>	<hgeokg/resource/250265144>
+<hgeokg/resource/1493005669>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/ShopSupermarket>
+<hgeokg/resource/250265127>	<hgeokg/schema/height>	height-11.2
+<hgeokg/resource/5987859685>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5672646>
+<hgeokg/resource/46582968>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/4407036591>
+<hgeokg/resource/4159335689>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/4006285144>
+<hgeokg/resource/421863335>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/421863331>
+<hgeokg/resource/5672646>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5248783488>
+<hgeokg/resource/250265144>	<hgeokg/schema/ele>	ele-5
+<hgeokg/resource/5248783488>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/46582968>
+<hgeokg/resource/5248783479>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/4006285144>
+<hgeokg/resource/4555818591>	<hgeokg/schema/cuisine>	cuisine-japanese
+<hgeokg/resource/250265127>	<hgeokg/schema/website>	website-http://trinitylowereastside.org/
+<hgeokg/resource/421863337>	<hgeokg/schema/lit>	lit-yes
+<hgeokg/resource/4555818591>	<http://www.w3.org/2000/01/rdf-schema#label>	Satsko
+<hgeokg/resource/5248792786>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5248783479>
+<hgeokg/resource/672800424>	<hgeokg/schema/addrHousenumber>	addrHousenumber-700
+<hgeokg/resource/46582968>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-E
+<hgeokg/resource/5673085>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/4407036591>
+<hgeokg/resource/5673085>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-E
+<hgeokg/resource/46582968>	<http://www.w3.org/2000/01/rdf-schema#label>	East 7th Street
+<hgeokg/resource/4006284841>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5653566695>
+<hgeokg/resource/4189750278>	<hgeokg/schema/cuisine>	cuisine-serbian
+<hgeokg/resource/421863332>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/421863335>
+<hgeokg/resource/5673085>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/2380318410>
+<hgeokg/resource/4407036591>	<hgeokg/schema/website>	website-http://www.shopassociated.con
+<hgeokg/resource/357650321>	<Point_pois-Adjacent-Point_pofw>	<hgeokg/resource/250265127>
+<hgeokg/resource/5248792880>	<hgeokg/schema/openingHours>	openingHours-Mo-Su 12:00-04:00
+<hgeokg/resource/250265144>	<Line_roads-Adjacent-Point_pofw>	<hgeokg/resource/421863343>
+<hgeokg/resource/5248792880>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/421863335>
+<hgeokg/resource/5653566695>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/4006284839>
+<hgeokg/resource/5673085>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5248783488>
+<hgeokg/resource/5167467623>	<hgeokg/schema/openingHours>	openingHours-Mo-Su 11:00-21:00
+<hgeokg/resource/250265144>	<hgeokg/schema/religion>	religion-christian
+<hgeokg/resource/1989533254>	<hgeokg/schema/fax>	fax-+1-212-533-0236
+<hgeokg/resource/421863337>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/FootwayCrossing>
+<hgeokg/resource/5672646>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/CyclewayLane>
+<hgeokg/resource/421863335>	<Line_roads-Adjacent-Point_pofw>	<hgeokg/resource/250265144>
+<hgeokg/resource/5248783479>	<hgeokg/schema/ref>	ref-403306
+<hgeokg/resource/4006284839>	<http://www.w3.org/2000/01/rdf-schema#label>	Deli Grocery
+<hgeokg/resource/46582968>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/421863331>
+<hgeokg/resource/5673085>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/46582968>
+<hgeokg/resource/1493005669>	<http://www.w3.org/2000/01/rdf-schema#label>	Pioneer Market Place
+<hgeokg/resource/46582968>	<hgeokg/schema/lanes>	lanes-1
+<hgeokg/resource/357650321>	<hgeokg/schema/gnisFeatureId>	gnisFeatureId-2500580
+<hgeokg/resource/5248783488>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5672646>
+<hgeokg/resource/5673085>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5987859685>
+<hgeokg/resource/421863335>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5673085>
+<hgeokg/resource/5672646>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/2380318410>
+<hgeokg/resource/4189750278>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5248783479>
+<hgeokg/resource/250265127>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/5248783479>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/2380318410>
+<hgeokg/resource/1989533254>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5673085>
+<hgeokg/resource/5248783479>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/PublicTransportPlatform>
+<hgeokg/resource/421863331>	<hgeokg/schema/crossing>	crossing-marked
+<hgeokg/resource/4189750278>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/4006285144>
+<hgeokg/resource/5653566695>	<hgeokg/schema/addrHousenumber>	addrHousenumber-99
+<hgeokg/resource/4189750278>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5167467623>
+<hgeokg/resource/5673085>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/421863343>
+<hgeokg/resource/5248783479>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/BusStop>
+<hgeokg/resource/5248783479>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5673085>
+<hgeokg/resource/5672646>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/46582968>
+<hgeokg/resource/46582968>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/421863335>
+<hgeokg/resource/5248783479>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/4189750278>
+<hgeokg/resource/421863331>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/421863332>
+<hgeokg/resource/4159335689>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Vacant>
+<hgeokg/resource/4006285144>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5248783488>
+<hgeokg/resource/1493005669>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/3596708393>
+<hgeokg/resource/1989533254>	<hgeokg/schema/openingHours>	openingHours-Mo 09:00-20:00; Tu-Fr 09:00-19:00; Sa 09:00-18:00
+<hgeokg/resource/5672646>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/421863337>	<hgeokg/schema/crossing>	crossing-marked
+<hgeokg/resource/5248783488>	<hgeokg/schema/bin>	bin-no
+<hgeokg/resource/421863337>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/421863332>
+<hgeokg/resource/4006285140>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5673085>
+<hgeokg/resource/250265144>	<Line_roads-Adjacent-Point_pofw>	<hgeokg/resource/421863335>
+<hgeokg/resource/4159335689>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5248792786>
+<hgeokg/resource/421863331>	<hgeokg/schema/lit>	lit-yes
+<hgeokg/resource/5653566695>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/4006284841>
+<hgeokg/resource/4006285140>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/421863332>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/FootwayCrossing>
+<hgeokg/resource/5672646>	<hgeokg/schema/lit>	lit-yes
+<hgeokg/resource/1989533254>	<hgeokg/schema/dispensing>	dispensing-yes
+<hgeokg/resource/4006285140>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/46582968>
+<hgeokg/resource/5987859685>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Restaurant>
+<hgeokg/resource/5209387822>	<hgeokg/schema/addrHousenumber>	addrHousenumber-96
+<hgeokg/resource/4407036591>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/2380318410>
+<hgeokg/resource/4407036591>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/4159335689>
+<hgeokg/resource/3596708393>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/1493005669>
+<hgeokg/resource/250265127>	<hgeokg/schema/religion>	religion-christian
+<hgeokg/resource/4407036591>	<hgeokg/schema/nameEn>	nameEn-Associated Supermarket
+<hgeokg/resource/5209387822>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/4189750278>
+<hgeokg/resource/5673085>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/4189750278>
+<hgeokg/resource/5209387822>	<hgeokg/schema/contactTwitter>	contactTwitter-https://twitter.com/ABCBeerCo
+<hgeokg/resource/46582968>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5673085>
+<hgeokg/resource/5167467623>	<http://www.w3.org/2000/01/rdf-schema#label>	Bobwhite Lunch and Supper Counter
+<hgeokg/resource/421863335>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/46582968>
+<hgeokg/resource/5167467623>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/4159335689>
+<hgeokg/resource/421863331>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/46582968>
+<hgeokg/resource/421863331>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/FootwayCrossing>
+<hgeokg/resource/250265144>	<hgeokg/schema/denomination>	denomination-catholic
+<hgeokg/resource/5248783479>	<hgeokg/schema/lit>	lit-yes
+<hgeokg/resource/5672646>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/4407036591>
+<hgeokg/resource/421863331>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5248792880>
+<hgeokg/resource/5167467623>	<hgeokg/schema/website>	website-https://www.bobwhitecounter.com/
+<hgeokg/resource/4006285144>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5673085>
+<hgeokg/resource/1989533254>	<hgeokg/schema/addrHousenumber>	addrHousenumber-93
+<hgeokg/resource/5248783479>	<hgeokg/schema/bin>	bin-no
+<hgeokg/resource/5248792786>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/5209387822>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5248792786>
+<hgeokg/resource/250265127>	<Line_roads-Adjacent-Point_pofw>	<hgeokg/resource/5673085>
+<hgeokg/resource/5672646>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5673085>
+<hgeokg/resource/5653566695>	<hgeokg/schema/ref>	ref-03771
+<hgeokg/resource/46582968>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5248783479>
+<hgeokg/resource/421863331>	<Line_roads-Adjacent-Point_pofw>	<hgeokg/resource/250265144>
+<hgeokg/resource/5673085>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/5248783488>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/4407036591>
+<hgeokg/resource/5167467623>	<hgeokg/schema/phone>	phone-2122282972
+<hgeokg/resource/421863343>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/FootwayCrossing>
+<hgeokg/resource/5248792880>	<hgeokg/schema/cuisine>	cuisine-Egyptian
+<hgeokg/resource/5248783479>	<hgeokg/schema/tactilePaving>	tactilePaving-no
+<hgeokg/resource/5209387822>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5167467623>
+<hgeokg/resource/5248792880>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/421863332>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/421863343>
+<hgeokg/resource/5248792786>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/4407036591>
+<hgeokg/resource/5653566695>	<hgeokg/schema/brand>	brand-Rite Aid
+<hgeokg/resource/4006285144>	<hgeokg/schema/openingHours>	openingHours-Mo,Tu,Th 07:00-23:00; We 11:00-23:00; Fr,Sa 07:00-11:00,12:00-21:00; Su 17:00-23:00
+<hgeokg/resource/1493005669>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/4006284841>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/46582968>
+<hgeokg/resource/46582968>	<hgeokg/schema/smoothness>	smoothness-excellent
+<hgeokg/resource/46582968>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5248783488>
+<hgeokg/resource/5248783488>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/4189750278>
+<hgeokg/resource/5167467623>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5672646>
+<hgeokg/resource/5209387822>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5248783488>
+<hgeokg/resource/421863343>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5673085>
+<hgeokg/resource/5673085>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/357650321>
+<hgeokg/resource/4189750278>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/4006285144>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/4159335689>
+<hgeokg/resource/5653566695>	<hgeokg/schema/phone>	phone-+1-212-475-5315
+<hgeokg/resource/5673085>	<Line_roads-Adjacent-Point_pofw>	<hgeokg/resource/250265144>
+<hgeokg/resource/5209387822>	<hgeokg/schema/website>	website-https://www.abcbeer.co/
+<hgeokg/resource/3596708393>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5673085>
+<hgeokg/resource/46582968>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5209387822>
+<hgeokg/resource/5672646>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5248792786>
+<hgeokg/resource/250265127>	<Point_pofw-Adjacent-Point_pofw>	<hgeokg/resource/250265144>
+<hgeokg/resource/3596708393>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Restaurant>
+<hgeokg/resource/2380318410>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5673085>
+<hgeokg/resource/5672646>	<hgeokg/schema/lanes>	lanes-2
+<hgeokg/resource/5248792880>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/4006285140>
+<hgeokg/resource/5248783488>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5248792786>
+<hgeokg/resource/2380318410>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5248783479>
+<hgeokg/resource/4159335689>	<hgeokg/schema/addrHousenumber>	addrHousenumber-102
+<hgeokg/resource/250265127>	<Line_roads-Adjacent-Point_pofw>	<hgeokg/resource/421863332>
+<hgeokg/resource/5167467623>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/4555818591>	<hgeokg/schema/openingHours>	openingHours-Su-Fr 16:00-22:00; Sa 13:00-22:00
+<hgeokg/resource/4006285144>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5167467623>
+<hgeokg/resource/357650321>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/5673085>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5248792786>
+<hgeokg/resource/5672646>	<hgeokg/schema/hgv>	hgv-destination
+<hgeokg/resource/4159335689>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/4189750278>
+<hgeokg/resource/250265144>	<Line_roads-Adjacent-Point_pofw>	<hgeokg/resource/5673085>
+<hgeokg/resource/421863335>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/FootwayCrossing>
+<hgeokg/resource/5209387822>	<hgeokg/schema/email>	email-abcbeerco@gmail.com
+<hgeokg/resource/46582968>	<hgeokg/schema/lit>	lit-yes
+<hgeokg/resource/4407036591>	<hgeokg/schema/phone>	phone-212 260 3159
+<hgeokg/resource/672800424>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/2380318410>
+<hgeokg/resource/4006285144>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5248783479>
+<hgeokg/resource/5672646>	<http://www.w3.org/2000/01/rdf-schema#label>	Avenue C
+<hgeokg/resource/46582968>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/4006285144>
+<hgeokg/resource/250265144>	<Point_pois-Adjacent-Point_pofw>	<hgeokg/resource/4006285140>

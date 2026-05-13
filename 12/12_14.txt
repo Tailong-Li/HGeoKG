@@ -1,0 +1,567 @@
+<hgeokg/resource/5670684>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5671463>
+<hgeokg/resource/4394707998>	<http://www.w3.org/2000/01/rdf-schema#label>	Subway
+<hgeokg/resource/357616341>	<hgeokg/schema/ele>	ele-47
+<hgeokg/resource/5671463>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5673370>
+<hgeokg/resource/226007046>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5670684>
+<hgeokg/resource/223508330>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5672052>
+<hgeokg/resource/5750222459>	<hgeokg/schema/brand>	brand-Wendy's
+<hgeokg/resource/223508330>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/223508325>
+<hgeokg/resource/226007046>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5672052>
+<hgeokg/resource/223508330>	<hgeokg/schema/wikipedia>	wikipedia-en:Broadway (Manhattan)
+<hgeokg/resource/46577947>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/4394707998>	<hgeokg/schema/brand>	brand-Subway
+<hgeokg/resource/204082722>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-W
+<hgeokg/resource/103917121>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5670684>
+<hgeokg/resource/584850087>	<hgeokg/schema/oneway>	oneway-no
+<hgeokg/resource/223508330>	<hgeokg/schema/hgv>	hgv-local
+<hgeokg/resource/103917121>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/5403851252>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/226007071>
+<hgeokg/resource/592003470>	<hgeokg/schema/internetAccess>	internetAccess-wlan
+<hgeokg/resource/103917121>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5673370>
+<hgeokg/resource/3627536667>	<hgeokg/schema/addrHousenumber>	addrHousenumber-3802
+<hgeokg/resource/46577947>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/440122882>
+<hgeokg/resource/357616341>	<http://www.w3.org/2000/01/rdf-schema#label>	Public School 4
+<hgeokg/resource/440122882>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/46577947>
+<hgeokg/resource/226007046>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/204082744>
+<hgeokg/resource/204082744>	<hgeokg/schema/cyclewayRight>	cyclewayRight-lane
+<hgeokg/resource/2603955359>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5672052>
+<hgeokg/resource/196117079>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6822460515>
+<hgeokg/resource/5403851252>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/223508325>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5750222459>
+<hgeokg/resource/5671463>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/204082722>
+<hgeokg/resource/6822460515>	<hgeokg/schema/addrPostcode>	addrPostcode-10032
+<hgeokg/resource/5670684>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/3627524353>
+<hgeokg/resource/2796759877>	<hgeokg/schema/brandWikidata>	brandWikidata-Q847743
+<hgeokg/resource/223503123>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5750222459>
+<hgeokg/resource/2603955353>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/226007046>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/3627524353>	<hgeokg/schema/brandWikidata>	brandWikidata-Q487907
+<hgeokg/resource/5672052>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/204082744>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/103917121>
+<hgeokg/resource/440122882>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/5670684>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-W
+<hgeokg/resource/204082723>	<hgeokg/schema/bicycle>	bicycle-yes
+<hgeokg/resource/223503123>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/46577947>
+<hgeokg/resource/584850087>	<hgeokg/schema/rcnRef>	rcnRef-9
+<hgeokg/resource/204082723>	<hgeokg/schema/cyclewayRight>	cyclewayRight-shared_lane
+<hgeokg/resource/440122882>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/3627536667>
+<hgeokg/resource/2603955359>	<hgeokg/schema/addrHousenumber>	addrHousenumber-1033
+<hgeokg/resource/440122882>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/223503123>
+<hgeokg/resource/223503123>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/204082723>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/2603955359>
+<hgeokg/resource/204082722>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5403851252>
+<hgeokg/resource/226007071>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/226007071>	<hgeokg/schema/rcnRef>	rcnRef-9
+<hgeokg/resource/440122882>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/SharedLane>
+<hgeokg/resource/226007071>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/SharedLane>
+<hgeokg/resource/226007071>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/204082722>
+<hgeokg/resource/5403851252>	<hgeokg/schema/bench>	bench-no
+<hgeokg/resource/204082722>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/204082744>
+<hgeokg/resource/223508330>	<hgeokg/schema/nameRu>	nameRu-Бродвей
+<hgeokg/resource/223503123>	<hgeokg/schema/wikipedia>	wikipedia-en:Broadway (Manhattan)
+<hgeokg/resource/223503123>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/584850087>
+<hgeokg/resource/226007071>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/592003470>
+<hgeokg/resource/440122882>	<hgeokg/schema/nameRu>	nameRu-Бродвей
+<hgeokg/resource/5750222459>	<hgeokg/schema/phone>	phone-+1-212-928-0321
+<hgeokg/resource/223503123>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/223508325>
+<hgeokg/resource/2603955353>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/204082744>
+<hgeokg/resource/5671463>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/223508330>
+<hgeokg/resource/584850087>	<http://www.w3.org/2000/01/rdf-schema#label>	West 165th Street
+<hgeokg/resource/275017880>	<hgeokg/schema/gnisFeatureId>	gnisFeatureId-2084124,2084088
+<hgeokg/resource/103917119>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/592003470>
+<hgeokg/resource/226007046>	<http://www.w3.org/2000/01/rdf-schema#label>	Amsterdam Avenue
+<hgeokg/resource/46577947>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/3627524353>
+<hgeokg/resource/5671463>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/103917121>
+<hgeokg/resource/5670684>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/5750222459>	<hgeokg/schema/addrHousenumber>	addrHousenumber-3939
+<hgeokg/resource/204082722>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/6822460515>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/5670684>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/103917121>
+<hgeokg/resource/204082744>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/357616341>
+<hgeokg/resource/103917121>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/2603955359>
+<hgeokg/resource/6822460515>	<hgeokg/schema/email>	email-buynewcarny@gmail.com
+<hgeokg/resource/223508325>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Secondary>
+<hgeokg/resource/5673370>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/275017880>
+<hgeokg/resource/204082722>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/226007071>
+<hgeokg/resource/5403851252>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5672052>
+<hgeokg/resource/226007046>	<hgeokg/schema/hgv>	hgv-local
+<hgeokg/resource/5671463>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-W
+<hgeokg/resource/592003470>	<hgeokg/schema/note>	note-no in-station transfer between platforms
+<hgeokg/resource/5403851252>	<hgeokg/schema/routeRef>	routeRef-M3
+<hgeokg/resource/5672052>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/592003470>
+<hgeokg/resource/103917121>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/5672052>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/2603955359>
+<hgeokg/resource/226007046>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/226007071>
+<hgeokg/resource/592003470>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/PublicTransportStation>
+<hgeokg/resource/196117079>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/226007071>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5672052>
+<hgeokg/resource/2603955353>	<hgeokg/schema/openingHours>	openingHours-Mo-Sa 10:00-24:00; Su 12:00-21:00
+<hgeokg/resource/440122882>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/223508330>
+<hgeokg/resource/223508325>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/584850087>
+<hgeokg/resource/5673370>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Secondary>
+<hgeokg/resource/5750222459>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/223508325>
+<hgeokg/resource/592003470>	<hgeokg/schema/station>	station-subway
+<hgeokg/resource/196117079>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/357616341>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/204082744>
+<hgeokg/resource/196117079>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/5403851252>	<Point_transport-Adjacent-Point_transport>	<hgeokg/resource/592003470>
+<hgeokg/resource/2603955353>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/357616341>
+<hgeokg/resource/584850087>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Secondary>
+<hgeokg/resource/103917119>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5403851252>
+<hgeokg/resource/5750222459>	<hgeokg/schema/brandWikipedia>	brandWikipedia-en:Wendy's
+<hgeokg/resource/103917119>	<hgeokg/schema/oneway>	oneway-no
+<hgeokg/resource/5671463>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/5671461>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/196117079>
+<hgeokg/resource/275017880>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/2603955359>
+<hgeokg/resource/275017880>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/204082722>
+<hgeokg/resource/223508330>	<hgeokg/schema/lanes>	lanes-2
+<hgeokg/resource/204082744>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5670684>
+<hgeokg/resource/204082722>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5673370>
+<hgeokg/resource/5750222459>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/223503123>
+<hgeokg/resource/2796759877>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/223508330>
+<hgeokg/resource/6822460515>	<hgeokg/schema/openingHours>	openingHours-Mo-Th, Sa 09:00-21:00; Fr 09:00-19:00; Su 10:00-19:00
+<hgeokg/resource/223508325>	<hgeokg/schema/rcnRef>	rcnRef-9
+<hgeokg/resource/5671463>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5670684>
+<hgeokg/resource/2603955359>	<hgeokg/schema/brandWikidata>	brandWikidata-Q3433273
+<hgeokg/resource/196117079>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/592003470>
+<hgeokg/resource/2603955353>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5670684>
+<hgeokg/resource/2796759877>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/46577947>
+<hgeokg/resource/196117079>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-W
+<hgeokg/resource/204082744>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Secondary>
+<hgeokg/resource/5673370>	<hgeokg/schema/lanes>	lanes-3
+<hgeokg/resource/223508325>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/196117079>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/223503123>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5672052>
+<hgeokg/resource/2603955359>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/226007071>
+<hgeokg/resource/5750222596>	<http://www.w3.org/2000/01/rdf-schema#label>	Dennis N. Morea, DDS
+<hgeokg/resource/204082722>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/103917121>
+<hgeokg/resource/223508330>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/3627536667>
+<hgeokg/resource/223503123>	<hgeokg/schema/lanes>	lanes-2
+<hgeokg/resource/103917121>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/226007071>
+<hgeokg/resource/103917121>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/204082744>
+<hgeokg/resource/226007071>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/103917119>
+<hgeokg/resource/103917119>	<hgeokg/schema/lanes>	lanes-2
+<hgeokg/resource/46577947>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/223508330>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5671463>
+<hgeokg/resource/196117079>	<http://www.w3.org/2000/01/rdf-schema#label>	West 163rd Street
+<hgeokg/resource/5673370>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/226007071>
+<hgeokg/resource/204082744>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/5750222459>	<http://www.w3.org/2000/01/rdf-schema#label>	Wendy's
+<hgeokg/resource/6822460515>	<hgeokg/schema/website>	website-http://buy-new-car.com
+<hgeokg/resource/5750222459>	<hgeokg/schema/cuisine>	cuisine-burger
+<hgeokg/resource/2603955359>	<hgeokg/schema/openingHours>	openingHours-Mo-Su 08:00-22:00; Su 08:00-20:00
+<hgeokg/resource/5672052>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/226007071>	<http://www.w3.org/2000/01/rdf-schema#label>	Saint Nicholas Avenue
+<hgeokg/resource/5750222596>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5671461>
+<hgeokg/resource/440122882>	<http://www.w3.org/2000/01/rdf-schema#label>	Broadway
+<hgeokg/resource/204082744>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/204082722>
+<hgeokg/resource/103917121>	<hgeokg/schema/maxspeed>	maxspeed-25 mph
+<hgeokg/resource/223503123>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/204082722>
+<hgeokg/resource/5673370>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/103917121>
+<hgeokg/resource/592003470>	<hgeokg/schema/network>	network-NYC Subway
+<hgeokg/resource/226007071>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5673370>
+<hgeokg/resource/5671461>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/592003470>
+<hgeokg/resource/357616341>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/226007046>
+<hgeokg/resource/2603955359>	<hgeokg/schema/addrCountry>	addrCountry-US
+<hgeokg/resource/5672052>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/6822460515>	<hgeokg/schema/addrHousenumber>	addrHousenumber-536
+<hgeokg/resource/2603955359>	<hgeokg/schema/dispensing>	dispensing-yes
+<hgeokg/resource/226007071>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/2603955359>
+<hgeokg/resource/103917119>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/CyclewayLane>
+<hgeokg/resource/226007046>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/204082722>
+<hgeokg/resource/584850087>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/3627536667>	<http://www.w3.org/2000/01/rdf-schema#label>	ACM Suds 3802
+<hgeokg/resource/223508330>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/196117079>
+<hgeokg/resource/592003470>	<hgeokg/schema/openingHours>	openingHours-24/7
+<hgeokg/resource/357616341>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/AmenitySchool>
+<hgeokg/resource/226007046>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5671463>
+<hgeokg/resource/357616341>	<hgeokg/schema/gnisFeatureId>	gnisFeatureId-2079019
+<hgeokg/resource/204082723>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/5671463>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/226007046>
+<hgeokg/resource/103917119>	<hgeokg/schema/rcnRef>	rcnRef-9
+<hgeokg/resource/226007071>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/226007046>
+<hgeokg/resource/223503123>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5670684>
+<hgeokg/resource/5670684>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/357616341>
+<hgeokg/resource/223508330>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/4394707998>
+<hgeokg/resource/103917121>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/204082723>
+<hgeokg/resource/2603955353>	<hgeokg/schema/addrCountry>	addrCountry-US
+<hgeokg/resource/5673370>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/223503123>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/223508330>
+<hgeokg/resource/223508325>	<hgeokg/schema/hgv>	hgv-destination
+<hgeokg/resource/592003470>	<hgeokg/schema/startDate>	startDate-1932-09-10
+<hgeokg/resource/5673370>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/204082722>
+<hgeokg/resource/5403851252>	<http://www.w3.org/2000/01/rdf-schema#label>	Saint Nicholas Avenue & West 162nd Street
+<hgeokg/resource/3627536667>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/440122882>
+<hgeokg/resource/5673370>	<http://www.w3.org/2000/01/rdf-schema#label>	West 161st Street
+<hgeokg/resource/3627524353>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/223508330>
+<hgeokg/resource/440122882>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5670684>
+<hgeokg/resource/5671461>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/226007071>
+<hgeokg/resource/5673370>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5672052>
+<hgeokg/resource/4394707998>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/223508325>
+<hgeokg/resource/5672052>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/204082723>
+<hgeokg/resource/5671463>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/357616341>
+<hgeokg/resource/275017880>	<hgeokg/schema/nycdoittBin>	nycdoittBin-1062872
+<hgeokg/resource/226007046>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/2603955353>
+<hgeokg/resource/6822460515>	<hgeokg/schema/addrState>	addrState-NY
+<hgeokg/resource/223508330>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/204082722>
+<hgeokg/resource/4394707998>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/FastFood>
+<hgeokg/resource/196117079>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/223503123>
+<hgeokg/resource/5671463>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/204082744>
+<hgeokg/resource/440122882>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/3627524353>
+<hgeokg/resource/275017880>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/5673370>
+<hgeokg/resource/5670684>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/2796759877>
+<hgeokg/resource/5672052>	<http://www.w3.org/2000/01/rdf-schema#label>	West 162nd Street
+<hgeokg/resource/3627524353>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Bank>
+<hgeokg/resource/275017880>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/226007071>
+<hgeokg/resource/5403851252>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/BusStop>
+<hgeokg/resource/2796759877>	<hgeokg/schema/addrPostcode>	addrPostcode-10032
+<hgeokg/resource/204082723>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/196117079>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5403851252>
+<hgeokg/resource/4394707998>	<hgeokg/schema/nameEn>	nameEn-Subway
+<hgeokg/resource/46577947>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5670684>
+<hgeokg/resource/5403851252>	<hgeokg/schema/shelter>	shelter-no
+<hgeokg/resource/223508330>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/223503123>
+<hgeokg/resource/3627524353>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/46577947>
+<hgeokg/resource/4394707998>	<hgeokg/schema/brandWikipedia>	brandWikipedia-en:Subway (restaurant)
+<hgeokg/resource/223508330>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5670684>
+<hgeokg/resource/4394707998>	<hgeokg/schema/cuisine>	cuisine-sandwich
+<hgeokg/resource/5672052>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/223508330>
+<hgeokg/resource/2796759877>	<hgeokg/schema/takeaway>	takeaway-yes
+<hgeokg/resource/440122882>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Primary>
+<hgeokg/resource/3627536667>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/5673370>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/204082744>
+<hgeokg/resource/584850087>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/223508330>
+<hgeokg/resource/223503123>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/196117079>
+<hgeokg/resource/2603955359>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/5671461>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/223503123>
+<hgeokg/resource/103917121>	<http://www.w3.org/2000/01/rdf-schema#label>	Saint Nicholas Avenue
+<hgeokg/resource/103917119>	<hgeokg/schema/hgv>	hgv-destination
+<hgeokg/resource/223508330>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/2796759877>
+<hgeokg/resource/4394707998>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/223508330>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/3627524353>
+<hgeokg/resource/275017880>	<hgeokg/schema/operator>	operator-New York City Fire Department
+<hgeokg/resource/5672052>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/226007071>
+<hgeokg/resource/5750222596>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Dentist>
+<hgeokg/resource/103917119>	<http://www.w3.org/2000/01/rdf-schema#label>	Saint Nicholas Avenue
+<hgeokg/resource/5403851252>	<hgeokg/schema/surface>	surface-concrete
+<hgeokg/resource/204082744>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/5403851252>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/226007046>
+<hgeokg/resource/592003470>	<http://www.w3.org/2000/01/rdf-schema#label>	163rd Street–Amsterdam Avenue
+<hgeokg/resource/5671461>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-W
+<hgeokg/resource/46577947>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Secondary>
+<hgeokg/resource/103917121>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Secondary>
+<hgeokg/resource/357616341>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/5671461>	<http://www.w3.org/2000/01/rdf-schema#label>	West 164th Street
+<hgeokg/resource/5671463>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/2796759877>
+<hgeokg/resource/103917119>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/226007046>	<hgeokg/schema/bicycle>	bicycle-yes
+<hgeokg/resource/3627524353>	<hgeokg/schema/addrState>	addrState-NY
+<hgeokg/resource/5673370>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5671463>
+<hgeokg/resource/226007046>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Secondary>
+<hgeokg/resource/4394707998>	<hgeokg/schema/takeaway>	takeaway-yes
+<hgeokg/resource/103917121>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/204082722>
+<hgeokg/resource/5670684>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/3627524353>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5670684>
+<hgeokg/resource/5750222459>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/223508330>
+<hgeokg/resource/5750222459>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/FastFood>
+<hgeokg/resource/226007071>	<hgeokg/schema/hgv>	hgv-destination
+<hgeokg/resource/5670684>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/3627536667>
+<hgeokg/resource/223508330>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/5670684>	<hgeokg/schema/cyclewayLeft>	cyclewayLeft-shared_lane
+<hgeokg/resource/5670684>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/226007046>
+<hgeokg/resource/223508325>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-W
+<hgeokg/resource/592003470>	<hgeokg/schema/subway>	subway-yes
+<hgeokg/resource/3627524353>	<hgeokg/schema/brandWikipedia>	brandWikipedia-en:Bank of America
+<hgeokg/resource/5671461>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5750222459>
+<hgeokg/resource/223503123>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/2796759877>
+<hgeokg/resource/5671461>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/4394707998>
+<hgeokg/resource/440122882>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5671463>
+<hgeokg/resource/357616341>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5670684>
+<hgeokg/resource/6822460515>	<http://www.w3.org/2000/01/rdf-schema#label>	Buy New Car
+<hgeokg/resource/223508330>	<http://www.w3.org/2000/01/rdf-schema#label>	Broadway
+<hgeokg/resource/3627536667>	<hgeokg/schema/addrPostcode>	addrPostcode-10032
+<hgeokg/resource/2603955353>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Beverages>
+<hgeokg/resource/103917121>	<hgeokg/schema/bicycle>	bicycle-yes
+<hgeokg/resource/440122882>	<hgeokg/schema/hgv>	hgv-local
+<hgeokg/resource/5403851252>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/275017880>
+<hgeokg/resource/5403851252>	<hgeokg/schema/lit>	lit-yes
+<hgeokg/resource/103917119>	<hgeokg/schema/bicycle>	bicycle-yes
+<hgeokg/resource/584850087>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-W
+<hgeokg/resource/204082744>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5673370>
+<hgeokg/resource/5671463>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/275017880>
+<hgeokg/resource/226007046>	<hgeokg/schema/cyclewayLeft>	cyclewayLeft-shared_lane
+<hgeokg/resource/275017880>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/5672052>
+<hgeokg/resource/275017880>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/BuildingFireStation>
+<hgeokg/resource/46577947>	<hgeokg/schema/cyclewayLeft>	cyclewayLeft-shared_lane
+<hgeokg/resource/204082722>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5672052>
+<hgeokg/resource/275017880>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5403851252>
+<hgeokg/resource/440122882>	<hgeokg/schema/lanes>	lanes-2
+<hgeokg/resource/204082744>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-W
+<hgeokg/resource/5670684>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/223503123>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/2796759877>	<hgeokg/schema/cuisine>	cuisine-donut;coffee_shop
+<hgeokg/resource/103917121>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/2603955353>
+<hgeokg/resource/103917121>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/5403851252>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/PublicTransportPlatform>
+<hgeokg/resource/204082722>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/2603955359>
+<hgeokg/resource/3627524353>	<hgeokg/schema/addrHousenumber>	addrHousenumber-3800
+<hgeokg/resource/440122882>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/275017880>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/5672052>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5403851252>
+<hgeokg/resource/103917119>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/226007071>
+<hgeokg/resource/223508325>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/5670684>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/204082744>
+<hgeokg/resource/2603955353>	<hgeokg/schema/addrHousenumber>	addrHousenumber-2001
+<hgeokg/resource/5673370>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/226007046>
+<hgeokg/resource/5750222459>	<hgeokg/schema/driveThrough>	driveThrough-no
+<hgeokg/resource/223508330>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/440122882>
+<hgeokg/resource/5750222596>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/223508325>
+<hgeokg/resource/5672052>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6822460515>
+<hgeokg/resource/3627536667>	<hgeokg/schema/addrState>	addrState-NY
+<hgeokg/resource/46577947>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5671463>
+<hgeokg/resource/204082723>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/2796759877>	<hgeokg/schema/brandWikipedia>	brandWikipedia-en:Dunkin' Donuts
+<hgeokg/resource/196117079>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/226007071>
+<hgeokg/resource/592003470>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5672052>
+<hgeokg/resource/5673370>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/2603955359>
+<hgeokg/resource/223508330>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/584850087>
+<hgeokg/resource/103917119>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5672052>
+<hgeokg/resource/226007046>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5673370>
+<hgeokg/resource/4394707998>	<hgeokg/schema/brandWikidata>	brandWikidata-Q244457
+<hgeokg/resource/196117079>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5672052>
+<hgeokg/resource/2603955353>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/103917121>
+<hgeokg/resource/3627536667>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Laundry>
+<hgeokg/resource/226007046>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/2796759877>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/440122882>
+<hgeokg/resource/226007071>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Secondary>
+<hgeokg/resource/3627524353>	<hgeokg/schema/brand>	brand-Bank of America
+<hgeokg/resource/2796759877>	<hgeokg/schema/altName>	altName-Dunkin' Donuts
+<hgeokg/resource/3627524353>	<http://www.w3.org/2000/01/rdf-schema#label>	Bank of America
+<hgeokg/resource/103917121>	<hgeokg/schema/rcnRef>	rcnRef-9
+<hgeokg/resource/2603955359>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/204082722>
+<hgeokg/resource/204082723>	<http://www.w3.org/2000/01/rdf-schema#label>	Saint Nicholas Avenue
+<hgeokg/resource/2603955359>	<http://www.w3.org/2000/01/rdf-schema#label>	Rite Aid
+<hgeokg/resource/5671461>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/223508330>
+<hgeokg/resource/6822460515>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Car>
+<hgeokg/resource/103917119>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Secondary>
+<hgeokg/resource/204082744>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/226007071>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/196117079>
+<hgeokg/resource/5670684>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/46577947>
+<hgeokg/resource/5671461>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/2603955359>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/103917121>
+<hgeokg/resource/103917119>	<hgeokg/schema/wikipedia>	wikipedia-en:St. Nicholas Avenue
+<hgeokg/resource/223503123>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/440122882>
+<hgeokg/resource/204082722>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/223503123>
+<hgeokg/resource/223503123>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5671463>
+<hgeokg/resource/275017880>	<hgeokg/schema/addrPostcode>	addrPostcode-10032
+<hgeokg/resource/226007046>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/275017880>
+<hgeokg/resource/223503123>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/3627536667>
+<hgeokg/resource/103917121>	<hgeokg/schema/hgv>	hgv-destination
+<hgeokg/resource/3627524353>	<hgeokg/schema/driveThrough>	driveThrough-no
+<hgeokg/resource/223508330>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/226007046>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/204082723>
+<hgeokg/resource/5750222459>	<hgeokg/schema/openingHours>	openingHours-Fr, Sa 10:00-04:00; Mo-Th, Su 10:00-03:00
+<hgeokg/resource/2603955359>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/275017880>
+<hgeokg/resource/204082723>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5673370>
+<hgeokg/resource/4394707998>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/196117079>
+<hgeokg/resource/6822460515>	<hgeokg/schema/phone>	phone-+1-646-203-0390
+<hgeokg/resource/204082723>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/204082744>
+<hgeokg/resource/275017880>	<hgeokg/schema/height>	height-17.6
+<hgeokg/resource/204082722>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/204082723>
+<hgeokg/resource/226007071>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/103917121>
+<hgeokg/resource/2603955353>	<hgeokg/schema/addrPostcode>	addrPostcode-10032
+<hgeokg/resource/4394707998>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/584850087>
+<hgeokg/resource/2603955353>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5671463>
+<hgeokg/resource/592003470>	<hgeokg/schema/level>	level--2
+<hgeokg/resource/223508325>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/4394707998>
+<hgeokg/resource/357616341>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/2603955353>
+<hgeokg/resource/5672052>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/204082722>
+<hgeokg/resource/275017880>	<hgeokg/schema/operatorWikipedia>	operatorWikipedia-en:New York City Fire Department
+<hgeokg/resource/3627536667>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/223508330>
+<hgeokg/resource/204082722>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/226007071>	<hgeokg/schema/wikipedia>	wikipedia-en:St. Nicholas Avenue
+<hgeokg/resource/584850087>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5750222459>
+<hgeokg/resource/2603955359>	<hgeokg/schema/addrState>	addrState-NY
+<hgeokg/resource/5403851252>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/196117079>
+<hgeokg/resource/592003470>	<hgeokg/schema/wheelchair>	wheelchair-no
+<hgeokg/resource/2796759877>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5671463>
+<hgeokg/resource/2603955353>	<hgeokg/schema/website>	website-http://patagoniawineandspirits.com/
+<hgeokg/resource/5670684>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/440122882>
+<hgeokg/resource/584850087>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/223508325>
+<hgeokg/resource/275017880>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/226007046>
+<hgeokg/resource/103917119>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/46577947>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/223503123>
+<hgeokg/resource/204082723>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/226007071>
+<hgeokg/resource/4394707998>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5750222459>
+<hgeokg/resource/226007046>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5403851252>
+<hgeokg/resource/5671463>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/5672052>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/223503123>
+<hgeokg/resource/5671461>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/592003470>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/RailwayStation>
+<hgeokg/resource/5750222459>	<hgeokg/schema/takeaway>	takeaway-yes
+<hgeokg/resource/223508325>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/223508330>
+<hgeokg/resource/2796759877>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/5671463>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/440122882>
+<hgeokg/resource/2796759877>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/223503123>
+<hgeokg/resource/226007071>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/5671461>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/103917119>
+<hgeokg/resource/6822460515>	<hgeokg/schema/startDate>	startDate-2001-02-09
+<hgeokg/resource/226007046>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/357616341>
+<hgeokg/resource/103917119>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/196117079>
+<hgeokg/resource/2796759877>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5670684>
+<hgeokg/resource/196117079>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/4394707998>
+<hgeokg/resource/5750222459>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5671461>
+<hgeokg/resource/5671463>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/46577947>
+<hgeokg/resource/5671463>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/2603955353>
+<hgeokg/resource/2796759877>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/FastFood>
+<hgeokg/resource/5673370>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/103917119>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5671461>
+<hgeokg/resource/196117079>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5671461>
+<hgeokg/resource/204082723>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/5750222459>	<hgeokg/schema/brandWikidata>	brandWikidata-Q550258
+<hgeokg/resource/592003470>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5671461>
+<hgeokg/resource/3627524353>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/3627536667>
+<hgeokg/resource/226007046>	<hgeokg/schema/oneway>	oneway-no
+<hgeokg/resource/584850087>	<hgeokg/schema/hgv>	hgv-destination
+<hgeokg/resource/5671461>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5750222596>
+<hgeokg/resource/226007071>	<hgeokg/schema/bicycle>	bicycle-yes
+<hgeokg/resource/204082723>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/204082722>
+<hgeokg/resource/5671463>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/223503123>
+<hgeokg/resource/204082723>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5672052>
+<hgeokg/resource/6822460515>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5672052>
+<hgeokg/resource/223508325>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/223503123>
+<hgeokg/resource/3627536667>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5670684>
+<hgeokg/resource/46577947>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/223508330>
+<hgeokg/resource/103917121>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/226007046>
+<hgeokg/resource/592003470>	<Point_transport-Adjacent-Point_transport>	<hgeokg/resource/5403851252>
+<hgeokg/resource/5673370>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-W
+<hgeokg/resource/5672052>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/103917121>	<hgeokg/schema/lanes>	lanes-1
+<hgeokg/resource/204082722>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/5750222596>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/592003470>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/2796759877>	<http://www.w3.org/2000/01/rdf-schema#label>	Dunkin'
+<hgeokg/resource/226007071>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/275017880>
+<hgeokg/resource/204082744>	<http://www.w3.org/2000/01/rdf-schema#label>	West 160th Street
+<hgeokg/resource/204082723>	<hgeokg/schema/wikipedia>	wikipedia-en:St. Nicholas Avenue
+<hgeokg/resource/2603955359>	<hgeokg/schema/brand>	brand-Rite Aid
+<hgeokg/resource/3627524353>	<hgeokg/schema/addrPostcode>	addrPostcode-10032
+<hgeokg/resource/275017880>	<http://www.w3.org/2000/01/rdf-schema#label>	FDNY Engine 84/Ladder 34
+<hgeokg/resource/5672052>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/196117079>
+<hgeokg/resource/584850087>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/223503123>
+<hgeokg/resource/226007071>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5403851252>
+<hgeokg/resource/5750222459>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/584850087>
+<hgeokg/resource/592003470>	<hgeokg/schema/operator>	operator-New York City Transit Authority
+<hgeokg/resource/103917121>	<hgeokg/schema/wikipedia>	wikipedia-en:St. Nicholas Avenue
+<hgeokg/resource/5403851252>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/204082722>
+<hgeokg/resource/584850087>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/4394707998>
+<hgeokg/resource/5672052>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/103917119>
+<hgeokg/resource/3627536667>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/223503123>
+<hgeokg/resource/5673370>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/204082723>
+<hgeokg/resource/584850087>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/2603955359>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Pharmacy>
+<hgeokg/resource/223503123>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Primary>
+<hgeokg/resource/592003470>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/226007071>
+<hgeokg/resource/204082744>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/204082723>
+<hgeokg/resource/204082722>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/275017880>
+<hgeokg/resource/223503123>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/3627524353>
+<hgeokg/resource/226007071>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/204082722>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/204082744>	<hgeokg/schema/bicycle>	bicycle-yes
+<hgeokg/resource/223503123>	<hgeokg/schema/hgv>	hgv-local
+<hgeokg/resource/2796759877>	<hgeokg/schema/brand>	brand-Dunkin'
+<hgeokg/resource/5673370>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/2603955359>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5403851252>
+<hgeokg/resource/226007046>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/2603955359>
+<hgeokg/resource/223508325>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5750222596>
+<hgeokg/resource/5750222596>	<hgeokg/schema/reservation>	reservation-recommended
+<hgeokg/resource/3627536667>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/46577947>
+<hgeokg/resource/204082744>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/2603955353>
+<hgeokg/resource/5672052>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/226007046>
+<hgeokg/resource/5672052>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-W
+<hgeokg/resource/4394707998>	<hgeokg/schema/driveThrough>	driveThrough-no
+<hgeokg/resource/226007071>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/204082723>
+<hgeokg/resource/2603955353>	<http://www.w3.org/2000/01/rdf-schema#label>	Patagonia Wine & Spirits
+<hgeokg/resource/46577947>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/3627536667>
+<hgeokg/resource/592003470>	<hgeokg/schema/wikimediaCommons>	wikimediaCommons-Category:163rd Street – Amsterdam Avenue (IND Eighth Avenue Line)
+<hgeokg/resource/5671463>	<http://www.w3.org/2000/01/rdf-schema#label>	West 160th Street
+<hgeokg/resource/3627524353>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/440122882>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/3627524353>	<hgeokg/schema/operator>	operator-Bank of America
+<hgeokg/resource/196117079>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/103917119>
+<hgeokg/resource/5670684>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/2603955353>
+<hgeokg/resource/103917119>	<hgeokg/schema/maxspeed>	maxspeed-25 mph
+<hgeokg/resource/5750222459>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/4394707998>
+<hgeokg/resource/592003470>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/196117079>
+<hgeokg/resource/3627524353>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/440122882>
+<hgeokg/resource/592003470>	<hgeokg/schema/wikipedia>	wikipedia-en:163rd Street–Amsterdam Avenue station
+<hgeokg/resource/5750222596>	<hgeokg/schema/addrHousenumber>	addrHousenumber-130
+<hgeokg/resource/5671463>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/46577947>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/2796759877>
+<hgeokg/resource/223508330>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Primary>
+<hgeokg/resource/275017880>	<hgeokg/schema/addrState>	addrState-NY
+<hgeokg/resource/204082723>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/226007046>
+<hgeokg/resource/5403851252>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/2603955359>
+<hgeokg/resource/357616341>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5671463>
+<hgeokg/resource/226007071>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5671461>
+<hgeokg/resource/5670684>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/223508330>
+<hgeokg/resource/2603955359>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/226007046>
+<hgeokg/resource/2603955353>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/226007046>
+<hgeokg/resource/5750222459>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/5670684>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/223503123>	<hgeokg/schema/nameRu>	nameRu-Бродвей
+<hgeokg/resource/223503123>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/5403851252>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/103917119>
+<hgeokg/resource/6822460515>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/196117079>
+<hgeokg/resource/5672052>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/275017880>
+<hgeokg/resource/103917121>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5671463>
+<hgeokg/resource/5670684>	<http://www.w3.org/2000/01/rdf-schema#label>	West 159th Street
+<hgeokg/resource/5671463>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/4394707998>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/223508330>
+<hgeokg/resource/223508330>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/46577947>
+<hgeokg/resource/2603955359>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/204082723>
+<hgeokg/resource/275017880>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/5671463>
+<hgeokg/resource/204082744>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5671463>
+<hgeokg/resource/2603955359>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5673370>
+<hgeokg/resource/223508330>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5750222459>
+<hgeokg/resource/5671461>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/204082723>	<hgeokg/schema/hgv>	hgv-destination
+<hgeokg/resource/223503123>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/4394707998>
+<hgeokg/resource/223508330>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5671461>
+<hgeokg/resource/223503123>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5671461>
+<hgeokg/resource/5750222596>	<hgeokg/schema/phone>	phone-+1-212-928-9000
+<hgeokg/resource/46577947>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-W
+<hgeokg/resource/204082722>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5671463>
+<hgeokg/resource/5670684>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/223503123>
+<hgeokg/resource/204082722>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/226007046>
+<hgeokg/resource/2603955359>	<hgeokg/schema/addrPostcode>	addrPostcode-10032
+<hgeokg/resource/6822460515>	<hgeokg/schema/operator>	operator-James Parker
+<hgeokg/resource/440122882>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/2796759877>
+<hgeokg/resource/3627524353>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/223503123>
+<hgeokg/resource/592003470>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/103917119>
+<hgeokg/resource/275017880>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/AmenityFireStation>
+<hgeokg/resource/2603955353>	<hgeokg/schema/addrState>	addrState-NY
+<hgeokg/resource/2603955359>	<hgeokg/schema/brandWikipedia>	brandWikipedia-en:Rite Aid
+<hgeokg/resource/3627536667>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/3627524353>
+<hgeokg/resource/204082723>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/103917121>
+<hgeokg/resource/204082723>	<hgeokg/schema/lanes>	lanes-1
+<hgeokg/resource/196117079>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/223508330>
+<hgeokg/resource/204082723>	<hgeokg/schema/rcnRef>	rcnRef-9
+<hgeokg/resource/275017880>	<hgeokg/schema/addrHousenumber>	addrHousenumber-513
+<hgeokg/resource/204082744>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/226007046>
+<hgeokg/resource/204082722>	<http://www.w3.org/2000/01/rdf-schema#label>	West 161st Street
+<hgeokg/resource/46577947>	<http://www.w3.org/2000/01/rdf-schema#label>	West 159th Street
+<hgeokg/resource/103917121>	<hgeokg/schema/cyclewayRight>	cyclewayRight-lane
+<hgeokg/resource/223508330>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/4394707998>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5671461>
+<hgeokg/resource/226007046>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/103917121>
+<hgeokg/resource/5671461>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/5403851252>	<hgeokg/schema/bus>	bus-yes
+<hgeokg/resource/440122882>	<hgeokg/schema/wikipedia>	wikipedia-en:Broadway (Manhattan)
+<hgeokg/resource/4394707998>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/223503123>
+<hgeokg/resource/5672052>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5673370>
+<hgeokg/resource/223508325>	<http://www.w3.org/2000/01/rdf-schema#label>	West 165th Street
+<hgeokg/resource/2796759877>	<hgeokg/schema/addrHousenumber>	addrHousenumber-3827
+<hgeokg/resource/204082722>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/223508330>
+<hgeokg/resource/226007046>	<hgeokg/schema/wikipedia>	wikipedia-en:Tenth Avenue (Manhattan)
+<hgeokg/resource/223503123>	<http://www.w3.org/2000/01/rdf-schema#label>	Broadway

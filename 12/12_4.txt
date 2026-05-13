@@ -1,0 +1,728 @@
+<hgeokg/resource/49032026>	<hgeokg/schema/horse>	horse-no
+<hgeokg/resource/275038489>	<http://www.w3.org/2000/01/rdf-schema#label>	New York State Psychiatric Institute - Kolb Research Building
+<hgeokg/resource/5984058502>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/275038485>	<hgeokg/schema/addrHousenumber>	addrHousenumber-1051
+<hgeokg/resource/275038475>	<hgeokg/schema/height>	height-49.9
+<hgeokg/resource/46593266>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/397678729>
+<hgeokg/resource/232473896>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/278618227>
+<hgeokg/resource/275038429>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Polygon>
+<hgeokg/resource/488797727>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/486583092>
+<hgeokg/resource/122738269>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/122738265>
+<hgeokg/resource/275038431>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/226007049>
+<hgeokg/resource/226007049>	<http://www.w3.org/2000/01/rdf-schema#label>	Fort Washington Avenue
+<hgeokg/resource/486583091>	<hgeokg/schema/tunnel>	tunnel-building_passage
+<hgeokg/resource/275038497>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/486583092>
+<hgeokg/resource/5400493007>	<hgeokg/schema/lit>	lit-no
+<hgeokg/resource/486583092>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/275038485>
+<hgeokg/resource/693648914>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-W
+<hgeokg/resource/275038482>	<Polygon_buildings-Adjacent-Polygon_buildings>	<hgeokg/resource/275038497>
+<hgeokg/resource/232473896>	<hgeokg/schema/layer>	layer-1
+<hgeokg/resource/488797726>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/486583091>
+<hgeokg/resource/275038431>	<hgeokg/schema/addrState>	addrState-NY
+<hgeokg/resource/488797726>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/275038497>
+<hgeokg/resource/275038497>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/226007049>
+<hgeokg/resource/693648914>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/480680383>
+<hgeokg/resource/275038431>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/242517194>
+<hgeokg/resource/5610061465>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/226007052>
+<hgeokg/resource/5400493007>	<hgeokg/schema/bench>	bench-no
+<hgeokg/resource/275038482>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/488797726>
+<hgeokg/resource/5984058502>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/242517194>
+<hgeokg/resource/486583092>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Secondary>
+<hgeokg/resource/416618175>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/217722093>
+<hgeokg/resource/1721287283>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/232473896>
+<hgeokg/resource/275038470>	<Polygon_buildings-Adjacent-Polygon_buildings>	<hgeokg/resource/275038429>
+<hgeokg/resource/122738269>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/46114474>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/8119481>
+<hgeokg/resource/5671739>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/400456495>
+<hgeokg/resource/46111605>	<hgeokg/schema/hgv>	hgv-destination
+<hgeokg/resource/486583091>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Secondary>
+<hgeokg/resource/122738269>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/275038485>
+<hgeokg/resource/242517194>	<http://www.w3.org/2000/01/rdf-schema#label>	West 170th Street
+<hgeokg/resource/488797726>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/669610146>
+<hgeokg/resource/275038485>	<hgeokg/schema/nycdoittBin>	nycdoittBin-1085495
+<hgeokg/resource/275038470>	<http://www.w3.org/2000/01/rdf-schema#label>	Mailman School of Public Health
+<hgeokg/resource/416618175>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/SharedLane>
+<hgeokg/resource/122738265>	<hgeokg/schema/lanes>	lanes-2
+<hgeokg/resource/46114474>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5671739>
+<hgeokg/resource/440122898>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5671739>
+<hgeokg/resource/46114474>	<hgeokg/schema/hgv>	hgv-destination
+<hgeokg/resource/122738265>	<http://www.w3.org/2000/01/rdf-schema#label>	Henry Hudson Parkway
+<hgeokg/resource/122738269>	<http://www.w3.org/2000/01/rdf-schema#label>	Henry Hudson Parkway
+<hgeokg/resource/226007052>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/275038485>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/486583091>
+<hgeokg/resource/621557577>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/621557578>
+<hgeokg/resource/693648914>	<http://www.w3.org/2000/01/rdf-schema#label>	West 169th Street
+<hgeokg/resource/5400493007>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/217722093>
+<hgeokg/resource/693648914>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/440122898>
+<hgeokg/resource/122738265>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Motorway>
+<hgeokg/resource/49032026>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/1721287283>
+<hgeokg/resource/275038470>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/669610146>
+<hgeokg/resource/46114474>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/621557579>
+<hgeokg/resource/2270245977>	<hgeokg/schema/artistName>	artistName-Terry Fugate-Wilcox
+<hgeokg/resource/122738265>	<hgeokg/schema/goods>	goods-no
+<hgeokg/resource/46593266>	<hgeokg/schema/foot>	foot-yes
+<hgeokg/resource/669610146>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/275038489>
+<hgeokg/resource/275038489>	<hgeokg/schema/height>	height-70.7
+<hgeokg/resource/486583092>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/486583091>
+<hgeokg/resource/621557579>	<hgeokg/schema/wikipedia>	wikipedia-en:Riverside Drive (Manhattan)
+<hgeokg/resource/730156337>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/400456495>
+<hgeokg/resource/275038482>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/BuildingUniversity>
+<hgeokg/resource/798544893>	<http://www.w3.org/2000/01/rdf-schema#label>	Fort Washington Park Greenway
+<hgeokg/resource/798544893>	<hgeokg/schema/bicycle>	bicycle-designated
+<hgeokg/resource/278618227>	<hgeokg/schema/lanes>	lanes-3
+<hgeokg/resource/275038482>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/669610146>
+<hgeokg/resource/49032026>	<hgeokg/schema/layer>	layer-2
+<hgeokg/resource/8119481>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/2270245977>	<hgeokg/schema/source>	source-http://www.nycgovparks.org/parks/jhoodwrightpark/highlights/11938
+<hgeokg/resource/232473896>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/49032026>
+<hgeokg/resource/49032026>	<hgeokg/schema/bridge>	bridge-yes
+<hgeokg/resource/49032026>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/397678729>
+<hgeokg/resource/440122898>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5984058502>
+<hgeokg/resource/46111605>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Secondary>
+<hgeokg/resource/693648911>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/480680383>
+<hgeokg/resource/122738265>	<hgeokg/schema/unsignedRef>	unsignedRef-NY 907V
+<hgeokg/resource/486583091>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/669610146>
+<hgeokg/resource/621557578>	<http://www.w3.org/2000/01/rdf-schema#label>	Riverside Drive
+<hgeokg/resource/275038429>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/242517194>
+<hgeokg/resource/669610146>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/46111605>
+<hgeokg/resource/621557578>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/621557577>
+<hgeokg/resource/5669886>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/275062137>
+<hgeokg/resource/217722093>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5610061465>
+<hgeokg/resource/397678729>	<http://www.w3.org/2000/01/rdf-schema#label>	Little Red Lighthouse
+<hgeokg/resource/46111605>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/488797727>
+<hgeokg/resource/798544892>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Cycleway>
+<hgeokg/resource/275038497>	<hgeokg/schema/height>	height-49.9
+<hgeokg/resource/416618175>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/226007052>
+<hgeokg/resource/226007049>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/693648914>
+<hgeokg/resource/693648914>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/275038489>
+<hgeokg/resource/400456494>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/275038475>
+<hgeokg/resource/400456494>	<http://www.w3.org/2000/01/rdf-schema#label>	Haven Avenue
+<hgeokg/resource/278618227>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/46593266>
+<hgeokg/resource/278618227>	<hgeokg/schema/goods>	goods-no
+<hgeokg/resource/242517194>	<hgeokg/schema/cyclewayRight>	cyclewayRight-shared_lane
+<hgeokg/resource/5671739>	<http://www.w3.org/2000/01/rdf-schema#label>	Haven Avenue
+<hgeokg/resource/275038475>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/400456494>
+<hgeokg/resource/5610061465>	<hgeokg/schema/addrPostcode>	addrPostcode-10032
+<hgeokg/resource/242517194>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/400456495>
+<hgeokg/resource/278618227>	<hgeokg/schema/unsignedRef>	unsignedRef-NY 907V
+<hgeokg/resource/232473896>	<hgeokg/schema/surface>	surface-concrete
+<hgeokg/resource/275038431>	<Polygon_buildings-Adjacent-Polygon_buildings>	<hgeokg/resource/275038429>
+<hgeokg/resource/226007052>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Secondary>
+<hgeokg/resource/669610146>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/275038470>
+<hgeokg/resource/122738269>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/232473896>
+<hgeokg/resource/669610146>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/488797726>
+<hgeokg/resource/621557578>	<hgeokg/schema/wikipedia>	wikipedia-en:Riverside Drive (Manhattan)
+<hgeokg/resource/46593266>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/798544893>
+<hgeokg/resource/400456495>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5984058502>
+<hgeokg/resource/397678729>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/49032026>
+<hgeokg/resource/122738269>	<hgeokg/schema/motorcar>	motorcar-designated
+<hgeokg/resource/275038435>	<http://www.w3.org/2000/01/rdf-schema#label>	Herbert Irving Pavilion
+<hgeokg/resource/122738269>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/46114474>
+<hgeokg/resource/275038489>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/669610146>
+<hgeokg/resource/693648911>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/122738269>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/8119481>
+<hgeokg/resource/730156337>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/5984058502>
+<hgeokg/resource/242517194>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/275038429>
+<hgeokg/resource/8119481>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/122738269>
+<hgeokg/resource/278618227>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/232473896>
+<hgeokg/resource/486583091>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/488797726>
+<hgeokg/resource/275038429>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/BuildingUniversity>
+<hgeokg/resource/281090893>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/DogPark>
+<hgeokg/resource/480680383>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/275038482>
+<hgeokg/resource/275038470>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/488797726>
+<hgeokg/resource/217722093>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/226007052>
+<hgeokg/resource/5669886>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/217722093>
+<hgeokg/resource/486583091>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/275038475>
+<hgeokg/resource/217722093>	<Point_pois-Intersect-Point_pois>	<hgeokg/resource/281090893>
+<hgeokg/resource/242517194>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5984058502>
+<hgeokg/resource/46114474>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Secondary>
+<hgeokg/resource/275038429>	<hgeokg/schema/nycdoittBin>	nycdoittBin-1063423
+<hgeokg/resource/486583091>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/275038485>	<Polygon_buildings-Adjacent-Polygon_buildings>	<hgeokg/resource/275038429>
+<hgeokg/resource/122738269>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/122738265>	<hgeokg/schema/destination>	destination-Henry Hudson Parkway
+<hgeokg/resource/49032026>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/278618227>
+<hgeokg/resource/46114474>	<hgeokg/schema/wikipedia>	wikipedia-en:Riverside Drive (Manhattan)
+<hgeokg/resource/122738265>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/275038431>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/BuildingUniversity>
+<hgeokg/resource/275038497>	<Polygon_buildings-Intersect-Polygon_buildings>	<hgeokg/resource/275038475>
+<hgeokg/resource/5669886>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/226007052>	<hgeokg/schema/cyclewayRight>	cyclewayRight-shared_lane
+<hgeokg/resource/46114474>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/122738269>
+<hgeokg/resource/275038431>	<hgeokg/schema/height>	height-96.8
+<hgeokg/resource/693648911>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/275038475>
+<hgeokg/resource/275038431>	<hgeokg/schema/buildingLevels>	buildingLevels-17
+<hgeokg/resource/440122898>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/226007049>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/SharedLane>
+<hgeokg/resource/798544893>	<hgeokg/schema/foot>	foot-yes
+<hgeokg/resource/693648911>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/400456494>
+<hgeokg/resource/5400493007>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/416618175>
+<hgeokg/resource/488797726>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Secondary>
+<hgeokg/resource/486583092>	<hgeokg/schema/wikipedia>	wikipedia-en:Riverside Drive (Manhattan)
+<hgeokg/resource/275038489>	<Polygon_buildings-Intersect-Polygon_buildings>	<hgeokg/resource/275038470>
+<hgeokg/resource/486583091>	<hgeokg/schema/hgv>	hgv-destination
+<hgeokg/resource/440122898>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/400456494>
+<hgeokg/resource/2270245977>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/281090893>
+<hgeokg/resource/46111605>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/621557577>
+<hgeokg/resource/798544892>	<hgeokg/schema/foot>	foot-designated
+<hgeokg/resource/1721287283>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/798544893>
+<hgeokg/resource/1721287283>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/49032026>
+<hgeokg/resource/122738265>	<hgeokg/schema/ref>	ref-HH;NY 9A
+<hgeokg/resource/281090893>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/2270245977>
+<hgeokg/resource/440122898>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/275038429>
+<hgeokg/resource/2270245977>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5671739>
+<hgeokg/resource/621557579>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/275038429>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/693648914>
+<hgeokg/resource/49032026>	<hgeokg/schema/bicycle>	bicycle-no
+<hgeokg/resource/488797727>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/46111605>
+<hgeokg/resource/49032026>	<hgeokg/schema/sidewalk>	sidewalk-right
+<hgeokg/resource/232473896>	<hgeokg/schema/ref>	ref-I 95;US 1;US 9
+<hgeokg/resource/46111605>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/486583091>
+<hgeokg/resource/49032026>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/232473896>
+<hgeokg/resource/669610146>	<hgeokg/schema/hgv>	hgv-destination
+<hgeokg/resource/275038475>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/BuildingHospital>
+<hgeokg/resource/798544892>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/798544893>
+<hgeokg/resource/122738269>	<hgeokg/schema/goods>	goods-no
+<hgeokg/resource/275038475>	<hgeokg/schema/nycdoittBin>	nycdoittBin-1076746
+<hgeokg/resource/730156337>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/440122898>
+<hgeokg/resource/122738265>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/122738269>
+<hgeokg/resource/621557579>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Secondary>
+<hgeokg/resource/275038485>	<Polygon_buildings-Adjacent-Polygon_buildings>	<hgeokg/resource/275038470>
+<hgeokg/resource/242517194>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/400456494>
+<hgeokg/resource/242517194>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/275038489>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/46111605>
+<hgeokg/resource/2270245977>	<hgeokg/schema/artworkType>	artworkType-sculpture
+<hgeokg/resource/488797727>	<hgeokg/schema/hgv>	hgv-destination
+<hgeokg/resource/46111605>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/275038485>
+<hgeokg/resource/275038485>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/46111605>
+<hgeokg/resource/400456495>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/440122898>
+<hgeokg/resource/486583091>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/46111605>
+<hgeokg/resource/275038431>	<hgeokg/schema/nycdoittBin>	nycdoittBin-1063402
+<hgeokg/resource/693648914>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/275038429>
+<hgeokg/resource/798544892>	<http://www.w3.org/2000/01/rdf-schema#label>	Fort Washington Park Greenway
+<hgeokg/resource/275038497>	<http://www.w3.org/2000/01/rdf-schema#label>	Vivian & Seymour Milstein Family Heart Center
+<hgeokg/resource/746730288>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/46593266>
+<hgeokg/resource/798544893>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Path>
+<hgeokg/resource/226007052>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/480680383>
+<hgeokg/resource/275038429>	<Polygon_buildings-Adjacent-Polygon_buildings>	<hgeokg/resource/275038482>
+<hgeokg/resource/486583091>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/275038489>
+<hgeokg/resource/5671739>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/232473896>	<hgeokg/schema/bridge>	bridge-yes
+<hgeokg/resource/8119481>	<http://www.w3.org/2000/01/rdf-schema#label>	Riverside Drive
+<hgeokg/resource/669610146>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Secondary>
+<hgeokg/resource/693648914>	<hgeokg/schema/bicycle>	bicycle-designated
+<hgeokg/resource/275038482>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Polygon>
+<hgeokg/resource/275038485>	<hgeokg/schema/height>	height-35.4
+<hgeokg/resource/275062137>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/5669886>
+<hgeokg/resource/278618227>	<hgeokg/schema/motorcar>	motorcar-designated
+<hgeokg/resource/226007052>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/275062137>
+<hgeokg/resource/488797726>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/275038482>
+<hgeokg/resource/275038485>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/122738269>
+<hgeokg/resource/400456494>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/440122898>
+<hgeokg/resource/275038470>	<Polygon_buildings-Adjacent-Polygon_buildings>	<hgeokg/resource/275038485>
+<hgeokg/resource/693648911>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/275038482>
+<hgeokg/resource/232473896>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/397678729>
+<hgeokg/resource/798544892>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/416618175>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5610061465>
+<hgeokg/resource/49032026>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/746730288>
+<hgeokg/resource/275038475>	<Polygon_buildings-Adjacent-Polygon_buildings>	<hgeokg/resource/275038431>
+<hgeokg/resource/275038475>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/486583091>
+<hgeokg/resource/798544893>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/798544892>
+<hgeokg/resource/275038429>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/486583091>
+<hgeokg/resource/226007052>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/217722093>
+<hgeokg/resource/397678729>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Lighthouse>
+<hgeokg/resource/621557577>	<hgeokg/schema/hgv>	hgv-destination
+<hgeokg/resource/5984058502>	<hgeokg/schema/addrHousenumber>	addrHousenumber-83
+<hgeokg/resource/669610146>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/275038429>
+<hgeokg/resource/275038470>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/693648911>
+<hgeokg/resource/400456495>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/440122898>	<http://www.w3.org/2000/01/rdf-schema#label>	Haven Avenue
+<hgeokg/resource/621557577>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/46111605>
+<hgeokg/resource/400456495>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/275062137>	<hgeokg/schema/source>	source-USGS Geonames
+<hgeokg/resource/46593266>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5671739>
+<hgeokg/resource/5610061465>	<hgeokg/schema/fax>	fax-+1-212-785-1631
+<hgeokg/resource/5984058502>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/440122898>
+<hgeokg/resource/621557579>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/621557578>
+<hgeokg/resource/275038429>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/669610146>
+<hgeokg/resource/275038482>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/486583092>
+<hgeokg/resource/275038482>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/488797727>
+<hgeokg/resource/278618227>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/122738265>
+<hgeokg/resource/798544893>	<hgeokg/schema/inlineSkates>	inlineSkates-yes
+<hgeokg/resource/232473896>	<hgeokg/schema/lanes>	lanes-3
+<hgeokg/resource/5400493007>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/BusStop>
+<hgeokg/resource/621557577>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Secondary>
+<hgeokg/resource/275062137>	<hgeokg/schema/addrPostcode>	addrPostcode-10033
+<hgeokg/resource/488797726>	<hgeokg/schema/hgv>	hgv-destination
+<hgeokg/resource/232473896>	<hgeokg/schema/toll>	toll-yes
+<hgeokg/resource/5610061465>	<hgeokg/schema/startDate>	startDate-2005
+<hgeokg/resource/746730288>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/232473896>
+<hgeokg/resource/275038475>	<Polygon_buildings-Adjacent-Polygon_buildings>	<hgeokg/resource/275038470>
+<hgeokg/resource/278618227>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/275038431>	<Polygon_buildings-Adjacent-Polygon_buildings>	<hgeokg/resource/275038482>
+<hgeokg/resource/275038482>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/400456494>
+<hgeokg/resource/242517194>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/440122898>
+<hgeokg/resource/217722093>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5400493007>
+<hgeokg/resource/2270245977>	<http://www.w3.org/2000/01/rdf-schema#label>	3000 A.D. Diffusion Piece
+<hgeokg/resource/46593266>	<hgeokg/schema/layer>	layer-2
+<hgeokg/resource/5610061465>	<hgeokg/schema/addrHousenumber>	addrHousenumber-285
+<hgeokg/resource/486583092>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/488797726>
+<hgeokg/resource/275038435>	<hgeokg/schema/nycdoittBin>	nycdoittBin-1076746
+<hgeokg/resource/621557577>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/5400493007>	<hgeokg/schema/bus>	bus-yes
+<hgeokg/resource/49032026>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/122738269>
+<hgeokg/resource/275038470>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/693648914>
+<hgeokg/resource/669610146>	<http://www.w3.org/2000/01/rdf-schema#label>	Riverside Drive
+<hgeokg/resource/486583092>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/275062137>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/226007052>
+<hgeokg/resource/275038482>	<Polygon_buildings-Adjacent-Polygon_buildings>	<hgeokg/resource/275038489>
+<hgeokg/resource/232473896>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/1721287283>
+<hgeokg/resource/5610061465>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/416618175>
+<hgeokg/resource/122738269>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/46593266>
+<hgeokg/resource/480680383>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/226007049>
+<hgeokg/resource/5610061465>	<hgeokg/schema/openingHoursCovid19>	openingHoursCovid19-open
+<hgeokg/resource/278618227>	<hgeokg/schema/ref>	ref-HH;NY 9A
+<hgeokg/resource/730156337>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/242517194>
+<hgeokg/resource/488797727>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Secondary>
+<hgeokg/resource/275038475>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/480680383>
+<hgeokg/resource/669610146>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/275038485>	<Polygon_buildings-Adjacent-Polygon_buildings>	<hgeokg/resource/275038497>
+<hgeokg/resource/275038485>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/669610146>
+<hgeokg/resource/46111605>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/275038429>
+<hgeokg/resource/275038431>	<Polygon_buildings-Adjacent-Polygon_buildings>	<hgeokg/resource/275038475>
+<hgeokg/resource/746730288>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/122738269>	<hgeokg/schema/hgv>	hgv-no
+<hgeokg/resource/5610061465>	<http://www.w3.org/2000/01/rdf-schema#label>	Esthetix Dentist, NYC's Dental Implant & Cosmetic Specialist
+<hgeokg/resource/2270245977>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Artwork>
+<hgeokg/resource/281090893>	<Point_pois-Intersect-Point_pois>	<hgeokg/resource/217722093>
+<hgeokg/resource/693648914>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/275062137>	<hgeokg/schema/layer>	layer-1
+<hgeokg/resource/122738265>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/122738265>	<hgeokg/schema/motorcar>	motorcar-designated
+<hgeokg/resource/232473896>	<hgeokg/schema/bicycle>	bicycle-no
+<hgeokg/resource/798544892>	<hgeokg/schema/fixme>	fixme-This is not designated as the Greenway.
+<hgeokg/resource/46593266>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/1721287283>
+<hgeokg/resource/226007052>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/242517194>
+<hgeokg/resource/693648911>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Pedestrian>
+<hgeokg/resource/693648914>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/275038470>
+<hgeokg/resource/746730288>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/49032026>
+<hgeokg/resource/488797727>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/275038482>	<Polygon_buildings-Adjacent-Polygon_buildings>	<hgeokg/resource/275038470>
+<hgeokg/resource/275038470>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/440122898>
+<hgeokg/resource/275062137>	<hgeokg/schema/ele>	ele-59
+<hgeokg/resource/621557578>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Secondary>
+<hgeokg/resource/278618227>	<hgeokg/schema/hgv>	hgv-no
+<hgeokg/resource/5610061465>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/217722093>
+<hgeokg/resource/242517194>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/226007052>
+<hgeokg/resource/275038475>	<Polygon_buildings-Adjacent-Polygon_buildings>	<hgeokg/resource/275038435>
+<hgeokg/resource/480680383>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/275038475>
+<hgeokg/resource/226007052>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/416618175>
+<hgeokg/resource/5984058502>	<http://www.w3.org/2000/01/rdf-schema#label>	Hilltop Perk
+<hgeokg/resource/440122898>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/693648914>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/275038482>
+<hgeokg/resource/122738269>	<hgeokg/schema/lanes>	lanes-2
+<hgeokg/resource/46593266>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/232473896>
+<hgeokg/resource/226007049>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/275038497>
+<hgeokg/resource/488797726>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/46111605>
+<hgeokg/resource/621557579>	<hgeokg/schema/hgv>	hgv-destination
+<hgeokg/resource/5400493007>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/226007052>	<hgeokg/schema/bicycle>	bicycle-yes
+<hgeokg/resource/798544893>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/232473896>
+<hgeokg/resource/275038497>	<Polygon_buildings-Adjacent-Polygon_buildings>	<hgeokg/resource/275038482>
+<hgeokg/resource/275038475>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/488797726>
+<hgeokg/resource/400456494>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/693648914>
+<hgeokg/resource/480680383>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/SharedLane>
+<hgeokg/resource/275038482>	<hgeokg/schema/height>	height-59.8
+<hgeokg/resource/46111605>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/486583092>
+<hgeokg/resource/5400493007>	<hgeokg/schema/routeRef>	routeRef-M4
+<hgeokg/resource/8119481>	<hgeokg/schema/hgv>	hgv-destination
+<hgeokg/resource/275038482>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/226007049>
+<hgeokg/resource/122738265>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/275038485>
+<hgeokg/resource/275038431>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/693648911>
+<hgeokg/resource/488797726>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/486583092>
+<hgeokg/resource/693648914>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/46593266>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/278618227>
+<hgeokg/resource/275038489>	<Polygon_buildings-Adjacent-Polygon_buildings>	<hgeokg/resource/275038429>
+<hgeokg/resource/275038475>	<Polygon_buildings-Adjacent-Polygon_buildings>	<hgeokg/resource/275038485>
+<hgeokg/resource/400456494>	<hgeokg/schema/oneway>	oneway-no
+<hgeokg/resource/242517194>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/122738265>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/278618227>
+<hgeokg/resource/400456494>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/275038429>
+<hgeokg/resource/275038497>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Polygon>
+<hgeokg/resource/226007049>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/730156337>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/5671739>
+<hgeokg/resource/46114474>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/275038429>	<http://www.w3.org/2000/01/rdf-schema#label>	Bard Hall
+<hgeokg/resource/242517194>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/693648914>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/400456494>
+<hgeokg/resource/440122898>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/693648911>
+<hgeokg/resource/480680383>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/693648914>
+<hgeokg/resource/730156337>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Polygon>
+<hgeokg/resource/693648914>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/226007049>
+<hgeokg/resource/397678729>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/275038482>	<hgeokg/schema/nycdoittBin>	nycdoittBin-1063403
+<hgeokg/resource/798544893>	<hgeokg/schema/surface>	surface-asphalt
+<hgeokg/resource/621557578>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5671739>
+<hgeokg/resource/669610146>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/275038482>
+<hgeokg/resource/693648914>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/693648911>
+<hgeokg/resource/5400493007>	<hgeokg/schema/shelter>	shelter-no
+<hgeokg/resource/122738269>	<hgeokg/schema/notName>	notName-West Side Highway
+<hgeokg/resource/275038485>	<hgeokg/schema/addrPostcode>	addrPostcode-10032
+<hgeokg/resource/275038470>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/BuildingUniversity>
+<hgeokg/resource/5671739>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/2270245977>
+<hgeokg/resource/275038497>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/488797726>
+<hgeokg/resource/275038489>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/400456494>
+<hgeokg/resource/486583091>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/275038485>
+<hgeokg/resource/798544893>	<hgeokg/schema/segregated>	segregated-no
+<hgeokg/resource/5610061465>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/669610146>	<hgeokg/schema/wikipedia>	wikipedia-en:Riverside Drive (Manhattan)
+<hgeokg/resource/242517194>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/730156337>
+<hgeokg/resource/486583092>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/275038497>
+<hgeokg/resource/5671739>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/49032026>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/798544893>
+<hgeokg/resource/488797726>	<http://www.w3.org/2000/01/rdf-schema#label>	Riverside Drive
+<hgeokg/resource/242517194>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/275038475>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/226007049>
+<hgeokg/resource/5984058502>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Cafe>
+<hgeokg/resource/400456494>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/226007049>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/480680383>
+<hgeokg/resource/488797727>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/275038475>
+<hgeokg/resource/46114474>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/275038485>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/BuildingUniversity>
+<hgeokg/resource/488797726>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/397678729>	<Point_pois-Contain-Point_pois>	<hgeokg/resource/1721287283>
+<hgeokg/resource/275038470>	<hgeokg/schema/nycdoittBin>	nycdoittBin-1063400
+<hgeokg/resource/275038429>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/46111605>
+<hgeokg/resource/275038431>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/400456494>
+<hgeokg/resource/693648911>	<http://www.w3.org/2000/01/rdf-schema#label>	Haven Avenue
+<hgeokg/resource/275038485>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/488797726>
+<hgeokg/resource/621557578>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/275062137>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Polygon>
+<hgeokg/resource/275062137>	<hgeokg/schema/height>	height-10.1
+<hgeokg/resource/1721287283>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/46111605>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/275038470>
+<hgeokg/resource/486583091>	<http://www.w3.org/2000/01/rdf-schema#label>	Riverside Drive
+<hgeokg/resource/275038482>	<http://www.w3.org/2000/01/rdf-schema#label>	Neurological Institute of New York
+<hgeokg/resource/226007049>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/275038435>
+<hgeokg/resource/275038497>	<Polygon_buildings-Intersect-Polygon_buildings>	<hgeokg/resource/275038435>
+<hgeokg/resource/2270245977>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/730156337>	<hgeokg/schema/addrHousenumber>	addrHousenumber-104
+<hgeokg/resource/275038489>	<Polygon_buildings-Adjacent-Polygon_buildings>	<hgeokg/resource/275038482>
+<hgeokg/resource/488797726>	<hgeokg/schema/tunnel>	tunnel-building_passage
+<hgeokg/resource/275038429>	<Polygon_buildings-Adjacent-Polygon_buildings>	<hgeokg/resource/275038489>
+<hgeokg/resource/5669886>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/226007052>	<hgeokg/schema/rcnRef>	rcnRef-9
+<hgeokg/resource/400456495>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/242517194>
+<hgeokg/resource/275038475>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/488797727>
+<hgeokg/resource/275062137>	<http://www.w3.org/2000/01/rdf-schema#label>	J Hood Wright Recreational Center
+<hgeokg/resource/275038482>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/693648914>
+<hgeokg/resource/8119481>	<hgeokg/schema/destination>	destination-181 Street
+<hgeokg/resource/5610061465>	<hgeokg/schema/email>	email-a.philomin@esthetixdentalspa.com
+<hgeokg/resource/275038482>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/440122898>
+<hgeokg/resource/1721287283>	<hgeokg/schema/wikipedia>	wikipedia-en:Little Red Lighthouse
+<hgeokg/resource/49032026>	<hgeokg/schema/foot>	foot-no
+<hgeokg/resource/746730288>	<hgeokg/schema/ele>	ele-29.9265137
+<hgeokg/resource/669610146>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/275038475>
+<hgeokg/resource/49032026>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/440122898>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/693648914>
+<hgeokg/resource/693648911>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/226007049>
+<hgeokg/resource/275038475>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/693648911>
+<hgeokg/resource/275038429>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/621557577>
+<hgeokg/resource/746730288>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/278618227>
+<hgeokg/resource/275038431>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/440122898>
+<hgeokg/resource/798544893>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/46593266>
+<hgeokg/resource/8119481>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/275038429>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/400456494>
+<hgeokg/resource/275038497>	<Polygon_buildings-Adjacent-Polygon_buildings>	<hgeokg/resource/275038485>
+<hgeokg/resource/5671739>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/46593266>
+<hgeokg/resource/400456495>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5671739>
+<hgeokg/resource/217722093>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/416618175>
+<hgeokg/resource/49032026>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Motorway>
+<hgeokg/resource/400456494>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/275038431>
+<hgeokg/resource/440122898>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/275038431>
+<hgeokg/resource/621557579>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/621557577>
+<hgeokg/resource/5669886>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/278618227>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/49032026>
+<hgeokg/resource/440122898>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/730156337>
+<hgeokg/resource/275062137>	<hgeokg/schema/addrHousenumber>	addrHousenumber-351
+<hgeokg/resource/486583091>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/488797727>
+<hgeokg/resource/416618175>	<hgeokg/schema/wikipedia>	wikipedia-en:Fort Washington Avenue
+<hgeokg/resource/480680383>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/693648911>
+<hgeokg/resource/275038435>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Polygon>
+<hgeokg/resource/5671739>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/440122898>
+<hgeokg/resource/122738269>	<hgeokg/schema/toll>	toll-no
+<hgeokg/resource/278618227>	<hgeokg/schema/notName>	notName-West Side Highway
+<hgeokg/resource/275038489>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/693648911>
+<hgeokg/resource/5610061465>	<hgeokg/schema/phone>	phone-+1-212-795-9675
+<hgeokg/resource/5610061465>	<hgeokg/schema/operator>	operator-Arvind Philomin
+<hgeokg/resource/275038431>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/693648914>
+<hgeokg/resource/232473896>	<hgeokg/schema/wikipedia>	wikipedia-en:George Washington Bridge
+<hgeokg/resource/226007049>	<hgeokg/schema/bicycle>	bicycle-yes
+<hgeokg/resource/5984058502>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/730156337>
+<hgeokg/resource/798544892>	<hgeokg/schema/bicycle>	bicycle-designated
+<hgeokg/resource/226007052>	<hgeokg/schema/wikipedia>	wikipedia-en:Fort Washington Avenue
+<hgeokg/resource/480680383>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/400456494>
+<hgeokg/resource/621557579>	<http://www.w3.org/2000/01/rdf-schema#label>	Riverside Drive
+<hgeokg/resource/275038470>	<Polygon_buildings-Adjacent-Polygon_buildings>	<hgeokg/resource/275038475>
+<hgeokg/resource/275038435>	<Polygon_buildings-Intersect-Polygon_buildings>	<hgeokg/resource/275038497>
+<hgeokg/resource/621557577>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/275038485>
+<hgeokg/resource/488797726>	<hgeokg/schema/wikipedia>	wikipedia-en:Riverside Drive (Manhattan)
+<hgeokg/resource/275038485>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/486583092>
+<hgeokg/resource/416618175>	<http://www.w3.org/2000/01/rdf-schema#label>	Fort Washington Avenue
+<hgeokg/resource/275062137>	<hgeokg/schema/gnisFeatureId>	gnisFeatureId-2079032
+<hgeokg/resource/278618227>	<http://www.w3.org/2000/01/rdf-schema#label>	Henry Hudson Parkway
+<hgeokg/resource/275038470>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/488797727>
+<hgeokg/resource/5400493007>	<http://www.w3.org/2000/01/rdf-schema#label>	Fort Washington Avenue & West 177th Street
+<hgeokg/resource/2270245977>	<Point_pois-Within-Point_pois>	<hgeokg/resource/217722093>
+<hgeokg/resource/49032026>	<hgeokg/schema/hgv>	hgv-designated
+<hgeokg/resource/5671739>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/217722093>
+<hgeokg/resource/242517194>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/275038431>
+<hgeokg/resource/232473896>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/122738269>
+<hgeokg/resource/122738269>	<hgeokg/schema/fixme>	fixme-check lanes
+<hgeokg/resource/46593266>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/8119481>
+<hgeokg/resource/480680383>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/242517194>
+<hgeokg/resource/5610061465>	<hgeokg/schema/website>	website-https://www.esthetixdentalspa.com/
+<hgeokg/resource/486583092>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/275038482>
+<hgeokg/resource/275038482>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/693648911>
+<hgeokg/resource/798544893>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/397678729>
+<hgeokg/resource/275038489>	<Polygon_buildings-Adjacent-Polygon_buildings>	<hgeokg/resource/275038485>
+<hgeokg/resource/275062137>	<hgeokg/schema/buildingLevels>	buildingLevels-1
+<hgeokg/resource/275038497>	<hgeokg/schema/nycdoittBin>	nycdoittBin-1076746
+<hgeokg/resource/669610146>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/275038485>
+<hgeokg/resource/400456495>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/49032026>	<hgeokg/schema/toll>	toll-yes
+<hgeokg/resource/232473896>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/217722093>	<http://www.w3.org/2000/01/rdf-schema#label>	J. Hood Wright Park
+<hgeokg/resource/275038431>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/480680383>
+<hgeokg/resource/275062137>	<hgeokg/schema/addrState>	addrState-NY
+<hgeokg/resource/226007049>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/275038482>
+<hgeokg/resource/798544893>	<hgeokg/schema/motorVehicle>	motorVehicle-no
+<hgeokg/resource/440122898>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/46111605>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/275038489>
+<hgeokg/resource/488797727>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/275038482>
+<hgeokg/resource/275038489>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/486583091>
+<hgeokg/resource/46111605>	<http://www.w3.org/2000/01/rdf-schema#label>	Riverside Drive
+<hgeokg/resource/275038489>	<hgeokg/schema/nycdoittBin>	nycdoittBin-1063401
+<hgeokg/resource/232473896>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/746730288>
+<hgeokg/resource/275038497>	<Polygon_buildings-Adjacent-Polygon_buildings>	<hgeokg/resource/275038470>
+<hgeokg/resource/275038431>	<Polygon_buildings-Adjacent-Polygon_buildings>	<hgeokg/resource/275038489>
+<hgeokg/resource/488797727>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/275038470>
+<hgeokg/resource/1721287283>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/46593266>
+<hgeokg/resource/480680383>	<http://www.w3.org/2000/01/rdf-schema#label>	Fort Washington Avenue
+<hgeokg/resource/400456495>	<http://www.w3.org/2000/01/rdf-schema#label>	Haven Avenue
+<hgeokg/resource/488797727>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/488797726>
+<hgeokg/resource/46593266>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/400456495>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/730156337>
+<hgeokg/resource/275038431>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Polygon>
+<hgeokg/resource/46593266>	<hgeokg/schema/bridge>	bridge-yes
+<hgeokg/resource/486583092>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/488797727>
+<hgeokg/resource/122738265>	<hgeokg/schema/notName>	notName-West Side Highway
+<hgeokg/resource/730156337>	<http://www.w3.org/2000/01/rdf-schema#label>	Roy and Diana Vagelos Education Center
+<hgeokg/resource/275038435>	<Polygon_buildings-Adjacent-Polygon_buildings>	<hgeokg/resource/275038475>
+<hgeokg/resource/122738269>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/278618227>
+<hgeokg/resource/488797726>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/275038470>
+<hgeokg/resource/122738269>	<hgeokg/schema/ref>	ref-HH;NY 9A
+<hgeokg/resource/217722093>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5671739>
+<hgeokg/resource/693648911>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/275038470>
+<hgeokg/resource/693648914>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/275038431>
+<hgeokg/resource/217722093>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5669886>
+<hgeokg/resource/693648914>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/397678729>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/232473896>
+<hgeokg/resource/480680383>	<hgeokg/schema/bicycle>	bicycle-yes
+<hgeokg/resource/8119481>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/46593266>
+<hgeokg/resource/275038431>	<http://www.w3.org/2000/01/rdf-schema#label>	Hammer Health Sciences Center
+<hgeokg/resource/400456494>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/275038482>
+<hgeokg/resource/5400493007>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/PublicTransportPlatform>
+<hgeokg/resource/400456495>	<hgeokg/schema/cyclewayLeft>	cyclewayLeft-lane
+<hgeokg/resource/275038429>	<Polygon_buildings-Adjacent-Polygon_buildings>	<hgeokg/resource/275038470>
+<hgeokg/resource/232473896>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/46593266>
+<hgeokg/resource/49032026>	<hgeokg/schema/wikipedia>	wikipedia-en:George Washington Bridge
+<hgeokg/resource/486583092>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/669610146>
+<hgeokg/resource/1721287283>	<hgeokg/schema/seamarkType>	seamarkType-light_major
+<hgeokg/resource/46593266>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/746730288>
+<hgeokg/resource/275038470>	<Polygon_buildings-Adjacent-Polygon_buildings>	<hgeokg/resource/275038497>
+<hgeokg/resource/278618227>	<hgeokg/schema/toll>	toll-no
+<hgeokg/resource/693648911>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/275038489>
+<hgeokg/resource/122738265>	<hgeokg/schema/hgv>	hgv-no
+<hgeokg/resource/275038489>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/621557577>
+<hgeokg/resource/397678729>	<hgeokg/schema/seamarkType>	seamarkType-light_major
+<hgeokg/resource/49032026>	<hgeokg/schema/ref>	ref-I 95;US 1;US 9
+<hgeokg/resource/400456494>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/480680383>
+<hgeokg/resource/275038431>	<hgeokg/schema/addrHousenumber>	addrHousenumber-701
+<hgeokg/resource/275038475>	<http://www.w3.org/2000/01/rdf-schema#label>	Milstein Hospital Building
+<hgeokg/resource/275038489>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Polygon>
+<hgeokg/resource/281090893>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/5671739>
+<hgeokg/resource/488797727>	<http://www.w3.org/2000/01/rdf-schema#label>	Riverside Drive
+<hgeokg/resource/1721287283>	<http://www.w3.org/2000/01/rdf-schema#label>	Little Red Lighthouse
+<hgeokg/resource/397678729>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/46593266>
+<hgeokg/resource/621557579>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/46114474>
+<hgeokg/resource/5671739>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/730156337>
+<hgeokg/resource/621557577>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/621557579>
+<hgeokg/resource/275038470>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/486583091>
+<hgeokg/resource/275038429>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/440122898>
+<hgeokg/resource/275038470>	<hgeokg/schema/height>	height-62.6
+<hgeokg/resource/217722093>	<Point_pois-Contain-Point_pois>	<hgeokg/resource/2270245977>
+<hgeokg/resource/8119481>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/226007049>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/275038431>
+<hgeokg/resource/798544893>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/49032026>	<http://www.w3.org/2000/01/rdf-schema#label>	George Washington Bridge (upper level)
+<hgeokg/resource/278618227>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/746730288>
+<hgeokg/resource/5610061465>	<hgeokg/schema/openingHours>	openingHours-Mo-Su 08:00-20:00
+<hgeokg/resource/226007052>	<http://www.w3.org/2000/01/rdf-schema#label>	Fort Washington Avenue
+<hgeokg/resource/275038485>	<Polygon_buildings-Adjacent-Polygon_buildings>	<hgeokg/resource/275038475>
+<hgeokg/resource/275038470>	<Polygon_buildings-Adjacent-Polygon_buildings>	<hgeokg/resource/275038482>
+<hgeokg/resource/5671739>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/621557578>
+<hgeokg/resource/226007049>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/693648911>
+<hgeokg/resource/275038429>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/693648911>
+<hgeokg/resource/5610061465>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Dentist>
+<hgeokg/resource/669610146>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/486583092>
+<hgeokg/resource/486583092>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/275038470>
+<hgeokg/resource/1721287283>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Lighthouse>
+<hgeokg/resource/480680383>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/480680383>	<hgeokg/schema/wikipedia>	wikipedia-en:Fort Washington Avenue
+<hgeokg/resource/5610061465>	<hgeokg/schema/addrState>	addrState-NY
+<hgeokg/resource/669610146>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/488797727>
+<hgeokg/resource/400456494>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/275038489>
+<hgeokg/resource/5610061465>	<hgeokg/schema/healthcareSpeciality>	healthcareSpeciality-dentist
+<hgeokg/resource/746730288>	<http://www.w3.org/2000/01/rdf-schema#label>	GWB View
+<hgeokg/resource/275038429>	<Polygon_buildings-Adjacent-Polygon_buildings>	<hgeokg/resource/275038431>
+<hgeokg/resource/46593266>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/122738269>
+<hgeokg/resource/5984058502>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/400456495>
+<hgeokg/resource/46114474>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/621557578>
+<hgeokg/resource/46593266>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/49032026>
+<hgeokg/resource/486583091>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/275038429>
+<hgeokg/resource/278618227>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Motorway>
+<hgeokg/resource/226007052>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5610061465>
+<hgeokg/resource/486583091>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/486583092>
+<hgeokg/resource/278618227>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/122738269>
+<hgeokg/resource/275038485>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/122738265>
+<hgeokg/resource/122738269>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Motorway>
+<hgeokg/resource/488797726>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/488797727>
+<hgeokg/resource/46111605>	<hgeokg/schema/wikipedia>	wikipedia-en:Riverside Drive (Manhattan)
+<hgeokg/resource/798544892>	<hgeokg/schema/segregated>	segregated-no
+<hgeokg/resource/488797727>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/275038485>
+<hgeokg/resource/440122898>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/275038489>
+<hgeokg/resource/275038485>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Polygon>
+<hgeokg/resource/693648911>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/275038431>
+<hgeokg/resource/242517194>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/693648914>
+<hgeokg/resource/621557578>	<hgeokg/schema/hgv>	hgv-destination
+<hgeokg/resource/275038485>	<http://www.w3.org/2000/01/rdf-schema#label>	New York State Psychiatric Institute - Herbert Pardes Building
+<hgeokg/resource/275038470>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Polygon>
+<hgeokg/resource/5671739>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/46114474>
+<hgeokg/resource/488797727>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/275038497>
+<hgeokg/resource/621557577>	<http://www.w3.org/2000/01/rdf-schema#label>	Riverside Drive
+<hgeokg/resource/8119481>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/46114474>
+<hgeokg/resource/8119481>	<hgeokg/schema/wikipedia>	wikipedia-en:Riverside Drive (Manhattan)
+<hgeokg/resource/275038470>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/400456494>
+<hgeokg/resource/5669886>	<http://www.w3.org/2000/01/rdf-schema#label>	South Pinehurst Avenue
+<hgeokg/resource/486583092>	<http://www.w3.org/2000/01/rdf-schema#label>	Riverside Drive
+<hgeokg/resource/226007052>	<hgeokg/schema/cyclewayLeft>	cyclewayLeft-lane
+<hgeokg/resource/275038489>	<Polygon_buildings-Adjacent-Polygon_buildings>	<hgeokg/resource/275038431>
+<hgeokg/resource/397678729>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/798544893>
+<hgeokg/resource/226007049>	<hgeokg/schema/wikipedia>	wikipedia-en:Fort Washington Avenue
+<hgeokg/resource/275038429>	<Polygon_buildings-Adjacent-Polygon_buildings>	<hgeokg/resource/275038485>
+<hgeokg/resource/275062137>	<hgeokg/schema/nycdoittBin>	nycdoittBin-1063445
+<hgeokg/resource/49032026>	<hgeokg/schema/lanes>	lanes-4
+<hgeokg/resource/275038489>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/440122898>
+<hgeokg/resource/400456494>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/LivingStreet>
+<hgeokg/resource/400456494>	<hgeokg/schema/maxspeedAdvisory>	maxspeedAdvisory-5 mph
+<hgeokg/resource/275038470>	<Polygon_buildings-Adjacent-Polygon_buildings>	<hgeokg/resource/275038431>
+<hgeokg/resource/275038431>	<hgeokg/schema/addrPostcode>	addrPostcode-10032
+<hgeokg/resource/275038470>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/486583092>
+<hgeokg/resource/232473896>	<hgeokg/schema/foot>	foot-no
+<hgeokg/resource/226007049>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/275038475>
+<hgeokg/resource/122738269>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/49032026>
+<hgeokg/resource/440122898>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/275038470>
+<hgeokg/resource/693648911>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/275038429>
+<hgeokg/resource/416618175>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5400493007>
+<hgeokg/resource/275062137>	<Point_pois-Intersect-Polygon_buildings>	<hgeokg/resource/217722093>
+<hgeokg/resource/217722093>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Park>
+<hgeokg/resource/486583092>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/46111605>
+<hgeokg/resource/275062137>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/416618175>
+<hgeokg/resource/275038429>	<hgeokg/schema/height>	height-52.8
+<hgeokg/resource/8119481>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Secondary>
+<hgeokg/resource/232473896>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Motorway>
+<hgeokg/resource/5671739>	<hgeokg/schema/cyclewayLeft>	cyclewayLeft-lane
+<hgeokg/resource/440122898>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/242517194>
+<hgeokg/resource/400456494>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/693648911>
+<hgeokg/resource/669610146>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/486583091>
+<hgeokg/resource/480680383>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/275038431>
+<hgeokg/resource/217722093>	<Point_pois-Intersect-Polygon_buildings>	<hgeokg/resource/275062137>
+<hgeokg/resource/275038435>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/226007049>
+<hgeokg/resource/281090893>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/46593266>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Cycleway>
+<hgeokg/resource/275038475>	<Polygon_buildings-Adjacent-Polygon_buildings>	<hgeokg/resource/275038482>
+<hgeokg/resource/46114474>	<hgeokg/schema/lanes>	lanes-2
+<hgeokg/resource/693648911>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/693648914>
+<hgeokg/resource/275038475>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/669610146>
+<hgeokg/resource/46114474>	<http://www.w3.org/2000/01/rdf-schema#label>	Riverside Drive
+<hgeokg/resource/46111605>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/621557577>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/275038489>
+<hgeokg/resource/621557578>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/621557579>
+<hgeokg/resource/46111605>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/488797726>
+<hgeokg/resource/122738265>	<hgeokg/schema/toll>	toll-no
+<hgeokg/resource/49032026>	<hgeokg/schema/surface>	surface-concrete
+<hgeokg/resource/275038485>	<Polygon_buildings-Adjacent-Polygon_buildings>	<hgeokg/resource/275038489>
+<hgeokg/resource/480680383>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/226007052>
+<hgeokg/resource/275038482>	<Polygon_buildings-Adjacent-Polygon_buildings>	<hgeokg/resource/275038431>
+<hgeokg/resource/486583091>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/275038470>
+<hgeokg/resource/693648914>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/1721287283>	<Point_pois-Within-Point_pois>	<hgeokg/resource/397678729>
+<hgeokg/resource/275038482>	<Polygon_buildings-Adjacent-Polygon_buildings>	<hgeokg/resource/275038429>
+<hgeokg/resource/488797727>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/486583091>
+<hgeokg/resource/621557577>	<hgeokg/schema/wikipedia>	wikipedia-en:Riverside Drive (Manhattan)
+<hgeokg/resource/798544893>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/1721287283>
+<hgeokg/resource/232473896>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/798544893>
+<hgeokg/resource/416618175>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/275062137>
+<hgeokg/resource/480680383>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Secondary>
+<hgeokg/resource/242517194>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/480680383>
+<hgeokg/resource/49032026>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/275038435>	<hgeokg/schema/height>	height-49.9
+<hgeokg/resource/440122898>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/400456495>
+<hgeokg/resource/275038431>	<Polygon_buildings-Adjacent-Polygon_buildings>	<hgeokg/resource/275038470>
+<hgeokg/resource/621557577>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/275038429>
+<hgeokg/resource/275038482>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/480680383>
+<hgeokg/resource/122738269>	<hgeokg/schema/unsignedRef>	unsignedRef-NY 907V
+<hgeokg/resource/275038497>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/488797727>
+<hgeokg/resource/488797726>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/275038475>
+<hgeokg/resource/46593266>	<http://www.w3.org/2000/01/rdf-schema#label>	George Washington Bridge
+<hgeokg/resource/49032026>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/46593266>
+<hgeokg/resource/416618175>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/232473896>	<http://www.w3.org/2000/01/rdf-schema#label>	George Washington Bridge (lower level)
+<hgeokg/resource/746730288>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Viewpoint>
+<hgeokg/resource/488797727>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/669610146>
+<hgeokg/resource/400456494>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/275038470>
+<hgeokg/resource/693648914>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/242517194>
+<hgeokg/resource/488797727>	<hgeokg/schema/wikipedia>	wikipedia-en:Riverside Drive (Manhattan)
+<hgeokg/resource/275038485>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/621557577>
+<hgeokg/resource/486583092>	<hgeokg/schema/hgv>	hgv-destination
+<hgeokg/resource/275038475>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/486583092>
+<hgeokg/resource/5671739>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/281090893>
+<hgeokg/resource/275038482>	<Polygon_buildings-Adjacent-Polygon_buildings>	<hgeokg/resource/275038475>
+<hgeokg/resource/275038475>	<Polygon_buildings-Intersect-Polygon_buildings>	<hgeokg/resource/275038497>
+<hgeokg/resource/46111605>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/669610146>
+<hgeokg/resource/693648911>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/440122898>
+<hgeokg/resource/440122898>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/275038482>
+<hgeokg/resource/226007049>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Secondary>
+<hgeokg/resource/232473896>	<hgeokg/schema/hgv>	hgv-no
+<hgeokg/resource/275038475>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Polygon>
+<hgeokg/resource/621557578>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/46114474>
+<hgeokg/resource/232473896>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/278618227>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/416618175>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Secondary>
+<hgeokg/resource/400456494>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/242517194>
+<hgeokg/resource/486583091>	<hgeokg/schema/wikipedia>	wikipedia-en:Riverside Drive (Manhattan)
+<hgeokg/resource/275038489>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/693648914>
+<hgeokg/resource/46114474>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/798544893>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/49032026>
+<hgeokg/resource/275038485>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/488797727>
+<hgeokg/resource/275038470>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/46111605>
+<hgeokg/resource/5669886>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-S
+<hgeokg/resource/232473896>	<hgeokg/schema/horse>	horse-no
+<hgeokg/resource/486583092>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/275038475>
+<hgeokg/resource/440122898>	<hgeokg/schema/cyclewayLeft>	cyclewayLeft-lane
+<hgeokg/resource/275038470>	<Polygon_buildings-Intersect-Polygon_buildings>	<hgeokg/resource/275038489>
+<hgeokg/resource/242517194>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-W
+<hgeokg/resource/217722093>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/488797726>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/275038485>
+<hgeokg/resource/5671739>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>

@@ -1,0 +1,1052 @@
+<hgeokg/resource/420905717>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/420905715>
+<hgeokg/resource/108159407>	<Line_roads-Intersect-Point_pois>	<hgeokg/resource/683569582>
+<hgeokg/resource/271592504>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/271592472>
+<hgeokg/resource/271592504>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/3449999557>
+<hgeokg/resource/420905715>	<hgeokg/schema/lanes>	lanes-4
+<hgeokg/resource/684245418>	<Line_roads-Adjacent-Polygon_landuse>	<hgeokg/resource/420906650>
+<hgeokg/resource/271596035>	<Point_pois-Adjacent-Point_traffic>	<hgeokg/resource/271596000>
+<hgeokg/resource/5671568>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/2765449317>
+<hgeokg/resource/6342189049>	<hgeokg/schema/addrPostcode>	addrPostcode-10029
+<hgeokg/resource/357560491>	<hgeokg/schema/ele>	ele-3
+<hgeokg/resource/46240374>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/668153180>
+<hgeokg/resource/420906650>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/420905933>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/420905932>
+<hgeokg/resource/2765481837>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5671568>
+<hgeokg/resource/420905933>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/3449999557>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/68668543>
+<hgeokg/resource/6342189049>	<hgeokg/schema/openingHours>	openingHours-Mo-We, Sa 10:00-20:00; Th, Fr 10:00-22:00; Su 10:00-18:00
+<hgeokg/resource/420905717>	<hgeokg/schema/maxspeed>	maxspeed-25 mph
+<hgeokg/resource/590405003>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/2765481908>
+<hgeokg/resource/5785132950>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/6845628423>
+<hgeokg/resource/420905932>	<hgeokg/schema/maxspeed>	maxspeed-25 mph
+<hgeokg/resource/3449999557>	<hgeokg/schema/brandWikipedia>	brandWikipedia-en:T-Mobile
+<hgeokg/resource/420905928>	<hgeokg/schema/surface>	surface-asphalt
+<hgeokg/resource/420905715>	<hgeokg/schema/hgv>	hgv-local
+<hgeokg/resource/271596035>	<Line_roads-Adjacent-Point_traffic>	<hgeokg/resource/195743192>
+<hgeokg/resource/271592472>	<hgeokg/schema/addrHousenumber>	addrHousenumber-473
+<hgeokg/resource/226015230>	<hgeokg/schema/bridge>	bridge-yes
+<hgeokg/resource/5671318>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420905930>
+<hgeokg/resource/226015230>	<hgeokg/schema/surface>	surface-concrete
+<hgeokg/resource/226015230>	<hgeokg/schema/lit>	lit-yes
+<hgeokg/resource/2765481908>	<http://www.w3.org/2000/01/rdf-schema#label>	Krispy Kutz
+<hgeokg/resource/420905717>	<hgeokg/schema/cyclewayLeft>	cyclewayLeft-track
+<hgeokg/resource/420906650>	<hgeokg/schema/hgv>	hgv-local
+<hgeokg/resource/420905932>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/108159407>
+<hgeokg/resource/5871200557>	<hgeokg/schema/addrHousenumber>	addrHousenumber-517
+<hgeokg/resource/5785132950>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/BusStop>
+<hgeokg/resource/5671568>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/357560491>
+<hgeokg/resource/271593594>	<Point_pois-Adjacent-Point_traffic>	<hgeokg/resource/621515072>
+<hgeokg/resource/46240374>	<http://www.w3.org/2000/01/rdf-schema#label>	East 118th Street
+<hgeokg/resource/5671749>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/195743192>
+<hgeokg/resource/271593594>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/68668543>
+<hgeokg/resource/684245418>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Meadow>
+<hgeokg/resource/271592477>	<hgeokg/schema/addrHousenumber>	addrHousenumber-443
+<hgeokg/resource/271596035>	<hgeokg/schema/motorcycleParking>	motorcycleParking-yes
+<hgeokg/resource/6845494353>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6845628423>
+<hgeokg/resource/420905932>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5671318>
+<hgeokg/resource/668168824>	<Point_pois-Adjacent-Point_traffic>	<hgeokg/resource/271596035>
+<hgeokg/resource/799234248>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/683569582>
+<hgeokg/resource/195743192>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/668153180>
+<hgeokg/resource/6733980472>	<http://www.w3.org/2000/01/rdf-schema#label>	Great Wall
+<hgeokg/resource/420905930>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/108159407>	<hgeokg/schema/operatorWikipedia>	operatorWikipedia-en:New York City Department of Parks and Recreation
+<hgeokg/resource/68668543>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Secondary>
+<hgeokg/resource/590405003>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-E
+<hgeokg/resource/683569581>	<hgeokg/schema/bicycle>	bicycle-designated
+<hgeokg/resource/226015253>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/683569582>
+<hgeokg/resource/2765481908>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/668153180>
+<hgeokg/resource/108159407>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/420905933>
+<hgeokg/resource/271596000>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/46240374>
+<hgeokg/resource/226015256>	<hgeokg/schema/surface>	surface-paved
+<hgeokg/resource/420905933>	<hgeokg/schema/lanes>	lanes-4
+<hgeokg/resource/683569582>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/420905715>
+<hgeokg/resource/5785137061>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5782496201>
+<hgeokg/resource/108159407>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/226015253>
+<hgeokg/resource/226015230>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/683569582>
+<hgeokg/resource/420905715>	<hgeokg/schema/cyclewayLeft>	cyclewayLeft-track
+<hgeokg/resource/420905930>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/108159407>	<hgeokg/schema/ele>	ele-2
+<hgeokg/resource/271596000>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/590405003>
+<hgeokg/resource/654051378>	<hgeokg/schema/access>	access-no
+<hgeokg/resource/5671318>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420905932>
+<hgeokg/resource/357560491>	<http://www.w3.org/2000/01/rdf-schema#label>	Manhattan Center for Science and Mathematics
+<hgeokg/resource/68668543>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5782496201>
+<hgeokg/resource/2765449317>	<hgeokg/schema/phone>	phone-+1 212-722-6709
+<hgeokg/resource/799234248>	<hgeokg/schema/cyclewayRight>	cyclewayRight-lane
+<hgeokg/resource/5671318>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5782499559>
+<hgeokg/resource/420905930>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5782500846>
+<hgeokg/resource/668153180>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5871200557>
+<hgeokg/resource/357560491>	<hgeokg/schema/gnisFeatureId>	gnisFeatureId-950614
+<hgeokg/resource/5785132950>	<hgeokg/schema/routeRef>	routeRef-M116
+<hgeokg/resource/668168824>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/195743192>
+<hgeokg/resource/420906650>	<hgeokg/schema/lanes>	lanes-5
+<hgeokg/resource/668153180>	<http://www.w3.org/2000/01/rdf-schema#label>	East 117th Street
+<hgeokg/resource/6733980472>	<hgeokg/schema/takeaway>	takeaway-only
+<hgeokg/resource/420906650>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Primary>
+<hgeokg/resource/5785132950>	<Point_transport-Adjacent-Point_traffic>	<hgeokg/resource/271596035>
+<hgeokg/resource/271596000>	<hgeokg/schema/startDate>	startDate-2009
+<hgeokg/resource/5785137061>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/271592472>
+<hgeokg/resource/420905930>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6342189049>
+<hgeokg/resource/668153180>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/271592477>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/271592472>
+<hgeokg/resource/6342189049>	<hgeokg/schema/beauty>	beauty-nails;waxing;spa;massage
+<hgeokg/resource/6342189049>	<hgeokg/schema/website>	website-http://www.fiercespanyc.com
+<hgeokg/resource/5673504795>	<hgeokg/schema/phone>	phone-+1 212-835-0860
+<hgeokg/resource/5673504795>	<hgeokg/schema/ref>	ref-2380
+<hgeokg/resource/6342189049>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/271593594>	<hgeokg/schema/addrHousenumber>	addrHousenumber-2270
+<hgeokg/resource/420905928>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/420906656>	<hgeokg/schema/cyclewayLeft>	cyclewayLeft-lane
+<hgeokg/resource/684245418>	<Point_traffic-Adjacent-Polygon_landuse>	<hgeokg/resource/621515072>
+<hgeokg/resource/420906650>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5782500846>
+<hgeokg/resource/5671568>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/195743192>
+<hgeokg/resource/108159407>	<hgeokg/schema/operator>	operator-New York City Department of Parks and Recreation
+<hgeokg/resource/668168824>	<hgeokg/schema/brandWikipedia>	brandWikipedia-en:Applebee's
+<hgeokg/resource/357560491>	<hgeokg/schema/addrHousenumber>	addrHousenumber-280
+<hgeokg/resource/68668543>	<http://www.w3.org/2000/01/rdf-schema#label>	East 116th Street
+<hgeokg/resource/271592477>	<hgeokg/schema/nycdoittBin>	nycdoittBin-1081446
+<hgeokg/resource/226015253>	<hgeokg/schema/foot>	foot-yes
+<hgeokg/resource/5785137061>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/6845628423>
+<hgeokg/resource/6845628423>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/668168824>
+<hgeokg/resource/420906650>	<hgeokg/schema/nameEn>	nameEn-1st Avenue
+<hgeokg/resource/271596035>	<http://www.w3.org/2000/01/rdf-schema#label>	East River Plaza Garage
+<hgeokg/resource/357560491>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/195743162>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/420905932>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/2765481908>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/195743162>
+<hgeokg/resource/46240374>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5871200557>
+<hgeokg/resource/668168824>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5871200557>
+<hgeokg/resource/68668543>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420905930>
+<hgeokg/resource/108159407>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5671318>
+<hgeokg/resource/5785132950>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/68668543>
+<hgeokg/resource/68668543>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5671568>
+<hgeokg/resource/683569582>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/420905928>
+<hgeokg/resource/683569581>	<hgeokg/schema/lit>	lit-yes
+<hgeokg/resource/420905932>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/420905933>
+<hgeokg/resource/271596000>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/195743192>
+<hgeokg/resource/683569581>	<hgeokg/schema/bridge>	bridge-yes
+<hgeokg/resource/2765481837>	<hgeokg/schema/brandWikipedia>	brandWikipedia-en:Metro by T-Mobile
+<hgeokg/resource/5785137061>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/195743192>
+<hgeokg/resource/2765481837>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5871200557>
+<hgeokg/resource/668153180>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/5782496201>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/2765449317>
+<hgeokg/resource/420906656>	<hgeokg/schema/nameEn>	nameEn-1st Avenue
+<hgeokg/resource/271592477>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/226015256>	<http://www.w3.org/2000/01/rdf-schema#label>	Bobby Wagner Walk
+<hgeokg/resource/226015230>	<hgeokg/schema/layer>	layer-1
+<hgeokg/resource/683569582>	<hgeokg/schema/bicycle>	bicycle-yes
+<hgeokg/resource/195743162>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/654051380>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/226015253>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/271592504>
+<hgeokg/resource/108159407>	<Line_roads-Intersect-Point_pois>	<hgeokg/resource/226015230>
+<hgeokg/resource/68668543>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/271592477>
+<hgeokg/resource/271592477>	<http://www.w3.org/2000/01/rdf-schema#label>	National Museum of Catholic Art and History
+<hgeokg/resource/668168824>	<hgeokg/schema/buildingLevels>	buildingLevels-3
+<hgeokg/resource/271592504>	<hgeokg/schema/addrHousenumber>	addrHousenumber-260
+<hgeokg/resource/271596035>	<hgeokg/schema/parking>	parking-multi-storey
+<hgeokg/resource/271592472>	<hgeokg/schema/gnisFeatureId>	gnisFeatureId-959628
+<hgeokg/resource/5782499559>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5671318>
+<hgeokg/resource/195743162>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/195743192>
+<hgeokg/resource/271596035>	<Point_pois-Adjacent-Point_traffic>	<hgeokg/resource/5871200557>
+<hgeokg/resource/590405003>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/420905928>	<http://www.w3.org/2000/01/rdf-schema#label>	1st Avenue
+<hgeokg/resource/108159407>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5782499559>
+<hgeokg/resource/684245418>	<Line_roads-Adjacent-Polygon_landuse>	<hgeokg/resource/420906662>
+<hgeokg/resource/420906656>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/271593594>
+<hgeokg/resource/5782496201>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/195743192>
+<hgeokg/resource/195743192>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/2765481837>
+<hgeokg/resource/68668543>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420906650>
+<hgeokg/resource/195743192>	<Line_roads-Adjacent-Point_traffic>	<hgeokg/resource/271596035>
+<hgeokg/resource/5785137061>	<http://www.w3.org/2000/01/rdf-schema#label>	East 116th Street & Pleasant Avenue
+<hgeokg/resource/271592504>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/195743192>
+<hgeokg/resource/2765481837>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/271596000>
+<hgeokg/resource/271596035>	<Point_traffic-Adjacent-Polygon_buildings>	<hgeokg/resource/271592504>
+<hgeokg/resource/683569582>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/683569581>
+<hgeokg/resource/226015253>	<http://www.w3.org/2000/01/rdf-schema#label>	Bobby Wagner Walk
+<hgeokg/resource/2765481837>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6845494353>
+<hgeokg/resource/5782500846>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/271593594>
+<hgeokg/resource/420906662>	<hgeokg/schema/maxspeed>	maxspeed-25 mph
+<hgeokg/resource/668168824>	<hgeokg/schema/cuisine>	cuisine-american
+<hgeokg/resource/5782500846>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/420906662>
+<hgeokg/resource/420906662>	<Point_traffic-Adjacent-Line_roads>	<hgeokg/resource/621515072>
+<hgeokg/resource/420906780>	<hgeokg/schema/maxspeed>	maxspeed-25 mph
+<hgeokg/resource/271596035>	<Point_pois-Adjacent-Point_traffic>	<hgeokg/resource/2765481908>
+<hgeokg/resource/668153180>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5673504795>
+<hgeokg/resource/6845494353>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/357560491>
+<hgeokg/resource/2765449317>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/271592504>
+<hgeokg/resource/420906780>	<Point_traffic-Adjacent-Line_roads>	<hgeokg/resource/621515072>
+<hgeokg/resource/3449999557>	<hgeokg/schema/brand>	brand-T-Mobile
+<hgeokg/resource/668153180>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/6845628423>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Convenience>
+<hgeokg/resource/46240374>	<hgeokg/schema/oneway>	oneway-no
+<hgeokg/resource/420906656>	<hgeokg/schema/maxspeed>	maxspeed-25 mph
+<hgeokg/resource/271592472>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5782496201>
+<hgeokg/resource/271596000>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/420905933>	<hgeokg/schema/nameEn>	nameEn-1st Avenue
+<hgeokg/resource/46240374>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/420906656>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/68668543>
+<hgeokg/resource/5309501636>	<hgeokg/schema/openingHours>	openingHours-Mo-Su 07:00-22:00
+<hgeokg/resource/271592477>	<hgeokg/schema/ele>	ele-3
+<hgeokg/resource/5782496201>	<hgeokg/schema/addrHousenumber>	addrHousenumber-283
+<hgeokg/resource/6342189049>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6733980472>
+<hgeokg/resource/46240374>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/271596000>
+<hgeokg/resource/5782500846>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5309501636>
+<hgeokg/resource/6342189049>	<http://www.w3.org/2000/01/rdf-schema#label>	Fierce Spa
+<hgeokg/resource/621515072>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/108159407>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5671568>
+<hgeokg/resource/271596000>	<Point_pois-Contain-Point_pois>	<hgeokg/resource/5673504795>
+<hgeokg/resource/654051380>	<hgeokg/schema/foot>	foot-yes
+<hgeokg/resource/271596035>	<hgeokg/schema/fee>	fee-yes
+<hgeokg/resource/271592504>	<Point_transport-Adjacent-Polygon_buildings>	<hgeokg/resource/5785132950>
+<hgeokg/resource/420905933>	<hgeokg/schema/maxspeed>	maxspeed-25 mph
+<hgeokg/resource/108159407>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/654051378>
+<hgeokg/resource/683569582>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420905932>
+<hgeokg/resource/271592504>	<hgeokg/schema/nycdoittBin>	nycdoittBin-1053152
+<hgeokg/resource/271596000>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/668153180>
+<hgeokg/resource/5309501636>	<hgeokg/schema/addrHousenumber>	addrHousenumber-2236
+<hgeokg/resource/3449999557>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6845494353>
+<hgeokg/resource/271596035>	<hgeokg/schema/height>	height-35.9
+<hgeokg/resource/5671749>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/46240374>
+<hgeokg/resource/3449999557>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/2765481837>
+<hgeokg/resource/271592472>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5671568>
+<hgeokg/resource/420905933>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6733980472>
+<hgeokg/resource/420906656>	<hgeokg/schema/nameRu>	nameRu-1-я Авеню
+<hgeokg/resource/5671568>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/68668543>
+<hgeokg/resource/420905933>	<hgeokg/schema/nameRu>	nameRu-1-я Авеню
+<hgeokg/resource/108159407>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/357560491>
+<hgeokg/resource/654051378>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/226015253>
+<hgeokg/resource/2765481837>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/3449999557>
+<hgeokg/resource/271592472>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/271592504>
+<hgeokg/resource/621515072>	<Line_roads-Adjacent-Point_traffic>	<hgeokg/resource/68668543>
+<hgeokg/resource/68668543>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/357560491>
+<hgeokg/resource/5785132950>	<hgeokg/schema/shelter>	shelter-no
+<hgeokg/resource/5782496201>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5671568>
+<hgeokg/resource/668153180>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5785132950>
+<hgeokg/resource/420905933>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Primary>
+<hgeokg/resource/621515072>	<Point_traffic-Adjacent-Line_roads>	<hgeokg/resource/420906650>
+<hgeokg/resource/668153180>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/195743162>
+<hgeokg/resource/195743162>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5671568>
+<hgeokg/resource/271596000>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/5671749>
+<hgeokg/resource/226015256>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/271596000>
+<hgeokg/resource/195743162>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/2765481837>
+<hgeokg/resource/271592504>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/226015253>
+<hgeokg/resource/271592504>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/108159407>
+<hgeokg/resource/2765481837>	<http://www.w3.org/2000/01/rdf-schema#label>	Metro by T-Mobile
+<hgeokg/resource/420905928>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/420905932>
+<hgeokg/resource/5671749>	<http://www.w3.org/2000/01/rdf-schema#label>	East 117th Street
+<hgeokg/resource/226015230>	<hgeokg/schema/bicycle>	bicycle-designated
+<hgeokg/resource/420905932>	<hgeokg/schema/hgv>	hgv-local
+<hgeokg/resource/5785137061>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/271592477>
+<hgeokg/resource/2765449317>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5782496201>
+<hgeokg/resource/668168824>	<hgeokg/schema/addrPostcode>	addrPostcode-10035
+<hgeokg/resource/5671318>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/2765449317>
+<hgeokg/resource/195743192>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6845628423>
+<hgeokg/resource/195743192>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/226015256>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/654051380>
+<hgeokg/resource/683569581>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/420905928>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/5782496201>	<hgeokg/schema/openingHours>	openingHours-Mo-Fr 06:00-17:00; Sa 07:00-14:30
+<hgeokg/resource/5671749>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayService>
+<hgeokg/resource/5871200557>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/271592477>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5782496201>
+<hgeokg/resource/2765481837>	<hgeokg/schema/addrPostcode>	addrPostcode-10035
+<hgeokg/resource/226015256>	<hgeokg/schema/foot>	foot-yes
+<hgeokg/resource/654051380>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/271592504>
+<hgeokg/resource/3449999557>	<hgeokg/schema/brandWikidata>	brandWikidata-Q327634
+<hgeokg/resource/271596035>	<hgeokg/schema/buildingLevels>	buildingLevels-6
+<hgeokg/resource/654051378>	<hgeokg/schema/foot>	foot-no
+<hgeokg/resource/68668543>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5785132950>
+<hgeokg/resource/226015256>	<hgeokg/schema/lanes>	lanes-2
+<hgeokg/resource/5785132950>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/2765481908>
+<hgeokg/resource/668168824>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/46240374>
+<hgeokg/resource/5673504795>	<hgeokg/schema/website>	website-https://www.target.com/sl/harlem/2380
+<hgeokg/resource/357560491>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/AmenitySchool>
+<hgeokg/resource/5671318>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/271592477>
+<hgeokg/resource/420906662>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/5671318>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/420905933>	<hgeokg/schema/surface>	surface-asphalt
+<hgeokg/resource/2765449317>	<hgeokg/schema/startDate>	startDate-1896
+<hgeokg/resource/5782500846>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6733980472>
+<hgeokg/resource/5785137061>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/195743162>
+<hgeokg/resource/420906780>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/5309501636>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Laundry>
+<hgeokg/resource/6845628423>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/195743162>
+<hgeokg/resource/357560491>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/68668543>
+<hgeokg/resource/5782496201>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/271592472>
+<hgeokg/resource/654051380>	<Line_roads-Adjacent-Point_traffic>	<hgeokg/resource/271596035>
+<hgeokg/resource/226015230>	<http://www.w3.org/2000/01/rdf-schema#label>	East 111th Street Pedestrian Bridge
+<hgeokg/resource/271592472>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/68668543>
+<hgeokg/resource/68668543>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/2765481837>
+<hgeokg/resource/5673504795>	<hgeokg/schema/brandWikidata>	brandWikidata-Q1046951
+<hgeokg/resource/590405003>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5871200557>
+<hgeokg/resource/271592472>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/AmenitySchool>
+<hgeokg/resource/6845628423>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/3449999557>
+<hgeokg/resource/5673504795>	<hgeokg/schema/addrPostcode>	addrPostcode-10035
+<hgeokg/resource/5671318>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5309501636>
+<hgeokg/resource/654051378>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Cycleway>
+<hgeokg/resource/195743162>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/3449999557>
+<hgeokg/resource/420906650>	<hgeokg/schema/nameRu>	nameRu-1-я Авеню
+<hgeokg/resource/683569581>	<hgeokg/schema/segregated>	segregated-no
+<hgeokg/resource/799234248>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420905928>
+<hgeokg/resource/6733980472>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Restaurant>
+<hgeokg/resource/6733980472>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/5785137061>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/BusStop>
+<hgeokg/resource/5671568>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5782496201>
+<hgeokg/resource/271593594>	<Point_pois-Adjacent-Polygon_landuse>	<hgeokg/resource/684245418>
+<hgeokg/resource/271596035>	<hgeokg/schema/operator>	operator-SP+ Parking
+<hgeokg/resource/5671318>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/271592472>
+<hgeokg/resource/668168824>	<hgeokg/schema/brand>	brand-Applebee's Neighborhood Grill & Bar
+<hgeokg/resource/271593594>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/668153180>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-E
+<hgeokg/resource/683569582>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Pedestrian>
+<hgeokg/resource/668153180>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6845494353>
+<hgeokg/resource/420905715>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/799234248>
+<hgeokg/resource/5673504795>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/46240374>
+<hgeokg/resource/654051380>	<hgeokg/schema/lanes>	lanes-2
+<hgeokg/resource/668153180>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/2765481837>
+<hgeokg/resource/5785132950>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/5785132950>	<Point_transport-Adjacent-Point_transport>	<hgeokg/resource/5785137061>
+<hgeokg/resource/271596000>	<hgeokg/schema/owner>	owner-Brookfield Asset Management
+<hgeokg/resource/195743162>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-E
+<hgeokg/resource/5871200557>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5673504795>
+<hgeokg/resource/420905932>	<http://www.w3.org/2000/01/rdf-schema#label>	1st Avenue
+<hgeokg/resource/5671749>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/2765481908>
+<hgeokg/resource/271592504>	<hgeokg/schema/height>	height-29.8
+<hgeokg/resource/5673504795>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/668153180>
+<hgeokg/resource/5673504795>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/668168824>
+<hgeokg/resource/420905930>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Primary>
+<hgeokg/resource/5782500846>	<http://www.w3.org/2000/01/rdf-schema#label>	Yura's Blue Plate
+<hgeokg/resource/2765481908>	<hgeokg/schema/phone>	phone-+1 347-672-0751
+<hgeokg/resource/271596035>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/AmenityParking>
+<hgeokg/resource/5673504795>	<hgeokg/schema/level>	level-2
+<hgeokg/resource/68668543>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/5671749>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5871200557>
+<hgeokg/resource/420905928>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/420905715>
+<hgeokg/resource/420905930>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/108159407>
+<hgeokg/resource/420905928>	<hgeokg/schema/lanes>	lanes-4
+<hgeokg/resource/5871200557>	<hgeokg/schema/brandWikipedia>	brandWikipedia-en:Aldi
+<hgeokg/resource/2765481837>	<hgeokg/schema/phone>	phone-+1 646-657-0137
+<hgeokg/resource/5785137061>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/6845494353>
+<hgeokg/resource/420905715>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420905933>
+<hgeokg/resource/420905930>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5671318>
+<hgeokg/resource/195743192>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5785137061>
+<hgeokg/resource/420906662>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/420906656>
+<hgeokg/resource/5871200557>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/2765481837>
+<hgeokg/resource/6845494353>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5785137061>
+<hgeokg/resource/5309501636>	<hgeokg/schema/selfService>	selfService-yes
+<hgeokg/resource/668153180>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/195743192>
+<hgeokg/resource/654051378>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/3449999557>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5671568>
+<hgeokg/resource/46240374>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/668168824>
+<hgeokg/resource/590405003>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/271596000>
+<hgeokg/resource/621515072>	<hgeokg/schema/addrPostcode>	addrPostcode-10035
+<hgeokg/resource/271592477>	<hgeokg/schema/height>	height-19.0
+<hgeokg/resource/271592504>	<Point_traffic-Adjacent-Polygon_buildings>	<hgeokg/resource/271596035>
+<hgeokg/resource/590405003>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/195743192>
+<hgeokg/resource/668153180>	<Line_roads-Adjacent-Point_traffic>	<hgeokg/resource/271596035>
+<hgeokg/resource/5671318>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420905933>
+<hgeokg/resource/5782496201>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5785137061>
+<hgeokg/resource/420906780>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Primary>
+<hgeokg/resource/420905928>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/683569582>
+<hgeokg/resource/420905933>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420905928>
+<hgeokg/resource/799234248>	<http://www.w3.org/2000/01/rdf-schema#label>	East 111th Street
+<hgeokg/resource/2765481837>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/590405003>
+<hgeokg/resource/195743162>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/590405003>
+<hgeokg/resource/6342189049>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Beauty>
+<hgeokg/resource/5871200557>	<Point_pois-Adjacent-Point_traffic>	<hgeokg/resource/271596035>
+<hgeokg/resource/195743192>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/271592472>
+<hgeokg/resource/2765449317>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Restaurant>
+<hgeokg/resource/5785132950>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/6845494353>
+<hgeokg/resource/5671749>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/271596000>
+<hgeokg/resource/621515072>	<hgeokg/schema/website>	website-https://find.shell.com/us/fuel/10047206
+<hgeokg/resource/799234248>	<hgeokg/schema/bicycle>	bicycle-yes
+<hgeokg/resource/3449999557>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/MobilePhone>
+<hgeokg/resource/6845628423>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/2765481908>
+<hgeokg/resource/271592472>	<hgeokg/schema/nycdoittBin>	nycdoittBin-1081442
+<hgeokg/resource/2765481908>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/195743192>
+<hgeokg/resource/357560491>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5782496201>
+<hgeokg/resource/195743192>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/271592504>
+<hgeokg/resource/6845628423>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5785132950>
+<hgeokg/resource/420906656>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/420905715>	<hgeokg/schema/surface>	surface-asphalt
+<hgeokg/resource/271593594>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/420906656>
+<hgeokg/resource/2765449317>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/271592477>
+<hgeokg/resource/195743162>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/2765481908>
+<hgeokg/resource/68668543>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6342189049>
+<hgeokg/resource/420905930>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420906662>
+<hgeokg/resource/6342189049>	<hgeokg/schema/addrHousenumber>	addrHousenumber-2246
+<hgeokg/resource/5785137061>	<hgeokg/schema/shelter>	shelter-no
+<hgeokg/resource/195743162>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5671749>
+<hgeokg/resource/5671568>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/3449999557>
+<hgeokg/resource/2765481908>	<hgeokg/schema/addrHousenumber>	addrHousenumber-500
+<hgeokg/resource/654051380>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/226015256>
+<hgeokg/resource/2765481908>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Hairdresser>
+<hgeokg/resource/271596000>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/226015256>
+<hgeokg/resource/2765449317>	<hgeokg/schema/cuisine>	cuisine-italian
+<hgeokg/resource/668168824>	<hgeokg/schema/cocktails>	cocktails-yes
+<hgeokg/resource/2765449317>	<hgeokg/schema/twitter>	twitter-raosrestauraunts
+<hgeokg/resource/195743192>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/46240374>
+<hgeokg/resource/420906650>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/68668543>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/420906656>
+<hgeokg/resource/108159407>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/683569581>
+<hgeokg/resource/5785132950>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/2765481837>
+<hgeokg/resource/420906662>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420905930>
+<hgeokg/resource/5673504795>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5671749>
+<hgeokg/resource/668168824>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/108159407>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/271592504>
+<hgeokg/resource/6733980472>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/420906656>
+<hgeokg/resource/683569581>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/226015230>
+<hgeokg/resource/108159407>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Park>
+<hgeokg/resource/5782499559>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Clothes>
+<hgeokg/resource/2765481837>	<hgeokg/schema/level>	level-0
+<hgeokg/resource/271596000>	<hgeokg/schema/addrHousenumber>	addrHousenumber-517
+<hgeokg/resource/2765449317>	<hgeokg/schema/wikipedia>	wikipedia-en:Rao's
+<hgeokg/resource/5671568>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/6342189049>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/420906662>
+<hgeokg/resource/271592504>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/2765449317>
+<hgeokg/resource/420906650>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/420906662>
+<hgeokg/resource/420905715>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/420905928>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5671318>
+<hgeokg/resource/108159407>	<hgeokg/schema/gnisFeatureId>	gnisFeatureId-953965
+<hgeokg/resource/271592472>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/195743162>
+<hgeokg/resource/5782499559>	<http://www.w3.org/2000/01/rdf-schema#label>	Danny Fashion Casa
+<hgeokg/resource/420905930>	<hgeokg/schema/nameEn>	nameEn-1st Avenue
+<hgeokg/resource/6733980472>	<hgeokg/schema/delivery>	delivery-yes
+<hgeokg/resource/420906662>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/420906650>
+<hgeokg/resource/271592477>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Museum>
+<hgeokg/resource/6845494353>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/3449999557>
+<hgeokg/resource/590405003>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayService>
+<hgeokg/resource/5782496201>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/195743162>
+<hgeokg/resource/5309501636>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5782499559>
+<hgeokg/resource/271592504>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/5671318>
+<hgeokg/resource/5673504795>	<Point_pois-Within-Point_pois>	<hgeokg/resource/271596000>
+<hgeokg/resource/654051378>	<http://www.w3.org/2000/01/rdf-schema#label>	Bobby Wagner Walk
+<hgeokg/resource/2765481908>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5871200557>
+<hgeokg/resource/420905930>	<hgeokg/schema/maxspeed>	maxspeed-25 mph
+<hgeokg/resource/621515072>	<Point_pois-Adjacent-Point_traffic>	<hgeokg/resource/271593594>
+<hgeokg/resource/420906662>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5782500846>
+<hgeokg/resource/5871200557>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5671749>
+<hgeokg/resource/195743162>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5785137061>
+<hgeokg/resource/654051378>	<hgeokg/schema/fixme>	fixme-closure points are approximate
+<hgeokg/resource/195743192>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6845494353>
+<hgeokg/resource/6733980472>	<hgeokg/schema/phone>	phone-+1 212-426-4888
+<hgeokg/resource/271596035>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/BuildingParking>
+<hgeokg/resource/271592472>	<hgeokg/schema/ele>	ele-3
+<hgeokg/resource/6845494353>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/195743162>
+<hgeokg/resource/357560491>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/195743162>
+<hgeokg/resource/226015253>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/2765449317>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5671568>
+<hgeokg/resource/271596035>	<Line_roads-Adjacent-Point_traffic>	<hgeokg/resource/195743162>
+<hgeokg/resource/2765481837>	<hgeokg/schema/brand>	brand-Metro by T-Mobile
+<hgeokg/resource/420905930>	<hgeokg/schema/lanes>	lanes-4
+<hgeokg/resource/668153180>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/46240374>
+<hgeokg/resource/683569582>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/226015253>
+<hgeokg/resource/2765449317>	<hgeokg/schema/website>	website-http://raosrestaurants.com/location_ny.html
+<hgeokg/resource/46240374>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5671749>
+<hgeokg/resource/420905930>	<hgeokg/schema/cyclewayLeft>	cyclewayLeft-track
+<hgeokg/resource/68668543>	<Line_roads-Adjacent-Point_traffic>	<hgeokg/resource/621515072>
+<hgeokg/resource/420906662>	<hgeokg/schema/nameRu>	nameRu-1-я Авеню
+<hgeokg/resource/226015253>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/683569581>
+<hgeokg/resource/5785132950>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/195743162>
+<hgeokg/resource/5782496201>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/271592477>
+<hgeokg/resource/420906656>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420906650>
+<hgeokg/resource/420905717>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/683569582>
+<hgeokg/resource/420906650>	<Point_traffic-Adjacent-Line_roads>	<hgeokg/resource/621515072>
+<hgeokg/resource/271592472>	<http://www.w3.org/2000/01/rdf-schema#label>	Our Lady of Mount Carmel School
+<hgeokg/resource/420906656>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/5673504795>	<http://www.w3.org/2000/01/rdf-schema#label>	Target
+<hgeokg/resource/271596035>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/5785132950>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/195743192>
+<hgeokg/resource/683569581>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/683569582>
+<hgeokg/resource/590405003>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/2765481837>
+<hgeokg/resource/799234248>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/668168824>	<hgeokg/schema/takeaway>	takeaway-yes
+<hgeokg/resource/271596000>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/BuildingRetail>
+<hgeokg/resource/5671318>	<hgeokg/schema/lit>	lit-yes
+<hgeokg/resource/5671568>	<hgeokg/schema/wikipedia>	wikipedia-en:Pleasant Avenue
+<hgeokg/resource/6845494353>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Alcohol>
+<hgeokg/resource/420906650>	<Line_roads-Adjacent-Polygon_landuse>	<hgeokg/resource/684245418>
+<hgeokg/resource/6845494353>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/668153180>
+<hgeokg/resource/420905717>	<hgeokg/schema/lanes>	lanes-4
+<hgeokg/resource/420905928>	<hgeokg/schema/hgv>	hgv-local
+<hgeokg/resource/6845494353>	<Point_pois-Adjacent-Point_traffic>	<hgeokg/resource/271596035>
+<hgeokg/resource/271596000>	<Point_pois-Adjacent-Point_traffic>	<hgeokg/resource/271596035>
+<hgeokg/resource/357560491>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5671568>
+<hgeokg/resource/5309501636>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6342189049>
+<hgeokg/resource/5785132950>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/3449999557>
+<hgeokg/resource/5785137061>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/3449999557>
+<hgeokg/resource/5309501636>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/108159407>
+<hgeokg/resource/5871200557>	<hgeokg/schema/level>	level-1
+<hgeokg/resource/621515072>	<Point_traffic-Adjacent-Line_roads>	<hgeokg/resource/420906780>
+<hgeokg/resource/271596000>	<hgeokg/schema/wheelchair>	wheelchair-yes
+<hgeokg/resource/68668543>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6845628423>
+<hgeokg/resource/108159407>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/420905717>
+<hgeokg/resource/3449999557>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/271592472>
+<hgeokg/resource/668153180>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/68668543>
+<hgeokg/resource/5673504795>	<Point_pois-Adjacent-Point_traffic>	<hgeokg/resource/271596035>
+<hgeokg/resource/6733980472>	<hgeokg/schema/openingHours>	openingHours-Mo-Th 11:00-23:00; Su 12:00-23:00; Fr,Sa 11:00-23:00
+<hgeokg/resource/420905715>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Primary>
+<hgeokg/resource/5673504795>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5871200557>
+<hgeokg/resource/108159407>	<http://www.w3.org/2000/01/rdf-schema#label>	Thomas Jefferson Park
+<hgeokg/resource/195743192>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/668168824>
+<hgeokg/resource/684245418>	<Line_roads-Adjacent-Polygon_landuse>	<hgeokg/resource/420906656>
+<hgeokg/resource/799234248>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/420905717>
+<hgeokg/resource/420905715>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/683569582>
+<hgeokg/resource/420906650>	<hgeokg/schema/maxspeed>	maxspeed-25 mph
+<hgeokg/resource/68668543>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/195743162>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6845494353>
+<hgeokg/resource/5673504795>	<hgeokg/schema/brand>	brand-Target
+<hgeokg/resource/420905717>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/799234248>
+<hgeokg/resource/621515072>	<Point_traffic-Adjacent-Polygon_landuse>	<hgeokg/resource/684245418>
+<hgeokg/resource/420905932>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/226015253>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/108159407>
+<hgeokg/resource/271596000>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/195743162>
+<hgeokg/resource/684245418>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Polygon>
+<hgeokg/resource/683569582>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420905717>
+<hgeokg/resource/271596000>	<hgeokg/schema/height>	height-31.9
+<hgeokg/resource/195743192>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5671568>
+<hgeokg/resource/271592472>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/271593594>	<http://www.w3.org/2000/01/rdf-schema#label>	Spaha Soul
+<hgeokg/resource/68668543>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6845494353>
+<hgeokg/resource/668168824>	<hgeokg/schema/brandWikidata>	brandWikidata-Q621532
+<hgeokg/resource/668168824>	<hgeokg/schema/wheelchair>	wheelchair-yes
+<hgeokg/resource/420905715>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420905932>
+<hgeokg/resource/271593594>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/420906662>
+<hgeokg/resource/2765481837>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/195743192>
+<hgeokg/resource/420905933>	<http://www.w3.org/2000/01/rdf-schema#label>	1st Avenue
+<hgeokg/resource/5785132950>	<http://www.w3.org/2000/01/rdf-schema#label>	Pleasant Avenue & East 117th Street
+<hgeokg/resource/668153180>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/2765481908>
+<hgeokg/resource/5782496201>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/3449999557>
+<hgeokg/resource/420905932>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420905715>
+<hgeokg/resource/108159407>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/420905928>
+<hgeokg/resource/5671568>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/271592504>
+<hgeokg/resource/654051378>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/654051380>
+<hgeokg/resource/226015253>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/654051378>
+<hgeokg/resource/357560491>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6845494353>
+<hgeokg/resource/68668543>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5782500846>
+<hgeokg/resource/195743162>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/654051378>
+<hgeokg/resource/668168824>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6845628423>
+<hgeokg/resource/683569582>	<http://www.w3.org/2000/01/rdf-schema#label>	East 112th Street
+<hgeokg/resource/420906662>	<hgeokg/schema/lanes>	lanes-4
+<hgeokg/resource/2765481837>	<hgeokg/schema/openingHours>	openingHours-Mo-Sa 10:00-20:00; Su 10:00-18:00
+<hgeokg/resource/2765481837>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5671749>
+<hgeokg/resource/271592472>	<hgeokg/schema/height>	height-21.2
+<hgeokg/resource/195743192>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/2765481908>
+<hgeokg/resource/5871200557>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/590405003>
+<hgeokg/resource/420905715>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/420905928>
+<hgeokg/resource/5785132950>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/668153180>
+<hgeokg/resource/195743162>	<hgeokg/schema/lanes>	lanes-4
+<hgeokg/resource/420906780>	<http://www.w3.org/2000/01/rdf-schema#label>	1st Avenue
+<hgeokg/resource/226015256>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5671749>
+<hgeokg/resource/3449999557>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6845628423>
+<hgeokg/resource/5309501636>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/420905930>
+<hgeokg/resource/5671749>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/195743162>
+<hgeokg/resource/420906656>	<hgeokg/schema/hgv>	hgv-local
+<hgeokg/resource/271596000>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/2765481837>
+<hgeokg/resource/2765481837>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/2765481908>
+<hgeokg/resource/5782499559>	<hgeokg/schema/addrHousenumber>	addrHousenumber-413
+<hgeokg/resource/420906662>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/420905932>	<hgeokg/schema/nameRu>	nameRu-1-я Авеню
+<hgeokg/resource/5673504795>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/DepartmentStore>
+<hgeokg/resource/683569581>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/108159407>
+<hgeokg/resource/420906662>	<hgeokg/schema/cyclewayLeft>	cyclewayLeft-track
+<hgeokg/resource/195743192>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5671749>
+<hgeokg/resource/2765481908>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6845494353>
+<hgeokg/resource/799234248>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/108159407>
+<hgeokg/resource/3449999557>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5785132950>
+<hgeokg/resource/108159407>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/271596000>	<hgeokg/schema/addrPostcode>	addrPostcode-10035
+<hgeokg/resource/5871200557>	<hgeokg/schema/openingHours>	openingHours-Mo-Su 09:00-21:00
+<hgeokg/resource/3449999557>	<http://www.w3.org/2000/01/rdf-schema#label>	T-Mobile
+<hgeokg/resource/5309501636>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/668153180>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5671749>
+<hgeokg/resource/683569582>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/226015230>
+<hgeokg/resource/420905930>	<http://www.w3.org/2000/01/rdf-schema#label>	1st Avenue
+<hgeokg/resource/271596000>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Mall>
+<hgeokg/resource/654051380>	<http://www.w3.org/2000/01/rdf-schema#label>	Bobby Wagner Walk
+<hgeokg/resource/420906656>	<hgeokg/schema/lanes>	lanes-5
+<hgeokg/resource/420905933>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/683569582>
+<hgeokg/resource/271596035>	<Line_roads-Adjacent-Point_traffic>	<hgeokg/resource/5671568>
+<hgeokg/resource/6733980472>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5309501636>
+<hgeokg/resource/5871200557>	<hgeokg/schema/brand>	brand-ALDI
+<hgeokg/resource/683569581>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Footway>
+<hgeokg/resource/420905717>	<http://www.w3.org/2000/01/rdf-schema#label>	1st Avenue
+<hgeokg/resource/420905928>	<hgeokg/schema/nameEn>	nameEn-1st Avenue
+<hgeokg/resource/420906656>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/420905930>
+<hgeokg/resource/68668543>	<Line_roads-Adjacent-Point_traffic>	<hgeokg/resource/271596035>
+<hgeokg/resource/668168824>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/590405003>
+<hgeokg/resource/668168824>	<hgeokg/schema/delivery>	delivery-yes
+<hgeokg/resource/5782500846>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/420906656>
+<hgeokg/resource/2765481837>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/668153180>
+<hgeokg/resource/5671568>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/668168824>	<hgeokg/schema/addrHousenumber>	addrHousenumber-509
+<hgeokg/resource/5782500846>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6342189049>
+<hgeokg/resource/420905715>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/420905717>
+<hgeokg/resource/5671568>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/668153180>
+<hgeokg/resource/5671318>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5671568>
+<hgeokg/resource/271592504>	<Polygon_buildings-Contain-Point_pois>	<hgeokg/resource/357560491>
+<hgeokg/resource/420906780>	<hgeokg/schema/surface>	surface-asphalt
+<hgeokg/resource/5671318>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6733980472>
+<hgeokg/resource/420905717>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/590405003>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/654051378>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/195743162>
+<hgeokg/resource/5671568>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6845494353>
+<hgeokg/resource/195743162>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6845628423>
+<hgeokg/resource/195743192>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/3449999557>
+<hgeokg/resource/799234248>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/420905717>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/5671568>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/2765481837>
+<hgeokg/resource/621515072>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/AmenityFuel>
+<hgeokg/resource/420905932>	<hgeokg/schema/cyclewayLeft>	cyclewayLeft-track
+<hgeokg/resource/195743192>	<hgeokg/schema/wikipedia>	wikipedia-en:Pleasant Avenue
+<hgeokg/resource/271592504>	<Point_transport-Adjacent-Polygon_buildings>	<hgeokg/resource/5785137061>
+<hgeokg/resource/420906780>	<hgeokg/schema/hgv>	hgv-local
+<hgeokg/resource/420905928>	<hgeokg/schema/maxspeed>	maxspeed-25 mph
+<hgeokg/resource/420906650>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/68668543>
+<hgeokg/resource/5782500846>	<hgeokg/schema/addrHousenumber>	addrHousenumber-2248
+<hgeokg/resource/590405003>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5671749>
+<hgeokg/resource/108159407>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/799234248>
+<hgeokg/resource/271592477>	<hgeokg/schema/addrPostcode>	addrPostcode-10029
+<hgeokg/resource/420906650>	<http://www.w3.org/2000/01/rdf-schema#label>	1st Avenue
+<hgeokg/resource/420905928>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/799234248>
+<hgeokg/resource/654051378>	<hgeokg/schema/description>	description-path closed here pending repairs
+<hgeokg/resource/2765481908>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5785132950>
+<hgeokg/resource/5671318>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/5871200557>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/ShopSupermarket>
+<hgeokg/resource/6845494353>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5671568>
+<hgeokg/resource/621515072>	<hgeokg/schema/brandWikidata>	brandWikidata-Q154950
+<hgeokg/resource/5671749>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/590405003>
+<hgeokg/resource/46240374>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-E
+<hgeokg/resource/357560491>	<Point_pois-Within-Polygon_buildings>	<hgeokg/resource/271592504>
+<hgeokg/resource/226015230>	<hgeokg/schema/segregated>	segregated-no
+<hgeokg/resource/2765449317>	<hgeokg/schema/facebook>	facebook-raosrestauraunt
+<hgeokg/resource/5785137061>	<hgeokg/schema/bus>	bus-yes
+<hgeokg/resource/226015256>	<Line_roads-Adjacent-Point_traffic>	<hgeokg/resource/271596035>
+<hgeokg/resource/5782496201>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/68668543>
+<hgeokg/resource/799234248>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420905715>
+<hgeokg/resource/2765481837>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/68668543>
+<hgeokg/resource/668168824>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6845494353>
+<hgeokg/resource/799234248>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/271592504>	<http://www.w3.org/2000/01/rdf-schema#label>	Manhattan Center for Science and Mathematics
+<hgeokg/resource/420905928>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Primary>
+<hgeokg/resource/271592504>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/654051378>
+<hgeokg/resource/6845494353>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5785132950>
+<hgeokg/resource/6342189049>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/420905930>
+<hgeokg/resource/420905717>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420905928>
+<hgeokg/resource/271592504>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/6845494353>
+<hgeokg/resource/226015253>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Cycleway>
+<hgeokg/resource/668168824>	<hgeokg/schema/website>	website-https://www.applebees.com/en/restaurants-new-york-ny/509-east-117th-street-77013
+<hgeokg/resource/2765481908>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/668168824>
+<hgeokg/resource/46240374>	<Line_roads-Adjacent-Point_traffic>	<hgeokg/resource/271596035>
+<hgeokg/resource/5871200557>	<http://www.w3.org/2000/01/rdf-schema#label>	ALDI
+<hgeokg/resource/5785137061>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/PublicTransportPlatform>
+<hgeokg/resource/271592504>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/195743162>
+<hgeokg/resource/420906662>	<Line_roads-Adjacent-Polygon_landuse>	<hgeokg/resource/684245418>
+<hgeokg/resource/654051378>	<hgeokg/schema/lanes>	lanes-2
+<hgeokg/resource/195743192>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5871200557>
+<hgeokg/resource/799234248>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-E
+<hgeokg/resource/668168824>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5785132950>
+<hgeokg/resource/420905930>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/68668543>
+<hgeokg/resource/271592477>	<hgeokg/schema/gnisFeatureId>	gnisFeatureId-2091589
+<hgeokg/resource/5671568>	<hgeokg/schema/surface>	surface-asphalt
+<hgeokg/resource/5673504795>	<hgeokg/schema/wheelchair>	wheelchair-yes
+<hgeokg/resource/68668543>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-E
+<hgeokg/resource/5671318>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420905928>
+<hgeokg/resource/195743192>	<http://www.w3.org/2000/01/rdf-schema#label>	Pleasant Avenue
+<hgeokg/resource/2765449317>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5671318>
+<hgeokg/resource/46240374>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/195743192>
+<hgeokg/resource/357560491>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/108159407>
+<hgeokg/resource/2765481837>	<hgeokg/schema/wheelchair>	wheelchair-yes
+<hgeokg/resource/226015253>	<hgeokg/schema/lanes>	lanes-2
+<hgeokg/resource/5785137061>	<hgeokg/schema/bench>	bench-yes
+<hgeokg/resource/271596000>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/668168824>
+<hgeokg/resource/2765481837>	<Point_pois-Adjacent-Point_traffic>	<hgeokg/resource/271596035>
+<hgeokg/resource/5782500846>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/420905930>
+<hgeokg/resource/668168824>	<hgeokg/schema/phone>	phone-+1 646-896-2700
+<hgeokg/resource/668153180>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/3449999557>
+<hgeokg/resource/68668543>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5785137061>
+<hgeokg/resource/668168824>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/2765481908>
+<hgeokg/resource/271592477>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5785137061>
+<hgeokg/resource/654051378>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/108159407>
+<hgeokg/resource/195743192>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/357560491>
+<hgeokg/resource/5309501636>	<http://www.w3.org/2000/01/rdf-schema#label>	Laundromat
+<hgeokg/resource/5785132950>	<hgeokg/schema/bus>	bus-yes
+<hgeokg/resource/420905717>	<hgeokg/schema/nameEn>	nameEn-1st Avenue
+<hgeokg/resource/668168824>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/2765481837>
+<hgeokg/resource/5782500846>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Restaurant>
+<hgeokg/resource/668168824>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Restaurant>
+<hgeokg/resource/108159407>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5782496201>
+<hgeokg/resource/3449999557>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/195743192>
+<hgeokg/resource/271596035>	<hgeokg/schema/maxheight>	maxheight-7'6\\\" .
+<hgeokg/resource/122625718>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/31359136>
+<hgeokg/resource/5670184>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/32962119>
+<hgeokg/resource/194933369>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no"
+<hgeokg/resource/271596035>	<Point_pois-Adjacent-Point_traffic>	<hgeokg/resource/357560491>
+<hgeokg/resource/2765481837>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5785132950>
+<hgeokg/resource/5871200557>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/668168824>
+<hgeokg/resource/5671318>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/271592504>
+<hgeokg/resource/420906656>	<Line_roads-Adjacent-Polygon_landuse>	<hgeokg/resource/684245418>
+<hgeokg/resource/3449999557>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/195743162>
+<hgeokg/resource/226015230>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/226015253>
+<hgeokg/resource/226015230>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Footway>
+<hgeokg/resource/5671568>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/271592472>
+<hgeokg/resource/108159407>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6733980472>
+<hgeokg/resource/683569581>	<hgeokg/schema/surface>	surface-concrete
+<hgeokg/resource/271592472>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/195743192>
+<hgeokg/resource/5671749>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/668153180>
+<hgeokg/resource/420906650>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/271593594>
+<hgeokg/resource/5782496201>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/271592504>
+<hgeokg/resource/226015256>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/68668543>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/420906662>
+<hgeokg/resource/68668543>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/195743192>
+<hgeokg/resource/6845628423>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/226015230>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/271596035>	<Line_roads-Adjacent-Point_traffic>	<hgeokg/resource/68668543>
+<hgeokg/resource/195743192>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5785132950>
+<hgeokg/resource/420905930>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5309501636>
+<hgeokg/resource/420905715>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/6845494353>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/271592504>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Polygon>
+<hgeokg/resource/420905715>	<http://www.w3.org/2000/01/rdf-schema#label>	1st Avenue
+<hgeokg/resource/420905933>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/108159407>
+<hgeokg/resource/108159407>	<hgeokg/schema/wikipedia>	wikipedia-en:Thomas Jefferson Park
+<hgeokg/resource/799234248>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/6733980472>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5782499559>
+<hgeokg/resource/195743162>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/668153180>
+<hgeokg/resource/2765481908>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5671749>
+<hgeokg/resource/668168824>	<hgeokg/schema/toilets>	toilets-yes
+<hgeokg/resource/654051380>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/271596000>
+<hgeokg/resource/5309501636>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5671318>
+<hgeokg/resource/5785137061>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/6342189049>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/420906656>
+<hgeokg/resource/3449999557>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5782496201>
+<hgeokg/resource/5671749>	<hgeokg/schema/oneway>	oneway-no
+<hgeokg/resource/195743162>	<http://www.w3.org/2000/01/rdf-schema#label>	East 116th Street
+<hgeokg/resource/108159407>	<hgeokg/schema/operatorType>	operatorType-public
+<hgeokg/resource/654051378>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/271592504>
+<hgeokg/resource/46240374>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5673504795>
+<hgeokg/resource/5309501636>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/420906656>
+<hgeokg/resource/420906656>	<http://www.w3.org/2000/01/rdf-schema#label>	1st Avenue
+<hgeokg/resource/668168824>	<hgeokg/schema/branch>	branch-117th Street
+<hgeokg/resource/226015230>	<Line_roads-Intersect-Point_pois>	<hgeokg/resource/108159407>
+<hgeokg/resource/5871200557>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/195743192>
+<hgeokg/resource/5785132950>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/PublicTransportPlatform>
+<hgeokg/resource/2765481837>	<hgeokg/schema/addrHousenumber>	addrHousenumber-318
+<hgeokg/resource/271592472>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/3449999557>
+<hgeokg/resource/5671749>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/226015256>
+<hgeokg/resource/6845628423>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/195743192>
+<hgeokg/resource/2765481908>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/271596035>	<Point_pois-Adjacent-Point_traffic>	<hgeokg/resource/2765481837>
+<hgeokg/resource/420905932>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/683569582>
+<hgeokg/resource/668168824>	<hgeokg/schema/internetAccessFee>	internetAccessFee-no
+<hgeokg/resource/68668543>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/271592504>
+<hgeokg/resource/668168824>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/BuildingCommercial>
+<hgeokg/resource/6845628423>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5785137061>
+<hgeokg/resource/6845494353>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/68668543>
+<hgeokg/resource/5671318>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/108159407>
+<hgeokg/resource/420906662>	<hgeokg/schema/nameEn>	nameEn-1st Avenue
+<hgeokg/resource/6845628423>	<hgeokg/schema/phone>	phone-+1 212-831-1044
+<hgeokg/resource/420906780>	<hgeokg/schema/lanes>	lanes-4
+<hgeokg/resource/420905933>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5671318>
+<hgeokg/resource/6733980472>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6342189049>
+<hgeokg/resource/271596000>	<http://www.w3.org/2000/01/rdf-schema#label>	East River Plaza
+<hgeokg/resource/5785132950>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5671568>
+<hgeokg/resource/590405003>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/195743162>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Secondary>
+<hgeokg/resource/195743162>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/271592504>
+<hgeokg/resource/108159407>	<hgeokg/schema/website>	website-https://www.nycgovparks.org/parks/thomas-jefferson-park/
+<hgeokg/resource/5673504795>	<hgeokg/schema/brandWikipedia>	brandWikipedia-en:Target Corporation
+<hgeokg/resource/668168824>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/271596000>
+<hgeokg/resource/420906780>	<hgeokg/schema/nameEn>	nameEn-1st Avenue
+<hgeokg/resource/271592472>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5785137061>
+<hgeokg/resource/46240374>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/2765481837>
+<hgeokg/resource/621515072>	<hgeokg/schema/capacity>	capacity-4
+<hgeokg/resource/195743162>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/654051380>
+<hgeokg/resource/271593594>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Restaurant>
+<hgeokg/resource/420905717>	<hgeokg/schema/hgv>	hgv-local
+<hgeokg/resource/108159407>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5309501636>
+<hgeokg/resource/420905930>	<hgeokg/schema/hgv>	hgv-local
+<hgeokg/resource/621515072>	<http://www.w3.org/2000/01/rdf-schema#label>	Shell
+<hgeokg/resource/420906656>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5309501636>
+<hgeokg/resource/195743162>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/68668543>
+<hgeokg/resource/5671568>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5785137061>
+<hgeokg/resource/357560491>	<hgeokg/schema/addrPostcode>	addrPostcode-10029
+<hgeokg/resource/420906656>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5782500846>
+<hgeokg/resource/5671318>	<http://www.w3.org/2000/01/rdf-schema#label>	East 114th Street
+<hgeokg/resource/668153180>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/668168824>
+<hgeokg/resource/5673504795>	<hgeokg/schema/branch>	branch-Harlem
+<hgeokg/resource/3449999557>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/271592504>
+<hgeokg/resource/271592477>	<hgeokg/schema/addrState>	addrState-NY
+<hgeokg/resource/271593594>	<hgeokg/schema/cuisine>	cuisine-Southern
+<hgeokg/resource/271592504>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/BuildingSchool>
+<hgeokg/resource/5671318>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5782496201>
+<hgeokg/resource/5782499559>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6733980472>
+<hgeokg/resource/6845494353>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/195743192>
+<hgeokg/resource/420905932>	<hgeokg/schema/nameEn>	nameEn-1st Avenue
+<hgeokg/resource/195743162>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/271596000>
+<hgeokg/resource/271596035>	<Line_roads-Adjacent-Point_traffic>	<hgeokg/resource/668153180>
+<hgeokg/resource/271596035>	<Line_roads-Adjacent-Point_traffic>	<hgeokg/resource/46240374>
+<hgeokg/resource/271592477>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/2765449317>
+<hgeokg/resource/195743192>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/590405003>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/46240374>
+<hgeokg/resource/2765481837>	<hgeokg/schema/brandWikidata>	brandWikidata-Q1925685
+<hgeokg/resource/420905932>	<hgeokg/schema/surface>	surface-asphalt
+<hgeokg/resource/668168824>	<hgeokg/schema/capacity>	capacity-371
+<hgeokg/resource/271593594>	<hgeokg/schema/addrPostcode>	addrPostcode-10035
+<hgeokg/resource/108159407>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/420905932>
+<hgeokg/resource/2765449317>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/108159407>
+<hgeokg/resource/226015256>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/195743162>
+<hgeokg/resource/5671568>	<Line_roads-Adjacent-Point_traffic>	<hgeokg/resource/271596035>
+<hgeokg/resource/420906650>	<hgeokg/schema/cyclewayLeft>	cyclewayLeft-shared_lane
+<hgeokg/resource/5671568>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6845628423>
+<hgeokg/resource/6845494353>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/2765481908>
+<hgeokg/resource/5309501636>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6733980472>
+<hgeokg/resource/3449999557>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/195743192>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/68668543>
+<hgeokg/resource/420906662>	<hgeokg/schema/hgv>	hgv-local
+<hgeokg/resource/46240374>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/195743162>	<hgeokg/schema/wikipedia>	wikipedia-en:116th Street (Manhattan)
+<hgeokg/resource/5671568>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/195743162>
+<hgeokg/resource/683569582>	<hgeokg/schema/surface>	surface-asphalt
+<hgeokg/resource/420905928>	<hgeokg/schema/nameRu>	nameRu-1-я Авеню
+<hgeokg/resource/271592504>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/5782496201>
+<hgeokg/resource/6845628423>	<http://www.w3.org/2000/01/rdf-schema#label>	Finest Food Corp
+<hgeokg/resource/654051380>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/195743162>
+<hgeokg/resource/6342189049>	<hgeokg/schema/email>	email-fiercespanailsalon@gmail.com
+<hgeokg/resource/271596035>	<hgeokg/schema/phone>	phone-+1 212-321-7500
+<hgeokg/resource/6845628423>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6845494353>
+<hgeokg/resource/2765481908>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/271596000>
+<hgeokg/resource/420906780>	<hgeokg/schema/nameRu>	nameRu-1-я Авеню
+<hgeokg/resource/5785132950>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/668168824>
+<hgeokg/resource/420906650>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420906780>
+<hgeokg/resource/590405003>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5673504795>
+<hgeokg/resource/5782496201>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5671318>
+<hgeokg/resource/271596035>	<hgeokg/schema/nycdoittBin>	nycdoittBin-1081374
+<hgeokg/resource/420906780>	<hgeokg/schema/cyclewayLeft>	cyclewayLeft-track
+<hgeokg/resource/5673504795>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/683569582>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/5309501636>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5782500846>
+<hgeokg/resource/2765449317>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/271592472>
+<hgeokg/resource/683569582>	<hgeokg/schema/lit>	lit-yes
+<hgeokg/resource/271592477>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/68668543>
+<hgeokg/resource/68668543>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/271592472>
+<hgeokg/resource/420905933>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/683569582>	<Line_roads-Intersect-Point_pois>	<hgeokg/resource/108159407>
+<hgeokg/resource/5785137061>	<Point_transport-Adjacent-Polygon_buildings>	<hgeokg/resource/271592504>
+<hgeokg/resource/2765481908>	<hgeokg/schema/addrPostcode>	addrPostcode-10035
+<hgeokg/resource/684245418>	<Line_roads-Adjacent-Polygon_landuse>	<hgeokg/resource/420906780>
+<hgeokg/resource/5782500846>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/420906650>
+<hgeokg/resource/668168824>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/668153180>
+<hgeokg/resource/621515072>	<Point_traffic-Adjacent-Line_roads>	<hgeokg/resource/420906662>
+<hgeokg/resource/271592472>	<hgeokg/schema/addrPostcode>	addrPostcode-10029
+<hgeokg/resource/5782499559>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/108159407>
+<hgeokg/resource/654051380>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Cycleway>
+<hgeokg/resource/420905928>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/108159407>
+<hgeokg/resource/195743192>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/590405003>
+<hgeokg/resource/5671749>	<Line_roads-Adjacent-Point_traffic>	<hgeokg/resource/271596035>
+<hgeokg/resource/420905930>	<hgeokg/schema/nameRu>	nameRu-1-я Авеню
+<hgeokg/resource/271596000>	<hgeokg/schema/website>	website-http://www.eastriverplaza.com
+<hgeokg/resource/799234248>	<hgeokg/schema/surface>	surface-asphalt
+<hgeokg/resource/3449999557>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5785137061>
+<hgeokg/resource/668153180>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/590405003>
+<hgeokg/resource/683569582>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/799234248>
+<hgeokg/resource/420905932>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/420905928>
+<hgeokg/resource/621515072>	<hgeokg/schema/phone>	phone-+1 212-289-4668
+<hgeokg/resource/5782499559>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/271596000>	<hgeokg/schema/wikipedia>	wikipedia-en:East River Plaza
+<hgeokg/resource/420906662>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/271593594>
+<hgeokg/resource/2765449317>	<hgeokg/schema/addrPostcode>	addrPostcode-10029
+<hgeokg/resource/5782496201>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/357560491>
+<hgeokg/resource/5671568>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/108159407>
+<hgeokg/resource/195743162>	<Line_roads-Adjacent-Point_traffic>	<hgeokg/resource/271596035>
+<hgeokg/resource/6845628423>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/2765481837>
+<hgeokg/resource/271593594>	<hgeokg/schema/phone>	phone-+1 212-426-2620
+<hgeokg/resource/2765481908>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/46240374>
+<hgeokg/resource/5671568>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5671318>
+<hgeokg/resource/420905928>	<hgeokg/schema/cyclewayLeft>	cyclewayLeft-track
+<hgeokg/resource/5671568>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/271596035>	<Line_roads-Adjacent-Point_traffic>	<hgeokg/resource/226015256>
+<hgeokg/resource/2765481837>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/MobilePhone>
+<hgeokg/resource/420906656>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6733980472>
+<hgeokg/resource/2765481837>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/668168824>
+<hgeokg/resource/420906656>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Primary>
+<hgeokg/resource/271596035>	<Point_pois-Adjacent-Point_traffic>	<hgeokg/resource/668168824>
+<hgeokg/resource/195743162>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/226015256>
+<hgeokg/resource/6845628423>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5671568>
+<hgeokg/resource/668168824>	<http://www.w3.org/2000/01/rdf-schema#label>	Applebee's
+<hgeokg/resource/271596035>	<Line_roads-Adjacent-Point_traffic>	<hgeokg/resource/590405003>
+<hgeokg/resource/420905928>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420905933>
+<hgeokg/resource/195743192>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/271596000>
+<hgeokg/resource/420906780>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420906650>
+<hgeokg/resource/5782496201>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/108159407>
+<hgeokg/resource/271593594>	<hgeokg/schema/height>	height-12.8
+<hgeokg/resource/420905933>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420905715>
+<hgeokg/resource/271592504>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/5671568>
+<hgeokg/resource/2765481837>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/420905715>	<hgeokg/schema/maxspeed>	maxspeed-25 mph
+<hgeokg/resource/799234248>	<hgeokg/schema/sidewalk>	sidewalk-both
+<hgeokg/resource/68668543>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/195743162>
+<hgeokg/resource/2765481908>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6845628423>
+<hgeokg/resource/668168824>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/5671749>
+<hgeokg/resource/420905928>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420905717>
+<hgeokg/resource/5785132950>	<hgeokg/schema/bench>	bench-no
+<hgeokg/resource/2765481908>	<Point_pois-Adjacent-Point_traffic>	<hgeokg/resource/271596035>
+<hgeokg/resource/6733980472>	<hgeokg/schema/addrHousenumber>	addrHousenumber-2234
+<hgeokg/resource/271592477>	<hgeokg/schema/source>	source-USGS Geonames
+<hgeokg/resource/590405003>	<Line_roads-Adjacent-Point_traffic>	<hgeokg/resource/271596035>
+<hgeokg/resource/271596000>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/654051380>
+<hgeokg/resource/3449999557>	<hgeokg/schema/openingHours>	openingHours-Mo-Sa 10:00-20:00; Su 11:00-18:00
+<hgeokg/resource/6342189049>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/68668543>
+<hgeokg/resource/108159407>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/420905715>
+<hgeokg/resource/6845628423>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/668153180>
+<hgeokg/resource/668153180>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6845628423>
+<hgeokg/resource/108159407>	<hgeokg/schema/source>	source-bing
+<hgeokg/resource/195743162>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5782496201>
+<hgeokg/resource/357560491>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/195743192>
+<hgeokg/resource/2765481837>	<hgeokg/schema/altName>	altName-MetroPCS
+<hgeokg/resource/271592504>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/654051380>
+<hgeokg/resource/5871200557>	<hgeokg/schema/addrPostcode>	addrPostcode-10035
+<hgeokg/resource/271596035>	<hgeokg/schema/access>	access-yes
+<hgeokg/resource/420905932>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Primary>
+<hgeokg/resource/6845494353>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/271592504>
+<hgeokg/resource/68668543>	<Line_roads-Adjacent-Polygon_landuse>	<hgeokg/resource/684245418>
+<hgeokg/resource/195743162>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5785132950>
+<hgeokg/resource/108159407>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/420905930>
+<hgeokg/resource/5871200557>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/668153180>
+<hgeokg/resource/271592477>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5671568>
+<hgeokg/resource/668168824>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5673504795>
+<hgeokg/resource/2765449317>	<http://www.w3.org/2000/01/rdf-schema#label>	Rao’s
+<hgeokg/resource/6733980472>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5671318>
+<hgeokg/resource/5782500846>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/68668543>
+<hgeokg/resource/195743192>	<hgeokg/schema/surface>	surface-asphalt
+<hgeokg/resource/5871200557>	<hgeokg/schema/website>	website-https://www.aldi.us/en/weekly-specials/our-weekly-ads/?store_code=1752
+<hgeokg/resource/5671749>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/668168824>
+<hgeokg/resource/68668543>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/3449999557>
+<hgeokg/resource/420906662>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/68668543>
+<hgeokg/resource/195743192>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/195743162>
+<hgeokg/resource/5673504795>	<hgeokg/schema/addrHousenumber>	addrHousenumber-517
+<hgeokg/resource/271596035>	<hgeokg/schema/openingHours>	openingHours-24/7
+<hgeokg/resource/420906650>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420906656>
+<hgeokg/resource/195743162>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/271592472>
+<hgeokg/resource/420905930>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/420906656>
+<hgeokg/resource/621515072>	<hgeokg/schema/brandWikipedia>	brandWikipedia-en:Royal Dutch Shell
+<hgeokg/resource/5871200557>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/46240374>
+<hgeokg/resource/6845494353>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/2765481837>
+<hgeokg/resource/621515072>	<hgeokg/schema/openingHours>	openingHours-24/7
+<hgeokg/resource/5785132950>	<Point_transport-Adjacent-Polygon_buildings>	<hgeokg/resource/271592504>
+<hgeokg/resource/668168824>	<hgeokg/schema/internetAccess>	internetAccess-wlan
+<hgeokg/resource/420906656>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/420906662>
+<hgeokg/resource/271592477>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5671318>
+<hgeokg/resource/5782496201>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/271593594>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/420906650>
+<hgeokg/resource/420905715>	<hgeokg/schema/nameRu>	nameRu-1-я Авеню
+<hgeokg/resource/420905717>	<hgeokg/schema/nameRu>	nameRu-1-я Авеню
+<hgeokg/resource/420905930>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6733980472>
+<hgeokg/resource/668153180>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/5671318>	<hgeokg/schema/surface>	surface-asphalt
+<hgeokg/resource/420906662>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6342189049>
+<hgeokg/resource/226015230>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/683569581>
+<hgeokg/resource/5871200557>	<hgeokg/schema/brandWikidata>	brandWikidata-Q41171672
+<hgeokg/resource/654051380>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/654051378>
+<hgeokg/resource/271592472>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/2765449317>
+<hgeokg/resource/271592472>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5671318>
+<hgeokg/resource/6845494353>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/668168824>
+<hgeokg/resource/271592472>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/271592477>
+<hgeokg/resource/6342189049>	<hgeokg/schema/phone>	phone-+1 212-933-1012
+<hgeokg/resource/271596035>	<Line_roads-Adjacent-Point_traffic>	<hgeokg/resource/5671749>
+<hgeokg/resource/271596035>	<Point_pois-Adjacent-Point_traffic>	<hgeokg/resource/6845494353>
+<hgeokg/resource/420906656>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6342189049>
+<hgeokg/resource/68668543>	<hgeokg/schema/hgv>	hgv-destination
+<hgeokg/resource/668168824>	<hgeokg/schema/happyHours>	happyHours-Mo-Th 18:00-23:00; Fr, Sa 18:00-24:00
+<hgeokg/resource/420905715>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/108159407>
+<hgeokg/resource/46240374>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/2765481908>
+<hgeokg/resource/684245418>	<Line_roads-Adjacent-Polygon_landuse>	<hgeokg/resource/68668543>
+<hgeokg/resource/668153180>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5671568>
+<hgeokg/resource/420905933>	<hgeokg/schema/hgv>	hgv-local
+<hgeokg/resource/420906662>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Primary>
+<hgeokg/resource/420905717>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Primary>
+<hgeokg/resource/6845628423>	<hgeokg/schema/addrHousenumber>	addrHousenumber-315
+<hgeokg/resource/5785137061>	<Point_transport-Adjacent-Point_transport>	<hgeokg/resource/5785132950>
+<hgeokg/resource/420905932>	<hgeokg/schema/lanes>	lanes-4
+<hgeokg/resource/683569581>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/226015253>
+<hgeokg/resource/6342189049>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5782500846>
+<hgeokg/resource/5782499559>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5309501636>
+<hgeokg/resource/668168824>	<hgeokg/schema/openingHours>	openingHours-Su-Th 11:00-23:00; Fr, Sa 11:00-24:00
+<hgeokg/resource/271592504>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/68668543>
+<hgeokg/resource/6733980472>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/420905933>
+<hgeokg/resource/271596035>	<Point_pois-Adjacent-Point_traffic>	<hgeokg/resource/5673504795>
+<hgeokg/resource/6733980472>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/108159407>
+<hgeokg/resource/5671749>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5673504795>
+<hgeokg/resource/5671749>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/2765481837>
+<hgeokg/resource/5673504795>	<hgeokg/schema/openingHours>	openingHours-08:00-24:00
+<hgeokg/resource/271593594>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5782500846>
+<hgeokg/resource/590405003>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/668168824>
+<hgeokg/resource/2765449317>	<hgeokg/schema/addrHousenumber>	addrHousenumber-455
+<hgeokg/resource/683569582>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420905933>
+<hgeokg/resource/621515072>	<hgeokg/schema/selfService>	selfService-yes
+<hgeokg/resource/226015253>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/226015230>
+<hgeokg/resource/590405003>	<http://www.w3.org/2000/01/rdf-schema#label>	East 117th Street
+<hgeokg/resource/2765481837>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/195743162>
+<hgeokg/resource/5671318>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-E
+<hgeokg/resource/195743192>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/271596000>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/2765481908>
+<hgeokg/resource/683569581>	<http://www.w3.org/2000/01/rdf-schema#label>	East 111th Street Pedestrian Bridge
+<hgeokg/resource/420905717>	<hgeokg/schema/surface>	surface-asphalt
+<hgeokg/resource/68668543>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/668153180>
+<hgeokg/resource/621515072>	<hgeokg/schema/brand>	brand-Shell
+<hgeokg/resource/108159407>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/2765449317>
+<hgeokg/resource/5782500846>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/2765481908>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/590405003>
+<hgeokg/resource/271596035>	<Line_roads-Adjacent-Point_traffic>	<hgeokg/resource/654051380>
+<hgeokg/resource/5671568>	<http://www.w3.org/2000/01/rdf-schema#label>	Pleasant Avenue
+<hgeokg/resource/5671568>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/271592477>
+<hgeokg/resource/6845628423>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/68668543>
+<hgeokg/resource/5871200557>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/2765481908>
+<hgeokg/resource/195743192>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5782496201>
+<hgeokg/resource/5782496201>	<http://www.w3.org/2000/01/rdf-schema#label>	Love Cafe
+<hgeokg/resource/68668543>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/271593594>
+<hgeokg/resource/5671318>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/271596035>	<Point_transport-Adjacent-Point_traffic>	<hgeokg/resource/5785132950>
+<hgeokg/resource/2765481837>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6845628423>
+<hgeokg/resource/2765481908>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/2765481837>
+<hgeokg/resource/271596035>	<hgeokg/schema/website>	website-https://parking.com/nyc/lot/manhattan-east-river-plaza-garage-520-east-117th-street
+<hgeokg/resource/357560491>	<Point_pois-Adjacent-Point_traffic>	<hgeokg/resource/271596035>
+<hgeokg/resource/590405003>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/195743162>
+<hgeokg/resource/195743162>	<hgeokg/schema/hgv>	hgv-destination
+<hgeokg/resource/226015256>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Cycleway>
+<hgeokg/resource/668153180>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/271596000>
+<hgeokg/resource/46240374>	<hgeokg/schema/surface>	surface-sett
+<hgeokg/resource/590405003>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/668153180>
+<hgeokg/resource/271593594>	<hgeokg/schema/nycdoittBin>	nycdoittBin-1053097
+<hgeokg/resource/6733980472>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5782500846>
+<hgeokg/resource/420906662>	<http://www.w3.org/2000/01/rdf-schema#label>	1st Avenue
+<hgeokg/resource/684245418>	<Point_pois-Adjacent-Polygon_landuse>	<hgeokg/resource/271593594>
+<hgeokg/resource/5782496201>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Cafe>
+<hgeokg/resource/420905715>	<hgeokg/schema/nameEn>	nameEn-1st Avenue
+<hgeokg/resource/5673504795>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/590405003>
+<hgeokg/resource/6342189049>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5309501636>
+<hgeokg/resource/46240374>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/590405003>
+<hgeokg/resource/799234248>	<hgeokg/schema/lanes>	lanes-1
+<hgeokg/resource/46240374>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/357560491>	<hgeokg/schema/website>	website-http://www.mcsm.net
+<hgeokg/resource/5785137061>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/68668543>
+<hgeokg/resource/420905933>	<hgeokg/schema/cyclewayLeft>	cyclewayLeft-track
+<hgeokg/resource/271596035>	<hgeokg/schema/addrHousenumber>	addrHousenumber-520
+<hgeokg/resource/2765449317>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/6845494353>	<http://www.w3.org/2000/01/rdf-schema#label>	East River Wines & Spirits
+<hgeokg/resource/357560491>	<hgeokg/schema/phone>	phone-+1 212-876-4639
+<hgeokg/resource/2765449317>	<hgeokg/schema/reservation>	reservation-required
+<hgeokg/resource/6733980472>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/420905930>
+<hgeokg/resource/5671568>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5785132950>
+<hgeokg/resource/3449999557>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/668153180>
+<hgeokg/resource/420906780>	<Line_roads-Adjacent-Polygon_landuse>	<hgeokg/resource/684245418>
+<hgeokg/resource/5785137061>	<hgeokg/schema/routeRef>	routeRef-M116
+<hgeokg/resource/5785137061>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5671568>
+<hgeokg/resource/195743162>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/357560491>
+<hgeokg/resource/68668543>	<hgeokg/schema/wikipedia>	wikipedia-en:116th Street (Manhattan)
+<hgeokg/resource/621515072>	<hgeokg/schema/addrHousenumber>	addrHousenumber-2276
+<hgeokg/resource/5671318>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/2765481837>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/46240374>
+<hgeokg/resource/5671749>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/420905717>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/108159407>
+<hgeokg/resource/420906780>	<hgeokg/schema/oneway>	oneway-yes

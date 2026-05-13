@@ -1,0 +1,280 @@
+<hgeokg/resource/5673419>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/6296852085>	<hgeokg/schema/cuisine>	cuisine-fried_chicken
+<hgeokg/resource/685770075>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/386103991>
+<hgeokg/resource/6296852085>	<hgeokg/schema/openingHours>	openingHours-Mo-Sa 10:00-01:00; Su 12:00-18:00
+<hgeokg/resource/5274255321>	<hgeokg/schema/shelter>	shelter-no
+<hgeokg/resource/386103991>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/420882492>
+<hgeokg/resource/6814864633>	<hgeokg/schema/openingHours>	openingHours-Mo-Tu 12:00-20:00; We-Sa 12:00-23:00; Su 12:00-21:00
+<hgeokg/resource/685770075>	<http://www.w3.org/2000/01/rdf-schema#label>	IND Eighth Avenue Line layup tracks
+<hgeokg/resource/386103991>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/271813871>
+<hgeokg/resource/6814864633>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Alcohol>
+<hgeokg/resource/420882492>	<hgeokg/schema/lanes>	lanes-3
+<hgeokg/resource/6296852085>	<hgeokg/schema/phone>	phone-+1-212-281-1800
+<hgeokg/resource/420882492>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/685770075>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/5673419>
+<hgeokg/resource/275298547>	<hgeokg/schema/wikipedia>	wikipedia-en:133rd Street (Manhattan)
+<hgeokg/resource/685770075>	<Line_railway-Intersect-Line_railway>	<hgeokg/resource/685770069>
+<hgeokg/resource/5673419>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/386103991>
+<hgeokg/resource/5673419>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/420882492>
+<hgeokg/resource/685770069>	<hgeokg/schema/level>	level--2
+<hgeokg/resource/6814864633>	<http://www.w3.org/2000/01/rdf-schema#label>	BTL Harlem
+<hgeokg/resource/562303688>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Footway>
+<hgeokg/resource/5298910428>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/5298910428>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/420882492>
+<hgeokg/resource/362683587>	<hgeokg/schema/source>	source-596 Acres
+<hgeokg/resource/420882492>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/685770075>
+<hgeokg/resource/271824540>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Substation>
+<hgeokg/resource/6814864633>	<hgeokg/schema/website>	website-http://btlharlem.com
+<hgeokg/resource/386103991>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5671918>
+<hgeokg/resource/271824540>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/386103991>
+<hgeokg/resource/685770069>	<Line_railway-Adjacent-Polygon_buildings>	<hgeokg/resource/271824540>
+<hgeokg/resource/386103991>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/5298910428>
+<hgeokg/resource/420882492>	<hgeokg/schema/bicycle>	bicycle-yes
+<hgeokg/resource/5274255321>	<hgeokg/schema/bench>	bench-no
+<hgeokg/resource/275298547>	<http://www.w3.org/2000/01/rdf-schema#label>	West 133rd Street
+<hgeokg/resource/5671918>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420882492>
+<hgeokg/resource/685770069>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/386103991>
+<hgeokg/resource/362683587>	<hgeokg/schema/gardenType>	gardenType-community
+<hgeokg/resource/483360099>	<hgeokg/schema/nameEtymologyWikidata>	nameEtymologyWikidata-Q215562
+<hgeokg/resource/685770069>	<Line_railway-Adjacent-Line_railway>	<hgeokg/resource/685340789>
+<hgeokg/resource/271813871>	<hgeokg/schema/addrHousenumber>	addrHousenumber-2463
+<hgeokg/resource/5470130238>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/BusStop>
+<hgeokg/resource/562303688>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5470130238>
+<hgeokg/resource/271824540>	<hgeokg/schema/nycdoittBin>	nycdoittBin-1059447
+<hgeokg/resource/420882492>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/685770069>
+<hgeokg/resource/5673419>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/685770075>
+<hgeokg/resource/420882492>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/386103991>
+<hgeokg/resource/6296852085>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/FastFood>
+<hgeokg/resource/685340789>	<hgeokg/schema/railwayTrackRef>	railwayTrackRef-6
+<hgeokg/resource/483360099>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/5470130238>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5673419>
+<hgeokg/resource/271813871>	<hgeokg/schema/height>	height-7.1
+<hgeokg/resource/685770075>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/562303688>
+<hgeokg/resource/685340789>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/386103991>
+<hgeokg/resource/685340789>	<Line_roads-Intersect-Line_railway>	<hgeokg/resource/5671918>
+<hgeokg/resource/271824540>	<http://www.w3.org/2000/01/rdf-schema#label>	Substation 219
+<hgeokg/resource/271813871>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/271824540>
+<hgeokg/resource/685770069>	<hgeokg/schema/tunnel>	tunnel-yes
+<hgeokg/resource/271824540>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/275298547>
+<hgeokg/resource/483360099>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/5274255321>	<http://www.w3.org/2000/01/rdf-schema#label>	Saint Nicholas Avenue & West 133rd Street
+<hgeokg/resource/275298547>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-W
+<hgeokg/resource/386103991>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/562303688>
+<hgeokg/resource/562303688>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5671918>
+<hgeokg/resource/275298547>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/420882492>	<http://www.w3.org/2000/01/rdf-schema#label>	Saint Nicholas Avenue
+<hgeokg/resource/685770075>	<hgeokg/schema/gauge>	gauge-1435
+<hgeokg/resource/386103991>	<hgeokg/schema/wikipedia>	wikipedia-en:St. Nicholas Avenue
+<hgeokg/resource/6814864633>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/685770069>	<hgeokg/schema/railwayTrackRef>	railwayTrackRef-4
+<hgeokg/resource/271824540>	<hgeokg/schema/addrPostcode>	addrPostcode-10030
+<hgeokg/resource/685770075>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/5671918>
+<hgeokg/resource/386103991>	<hgeokg/schema/oneway>	oneway-no
+<hgeokg/resource/5274255321>	<Point_transport-Adjacent-Line_railway>	<hgeokg/resource/685770069>
+<hgeokg/resource/5274255321>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/483360099>	<hgeokg/schema/surface>	surface-asphalt
+<hgeokg/resource/271824540>	<hgeokg/schema/wikipedia>	wikipedia-en:Substation 219
+<hgeokg/resource/271813871>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/275298547>
+<hgeokg/resource/5298910428>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/5673419>
+<hgeokg/resource/271824540>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Polygon>
+<hgeokg/resource/5671918>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/420882492>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/685340789>
+<hgeokg/resource/5470130238>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/562303688>
+<hgeokg/resource/685340789>	<Line_railway-Intersect-Line_railway>	<hgeokg/resource/685770075>
+<hgeokg/resource/685340789>	<http://www.w3.org/2000/01/rdf-schema#label>	IND Eighth Avenue Line layup tracks
+<hgeokg/resource/362683587>	<hgeokg/schema/addrHousenumber>	addrHousenumber-330
+<hgeokg/resource/386103991>	<hgeokg/schema/bicycle>	bicycle-yes
+<hgeokg/resource/5671918>	<http://www.w3.org/2000/01/rdf-schema#label>	West 129th Street
+<hgeokg/resource/5274255321>	<Point_transport-Adjacent-Line_railway>	<hgeokg/resource/685340789>
+<hgeokg/resource/685340789>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/275298547>
+<hgeokg/resource/6296852085>	<http://www.w3.org/2000/01/rdf-schema#label>	Charles Country Pan Fried Chicken
+<hgeokg/resource/483360099>	<hgeokg/schema/wikipedia>	wikipedia-en:Eighth Avenue (Manhattan)
+<hgeokg/resource/386103991>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5673419>
+<hgeokg/resource/420882492>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5673419>
+<hgeokg/resource/6814864633>	<Point_pois-Adjacent-Line_railway>	<hgeokg/resource/685770069>
+<hgeokg/resource/271813871>	<hgeokg/schema/openingHours>	openingHours-Mo-Sa 07:30-21:00
+<hgeokg/resource/6814864633>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/420882492>
+<hgeokg/resource/420882492>	<hgeokg/schema/oneway>	oneway-no
+<hgeokg/resource/685340789>	<Point_transport-Adjacent-Line_railway>	<hgeokg/resource/5274255321>
+<hgeokg/resource/685770069>	<Point_pofw-Adjacent-Line_railway>	<hgeokg/resource/5298910428>
+<hgeokg/resource/5673419>	<Line_roads-Intersect-Line_railway>	<hgeokg/resource/685770069>
+<hgeokg/resource/483360099>	<hgeokg/schema/lit>	lit-yes
+<hgeokg/resource/685770069>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/RailwaySubway>
+<hgeokg/resource/6814864633>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/362683587>
+<hgeokg/resource/271824540>	<hgeokg/schema/altName>	altName-Harlem Substation
+<hgeokg/resource/562303688>	<http://www.w3.org/2000/01/rdf-schema#label>	West 130 Street
+<hgeokg/resource/685340789>	<Point_pois-Adjacent-Line_railway>	<hgeokg/resource/271813871>
+<hgeokg/resource/420882492>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5671918>
+<hgeokg/resource/275298547>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/271813871>
+<hgeokg/resource/5274255321>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/PublicTransportPlatform>
+<hgeokg/resource/271824540>	<hgeokg/schema/substation>	substation-traction
+<hgeokg/resource/5671918>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/386103991>
+<hgeokg/resource/5298910428>	<Point_transport-Adjacent-Point_pofw>	<hgeokg/resource/5470130238>
+<hgeokg/resource/386103991>	<http://www.w3.org/2000/01/rdf-schema#label>	Saint Nicholas Avenue
+<hgeokg/resource/5671918>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/6296852085>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/275298547>
+<hgeokg/resource/386103991>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/271824540>
+<hgeokg/resource/271813871>	<http://www.w3.org/2000/01/rdf-schema#label>	Foodtown of Frederick Douglas Blvd
+<hgeokg/resource/420882492>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Secondary>
+<hgeokg/resource/685340789>	<hgeokg/schema/tunnel>	tunnel-yes
+<hgeokg/resource/685340789>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/6814864633>	<hgeokg/schema/addrHousenumber>	addrHousenumber-311
+<hgeokg/resource/271824540>	<Line_railway-Adjacent-Polygon_buildings>	<hgeokg/resource/685340789>
+<hgeokg/resource/275298547>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/685770069>
+<hgeokg/resource/5274255321>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/386103991>
+<hgeokg/resource/362683587>	<hgeokg/schema/addrPostcode>	addrPostcode-10027
+<hgeokg/resource/685340789>	<Line_roads-Intersect-Line_railway>	<hgeokg/resource/562303688>
+<hgeokg/resource/5671918>	<Line_roads-Intersect-Line_railway>	<hgeokg/resource/685340789>
+<hgeokg/resource/685770069>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/6296852085>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/483360099>	<hgeokg/schema/maxspeedType>	maxspeedType-US-NY:urban
+<hgeokg/resource/685770075>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/RailwaySubway>
+<hgeokg/resource/386103991>	<hgeokg/schema/surface>	surface-asphalt
+<hgeokg/resource/362683587>	<Point_pois-Adjacent-Line_railway>	<hgeokg/resource/685770069>
+<hgeokg/resource/6296852085>	<Point_pois-Adjacent-Line_railway>	<hgeokg/resource/685340789>
+<hgeokg/resource/5470130238>	<Point_transport-Adjacent-Point_pofw>	<hgeokg/resource/5298910428>
+<hgeokg/resource/5673419>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/5671918>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/562303688>
+<hgeokg/resource/386103991>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Secondary>
+<hgeokg/resource/5671918>	<Line_roads-Intersect-Line_railway>	<hgeokg/resource/685770069>
+<hgeokg/resource/275298547>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/386103991>
+<hgeokg/resource/5671918>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5673419>
+<hgeokg/resource/685340789>	<hgeokg/schema/frequency>	frequency-0
+<hgeokg/resource/5470130238>	<hgeokg/schema/bus>	bus-yes
+<hgeokg/resource/5671918>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5470130238>
+<hgeokg/resource/685770075>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/420882492>
+<hgeokg/resource/362683587>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/5673419>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/483360099>
+<hgeokg/resource/275298547>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/420882492>	<hgeokg/schema/hgv>	hgv-destination
+<hgeokg/resource/685770069>	<hgeokg/schema/gauge>	gauge-1435
+<hgeokg/resource/5470130238>	<hgeokg/schema/bench>	bench-yes
+<hgeokg/resource/685340789>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/420882492>
+<hgeokg/resource/562303688>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/685770075>
+<hgeokg/resource/275298547>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/271824540>
+<hgeokg/resource/685770069>	<Point_pois-Adjacent-Line_railway>	<hgeokg/resource/362683587>
+<hgeokg/resource/271813871>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6296852085>
+<hgeokg/resource/420882492>	<hgeokg/schema/maxspeed>	maxspeed-25 mph
+<hgeokg/resource/685770075>	<hgeokg/schema/service>	service-yard
+<hgeokg/resource/562303688>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/5298910428>	<hgeokg/schema/religion>	religion-christian
+<hgeokg/resource/483360099>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5673419>
+<hgeokg/resource/271813871>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/386103991>
+<hgeokg/resource/5298910428>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/386103991>
+<hgeokg/resource/5673419>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5671918>
+<hgeokg/resource/562303688>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/386103991>
+<hgeokg/resource/271824540>	<Line_railway-Adjacent-Polygon_buildings>	<hgeokg/resource/685770069>
+<hgeokg/resource/685340789>	<hgeokg/schema/level>	level--2
+<hgeokg/resource/420882492>	<hgeokg/schema/wikipedia>	wikipedia-en:St. Nicholas Avenue
+<hgeokg/resource/271824540>	<hgeokg/schema/addrHousenumber>	addrHousenumber-311
+<hgeokg/resource/271824540>	<hgeokg/schema/operator>	operator-New York City Transit Authority
+<hgeokg/resource/5671918>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/5274255321>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/275298547>
+<hgeokg/resource/5298910428>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/5671918>
+<hgeokg/resource/685770075>	<hgeokg/schema/level>	level--2
+<hgeokg/resource/685770075>	<Point_pofw-Adjacent-Line_railway>	<hgeokg/resource/5298910428>
+<hgeokg/resource/685770075>	<Line_railway-Intersect-Line_railway>	<hgeokg/resource/685340789>
+<hgeokg/resource/5298910428>	<hgeokg/schema/addrHousenumber>	addrHousenumber-306
+<hgeokg/resource/5673419>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5470130238>
+<hgeokg/resource/420882492>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/685770069>	<http://www.w3.org/2000/01/rdf-schema#label>	IND Eighth Avenue Line
+<hgeokg/resource/271813871>	<Point_pois-Adjacent-Line_railway>	<hgeokg/resource/685340789>
+<hgeokg/resource/685340789>	<hgeokg/schema/electrified>	electrified-rail
+<hgeokg/resource/271813871>	<Point_pois-Adjacent-Line_railway>	<hgeokg/resource/685770069>
+<hgeokg/resource/685770069>	<Point_pois-Adjacent-Line_railway>	<hgeokg/resource/271813871>
+<hgeokg/resource/685770069>	<Line_roads-Intersect-Line_railway>	<hgeokg/resource/5671918>
+<hgeokg/resource/483360099>	<hgeokg/schema/hgv>	hgv-destination
+<hgeokg/resource/685770075>	<hgeokg/schema/tunnel>	tunnel-yes
+<hgeokg/resource/483360099>	<http://www.w3.org/2000/01/rdf-schema#label>	Frederick Douglass Boulevard
+<hgeokg/resource/5673419>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/685340789>	<Line_railway-Adjacent-Polygon_buildings>	<hgeokg/resource/271824540>
+<hgeokg/resource/386103991>	<hgeokg/schema/hgv>	hgv-destination
+<hgeokg/resource/362683587>	<hgeokg/schema/addrState>	addrState-NY
+<hgeokg/resource/685770069>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/420882492>
+<hgeokg/resource/5671918>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/5298910428>
+<hgeokg/resource/483360099>	<hgeokg/schema/lanes>	lanes-4
+<hgeokg/resource/5274255321>	<hgeokg/schema/bus>	bus-yes
+<hgeokg/resource/271824540>	<hgeokg/schema/height>	height-16.5
+<hgeokg/resource/685770069>	<Line_railway-Intersect-Line_railway>	<hgeokg/resource/685770075>
+<hgeokg/resource/685340789>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/5673419>
+<hgeokg/resource/685770069>	<hgeokg/schema/layer>	layer--2
+<hgeokg/resource/5298910428>	<Point_pofw-Adjacent-Line_railway>	<hgeokg/resource/685770075>
+<hgeokg/resource/685770075>	<hgeokg/schema/frequency>	frequency-0
+<hgeokg/resource/5470130238>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/PublicTransportPlatform>
+<hgeokg/resource/362683587>	<http://www.w3.org/2000/01/rdf-schema#label>	Saint Nicholas Miracle Garden
+<hgeokg/resource/386103991>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/271813871>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/5673419>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-W
+<hgeokg/resource/685340789>	<hgeokg/schema/service>	service-siding
+<hgeokg/resource/6296852085>	<hgeokg/schema/addrHousenumber>	addrHousenumber-2461
+<hgeokg/resource/5470130238>	<http://www.w3.org/2000/01/rdf-schema#label>	Frederick Douglass Boulevard & West 129th Street
+<hgeokg/resource/271813871>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/ShopSupermarket>
+<hgeokg/resource/362683587>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Garden>
+<hgeokg/resource/386103991>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/CyclewayLane>
+<hgeokg/resource/685340789>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/RailwaySubway>
+<hgeokg/resource/5673419>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6814864633>
+<hgeokg/resource/685770069>	<Point_transport-Adjacent-Line_railway>	<hgeokg/resource/5274255321>
+<hgeokg/resource/5274255321>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/271813871>
+<hgeokg/resource/386103991>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/685770069>
+<hgeokg/resource/362683587>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6814864633>
+<hgeokg/resource/386103991>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/483360099>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Secondary>
+<hgeokg/resource/685340789>	<Point_pois-Adjacent-Line_railway>	<hgeokg/resource/6296852085>
+<hgeokg/resource/271813871>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5274255321>
+<hgeokg/resource/5470130238>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/420882492>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/5298910428>
+<hgeokg/resource/5298910428>	<Point_pofw-Adjacent-Line_railway>	<hgeokg/resource/685340789>
+<hgeokg/resource/275298547>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6296852085>
+<hgeokg/resource/685770069>	<hgeokg/schema/voltage>	voltage-625
+<hgeokg/resource/275298547>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5274255321>
+<hgeokg/resource/5470130238>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5671918>
+<hgeokg/resource/5671918>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/685770075>
+<hgeokg/resource/685340789>	<hgeokg/schema/voltage>	voltage-625
+<hgeokg/resource/685770069>	<hgeokg/schema/frequency>	frequency-0
+<hgeokg/resource/420882492>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/CyclewayLane>
+<hgeokg/resource/275298547>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/685340789>
+<hgeokg/resource/386103991>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/685770075>
+<hgeokg/resource/483360099>	<hgeokg/schema/oneway>	oneway-no
+<hgeokg/resource/271813871>	<hgeokg/schema/nycdoittBin>	nycdoittBin-1089116
+<hgeokg/resource/685770069>	<Line_roads-Intersect-Line_railway>	<hgeokg/resource/562303688>
+<hgeokg/resource/5671918>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-W
+<hgeokg/resource/5274255321>	<Point_transport-Adjacent-Polygon_buildings>	<hgeokg/resource/271824540>
+<hgeokg/resource/271824540>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/BuildingService>
+<hgeokg/resource/685340789>	<hgeokg/schema/gauge>	gauge-1435
+<hgeokg/resource/5298910428>	<http://www.w3.org/2000/01/rdf-schema#label>	Harlem Mothers S.A.V.E.
+<hgeokg/resource/6296852085>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/271813871>
+<hgeokg/resource/685770075>	<hgeokg/schema/layer>	layer--2
+<hgeokg/resource/685770075>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/6814864633>	<hgeokg/schema/addrPostcode>	addrPostcode-10027
+<hgeokg/resource/275298547>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/685340789>	<Line_railway-Adjacent-Line_railway>	<hgeokg/resource/685770069>
+<hgeokg/resource/562303688>	<Line_roads-Intersect-Line_railway>	<hgeokg/resource/685340789>
+<hgeokg/resource/386103991>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5274255321>
+<hgeokg/resource/386103991>	<hgeokg/schema/lanes>	lanes-2
+<hgeokg/resource/685770069>	<Line_roads-Intersect-Line_railway>	<hgeokg/resource/5673419>
+<hgeokg/resource/271824540>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/271813871>
+<hgeokg/resource/386103991>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/275298547>
+<hgeokg/resource/685340789>	<Point_pofw-Adjacent-Line_railway>	<hgeokg/resource/5298910428>
+<hgeokg/resource/362683587>	<hgeokg/schema/website>	website-https://livinglotsnyc.org/lot/1019530044/
+<hgeokg/resource/5673419>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/5298910428>
+<hgeokg/resource/271824540>	<Point_transport-Adjacent-Polygon_buildings>	<hgeokg/resource/5274255321>
+<hgeokg/resource/685770069>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/275298547>
+<hgeokg/resource/685770075>	<hgeokg/schema/voltage>	voltage-625
+<hgeokg/resource/685770069>	<Point_pois-Adjacent-Line_railway>	<hgeokg/resource/6814864633>
+<hgeokg/resource/562303688>	<Line_roads-Intersect-Line_railway>	<hgeokg/resource/685770069>
+<hgeokg/resource/5298910428>	<Point_pofw-Adjacent-Line_railway>	<hgeokg/resource/685770069>
+<hgeokg/resource/5673419>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/386103991>	<hgeokg/schema/maxspeed>	maxspeed-25 mph
+<hgeokg/resource/5673419>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/685340789>
+<hgeokg/resource/685340789>	<hgeokg/schema/layer>	layer--2
+<hgeokg/resource/420882492>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6814864633>
+<hgeokg/resource/5671918>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/275298547>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/5470130238>	<hgeokg/schema/routeRef>	routeRef-M10
+<hgeokg/resource/5274255321>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/BusStop>
+<hgeokg/resource/6814864633>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5673419>
+<hgeokg/resource/5673419>	<http://www.w3.org/2000/01/rdf-schema#label>	West 128th Street
+<hgeokg/resource/685770075>	<hgeokg/schema/electrified>	electrified-rail
+<hgeokg/resource/685770069>	<hgeokg/schema/electrified>	electrified-rail
+<hgeokg/resource/5298910428>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Ngo>
+<hgeokg/resource/386103991>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/685340789>

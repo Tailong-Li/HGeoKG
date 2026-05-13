@@ -1,0 +1,895 @@
+<hgeokg/resource/6378863066>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/271220755>
+<hgeokg/resource/271220755>	<hgeokg/schema/nycdoittBin>	nycdoittBin-1051497
+<hgeokg/resource/4239987089>	<Point_transport-Adjacent-Polygon_landuse>	<hgeokg/resource/386805000>
+<hgeokg/resource/5670310>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/395304938>	<hgeokg/schema/phone>	phone-+1 212-241-6500
+<hgeokg/resource/1749011125>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/6270647890>	<hgeokg/schema/bus>	bus-yes
+<hgeokg/resource/793654756>	<hgeokg/schema/railwayTrackRef>	railwayTrackRef-2
+<hgeokg/resource/6270647890>	<hgeokg/schema/passengerInformationDisplay>	passengerInformationDisplay-no
+<hgeokg/resource/5671302>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/266941954>	<Polygon_landuse-Adjacent-Polygon_buildings>	<hgeokg/resource/386805000>
+<hgeokg/resource/386805000>	<Line_railway-Adjacent-Polygon_landuse>	<hgeokg/resource/793654757>
+<hgeokg/resource/6340323785>	<Point_pois-Adjacent-Line_railway>	<hgeokg/resource/793654747>
+<hgeokg/resource/7134303440>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/266941946>
+<hgeokg/resource/793654756>	<hgeokg/schema/usage>	usage-main
+<hgeokg/resource/6949740431>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/PublicTransportPlatform>
+<hgeokg/resource/6270647890>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/BusStop>
+<hgeokg/resource/1749011123>	<hgeokg/schema/phone>	phone-+1 212-289-7700
+<hgeokg/resource/541332223>	<http://www.w3.org/2000/01/rdf-schema#label>	East 104th Street
+<hgeokg/resource/793654747>	<Line_roads-Intersect-Line_railway>	<hgeokg/resource/541332223>
+<hgeokg/resource/793654758>	<hgeokg/schema/bridge>	bridge-yes
+<hgeokg/resource/266941953>	<Polygon_buildings-Adjacent-Polygon_buildings>	<hgeokg/resource/266941945>
+<hgeokg/resource/271220767>	<http://www.w3.org/2000/01/rdf-schema#label>	Mount Sinai Center for Advanced Medicine
+<hgeokg/resource/5670310>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6055272196>
+<hgeokg/resource/793654757>	<hgeokg/schema/bridgeName>	bridgeName-Park Avenue Viaduct
+<hgeokg/resource/6270577083>	<hgeokg/schema/tactilePaving>	tactilePaving-no
+<hgeokg/resource/6949740431>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/368046013>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/271220767>
+<hgeokg/resource/289852832>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/368046013>
+<hgeokg/resource/793654747>	<Line_railway-Adjacent-Line_railway>	<hgeokg/resource/105354667>
+<hgeokg/resource/6949740431>	<hgeokg/schema/network>	network-MTA New York City Bus
+<hgeokg/resource/541332223>	<Line_roads-Intersect-Polygon_landuse>	<hgeokg/resource/386805000>
+<hgeokg/resource/6270577083>	<hgeokg/schema/bus>	bus-yes
+<hgeokg/resource/5670748>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-E
+<hgeokg/resource/6270647890>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5671302>
+<hgeokg/resource/266941952>	<hgeokg/schema/roofShape>	roofShape-flat
+<hgeokg/resource/105354667>	<hgeokg/schema/operator>	operator-Metro-North Railroad
+<hgeokg/resource/793654748>	<Line_railway-Intersect-Line_railway>	<hgeokg/resource/793654747>
+<hgeokg/resource/793654747>	<hgeokg/schema/electrified>	electrified-rail
+<hgeokg/resource/225188061>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/541332223>
+<hgeokg/resource/793654757>	<hgeokg/schema/frequency>	frequency-0
+<hgeokg/resource/105354667>	<hgeokg/schema/oldRailwayOperator>	oldRailwayOperator-NYC
+<hgeokg/resource/105354667>	<hgeokg/schema/usage>	usage-main
+<hgeokg/resource/266941954>	<hgeokg/schema/gnisFeatureId>	gnisFeatureId-2083568
+<hgeokg/resource/1749011125>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6270577093>
+<hgeokg/resource/395304938>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6378863066>
+<hgeokg/resource/395304938>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/368046013>
+<hgeokg/resource/6270577083>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5673373>
+<hgeokg/resource/266941952>	<Line_railway-Adjacent-Point_traffic>	<hgeokg/resource/11305356>
+<hgeokg/resource/386805000>	<Point_transport-Adjacent-Polygon_landuse>	<hgeokg/resource/6270647890>
+<hgeokg/resource/395304938>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/AmenityHospital>
+<hgeokg/resource/6270577093>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/271220755>
+<hgeokg/resource/7134303440>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/4239987089>
+<hgeokg/resource/271220755>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Polygon>
+<hgeokg/resource/5608379195>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/395304938>
+<hgeokg/resource/271276548>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/SocialFacility>
+<hgeokg/resource/271276548>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/541332223>
+<hgeokg/resource/5671302>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/11305356>
+<hgeokg/resource/1749011123>	<hgeokg/schema/takeaway>	takeaway-yes
+<hgeokg/resource/386805000>	<Line_railway-Adjacent-Polygon_landuse>	<hgeokg/resource/793654756>
+<hgeokg/resource/562372496>	<Polygon_buildings-Adjacent-Polygon_buildings>	<hgeokg/resource/266941945>
+<hgeokg/resource/225188061>	<Line_railway-Adjacent-Point_pois>	<hgeokg/resource/793654747>
+<hgeokg/resource/266941945>	<Polygon_buildings-Intersect-Polygon_buildings>	<hgeokg/resource/266941946>
+<hgeokg/resource/5608379195>	<hgeokg/schema/ref>	ref-14369
+<hgeokg/resource/266941945>	<Polygon_buildings-Adjacent-Polygon_buildings>	<hgeokg/resource/266941953>
+<hgeokg/resource/6270577083>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/271274003>	<hgeokg/schema/nycdoittBin>	nycdoittBin-1051499
+<hgeokg/resource/386805000>	<Line_roads-Adjacent-Polygon_landuse>	<hgeokg/resource/5670748>
+<hgeokg/resource/5608379195>	<hgeokg/schema/driveThrough>	driveThrough-no
+<hgeokg/resource/1749011123>	<hgeokg/schema/addrHousenumber>	addrHousenumber-1546
+<hgeokg/resource/6949740431>	<hgeokg/schema/passengerInformationDisplay>	passengerInformationDisplay-no
+<hgeokg/resource/6270577083>	<hgeokg/schema/network>	network-MTA New York City Bus
+<hgeokg/resource/3273383624>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/BusStop>
+<hgeokg/resource/6340323785>	<Point_pois-Adjacent-Line_railway>	<hgeokg/resource/793654748>
+<hgeokg/resource/5673373>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-E
+<hgeokg/resource/1749011123>	<hgeokg/schema/website>	website-http://bawarchis.com
+<hgeokg/resource/5670748>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/271274003>	<hgeokg/schema/ele>	ele-8
+<hgeokg/resource/6055272196>	<hgeokg/schema/delivery>	delivery-yes
+<hgeokg/resource/1749011125>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/6949740431>
+<hgeokg/resource/271220755>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/5673373>
+<hgeokg/resource/4239987089>	<hgeokg/schema/departuresBoard>	departuresBoard-timetable
+<hgeokg/resource/11305356>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/5671302>
+<hgeokg/resource/271220767>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/271220752>
+<hgeokg/resource/5673373>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6920898116>
+<hgeokg/resource/6949740431>	<hgeokg/schema/shelter>	shelter-yes
+<hgeokg/resource/793654758>	<hgeokg/schema/voltage>	voltage-700
+<hgeokg/resource/395304938>	<Point_pois-Intersect-Polygon_buildings>	<hgeokg/resource/266941954>
+<hgeokg/resource/5608379195>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6055272196>
+<hgeokg/resource/6949740431>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/BusStop>
+<hgeokg/resource/6270647890>	<hgeokg/schema/tactilePaving>	tactilePaving-no
+<hgeokg/resource/6949740431>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/1749011123>
+<hgeokg/resource/266941954>	<hgeokg/schema/nycdoittBin>	nycdoittBin-1083924
+<hgeokg/resource/4239987089>	<hgeokg/schema/bench>	bench-yes
+<hgeokg/resource/289852832>	<Polygon_buildings-Adjacent-Polygon_buildings>	<hgeokg/resource/271220767>
+<hgeokg/resource/6270647890>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/266941945>	<Polygon_buildings-Adjacent-Polygon_buildings>	<hgeokg/resource/266941954>
+<hgeokg/resource/386805000>	<Line_roads-Adjacent-Polygon_landuse>	<hgeokg/resource/5670310>
+<hgeokg/resource/793654757>	<hgeokg/schema/gauge>	gauge-1435
+<hgeokg/resource/793654756>	<Line_railway-Adjacent-Polygon_landuse>	<hgeokg/resource/386805000>
+<hgeokg/resource/5673373>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/271276548>
+<hgeokg/resource/266941952>	<hgeokg/schema/height>	height-23
+<hgeokg/resource/5670310>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6378863066>
+<hgeokg/resource/562372496>	<hgeokg/schema/addrPostcode>	addrPostcode-10029
+<hgeokg/resource/6920873868>	<Point_pois-Within-Point_pois>	<hgeokg/resource/395304938>
+<hgeokg/resource/1749011123>	<Point_pois-Adjacent-Polygon_landuse>	<hgeokg/resource/386805000>
+<hgeokg/resource/6340323785>	<hgeokg/schema/operator>	operator-Citi Bike
+<hgeokg/resource/266941946>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/5672901>
+<hgeokg/resource/5670310>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/271220752>
+<hgeokg/resource/6270577093>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/541332223>
+<hgeokg/resource/1749011125>	<hgeokg/schema/cuisine>	cuisine-chinese
+<hgeokg/resource/271274003>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/271220755>
+<hgeokg/resource/271220767>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/5670748>
+<hgeokg/resource/793654758>	<hgeokg/schema/level>	level-1
+<hgeokg/resource/271276548>	<hgeokg/schema/nycdoittBin>	nycdoittBin-1051513
+<hgeokg/resource/271220755>	<Point_pois-Intersect-Polygon_buildings>	<hgeokg/resource/271220752>
+<hgeokg/resource/793654748>	<hgeokg/schema/railwayTrackRef>	railwayTrackRef-4
+<hgeokg/resource/395304938>	<hgeokg/schema/gnisFeatureId>	gnisFeatureId-957912
+<hgeokg/resource/793654748>	<hgeokg/schema/oldRailwayOperator>	oldRailwayOperator-NYC
+<hgeokg/resource/105354667>	<hgeokg/schema/maxspeed>	maxspeed-60 mph
+<hgeokg/resource/271220755>	<Point_transport-Adjacent-Polygon_buildings>	<hgeokg/resource/6949740431>
+<hgeokg/resource/6340323785>	<http://www.w3.org/2000/01/rdf-schema#label>	Citi Bike - E 102 St / Park Av
+<hgeokg/resource/5608379195>	<hgeokg/schema/dispensing>	dispensing-yes
+<hgeokg/resource/793654758>	<hgeokg/schema/oldRailwayOperator>	oldRailwayOperator-NYC
+<hgeokg/resource/5608379195>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5670748>
+<hgeokg/resource/6055272196>	<hgeokg/schema/openingHours>	openingHours-Mo-Fr 06:00-21:00; Sa 06:00-19:00; Su 06:00-17:00
+<hgeokg/resource/395304938>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/266941953>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Polygon>
+<hgeokg/resource/105354667>	<Line_railway-Adjacent-Line_railway>	<hgeokg/resource/793654758>
+<hgeokg/resource/541332223>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/1749011125>
+<hgeokg/resource/266941954>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/7134303440>
+<hgeokg/resource/6378863066>	<hgeokg/schema/operatorWikipedia>	operatorWikipedia-en:United States Postal Service
+<hgeokg/resource/386805000>	<Point_pois-Adjacent-Polygon_landuse>	<hgeokg/resource/6270577093>
+<hgeokg/resource/271220755>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/1749011123>
+<hgeokg/resource/1749011125>	<Point_pois-Adjacent-Polygon_landuse>	<hgeokg/resource/386805000>
+<hgeokg/resource/562372496>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/6920873868>
+<hgeokg/resource/266941946>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/5670748>
+<hgeokg/resource/266941945>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/7134303440>
+<hgeokg/resource/11305356>	<Point_pois-Adjacent-Line_railway>	<hgeokg/resource/6340323785>
+<hgeokg/resource/3273383624>	<hgeokg/schema/routeRef>	routeRef-M1;M2;M3;M4;M106
+<hgeokg/resource/793654748>	<hgeokg/schema/level>	level-1
+<hgeokg/resource/5671302>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/266941953>
+<hgeokg/resource/386805000>	<Point_pois-Adjacent-Polygon_landuse>	<hgeokg/resource/5608379195>
+<hgeokg/resource/6270577093>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/1749011125>
+<hgeokg/resource/793654758>	<hgeokg/schema/railwayTrackRef>	railwayTrackRef-2
+<hgeokg/resource/6270577093>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/271274003>
+<hgeokg/resource/105354667>	<Line_railway-Intersect-Line_railway>	<hgeokg/resource/793654748>
+<hgeokg/resource/368046013>	<hgeokg/schema/ele>	ele-13
+<hgeokg/resource/793654757>	<hgeokg/schema/layer>	layer-1
+<hgeokg/resource/386805000>	<Point_pois-Adjacent-Polygon_landuse>	<hgeokg/resource/395304938>
+<hgeokg/resource/266941945>	<Polygon_landuse-Adjacent-Polygon_buildings>	<hgeokg/resource/386805000>
+<hgeokg/resource/6055272196>	<Point_pois-Adjacent-Polygon_landuse>	<hgeokg/resource/386805000>
+<hgeokg/resource/6378863066>	<hgeokg/schema/operator>	operator-United States Postal Service
+<hgeokg/resource/271220755>	<Polygon_buildings-Adjacent-Polygon_buildings>	<hgeokg/resource/271220767>
+<hgeokg/resource/386805000>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Polygon>
+<hgeokg/resource/793654747>	<Line_railway-Adjacent-Line_railway>	<hgeokg/resource/793654756>
+<hgeokg/resource/395304938>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/271220752>
+<hgeokg/resource/266941946>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Polygon>
+<hgeokg/resource/266941946>	<Polygon_buildings-Intersect-Polygon_buildings>	<hgeokg/resource/266941945>
+<hgeokg/resource/793654758>	<hgeokg/schema/operator>	operator-Metro-North Railroad
+<hgeokg/resource/395304938>	<hgeokg/schema/operator>	operator-Mount Sinai
+<hgeokg/resource/5671302>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/266941945>
+<hgeokg/resource/4239987089>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/266941952>	<Line_roads-Adjacent-Point_traffic>	<hgeokg/resource/5671302>
+<hgeokg/resource/395304938>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5671302>
+<hgeokg/resource/6270577083>	<hgeokg/schema/shelter>	shelter-yes
+<hgeokg/resource/11305356>	<Line_railway-Adjacent-Polygon_landuse>	<hgeokg/resource/386805000>
+<hgeokg/resource/5670748>	<http://www.w3.org/2000/01/rdf-schema#label>	East 101st Street
+<hgeokg/resource/5608379195>	<hgeokg/schema/wheelchair>	wheelchair-yes
+<hgeokg/resource/266941945>	<hgeokg/schema/addrPostcode>	addrPostcode-10029
+<hgeokg/resource/368046013>	<hgeokg/schema/gnisFeatureId>	gnisFeatureId-2083574
+<hgeokg/resource/793654756>	<hgeokg/schema/voltage>	voltage-700
+<hgeokg/resource/793654757>	<hgeokg/schema/voltage>	voltage-700
+<hgeokg/resource/5671302>	<Line_roads-Adjacent-Point_traffic>	<hgeokg/resource/266941952>
+<hgeokg/resource/271220752>	<hgeokg/schema/height>	height-29.1
+<hgeokg/resource/6920898116>	<http://www.w3.org/2000/01/rdf-schema#label>	USPS
+<hgeokg/resource/7134303440>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/395304938>
+<hgeokg/resource/541332223>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/793654758>
+<hgeokg/resource/266941946>	<Point_pois-Intersect-Polygon_buildings>	<hgeokg/resource/395304938>
+<hgeokg/resource/3273383624>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/395304938>
+<hgeokg/resource/5608379195>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5670310>
+<hgeokg/resource/266941945>	<http://www.w3.org/2000/01/rdf-schema#label>	Icahn School of Medicine at Mount Sinai
+<hgeokg/resource/368046013>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Doctors>
+<hgeokg/resource/271276548>	<hgeokg/schema/addrHousenumber>	addrHousenumber-1249
+<hgeokg/resource/5670748>	<Line_roads-Adjacent-Polygon_landuse>	<hgeokg/resource/386805000>
+<hgeokg/resource/271274003>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6920898116>
+<hgeokg/resource/5671302>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/395304938>
+<hgeokg/resource/266941946>	<hgeokg/schema/addrHousenumber>	addrHousenumber-1190
+<hgeokg/resource/105354667>	<http://www.w3.org/2000/01/rdf-schema#label>	Hudson Line MT4
+<hgeokg/resource/225188061>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/6270577083>
+<hgeokg/resource/5608379195>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/271220755>
+<hgeokg/resource/11305356>	<hgeokg/schema/gauge>	gauge-1435
+<hgeokg/resource/3273383624>	<http://www.w3.org/2000/01/rdf-schema#label>	Madison Av & E 102 St
+<hgeokg/resource/289852832>	<Polygon_buildings-Adjacent-Polygon_buildings>	<hgeokg/resource/266941946>
+<hgeokg/resource/395304938>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6055272196>
+<hgeokg/resource/386805000>	<Polygon_landuse-Adjacent-Polygon_buildings>	<hgeokg/resource/271220755>
+<hgeokg/resource/266941954>	<hgeokg/schema/addrState>	addrState-NY
+<hgeokg/resource/6270577083>	<hgeokg/schema/operator>	operator-Metropolitan Transportation Authority
+<hgeokg/resource/7134303440>	<Point_pois-Adjacent-Polygon_landuse>	<hgeokg/resource/386805000>
+<hgeokg/resource/793654757>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Rail>
+<hgeokg/resource/225188061>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/1749011123>
+<hgeokg/resource/271220767>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/368046013>
+<hgeokg/resource/3273383624>	<hgeokg/schema/network>	network-MTA New York City Bus
+<hgeokg/resource/386805000>	<Polygon_landuse-Adjacent-Polygon_buildings>	<hgeokg/resource/289852832>
+<hgeokg/resource/1749011123>	<hgeokg/schema/email>	email-azizinus@yahoo.com
+<hgeokg/resource/271274003>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6378863066>
+<hgeokg/resource/5670748>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/266941945>
+<hgeokg/resource/105354667>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/5671302>
+<hgeokg/resource/266941952>	<Point_traffic-Adjacent-Polygon_landuse>	<hgeokg/resource/386805000>
+<hgeokg/resource/793654758>	<hgeokg/schema/usage>	usage-main
+<hgeokg/resource/271220752>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6378863066>
+<hgeokg/resource/271220752>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Museum>
+<hgeokg/resource/11305356>	<Line_railway-Adjacent-Line_railway>	<hgeokg/resource/793654748>
+<hgeokg/resource/368046013>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/793654748>	<hgeokg/schema/electrified>	electrified-rail
+<hgeokg/resource/3273383624>	<Point_transport-Adjacent-Polygon_buildings>	<hgeokg/resource/271220767>
+<hgeokg/resource/5608379195>	<hgeokg/schema/brandWikipedia>	brandWikipedia-en:Duane Reade
+<hgeokg/resource/266941945>	<Point_transport-Adjacent-Polygon_buildings>	<hgeokg/resource/6270647890>
+<hgeokg/resource/793654756>	<hgeokg/schema/electrified>	electrified-rail
+<hgeokg/resource/4239987089>	<hgeokg/schema/routeRef>	routeRef-M1ltd;M2ltd;M3;M4ltd;M106
+<hgeokg/resource/1749011125>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/541332223>
+<hgeokg/resource/266941952>	<http://www.w3.org/2000/01/rdf-schema#label>	Mount Sinai
+<hgeokg/resource/395304938>	<Point_pois-Contain-Point_pois>	<hgeokg/resource/6920873868>
+<hgeokg/resource/386805000>	<Line_roads-Adjacent-Polygon_landuse>	<hgeokg/resource/5671302>
+<hgeokg/resource/395304938>	<Point_pois-Intersect-Point_traffic>	<hgeokg/resource/266941952>
+<hgeokg/resource/266941945>	<hgeokg/schema/addrState>	addrState-NY
+<hgeokg/resource/1749011123>	<hgeokg/schema/addrPostcode>	addrPostcode-10029
+<hgeokg/resource/368046013>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5670310>
+<hgeokg/resource/3273383624>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5608379195>
+<hgeokg/resource/11305356>	<hgeokg/schema/owner>	owner-Metropolitan Transportation Authority
+<hgeokg/resource/6055272196>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5608379195>
+<hgeokg/resource/6340323785>	<hgeokg/schema/brandWikipedia>	brandWikipedia-en:Citi Bike
+<hgeokg/resource/6270577083>	<hgeokg/schema/bin>	bin-yes
+<hgeokg/resource/6378863066>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/271274003>
+<hgeokg/resource/266941945>	<hgeokg/schema/website>	website-https://icahn.mssm.edu/
+<hgeokg/resource/271220755>	<hgeokg/schema/gnisFeatureId>	gnisFeatureId-954278
+<hgeokg/resource/395304938>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/271220755>
+<hgeokg/resource/3273383624>	<hgeokg/schema/bench>	bench-yes
+<hgeokg/resource/793654756>	<hgeokg/schema/owner>	owner-Metropolitan Transportation Authority
+<hgeokg/resource/541332223>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/5671302>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/6270647890>
+<hgeokg/resource/11305356>	<Line_railway-Adjacent-Line_railway>	<hgeokg/resource/105354667>
+<hgeokg/resource/3273383624>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/6055272196>
+<hgeokg/resource/5670748>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/1749011123>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/6270577083>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/PublicTransportPlatform>
+<hgeokg/resource/793654757>	<hgeokg/schema/owner>	owner-Metropolitan Transportation Authority
+<hgeokg/resource/541332223>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/793654756>
+<hgeokg/resource/541332223>	<Line_roads-Intersect-Line_railway>	<hgeokg/resource/793654747>
+<hgeokg/resource/5673373>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/6270577083>
+<hgeokg/resource/1749011123>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Restaurant>
+<hgeokg/resource/1749011123>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/271276548>
+<hgeokg/resource/562372496>	<hgeokg/schema/addrHousenumber>	addrHousenumber-1176
+<hgeokg/resource/105354667>	<hgeokg/schema/owner>	owner-Metropolitan Transportation Authority
+<hgeokg/resource/5608379195>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/289852832>
+<hgeokg/resource/793654758>	<hgeokg/schema/frequency>	frequency-0
+<hgeokg/resource/266941953>	<Line_railway-Adjacent-Polygon_buildings>	<hgeokg/resource/11305356>
+<hgeokg/resource/386805000>	<Line_roads-Adjacent-Polygon_landuse>	<hgeokg/resource/5673373>
+<hgeokg/resource/5670748>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/271220767>
+<hgeokg/resource/5672901>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5670748>
+<hgeokg/resource/395304938>	<Point_pois-Intersect-Polygon_buildings>	<hgeokg/resource/266941946>
+<hgeokg/resource/5670310>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/541332223>
+<hgeokg/resource/225188061>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/1749011125>	<hgeokg/schema/phone>	phone-+1 212-369-6788
+<hgeokg/resource/5670310>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/271220767>	<hgeokg/schema/postalCode>	postalCode-10029
+<hgeokg/resource/271276548>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/271274003>
+<hgeokg/resource/368046013>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/395304938>
+<hgeokg/resource/3273383624>	<hgeokg/schema/operator>	operator-Metropolitan Transportation Authority
+<hgeokg/resource/793654748>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Rail>
+<hgeokg/resource/6920898116>	<hgeokg/schema/operator>	operator-United States Postal Service
+<hgeokg/resource/395304938>	<Point_pois-Intersect-Polygon_buildings>	<hgeokg/resource/289852832>
+<hgeokg/resource/5670748>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/386805000>	<Polygon_landuse-Adjacent-Polygon_buildings>	<hgeokg/resource/266941945>
+<hgeokg/resource/7134303440>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/6270647890>
+<hgeokg/resource/4239987089>	<hgeokg/schema/bin>	bin-no
+<hgeokg/resource/793654757>	<Line_railway-Intersect-Line_railway>	<hgeokg/resource/793654758>
+<hgeokg/resource/562372496>	<hgeokg/schema/gnisFeatureId>	gnisFeatureId-2083569
+<hgeokg/resource/6055272196>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/271220755>
+<hgeokg/resource/266941952>	<hgeokg/schema/parking>	parking-multi-storey
+<hgeokg/resource/5670310>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/271220767>
+<hgeokg/resource/5673373>	<Line_roads-Adjacent-Polygon_landuse>	<hgeokg/resource/386805000>
+<hgeokg/resource/6949740431>	<Point_transport-Adjacent-Polygon_buildings>	<hgeokg/resource/271220755>
+<hgeokg/resource/271220767>	<hgeokg/schema/height>	height-30.4
+<hgeokg/resource/105354667>	<hgeokg/schema/railwayTrackRef>	railwayTrackRef-4
+<hgeokg/resource/368046013>	<http://www.w3.org/2000/01/rdf-schema#label>	New York Academy of Medicine
+<hgeokg/resource/386805000>	<Point_transport-Adjacent-Polygon_landuse>	<hgeokg/resource/6949740431>
+<hgeokg/resource/266941954>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Polygon>
+<hgeokg/resource/6920873868>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/PostBox>
+<hgeokg/resource/793654747>	<Line_railway-Adjacent-Line_railway>	<hgeokg/resource/793654758>
+<hgeokg/resource/793654747>	<Line_railway-Adjacent-Polygon_landuse>	<hgeokg/resource/386805000>
+<hgeokg/resource/6270577093>	<hgeokg/schema/cuisine>	cuisine-juice
+<hgeokg/resource/266941952>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/5673373>	<http://www.w3.org/2000/01/rdf-schema#label>	East 105th Street
+<hgeokg/resource/562372496>	<hgeokg/schema/nycdoittBin>	nycdoittBin-1083919
+<hgeokg/resource/541332223>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/271276548>
+<hgeokg/resource/289852832>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/5670310>
+<hgeokg/resource/395304938>	<http://www.w3.org/2000/01/rdf-schema#label>	The Mount Sinai Hospital
+<hgeokg/resource/6055272196>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/395304938>
+<hgeokg/resource/271274003>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/271220752>
+<hgeokg/resource/225188061>	<Line_railway-Adjacent-Point_pois>	<hgeokg/resource/793654758>
+<hgeokg/resource/368046013>	<hgeokg/schema/addrState>	addrState-NY
+<hgeokg/resource/793654756>	<hgeokg/schema/operator>	operator-Metro-North Railroad
+<hgeokg/resource/6340323785>	<hgeokg/schema/network>	network-Citi Bike
+<hgeokg/resource/5670310>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/6949740431>
+<hgeokg/resource/266941946>	<hgeokg/schema/addrCountry>	addrCountry-US
+<hgeokg/resource/395304938>	<Line_railway-Adjacent-Point_pois>	<hgeokg/resource/105354667>
+<hgeokg/resource/793654757>	<http://www.w3.org/2000/01/rdf-schema#label>	Hudson Line MT2
+<hgeokg/resource/4239987089>	<hgeokg/schema/tactilePaving>	tactilePaving-no
+<hgeokg/resource/541332223>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/1749011123>
+<hgeokg/resource/7134303440>	<hgeokg/schema/operatorWikipedia>	operatorWikipedia-en:Citi Bike
+<hgeokg/resource/271274003>	<hgeokg/schema/wikipedia>	wikipedia-en:El Museo del Barrio
+<hgeokg/resource/3273383624>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5670310>
+<hgeokg/resource/793654747>	<hgeokg/schema/owner>	owner-Metropolitan Transportation Authority
+<hgeokg/resource/225188061>	<Point_pois-Within-Polygon_landuse>	<hgeokg/resource/386805000>
+<hgeokg/resource/11305356>	<hgeokg/schema/oldRailwayOperator>	oldRailwayOperator-NYC
+<hgeokg/resource/225188061>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5673373>
+<hgeokg/resource/5673373>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/271220767>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/5608379195>
+<hgeokg/resource/271274003>	<hgeokg/schema/height>	height-38.0
+<hgeokg/resource/793654747>	<http://www.w3.org/2000/01/rdf-schema#label>	Hudson Line MT4
+<hgeokg/resource/11305356>	<hgeokg/schema/usage>	usage-main
+<hgeokg/resource/793654758>	<http://www.w3.org/2000/01/rdf-schema#label>	Hudson Line MT2
+<hgeokg/resource/6270577093>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/1749011123>
+<hgeokg/resource/289852832>	<hgeokg/schema/architect>	architect-Pelli Clarke Pelli Architects
+<hgeokg/resource/271220755>	<hgeokg/schema/addrHousenumber>	addrHousenumber-19
+<hgeokg/resource/3273383624>	<hgeokg/schema/shelter>	shelter-yes
+<hgeokg/resource/793654747>	<Line_railway-Adjacent-Line_railway>	<hgeokg/resource/793654757>
+<hgeokg/resource/289852832>	<hgeokg/schema/addrHousenumber>	addrHousenumber-1214
+<hgeokg/resource/793654747>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Rail>
+<hgeokg/resource/5671302>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/266941946>
+<hgeokg/resource/395304938>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/4239987089>
+<hgeokg/resource/793654756>	<hgeokg/schema/level>	level-1
+<hgeokg/resource/225188061>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Park>
+<hgeokg/resource/6270647890>	<http://www.w3.org/2000/01/rdf-schema#label>	Madison Avenue & East 99th Street
+<hgeokg/resource/6920873868>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/562372496>
+<hgeokg/resource/6270577093>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/271276548>
+<hgeokg/resource/793654758>	<Line_railway-Intersect-Line_railway>	<hgeokg/resource/793654757>
+<hgeokg/resource/6949740431>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/225188061>
+<hgeokg/resource/266941946>	<hgeokg/schema/nycdoittBin>	nycdoittBin-1083923
+<hgeokg/resource/793654758>	<hgeokg/schema/gauge>	gauge-1435
+<hgeokg/resource/6270577093>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5673373>
+<hgeokg/resource/395304938>	<hgeokg/schema/addrPostcode>	addrPostcode-10129
+<hgeokg/resource/271220752>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5670310>
+<hgeokg/resource/266941952>	<hgeokg/schema/roofMaterial>	roofMaterial-concrete
+<hgeokg/resource/271220755>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/271274003>
+<hgeokg/resource/541332223>	<hgeokg/schema/lanes>	lanes-1
+<hgeokg/resource/266941945>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/5672901>
+<hgeokg/resource/793654758>	<Line_railway-Adjacent-Polygon_landuse>	<hgeokg/resource/386805000>
+<hgeokg/resource/793654756>	<hgeokg/schema/frequency>	frequency-0
+<hgeokg/resource/3273383624>	<hgeokg/schema/departuresBoard>	departuresBoard-timetable
+<hgeokg/resource/6055272196>	<hgeokg/schema/addrPostcode>	addrPostcode-10029
+<hgeokg/resource/5670748>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/266941946>
+<hgeokg/resource/793654756>	<Line_railway-Adjacent-Line_railway>	<hgeokg/resource/793654747>
+<hgeokg/resource/368046013>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/289852832>
+<hgeokg/resource/289852832>	<Point_pois-Intersect-Polygon_buildings>	<hgeokg/resource/395304938>
+<hgeokg/resource/11305356>	<Line_railway-Adjacent-Point_pois>	<hgeokg/resource/395304938>
+<hgeokg/resource/793654758>	<hgeokg/schema/layer>	layer-1
+<hgeokg/resource/6055272196>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/271220767>
+<hgeokg/resource/266941953>	<hgeokg/schema/nycdoittBin>	nycdoittBin-1051485
+<hgeokg/resource/6949740431>	<hgeokg/schema/covered>	covered-yes
+<hgeokg/resource/5672901>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/562372496>
+<hgeokg/resource/7134303440>	<hgeokg/schema/networkWikidata>	networkWikidata-Q2974438
+<hgeokg/resource/225188061>	<Line_railway-Adjacent-Point_pois>	<hgeokg/resource/793654756>
+<hgeokg/resource/5670310>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/271220755>
+<hgeokg/resource/266941954>	<hgeokg/schema/addrHousenumber>	addrHousenumber-1450
+<hgeokg/resource/6920873868>	<hgeokg/schema/brandWikidata>	brandWikidata-Q668687
+<hgeokg/resource/11305356>	<hgeokg/schema/railwayTrackRef>	railwayTrackRef-2
+<hgeokg/resource/386805000>	<Line_railway-Adjacent-Polygon_landuse>	<hgeokg/resource/793654758>
+<hgeokg/resource/271274003>	<hgeokg/schema/addrHousenumber>	addrHousenumber-1230
+<hgeokg/resource/271220752>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/5670748>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5672901>
+<hgeokg/resource/105354667>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/541332223>	<Line_roads-Intersect-Line_railway>	<hgeokg/resource/793654757>
+<hgeokg/resource/266941945>	<hgeokg/schema/addrHousenumber>	addrHousenumber-1184
+<hgeokg/resource/386805000>	<Polygon_landuse-Adjacent-Polygon_buildings>	<hgeokg/resource/271220767>
+<hgeokg/resource/5673373>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/271220752>
+<hgeokg/resource/386805000>	<hgeokg/schema/operator>	operator-NYCHA
+<hgeokg/resource/6920898116>	<hgeokg/schema/brandWikidata>	brandWikidata-Q668687
+<hgeokg/resource/7134303440>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/266941954>
+<hgeokg/resource/4239987089>	<hgeokg/schema/wheelchair>	wheelchair-yes
+<hgeokg/resource/793654757>	<hgeokg/schema/railwayTrackRef>	railwayTrackRef-2
+<hgeokg/resource/225188061>	<http://www.w3.org/2000/01/rdf-schema#label>	Mae Grant Playground
+<hgeokg/resource/271220755>	<Polygon_landuse-Adjacent-Polygon_buildings>	<hgeokg/resource/386805000>
+<hgeokg/resource/6949740431>	<hgeokg/schema/bus>	bus-yes
+<hgeokg/resource/271220752>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/541332223>
+<hgeokg/resource/6270647890>	<hgeokg/schema/bench>	bench-yes
+<hgeokg/resource/105354667>	<hgeokg/schema/electrified>	electrified-rail
+<hgeokg/resource/266941953>	<Polygon_buildings-Adjacent-Polygon_buildings>	<hgeokg/resource/266941954>
+<hgeokg/resource/271220767>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/5670310>
+<hgeokg/resource/386805000>	<Point_pois-Adjacent-Polygon_landuse>	<hgeokg/resource/6055272196>
+<hgeokg/resource/3273383624>	<hgeokg/schema/bus>	bus-yes
+<hgeokg/resource/793654757>	<Line_railway-Intersect-Line_railway>	<hgeokg/resource/793654756>
+<hgeokg/resource/793654748>	<hgeokg/schema/voltage>	voltage-700
+<hgeokg/resource/5670310>	<Line_roads-Adjacent-Polygon_landuse>	<hgeokg/resource/386805000>
+<hgeokg/resource/266941952>	<Point_pois-Intersect-Point_traffic>	<hgeokg/resource/395304938>
+<hgeokg/resource/105354667>	<Line_railway-Adjacent-Polygon_buildings>	<hgeokg/resource/266941953>
+<hgeokg/resource/5670310>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/395304938>
+<hgeokg/resource/793654748>	<hgeokg/schema/usage>	usage-main
+<hgeokg/resource/271220767>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/6378863066>
+<hgeokg/resource/4239987089>	<hgeokg/schema/operator>	operator-Metropolitan Transportation Authority
+<hgeokg/resource/793654747>	<Point_pois-Adjacent-Line_railway>	<hgeokg/resource/6340323785>
+<hgeokg/resource/7134303440>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5671302>
+<hgeokg/resource/271220752>	<hgeokg/schema/wikipedia>	wikipedia-en:Museum of the City of New York
+<hgeokg/resource/3273383624>	<hgeokg/schema/tactilePaving>	tactilePaving-no
+<hgeokg/resource/266941953>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/5671302>
+<hgeokg/resource/11305356>	<Line_railway-Adjacent-Line_railway>	<hgeokg/resource/793654747>
+<hgeokg/resource/1749011125>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/225188061>
+<hgeokg/resource/271220767>	<Polygon_buildings-Adjacent-Polygon_buildings>	<hgeokg/resource/289852832>
+<hgeokg/resource/271220755>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/BuildingSchool>
+<hgeokg/resource/6270647890>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/7134303440>
+<hgeokg/resource/5670310>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5608379195>
+<hgeokg/resource/386805000>	<Polygon_landuse-Adjacent-Polygon_buildings>	<hgeokg/resource/266941954>
+<hgeokg/resource/793654757>	<hgeokg/schema/electrified>	electrified-rail
+<hgeokg/resource/3273383624>	<Point_transport-Adjacent-Polygon_buildings>	<hgeokg/resource/271220755>
+<hgeokg/resource/5670310>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/1749011123>	<hgeokg/schema/delivery>	delivery-yes
+<hgeokg/resource/793654747>	<Line_railway-Intersect-Line_railway>	<hgeokg/resource/793654748>
+<hgeokg/resource/386805000>	<Polygon_landuse-Contain-Point_pois>	<hgeokg/resource/6340323785>
+<hgeokg/resource/266941945>	<hgeokg/schema/wikipedia>	wikipedia-en:Icahn School of Medicine at Mount Sinai
+<hgeokg/resource/271220752>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5673373>
+<hgeokg/resource/11305356>	<hgeokg/schema/operator>	operator-Metro-North Railroad
+<hgeokg/resource/5608379195>	<hgeokg/schema/addrHousenumber>	addrHousenumber-1490
+<hgeokg/resource/541332223>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/793654757>	<hgeokg/schema/maxspeed>	maxspeed-60 mph
+<hgeokg/resource/271276548>	<hgeokg/schema/oldName>	oldName-Flower-Fifth Avenue Hospital
+<hgeokg/resource/395304938>	<Point_pois-Adjacent-Polygon_landuse>	<hgeokg/resource/386805000>
+<hgeokg/resource/266941946>	<hgeokg/schema/gnisFeatureId>	gnisFeatureId-2083571
+<hgeokg/resource/5608379195>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/793654756>	<Line_railway-Adjacent-Point_pois>	<hgeokg/resource/225188061>
+<hgeokg/resource/1749011123>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/271220755>
+<hgeokg/resource/266941953>	<Polygon_landuse-Adjacent-Polygon_buildings>	<hgeokg/resource/386805000>
+<hgeokg/resource/1749011125>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Restaurant>
+<hgeokg/resource/793654756>	<hgeokg/schema/gauge>	gauge-1435
+<hgeokg/resource/6055272196>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Cafe>
+<hgeokg/resource/793654758>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/541332223>
+<hgeokg/resource/3273383624>	<hgeokg/schema/wheelchair>	wheelchair-yes
+<hgeokg/resource/395304938>	<Line_railway-Adjacent-Point_pois>	<hgeokg/resource/11305356>
+<hgeokg/resource/5672901>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/266941954>
+<hgeokg/resource/793654748>	<hgeokg/schema/owner>	owner-Metropolitan Transportation Authority
+<hgeokg/resource/562372496>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Polygon>
+<hgeokg/resource/11305356>	<Line_railway-Adjacent-Point_traffic>	<hgeokg/resource/266941952>
+<hgeokg/resource/266941946>	<hgeokg/schema/addrState>	addrState-NY
+<hgeokg/resource/5608379195>	<Point_pois-Adjacent-Polygon_landuse>	<hgeokg/resource/386805000>
+<hgeokg/resource/271276548>	<hgeokg/schema/website>	website-https://www.archcare.org/nursing-homes/terence-cardinal-cooke
+<hgeokg/resource/368046013>	<hgeokg/schema/source>	source-USGS Geonames
+<hgeokg/resource/6920873868>	<hgeokg/schema/operatorType>	operatorType-public
+<hgeokg/resource/6270577093>	<http://www.w3.org/2000/01/rdf-schema#label>	JuicCToo
+<hgeokg/resource/386805000>	<Line_railway-Adjacent-Polygon_landuse>	<hgeokg/resource/793654747>
+<hgeokg/resource/562372496>	<Point_pois-Intersect-Polygon_buildings>	<hgeokg/resource/395304938>
+<hgeokg/resource/6920898116>	<hgeokg/schema/operatorType>	operatorType-public
+<hgeokg/resource/266941953>	<Line_railway-Adjacent-Polygon_buildings>	<hgeokg/resource/105354667>
+<hgeokg/resource/793654748>	<hgeokg/schema/layer>	layer-1
+<hgeokg/resource/793654758>	<hgeokg/schema/owner>	owner-Metropolitan Transportation Authority
+<hgeokg/resource/7134303440>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/BicycleRental>
+<hgeokg/resource/6378863066>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/6378863066>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/271220752>
+<hgeokg/resource/395304938>	<hgeokg/schema/addrHousenumber>	addrHousenumber-1
+<hgeokg/resource/266941953>	<hgeokg/schema/addrHousenumber>	addrHousenumber-1425
+<hgeokg/resource/386805000>	<Point_traffic-Adjacent-Polygon_landuse>	<hgeokg/resource/266941952>
+<hgeokg/resource/266941945>	<hgeokg/schema/roofShape>	roofShape-flat
+<hgeokg/resource/6270577093>	<hgeokg/schema/addrHousenumber>	addrHousenumber-1546
+<hgeokg/resource/225188061>	<Line_railway-Adjacent-Point_pois>	<hgeokg/resource/793654757>
+<hgeokg/resource/5608379195>	<http://www.w3.org/2000/01/rdf-schema#label>	Duane Reade
+<hgeokg/resource/5670748>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/271220767>	<Polygon_landuse-Adjacent-Polygon_buildings>	<hgeokg/resource/386805000>
+<hgeokg/resource/793654748>	<Point_pois-Adjacent-Line_railway>	<hgeokg/resource/6340323785>
+<hgeokg/resource/266941952>	<hgeokg/schema/buildingColour>	buildingColour-#A59571
+<hgeokg/resource/793654748>	<hgeokg/schema/maxspeed>	maxspeed-60 mph
+<hgeokg/resource/271274003>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/271274003>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/1749011123>
+<hgeokg/resource/271220767>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Polygon>
+<hgeokg/resource/793654758>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/5672901>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayService>
+<hgeokg/resource/6270577083>	<Point_transport-Adjacent-Polygon_landuse>	<hgeokg/resource/386805000>
+<hgeokg/resource/289852832>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/5608379195>
+<hgeokg/resource/271274003>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5670310>
+<hgeokg/resource/793654756>	<http://www.w3.org/2000/01/rdf-schema#label>	Hudson Line MT2
+<hgeokg/resource/386805000>	<Point_pois-Adjacent-Polygon_landuse>	<hgeokg/resource/7134303440>
+<hgeokg/resource/105354667>	<Line_railway-Adjacent-Line_railway>	<hgeokg/resource/793654747>
+<hgeokg/resource/266941946>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/5671302>
+<hgeokg/resource/6055272196>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5670310>
+<hgeokg/resource/105354667>	<Line_railway-Adjacent-Line_railway>	<hgeokg/resource/11305356>
+<hgeokg/resource/1749011123>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/541332223>
+<hgeokg/resource/271276548>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/5673373>
+<hgeokg/resource/4239987089>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5670748>
+<hgeokg/resource/395304938>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/7134303440>
+<hgeokg/resource/6270577093>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/FastFood>
+<hgeokg/resource/6920873868>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/4239987089>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/7134303440>
+<hgeokg/resource/395304938>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/6270647890>
+<hgeokg/resource/271276548>	<hgeokg/schema/phone>	phone-+1 212 360 3980
+<hgeokg/resource/6949740431>	<hgeokg/schema/bin>	bin-yes
+<hgeokg/resource/5672901>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/266941945>
+<hgeokg/resource/266941952>	<hgeokg/schema/nycdoittBin>	nycdoittBin-1051485
+<hgeokg/resource/562372496>	<hgeokg/schema/height>	height-46.5
+<hgeokg/resource/395304938>	<hgeokg/schema/wikipedia>	wikipedia-en:Mount Sinai Hospital (Manhattan)
+<hgeokg/resource/289852832>	<http://www.w3.org/2000/01/rdf-schema#label>	1214 Fifth Avenue
+<hgeokg/resource/271276548>	<http://www.w3.org/2000/01/rdf-schema#label>	Terence Cardinal Cooke Health Care Center
+<hgeokg/resource/5608379195>	<hgeokg/schema/phone>	phone-+1-212-410-2508
+<hgeokg/resource/266941954>	<Point_transport-Adjacent-Polygon_buildings>	<hgeokg/resource/4239987089>
+<hgeokg/resource/793654748>	<http://www.w3.org/2000/01/rdf-schema#label>	Hudson Line MT4
+<hgeokg/resource/6949740431>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/541332223>
+<hgeokg/resource/271220755>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/541332223>
+<hgeokg/resource/793654748>	<Line_railway-Adjacent-Line_railway>	<hgeokg/resource/11305356>
+<hgeokg/resource/271220752>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/368046013>
+<hgeokg/resource/266941945>	<Point_pois-Intersect-Polygon_buildings>	<hgeokg/resource/395304938>
+<hgeokg/resource/266941953>	<http://www.w3.org/2000/01/rdf-schema#label>	Icahn Medical Center
+<hgeokg/resource/793654757>	<hgeokg/schema/usage>	usage-main
+<hgeokg/resource/6920873868>	<hgeokg/schema/operator>	operator-United States Postal Service
+<hgeokg/resource/1749011125>	<hgeokg/schema/openingHours>	openingHours-Mo-Th 11:00-23:30, Fr,Sa 11:00-00:30, Su 12:00-23:30
+<hgeokg/resource/386805000>	<Polygon_landuse-Contain-Point_pois>	<hgeokg/resource/225188061>
+<hgeokg/resource/266941952>	<hgeokg/schema/buildingMaterial>	buildingMaterial-concrete
+<hgeokg/resource/7134303440>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5670748>
+<hgeokg/resource/6055272196>	<http://www.w3.org/2000/01/rdf-schema#label>	Superior Café
+<hgeokg/resource/266941945>	<Polygon_buildings-Adjacent-Polygon_buildings>	<hgeokg/resource/562372496>
+<hgeokg/resource/4239987089>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/BusStop>
+<hgeokg/resource/386805000>	<Point_pois-Adjacent-Polygon_landuse>	<hgeokg/resource/1749011123>
+<hgeokg/resource/266941946>	<Polygon_landuse-Adjacent-Polygon_buildings>	<hgeokg/resource/386805000>
+<hgeokg/resource/6920898116>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/PostBox>
+<hgeokg/resource/271274003>	<http://www.w3.org/2000/01/rdf-schema#label>	El Museo Del Barrio
+<hgeokg/resource/6270647890>	<hgeokg/schema/shelter>	shelter-yes
+<hgeokg/resource/105354667>	<hgeokg/schema/gauge>	gauge-1435
+<hgeokg/resource/5673373>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/541332223>
+<hgeokg/resource/271274003>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/271276548>
+<hgeokg/resource/6340323785>	<hgeokg/schema/brandWikidata>	brandWikidata-Q2974438
+<hgeokg/resource/266941953>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/7134303440>
+<hgeokg/resource/793654747>	<hgeokg/schema/oldRailwayOperator>	oldRailwayOperator-NYC
+<hgeokg/resource/271220755>	<hgeokg/schema/addrPostcode>	addrPostcode-10029
+<hgeokg/resource/395304938>	<Point_pois-Intersect-Polygon_buildings>	<hgeokg/resource/562372496>
+<hgeokg/resource/562372496>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/BuildingHospital>
+<hgeokg/resource/1749011123>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/1749011125>
+<hgeokg/resource/793654748>	<hgeokg/schema/gauge>	gauge-1435
+<hgeokg/resource/6920898116>	<hgeokg/schema/brandWikipedia>	brandWikipedia-en:United States Postal Service
+<hgeokg/resource/541332223>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/271274003>
+<hgeokg/resource/793654756>	<hgeokg/schema/bridge>	bridge-yes
+<hgeokg/resource/266941945>	<hgeokg/schema/source>	source-USGS Geonames
+<hgeokg/resource/271274003>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Museum>
+<hgeokg/resource/105354667>	<Line_railway-Adjacent-Point_pois>	<hgeokg/resource/395304938>
+<hgeokg/resource/1749011125>	<http://www.w3.org/2000/01/rdf-schema#label>	King Dragon
+<hgeokg/resource/1749011125>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/271220755>
+<hgeokg/resource/5671302>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-E
+<hgeokg/resource/368046013>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6378863066>
+<hgeokg/resource/266941953>	<Point_pois-Intersect-Polygon_buildings>	<hgeokg/resource/395304938>
+<hgeokg/resource/6378863066>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5670310>
+<hgeokg/resource/266941954>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/5672901>
+<hgeokg/resource/271220755>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/6378863066>
+<hgeokg/resource/6270647890>	<hgeokg/schema/routeRef>	routeRef-BxM2;BxM3;BxM4;BxM11
+<hgeokg/resource/7134303440>	<hgeokg/schema/network>	network-Citi Bike
+<hgeokg/resource/793654756>	<hgeokg/schema/oldRailwayOperator>	oldRailwayOperator-NYC
+<hgeokg/resource/6920898116>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/1749011123>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/6949740431>
+<hgeokg/resource/6378863066>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/368046013>
+<hgeokg/resource/266941945>	<hgeokg/schema/height>	height-133.8
+<hgeokg/resource/6270577093>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/6949740431>
+<hgeokg/resource/266941946>	<Polygon_buildings-Adjacent-Polygon_buildings>	<hgeokg/resource/289852832>
+<hgeokg/resource/5670310>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/3273383624>
+<hgeokg/resource/5608379195>	<hgeokg/schema/brandWikidata>	brandWikidata-Q5310380
+<hgeokg/resource/6270577093>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/225188061>
+<hgeokg/resource/541332223>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6378863066>
+<hgeokg/resource/793654747>	<hgeokg/schema/usage>	usage-main
+<hgeokg/resource/793654758>	<hgeokg/schema/electrified>	electrified-rail
+<hgeokg/resource/793654748>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/386805000>	<Point_transport-Adjacent-Polygon_landuse>	<hgeokg/resource/4239987089>
+<hgeokg/resource/6340323785>	<Point_pois-Adjacent-Line_railway>	<hgeokg/resource/793654758>
+<hgeokg/resource/6949740431>	<hgeokg/schema/wheelchair>	wheelchair-yes
+<hgeokg/resource/266941952>	<Line_railway-Adjacent-Point_traffic>	<hgeokg/resource/105354667>
+<hgeokg/resource/793654757>	<Line_railway-Adjacent-Line_railway>	<hgeokg/resource/793654747>
+<hgeokg/resource/793654747>	<hgeokg/schema/layer>	layer-1
+<hgeokg/resource/271220755>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/368046013>
+<hgeokg/resource/793654758>	<Line_railway-Adjacent-Line_railway>	<hgeokg/resource/793654747>
+<hgeokg/resource/105354667>	<Line_railway-Adjacent-Polygon_landuse>	<hgeokg/resource/386805000>
+<hgeokg/resource/266941945>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/5671302>
+<hgeokg/resource/11305356>	<Line_railway-Adjacent-Polygon_buildings>	<hgeokg/resource/266941953>
+<hgeokg/resource/271276548>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/6270577093>
+<hgeokg/resource/5670310>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/562372496>	<Polygon_buildings-Adjacent-Polygon_buildings>	<hgeokg/resource/266941946>
+<hgeokg/resource/105354667>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Rail>
+<hgeokg/resource/5608379195>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/3273383624>
+<hgeokg/resource/271274003>	<hgeokg/schema/addrState>	addrState-NY
+<hgeokg/resource/266941954>	<Point_transport-Adjacent-Polygon_buildings>	<hgeokg/resource/6270647890>
+<hgeokg/resource/793654757>	<Line_roads-Intersect-Line_railway>	<hgeokg/resource/541332223>
+<hgeokg/resource/289852832>	<Polygon_landuse-Adjacent-Polygon_buildings>	<hgeokg/resource/386805000>
+<hgeokg/resource/793654748>	<Line_railway-Intersect-Line_railway>	<hgeokg/resource/105354667>
+<hgeokg/resource/5670310>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/289852832>
+<hgeokg/resource/6340323785>	<Point_pois-Adjacent-Line_railway>	<hgeokg/resource/11305356>
+<hgeokg/resource/793654757>	<Line_railway-Adjacent-Point_pois>	<hgeokg/resource/225188061>
+<hgeokg/resource/6378863066>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/PostBox>
+<hgeokg/resource/541332223>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-E
+<hgeokg/resource/793654757>	<hgeokg/schema/level>	level-1
+<hgeokg/resource/6270647890>	<Point_transport-Adjacent-Polygon_buildings>	<hgeokg/resource/266941946>
+<hgeokg/resource/6055272196>	<hgeokg/schema/addrHousenumber>	addrHousenumber-1490
+<hgeokg/resource/395304938>	<Point_pois-Intersect-Polygon_buildings>	<hgeokg/resource/266941945>
+<hgeokg/resource/6270577083>	<hgeokg/schema/departuresBoard>	departuresBoard-timetable
+<hgeokg/resource/11305356>	<hgeokg/schema/frequency>	frequency-0
+<hgeokg/resource/386805000>	<Point_pois-Intersect-Polygon_landuse>	<hgeokg/resource/225188061>
+<hgeokg/resource/3273383624>	<hgeokg/schema/passengerInformationDisplay>	passengerInformationDisplay-no
+<hgeokg/resource/395304938>	<Point_pois-Intersect-Polygon_buildings>	<hgeokg/resource/266941953>
+<hgeokg/resource/793654748>	<Line_railway-Adjacent-Line_railway>	<hgeokg/resource/793654758>
+<hgeokg/resource/6270647890>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/395304938>
+<hgeokg/resource/5673373>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/6270647890>	<Point_transport-Adjacent-Polygon_landuse>	<hgeokg/resource/386805000>
+<hgeokg/resource/6920873868>	<http://www.w3.org/2000/01/rdf-schema#label>	USPS
+<hgeokg/resource/793654747>	<hgeokg/schema/railwayTrackRef>	railwayTrackRef-4
+<hgeokg/resource/266941946>	<Point_transport-Adjacent-Polygon_buildings>	<hgeokg/resource/4239987089>
+<hgeokg/resource/266941952>	<hgeokg/schema/buildingPart>	buildingPart-yes
+<hgeokg/resource/266941945>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/BuildingHospital>
+<hgeokg/resource/5670748>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/289852832>
+<hgeokg/resource/7134303440>	<hgeokg/schema/branch>	branch-Madison Av & E 99 St
+<hgeokg/resource/225188061>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/6949740431>
+<hgeokg/resource/6055272196>	<hgeokg/schema/phone>	phone-+1 646-666-0095
+<hgeokg/resource/5672901>	<Line_roads-Intersect-Point_pois>	<hgeokg/resource/395304938>
+<hgeokg/resource/4239987089>	<http://www.w3.org/2000/01/rdf-schema#label>	Madison Av & E 101 St
+<hgeokg/resource/6340323785>	<hgeokg/schema/networkWikidata>	networkWikidata-Q2974438
+<hgeokg/resource/5670748>	<Line_roads-Intersect-Point_pois>	<hgeokg/resource/395304938>
+<hgeokg/resource/271220752>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/271220767>
+<hgeokg/resource/793654758>	<Line_railway-Adjacent-Point_pois>	<hgeokg/resource/225188061>
+<hgeokg/resource/793654756>	<hgeokg/schema/maxspeed>	maxspeed-60 mph
+<hgeokg/resource/5670748>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/7134303440>
+<hgeokg/resource/793654756>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/541332223>
+<hgeokg/resource/6920873868>	<hgeokg/schema/brandWikipedia>	brandWikipedia-en:United States Postal Service
+<hgeokg/resource/386805000>	<http://www.w3.org/2000/01/rdf-schema#label>	George Washington Carver Houses
+<hgeokg/resource/5673373>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/1749011123>
+<hgeokg/resource/6340323785>	<hgeokg/schema/brand>	brand-Citi Bike
+<hgeokg/resource/4239987089>	<Point_transport-Adjacent-Polygon_buildings>	<hgeokg/resource/289852832>
+<hgeokg/resource/271274003>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5673373>
+<hgeokg/resource/7134303440>	<http://www.w3.org/2000/01/rdf-schema#label>	Citi Bike - Madison Av / 100 St
+<hgeokg/resource/6270577083>	<hgeokg/schema/covered>	covered-yes
+<hgeokg/resource/266941953>	<hgeokg/schema/gnisFeatureId>	gnisFeatureId-2083572
+<hgeokg/resource/5608379195>	<hgeokg/schema/website>	website-https://www.walgreens.com/locator/walgreens-1490+madison+ave-new+york-ny-10029/id=14369
+<hgeokg/resource/6949740431>	<hgeokg/schema/departuresBoard>	departuresBoard-timetable
+<hgeokg/resource/793654748>	<Line_railway-Adjacent-Polygon_landuse>	<hgeokg/resource/386805000>
+<hgeokg/resource/793654747>	<hgeokg/schema/level>	level-1
+<hgeokg/resource/271276548>	<hgeokg/schema/height>	height-54.2
+<hgeokg/resource/1749011125>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5673373>
+<hgeokg/resource/5608379195>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Pharmacy>
+<hgeokg/resource/541332223>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/271220752>
+<hgeokg/resource/266941946>	<Polygon_buildings-Adjacent-Polygon_buildings>	<hgeokg/resource/562372496>
+<hgeokg/resource/7134303440>	<hgeokg/schema/brand>	brand-Citi Bike
+<hgeokg/resource/5672901>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/266941946>
+<hgeokg/resource/793654758>	<Point_pois-Adjacent-Line_railway>	<hgeokg/resource/6340323785>
+<hgeokg/resource/266941952>	<hgeokg/schema/roofColour>	roofColour-#BAB49E
+<hgeokg/resource/4239987089>	<hgeokg/schema/passengerInformationDisplay>	passengerInformationDisplay-no
+<hgeokg/resource/271220755>	<http://www.w3.org/2000/01/rdf-schema#label>	Public School 171
+<hgeokg/resource/793654747>	<hgeokg/schema/frequency>	frequency-0
+<hgeokg/resource/793654756>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/386805000>	<Point_transport-Adjacent-Polygon_landuse>	<hgeokg/resource/6270577083>
+<hgeokg/resource/271276548>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/1749011123>
+<hgeokg/resource/1749011123>	<http://www.w3.org/2000/01/rdf-schema#label>	Bawarchi Indian Cuisine
+<hgeokg/resource/793654756>	<Line_railway-Intersect-Line_railway>	<hgeokg/resource/793654757>
+<hgeokg/resource/4239987089>	<hgeokg/schema/shelter>	shelter-yes
+<hgeokg/resource/289852832>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Apartments>
+<hgeokg/resource/562372496>	<hgeokg/schema/addrState>	addrState-NY
+<hgeokg/resource/793654758>	<hgeokg/schema/maxspeed>	maxspeed-60 mph
+<hgeokg/resource/4239987089>	<hgeokg/schema/covered>	covered-yes
+<hgeokg/resource/6949740431>	<http://www.w3.org/2000/01/rdf-schema#label>	Madison Av & E 104 St
+<hgeokg/resource/7134303440>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/266941945>
+<hgeokg/resource/266941954>	<Point_pois-Intersect-Polygon_buildings>	<hgeokg/resource/395304938>
+<hgeokg/resource/5670310>	<http://www.w3.org/2000/01/rdf-schema#label>	East 103rd Street
+<hgeokg/resource/6920873868>	<hgeokg/schema/operatorWikipedia>	operatorWikipedia-en:United States Postal Service
+<hgeokg/resource/6055272196>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/289852832>
+<hgeokg/resource/386805000>	<Polygon_landuse-Adjacent-Polygon_buildings>	<hgeokg/resource/266941953>
+<hgeokg/resource/289852832>	<Point_transport-Adjacent-Polygon_buildings>	<hgeokg/resource/4239987089>
+<hgeokg/resource/4239987089>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/PublicTransportPlatform>
+<hgeokg/resource/271276548>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Polygon>
+<hgeokg/resource/266941945>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/5670748>
+<hgeokg/resource/271276548>	<hgeokg/schema/addrPostcode>	addrPostcode-10029
+<hgeokg/resource/6270647890>	<Point_transport-Adjacent-Polygon_buildings>	<hgeokg/resource/266941953>
+<hgeokg/resource/271274003>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/1749011125>
+<hgeokg/resource/105354667>	<Line_railway-Adjacent-Point_traffic>	<hgeokg/resource/266941952>
+<hgeokg/resource/386805000>	<Polygon_landuse-Adjacent-Polygon_buildings>	<hgeokg/resource/266941946>
+<hgeokg/resource/793654757>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/793654747>	<Line_railway-Adjacent-Line_railway>	<hgeokg/resource/11305356>
+<hgeokg/resource/6340323785>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/541332223>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/225188061>
+<hgeokg/resource/271220755>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/1749011125>
+<hgeokg/resource/6340323785>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/BicycleRental>
+<hgeokg/resource/266941945>	<hgeokg/schema/buildingColour>	buildingColour-black
+<hgeokg/resource/793654748>	<hgeokg/schema/frequency>	frequency-0
+<hgeokg/resource/11305356>	<hgeokg/schema/voltage>	voltage-700
+<hgeokg/resource/6340323785>	<Point_pois-Adjacent-Line_railway>	<hgeokg/resource/105354667>
+<hgeokg/resource/271220752>	<hgeokg/schema/addrState>	addrState-NY
+<hgeokg/resource/6378863066>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/541332223>
+<hgeokg/resource/793654747>	<hgeokg/schema/maxspeed>	maxspeed-60 mph
+<hgeokg/resource/271220752>	<hgeokg/schema/nycdoittBin>	nycdoittBin-1074157
+<hgeokg/resource/11305356>	<Line_railway-Intersect-Line_railway>	<hgeokg/resource/793654758>
+<hgeokg/resource/4239987089>	<Point_transport-Adjacent-Polygon_buildings>	<hgeokg/resource/266941946>
+<hgeokg/resource/271220755>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/5608379195>
+<hgeokg/resource/271276548>	<hgeokg/schema/socialFacility>	socialFacility-nursing_home
+<hgeokg/resource/11305356>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Rail>
+<hgeokg/resource/793654758>	<Line_railway-Intersect-Line_railway>	<hgeokg/resource/11305356>
+<hgeokg/resource/541332223>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/271220755>
+<hgeokg/resource/11305356>	<hgeokg/schema/maxspeed>	maxspeed-60 mph
+<hgeokg/resource/266941946>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/7134303440>
+<hgeokg/resource/271220752>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/271274003>
+<hgeokg/resource/6920898116>	<hgeokg/schema/brand>	brand-USPS
+<hgeokg/resource/289852832>	<hgeokg/schema/buildingLevels>	buildingLevels-50
+<hgeokg/resource/368046013>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/271220752>
+<hgeokg/resource/266941954>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/5670748>
+<hgeokg/resource/266941953>	<hgeokg/schema/addrPostcode>	addrPostcode-10029
+<hgeokg/resource/6270647890>	<hgeokg/schema/wheelchair>	wheelchair-yes
+<hgeokg/resource/1749011123>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5673373>
+<hgeokg/resource/266941945>	<hgeokg/schema/roofMaterial>	roofMaterial-concrete
+<hgeokg/resource/266941952>	<Point_traffic-Intersect-Polygon_buildings>	<hgeokg/resource/266941953>
+<hgeokg/resource/5673373>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/271274003>
+<hgeokg/resource/266941945>	<hgeokg/schema/buildingLevels>	buildingLevels-26
+<hgeokg/resource/1749011123>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/225188061>
+<hgeokg/resource/4239987089>	<hgeokg/schema/network>	network-MTA New York City Bus
+<hgeokg/resource/289852832>	<hgeokg/schema/website>	website-https://www.related.com/our-company/properties/1214-fifth-avenue
+<hgeokg/resource/271220755>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/6270577093>
+<hgeokg/resource/793654747>	<hgeokg/schema/bridgeName>	bridgeName-Park Avenue Viaduct
+<hgeokg/resource/271220752>	<hgeokg/schema/website>	website-https://www.mcny.org/
+<hgeokg/resource/793654748>	<hgeokg/schema/bridge>	bridge-yes
+<hgeokg/resource/6378863066>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/271220767>
+<hgeokg/resource/793654757>	<hgeokg/schema/oldRailwayOperator>	oldRailwayOperator-NYC
+<hgeokg/resource/386805000>	<Line_railway-Adjacent-Polygon_landuse>	<hgeokg/resource/793654748>
+<hgeokg/resource/266941952>	<hgeokg/schema/supervised>	supervised-yes
+<hgeokg/resource/6270577083>	<hgeokg/schema/routeRef>	routeRef-M1ltd;M2ltd;M3;M4ltd;M106
+<hgeokg/resource/11305356>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/1749011125>	<hgeokg/schema/takeaway>	takeaway-yes
+<hgeokg/resource/395304938>	<Line_roads-Intersect-Point_pois>	<hgeokg/resource/5672901>
+<hgeokg/resource/793654747>	<hgeokg/schema/voltage>	voltage-700
+<hgeokg/resource/271220755>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/6055272196>
+<hgeokg/resource/6270647890>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/PublicTransportPlatform>
+<hgeokg/resource/5671302>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/7134303440>
+<hgeokg/resource/271220767>	<Polygon_buildings-Adjacent-Polygon_buildings>	<hgeokg/resource/271220755>
+<hgeokg/resource/386805000>	<Line_roads-Intersect-Polygon_landuse>	<hgeokg/resource/541332223>
+<hgeokg/resource/5670748>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/4239987089>
+<hgeokg/resource/271276548>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/1749011125>
+<hgeokg/resource/6270647890>	<Point_transport-Adjacent-Polygon_buildings>	<hgeokg/resource/266941945>
+<hgeokg/resource/541332223>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5673373>
+<hgeokg/resource/271220755>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/5670310>
+<hgeokg/resource/266941945>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Polygon>
+<hgeokg/resource/1749011123>	<hgeokg/schema/openingHours>	openingHours-11:00-22:00
+<hgeokg/resource/271220755>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/395304938>
+<hgeokg/resource/1749011125>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/271276548>
+<hgeokg/resource/541332223>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/5673373>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/225188061>
+<hgeokg/resource/271220755>	<hgeokg/schema/height>	height-30.8
+<hgeokg/resource/5673373>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/271220755>
+<hgeokg/resource/562372496>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/5672901>
+<hgeokg/resource/6270577083>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/225188061>
+<hgeokg/resource/5673373>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/6378863066>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/395304938>
+<hgeokg/resource/6949740431>	<hgeokg/schema/bench>	bench-yes
+<hgeokg/resource/793654757>	<hgeokg/schema/operator>	operator-Metro-North Railroad
+<hgeokg/resource/1749011123>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/271274003>
+<hgeokg/resource/271220767>	<hgeokg/schema/nycdoittBin>	nycdoittBin-1051492
+<hgeokg/resource/6949740431>	<Point_transport-Adjacent-Polygon_landuse>	<hgeokg/resource/386805000>
+<hgeokg/resource/5673373>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/793654757>	<hgeokg/schema/bridge>	bridge-yes
+<hgeokg/resource/289852832>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/6055272196>
+<hgeokg/resource/793654756>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Rail>
+<hgeokg/resource/6920898116>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5673373>
+<hgeokg/resource/271220752>	<http://www.w3.org/2000/01/rdf-schema#label>	Museum of the City of New York
+<hgeokg/resource/5608379195>	<hgeokg/schema/addrPostcode>	addrPostcode-10029
+<hgeokg/resource/266941954>	<Polygon_buildings-Adjacent-Polygon_buildings>	<hgeokg/resource/266941945>
+<hgeokg/resource/5670310>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-E
+<hgeokg/resource/3273383624>	<hgeokg/schema/bin>	bin-no
+<hgeokg/resource/5670310>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/271274003>
+<hgeokg/resource/6340323785>	<hgeokg/schema/operatorWikipedia>	operatorWikipedia-en:Citi Bike
+<hgeokg/resource/6055272196>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/3273383624>
+<hgeokg/resource/7134303440>	<hgeokg/schema/brandWikipedia>	brandWikipedia-en:Citi Bike
+<hgeokg/resource/5670748>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/266941954>
+<hgeokg/resource/6270577083>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/BusStop>
+<hgeokg/resource/266941945>	<hgeokg/schema/ele>	ele-18
+<hgeokg/resource/105354667>	<hgeokg/schema/voltage>	voltage-700
+<hgeokg/resource/7134303440>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/266941953>
+<hgeokg/resource/5671302>	<Line_roads-Adjacent-Polygon_landuse>	<hgeokg/resource/386805000>
+<hgeokg/resource/5673373>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6270577093>
+<hgeokg/resource/1749011125>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/271274003>
+<hgeokg/resource/271220752>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/395304938>
+<hgeokg/resource/266941954>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/5671302>
+<hgeokg/resource/271276548>	<hgeokg/schema/operator>	operator-ArchCare
+<hgeokg/resource/1749011125>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/1749011123>
+<hgeokg/resource/6920873868>	<hgeokg/schema/brand>	brand-USPS
+<hgeokg/resource/6055272196>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/793654757>	<Line_railway-Adjacent-Polygon_landuse>	<hgeokg/resource/386805000>
+<hgeokg/resource/225188061>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6270577093>
+<hgeokg/resource/541332223>	<hgeokg/schema/maxspeed>	maxspeed-25 mph
+<hgeokg/resource/793654747>	<hgeokg/schema/bridge>	bridge-yes
+<hgeokg/resource/793654756>	<hgeokg/schema/bridgeName>	bridgeName-Park Avenue Viaduct
+<hgeokg/resource/266941952>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/AmenityParking>
+<hgeokg/resource/6949740431>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/6270577093>
+<hgeokg/resource/1749011125>	<hgeokg/schema/addrHousenumber>	addrHousenumber-1548
+<hgeokg/resource/5671302>	<http://www.w3.org/2000/01/rdf-schema#label>	East 99th Street
+<hgeokg/resource/6949740431>	<hgeokg/schema/routeRef>	routeRef-M1;M2;M3;M4;M106
+<hgeokg/resource/271276548>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/BuildingHospital>
+<hgeokg/resource/793654756>	<hgeokg/schema/layer>	layer-1
+<hgeokg/resource/6920898116>	<hgeokg/schema/operatorWikipedia>	operatorWikipedia-en:United States Postal Service
+<hgeokg/resource/271220752>	<hgeokg/schema/openingHours>	openingHours-Mo-Su 10:00-18:00
+<hgeokg/resource/4239987089>	<hgeokg/schema/bus>	bus-yes
+<hgeokg/resource/271274003>	<hgeokg/schema/gnisFeatureId>	gnisFeatureId-2083576
+<hgeokg/resource/289852832>	<hgeokg/schema/startDate>	startDate-2012
+<hgeokg/resource/7134303440>	<hgeokg/schema/brandWikidata>	brandWikidata-Q2974438
+<hgeokg/resource/5673373>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/1749011125>
+<hgeokg/resource/368046013>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/271220755>
+<hgeokg/resource/266941946>	<hgeokg/schema/addrPostcode>	addrPostcode-10029
+<hgeokg/resource/7134303440>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/271276548>	<hgeokg/schema/gnisFeatureId>	gnisFeatureId-2083577
+<hgeokg/resource/5672901>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/266941953>	<Point_traffic-Intersect-Polygon_buildings>	<hgeokg/resource/266941952>
+<hgeokg/resource/1749011125>	<hgeokg/schema/addrPostcode>	addrPostcode-10029
+<hgeokg/resource/6920898116>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/271274003>
+<hgeokg/resource/271274003>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6270577093>
+<hgeokg/resource/395304938>	<Point_pois-Intersect-Polygon_buildings>	<hgeokg/resource/271220767>
+<hgeokg/resource/5608379195>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/271220767>
+<hgeokg/resource/271220752>	<hgeokg/schema/gnisFeatureId>	gnisFeatureId-2083575
+<hgeokg/resource/3273383624>	<Point_transport-Adjacent-Polygon_landuse>	<hgeokg/resource/386805000>
+<hgeokg/resource/395304938>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5670310>
+<hgeokg/resource/793654758>	<Line_railway-Adjacent-Line_railway>	<hgeokg/resource/105354667>
+<hgeokg/resource/5671302>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/105354667>
+<hgeokg/resource/6270647890>	<Point_transport-Adjacent-Polygon_buildings>	<hgeokg/resource/266941954>
+<hgeokg/resource/395304938>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/3273383624>
+<hgeokg/resource/793654758>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Rail>
+<hgeokg/resource/6378863066>	<hgeokg/schema/operatorType>	operatorType-public
+<hgeokg/resource/386805000>	<Line_railway-Adjacent-Polygon_landuse>	<hgeokg/resource/11305356>
+<hgeokg/resource/266941954>	<hgeokg/schema/addrPostcode>	addrPostcode-10029
+<hgeokg/resource/271220755>	<Point_transport-Adjacent-Polygon_buildings>	<hgeokg/resource/3273383624>
+<hgeokg/resource/5608379195>	<hgeokg/schema/brand>	brand-Duane Reade
+<hgeokg/resource/3273383624>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/386805000>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/LanduseResidential>
+<hgeokg/resource/271220767>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/6055272196>
+<hgeokg/resource/271220752>	<Point_pois-Intersect-Polygon_buildings>	<hgeokg/resource/271220755>
+<hgeokg/resource/6270577083>	<hgeokg/schema/passengerInformationDisplay>	passengerInformationDisplay-no
+<hgeokg/resource/386805000>	<Line_railway-Adjacent-Polygon_landuse>	<hgeokg/resource/105354667>
+<hgeokg/resource/5671302>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/271220767>	<Point_transport-Adjacent-Polygon_buildings>	<hgeokg/resource/3273383624>
+<hgeokg/resource/266941954>	<Polygon_buildings-Intersect-Polygon_buildings>	<hgeokg/resource/266941946>
+<hgeokg/resource/541332223>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6270577093>
+<hgeokg/resource/266941945>	<hgeokg/schema/nycdoittBin>	nycdoittBin-1084456
+<hgeokg/resource/5672901>	<hgeokg/schema/surface>	surface-asphalt
+<hgeokg/resource/6270577093>	<Point_pois-Adjacent-Polygon_landuse>	<hgeokg/resource/386805000>
+<hgeokg/resource/289852832>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Polygon>
+<hgeokg/resource/386805000>	<Point_transport-Adjacent-Polygon_landuse>	<hgeokg/resource/3273383624>
+<hgeokg/resource/386805000>	<Point_pois-Adjacent-Polygon_landuse>	<hgeokg/resource/1749011125>
+<hgeokg/resource/793654747>	<hgeokg/schema/gauge>	gauge-1435
+<hgeokg/resource/11305356>	<http://www.w3.org/2000/01/rdf-schema#label>	Hudson Line MT2
+<hgeokg/resource/266941954>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/BuildingHospital>
+<hgeokg/resource/105354667>	<hgeokg/schema/frequency>	frequency-0
+<hgeokg/resource/6270577083>	<http://www.w3.org/2000/01/rdf-schema#label>	Madison Av & E 106 St
+<hgeokg/resource/271220752>	<hgeokg/schema/ele>	ele-10
+<hgeokg/resource/4239987089>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/395304938>
+<hgeokg/resource/3273383624>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/PublicTransportPlatform>
+<hgeokg/resource/6949740431>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5670310>
+<hgeokg/resource/5670310>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/368046013>
+<hgeokg/resource/1749011125>	<hgeokg/schema/delivery>	delivery-yes
+<hgeokg/resource/4239987089>	<Point_transport-Adjacent-Polygon_buildings>	<hgeokg/resource/266941954>
+<hgeokg/resource/271276548>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/6920898116>
+<hgeokg/resource/271274003>	<hgeokg/schema/website>	website-http://www.elmuseo.org/
+<hgeokg/resource/3273383624>	<hgeokg/schema/covered>	covered-yes
+<hgeokg/resource/793654748>	<hgeokg/schema/operator>	operator-Metro-North Railroad
+<hgeokg/resource/7134303440>	<hgeokg/schema/operator>	operator-Citi Bike
+<hgeokg/resource/395304938>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5608379195>
+<hgeokg/resource/793654747>	<Line_railway-Adjacent-Point_pois>	<hgeokg/resource/225188061>
+<hgeokg/resource/793654747>	<hgeokg/schema/operator>	operator-Metro-North Railroad
+<hgeokg/resource/793654758>	<hgeokg/schema/bridgeName>	bridgeName-Park Avenue Viaduct
+<hgeokg/resource/266941945>	<hgeokg/schema/gnisFeatureId>	gnisFeatureId-2083570
+<hgeokg/resource/6270577083>	<hgeokg/schema/wheelchair>	wheelchair-yes
+<hgeokg/resource/6920898116>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/271276548>
+<hgeokg/resource/271220755>	<hgeokg/schema/ele>	ele-8
+<hgeokg/resource/6949740431>	<hgeokg/schema/tactilePaving>	tactilePaving-no
+<hgeokg/resource/541332223>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/6055272196>	<hgeokg/schema/takeaway>	takeaway-yes
+<hgeokg/resource/1749011123>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6270577093>
+<hgeokg/resource/11305356>	<hgeokg/schema/electrified>	electrified-rail
+<hgeokg/resource/5672901>	<hgeokg/schema/access>	access-private
+<hgeokg/resource/271274003>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/541332223>
+<hgeokg/resource/793654748>	<hgeokg/schema/bridgeName>	bridgeName-Park Avenue Viaduct
+<hgeokg/resource/6340323785>	<Point_pois-Within-Polygon_landuse>	<hgeokg/resource/386805000>
+<hgeokg/resource/541332223>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5670310>
+<hgeokg/resource/793654758>	<Line_railway-Adjacent-Line_railway>	<hgeokg/resource/793654748>
+<hgeokg/resource/6949740431>	<hgeokg/schema/operator>	operator-Metropolitan Transportation Authority
+<hgeokg/resource/6270577083>	<hgeokg/schema/bench>	bench-yes
+<hgeokg/resource/541332223>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/6949740431>
+<hgeokg/resource/266941953>	<Point_transport-Adjacent-Polygon_buildings>	<hgeokg/resource/6270647890>
+<hgeokg/resource/5671302>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/266941954>
+<hgeokg/resource/271220767>	<Point_pois-Intersect-Polygon_buildings>	<hgeokg/resource/395304938>
+<hgeokg/resource/395304938>	<Line_roads-Intersect-Point_pois>	<hgeokg/resource/5670748>
+<hgeokg/resource/289852832>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/5670748>
+<hgeokg/resource/5670748>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5608379195>
+<hgeokg/resource/6378863066>	<http://www.w3.org/2000/01/rdf-schema#label>	USPS
+<hgeokg/resource/225188061>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/1749011125>
+<hgeokg/resource/266941946>	<Polygon_buildings-Intersect-Polygon_buildings>	<hgeokg/resource/266941954>
+<hgeokg/resource/266941946>	<Point_transport-Adjacent-Polygon_buildings>	<hgeokg/resource/6270647890>
+<hgeokg/resource/105354667>	<Point_pois-Adjacent-Line_railway>	<hgeokg/resource/6340323785>
+<hgeokg/resource/793654747>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/5671302>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/395304938>	<hgeokg/schema/website>	website-http://www.mountsinai.org/locations/mount-sinai
+<hgeokg/resource/266941953>	<hgeokg/schema/startDate>	startDate-1997
+<hgeokg/resource/395304938>	<hgeokg/schema/openingHours>	openingHours-24/7
+<hgeokg/resource/225188061>	<Point_pois-Intersect-Polygon_landuse>	<hgeokg/resource/386805000>
+<hgeokg/resource/6949740431>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/1749011125>
+<hgeokg/resource/266941954>	<Polygon_buildings-Adjacent-Polygon_buildings>	<hgeokg/resource/266941953>
+<hgeokg/resource/6270577093>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>

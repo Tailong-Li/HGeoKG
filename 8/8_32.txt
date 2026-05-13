@@ -1,0 +1,178 @@
+<hgeokg/resource/5873350359>	<hgeokg/schema/routeRef>	routeRef-M31
+<hgeokg/resource/56577925>	<hgeokg/schema/lit>	lit-yes
+<hgeokg/resource/5673307>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6344107332>
+<hgeokg/resource/5599078213>	<hgeokg/schema/wheelchair>	wheelchair-yes
+<hgeokg/resource/478478416>	<hgeokg/schema/oneway>	oneway-no
+<hgeokg/resource/2357937242>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Bank>
+<hgeokg/resource/195743313>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/421853953>
+<hgeokg/resource/6344107332>	<hgeokg/schema/phone>	phone-+1-212-717-5100
+<hgeokg/resource/421853953>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/56577925>
+<hgeokg/resource/3144066340>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/AmenitySchool>
+<hgeokg/resource/5309510958>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/421853953>
+<hgeokg/resource/5599078213>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/421853953>
+<hgeokg/resource/5673307>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/531989642>	<http://www.w3.org/2000/01/rdf-schema#label>	East 86th Street
+<hgeokg/resource/421853953>	<hgeokg/schema/cyclewayLeft>	cyclewayLeft-track
+<hgeokg/resource/5673307>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/3144066340>
+<hgeokg/resource/5599078213>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/2357937242>
+<hgeokg/resource/478478416>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/5309510958>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/PublicTransportPlatform>
+<hgeokg/resource/2357937242>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/421853953>
+<hgeokg/resource/2357937242>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5309510958>
+<hgeokg/resource/56577925>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/5309510958>	<hgeokg/schema/shelter>	shelter-yes
+<hgeokg/resource/3144066340>	<http://www.w3.org/2000/01/rdf-schema#label>	Chapin School
+<hgeokg/resource/5309510958>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/BusStop>
+<hgeokg/resource/56577925>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/421853953>
+<hgeokg/resource/6344107332>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/421853953>
+<hgeokg/resource/478478416>	<hgeokg/schema/wikipedia>	wikipedia-en:86th Street (Manhattan)
+<hgeokg/resource/56577925>	<http://www.w3.org/2000/01/rdf-schema#label>	East 84th Street
+<hgeokg/resource/531989642>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/421853953>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Primary>
+<hgeokg/resource/2357937242>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6344107332>
+<hgeokg/resource/195743313>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/56577925>
+<hgeokg/resource/6344107332>	<hgeokg/schema/fax>	fax-+1-212-879-8682
+<hgeokg/resource/5309510958>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/421853953>	<hgeokg/schema/maxspeed>	maxspeed-25 mph
+<hgeokg/resource/2357937242>	<hgeokg/schema/openingHours>	openingHours-Mo-We 09:00-15:00; Th 09:00-19:00; Fr 09:00-15:00; Sa 09:00-13:00
+<hgeokg/resource/3144066340>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/803060436>
+<hgeokg/resource/803060436>	<http://www.w3.org/2000/01/rdf-schema#label>	East End Avenue
+<hgeokg/resource/6344107332>	<hgeokg/schema/delivery>	delivery-yes
+<hgeokg/resource/56577925>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5673307>
+<hgeokg/resource/2357937242>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5673307>
+<hgeokg/resource/3144066340>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5673307>
+<hgeokg/resource/5673307>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/6344107332>	<hgeokg/schema/addrPostcode>	addrPostcode-10028
+<hgeokg/resource/5599078213>	<hgeokg/schema/brandWikidata>	brandWikidata-Q7771029
+<hgeokg/resource/531989642>	<hgeokg/schema/source>	source-Bing
+<hgeokg/resource/195743313>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/195743313>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/2357937242>
+<hgeokg/resource/5673307>	<http://www.w3.org/2000/01/rdf-schema#label>	East 85th Street
+<hgeokg/resource/195743313>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5673307>
+<hgeokg/resource/6344107332>	<hgeokg/schema/openingHours>	openingHours-Mo-Sa 10:00-22:00; Su 12:00-19:00
+<hgeokg/resource/803060436>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/478478416>
+<hgeokg/resource/531989642>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/FootwayCrossing>
+<hgeokg/resource/5873350359>	<hgeokg/schema/bus>	bus-yes
+<hgeokg/resource/5673307>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/5599078213>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5673307>
+<hgeokg/resource/195743313>	<hgeokg/schema/nameEn>	nameEn-1st Avenue
+<hgeokg/resource/5599078213>	<http://www.w3.org/2000/01/rdf-schema#label>	The UPS Store
+<hgeokg/resource/803060436>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/5309510958>	<http://www.w3.org/2000/01/rdf-schema#label>	East 86th Street & 1st Avenue
+<hgeokg/resource/2357937242>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5599078213>
+<hgeokg/resource/2357937242>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/5599078213>	<hgeokg/schema/branch>	branch-6584
+<hgeokg/resource/531989642>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/478478416>
+<hgeokg/resource/5673307>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5873350359>
+<hgeokg/resource/5599078213>	<hgeokg/schema/openingHours>	openingHours-Mo-Fr 09:00-19:00; Sa 11:00-18:00; Su 11:00-16:00
+<hgeokg/resource/6344107332>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5309510958>
+<hgeokg/resource/421853953>	<http://www.w3.org/2000/01/rdf-schema#label>	1st Avenue
+<hgeokg/resource/6344107332>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Alcohol>
+<hgeokg/resource/5599078213>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/5599078213>	<hgeokg/schema/website>	website-https://newyork-ny-6584.theupsstorelocal.com/
+<hgeokg/resource/803060436>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/531989642>
+<hgeokg/resource/478478416>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/531989642>
+<hgeokg/resource/5599078213>	<hgeokg/schema/brand>	brand-The UPS Store
+<hgeokg/resource/421853953>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/803060436>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/5673307>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/56577925>
+<hgeokg/resource/195743313>	<http://www.w3.org/2000/01/rdf-schema#label>	1st Avenue
+<hgeokg/resource/5309510958>	<hgeokg/schema/operator>	operator-MTA
+<hgeokg/resource/5599078213>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6344107332>
+<hgeokg/resource/5309510958>	<hgeokg/schema/bus>	bus-yes
+<hgeokg/resource/5673307>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/478478416>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-E
+<hgeokg/resource/5673307>	<hgeokg/schema/wikipedia>	wikipedia-en:85th Street (Manhattan)
+<hgeokg/resource/5309510958>	<hgeokg/schema/network>	network-NYC Transit
+<hgeokg/resource/531989642>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Footway>
+<hgeokg/resource/421853953>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/2357937242>
+<hgeokg/resource/56577925>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/803060436>
+<hgeokg/resource/56577925>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/3144066340>
+<hgeokg/resource/5873350359>	<http://www.w3.org/2000/01/rdf-schema#label>	York Avenue & East 86th Street
+<hgeokg/resource/2357937242>	<http://www.w3.org/2000/01/rdf-schema#label>	Ridgewood Savings Bank
+<hgeokg/resource/5309510958>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/6344107332>
+<hgeokg/resource/5673307>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/478478416>
+<hgeokg/resource/5599078213>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/195743313>
+<hgeokg/resource/195743313>	<hgeokg/schema/lanes>	lanes-5
+<hgeokg/resource/56577925>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/3144066340>	<hgeokg/schema/wikipedia>	wikipedia-en:Chapin School
+<hgeokg/resource/5873350359>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/478478416>
+<hgeokg/resource/6344107332>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5673307>
+<hgeokg/resource/6344107332>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/478478416>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5873350359>
+<hgeokg/resource/195743313>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5599078213>
+<hgeokg/resource/531989642>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5673307>
+<hgeokg/resource/5673307>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/195743313>
+<hgeokg/resource/5673307>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/803060436>
+<hgeokg/resource/5673307>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/2357937242>
+<hgeokg/resource/421853953>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6344107332>
+<hgeokg/resource/195743313>	<hgeokg/schema/maxspeed>	maxspeed-25 mph
+<hgeokg/resource/56577925>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-E
+<hgeokg/resource/421853953>	<hgeokg/schema/nameEn>	nameEn-1st Avenue
+<hgeokg/resource/803060436>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5673307>
+<hgeokg/resource/531989642>	<hgeokg/schema/crossing>	crossing-marked
+<hgeokg/resource/478478416>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/803060436>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/56577925>
+<hgeokg/resource/5599078213>	<hgeokg/schema/addrHousenumber>	addrHousenumber-1632
+<hgeokg/resource/195743313>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Primary>
+<hgeokg/resource/421853953>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5599078213>
+<hgeokg/resource/56577925>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/478478416>	<hgeokg/schema/hgv>	hgv-local
+<hgeokg/resource/5673307>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-E
+<hgeokg/resource/6344107332>	<hgeokg/schema/website>	website-https://www.yorkshirewines.com/
+<hgeokg/resource/3144066340>	<hgeokg/schema/addrPostcode>	addrPostcode-10028
+<hgeokg/resource/421853953>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5309510958>
+<hgeokg/resource/803060436>	<hgeokg/schema/wikipedia>	wikipedia-en:Avenue B (Manhattan)
+<hgeokg/resource/5673307>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/531989642>
+<hgeokg/resource/5599078213>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/PostOffice>
+<hgeokg/resource/5309510958>	<hgeokg/schema/bench>	bench-yes
+<hgeokg/resource/2357937242>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/195743313>
+<hgeokg/resource/5599078213>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/56577925>
+<hgeokg/resource/421853953>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5673307>
+<hgeokg/resource/195743313>	<hgeokg/schema/nameRu>	nameRu-1-я Авеню
+<hgeokg/resource/3144066340>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/421853953>	<hgeokg/schema/lanes>	lanes-4
+<hgeokg/resource/5599078213>	<hgeokg/schema/email>	email-store6584@theupsstore.com
+<hgeokg/resource/5599078213>	<hgeokg/schema/phone>	phone-(212) 737-9700
+<hgeokg/resource/5599078213>	<hgeokg/schema/brandWikipedia>	brandWikipedia-en:The UPS Store
+<hgeokg/resource/531989642>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/803060436>
+<hgeokg/resource/6344107332>	<hgeokg/schema/addrHousenumber>	addrHousenumber-1646
+<hgeokg/resource/5673307>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5599078213>
+<hgeokg/resource/195743313>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/478478416>	<http://www.w3.org/2000/01/rdf-schema#label>	East 86th Street
+<hgeokg/resource/195743313>	<hgeokg/schema/cyclewayLeft>	cyclewayLeft-shared_lane
+<hgeokg/resource/5873350359>	<hgeokg/schema/passengerInformationDisplay>	passengerInformationDisplay-yes
+<hgeokg/resource/6344107332>	<http://www.w3.org/2000/01/rdf-schema#label>	Yorkshire Wines & Spirits
+<hgeokg/resource/803060436>	<hgeokg/schema/oldName>	oldName-Avenue B
+<hgeokg/resource/5309510958>	<hgeokg/schema/networkWikidata>	networkWikidata-Q1325591
+<hgeokg/resource/5673307>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5309510958>
+<hgeokg/resource/803060436>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/3144066340>
+<hgeokg/resource/56577925>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/195743313>	<hgeokg/schema/hgv>	hgv-local
+<hgeokg/resource/5873350359>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/BusStop>
+<hgeokg/resource/5873350359>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/PublicTransportPlatform>
+<hgeokg/resource/6344107332>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5599078213>
+<hgeokg/resource/478478416>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/56577925>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/195743313>
+<hgeokg/resource/5873350359>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/6344107332>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/195743313>
+<hgeokg/resource/56577925>	<hgeokg/schema/surface>	surface-asphalt
+<hgeokg/resource/5309510958>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/2357937242>
+<hgeokg/resource/5309510958>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5673307>
+<hgeokg/resource/5873350359>	<hgeokg/schema/shelter>	shelter-no
+<hgeokg/resource/803060436>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/56577925>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5599078213>
+<hgeokg/resource/421853953>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/195743313>
+<hgeokg/resource/5673307>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/421853953>
+<hgeokg/resource/5873350359>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5673307>
+<hgeokg/resource/3144066340>	<hgeokg/schema/addrHousenumber>	addrHousenumber-102
+<hgeokg/resource/5873350359>	<hgeokg/schema/bench>	bench-yes
+<hgeokg/resource/3144066340>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/56577925>
+<hgeokg/resource/421853953>	<hgeokg/schema/nameRu>	nameRu-1-я Авеню
+<hgeokg/resource/6344107332>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/2357937242>
+<hgeokg/resource/478478416>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/803060436>
+<hgeokg/resource/5309510958>	<hgeokg/schema/routeRef>	routeRef-M86SBS
+<hgeokg/resource/421853953>	<hgeokg/schema/hgv>	hgv-local
+<hgeokg/resource/421853953>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/195743313>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6344107332>
+<hgeokg/resource/478478416>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5673307>

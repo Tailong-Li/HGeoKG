@@ -1,0 +1,118 @@
+<hgeokg/resource/275099148>	<hgeokg/schema/addrHousenumber>	addrHousenumber-2501
+<hgeokg/resource/3105305>	<Line_roads-Intersect-Point_pois>	<hgeokg/resource/5670438>
+<hgeokg/resource/469101348>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/275099144>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/469101348>
+<hgeokg/resource/5670438>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-W
+<hgeokg/resource/469101347>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/420874480>
+<hgeokg/resource/275099208>	<http://www.w3.org/2000/01/rdf-schema#label>	Morgenstern Residence Hall
+<hgeokg/resource/3105305>	<Point_pois-Intersect-Polygon_buildings>	<hgeokg/resource/275099151>
+<hgeokg/resource/469101347>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/275099148>
+<hgeokg/resource/3105305>	<Point_pois-Intersect-Polygon_buildings>	<hgeokg/resource/275099148>
+<hgeokg/resource/469101347>	<Point_pois-Intersect-Point_pois>	<hgeokg/resource/3105305>
+<hgeokg/resource/275099144>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/469101347>
+<hgeokg/resource/3105305>	<Line_roads-Intersect-Point_pois>	<hgeokg/resource/420874480>
+<hgeokg/resource/469101347>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Park>
+<hgeokg/resource/275099144>	<hgeokg/schema/addrHousenumber>	addrHousenumber-2495
+<hgeokg/resource/469101348>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/275099144>
+<hgeokg/resource/5670438>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/275099144>	<hgeokg/schema/addrPostcode>	addrPostcode-10033
+<hgeokg/resource/275099151>	<hgeokg/schema/addrHousenumber>	addrHousenumber-2521
+<hgeokg/resource/469101347>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/469101348>
+<hgeokg/resource/275099148>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/469101348>
+<hgeokg/resource/745675478>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/SharedLane>
+<hgeokg/resource/275099144>	<hgeokg/schema/height>	height-76.7
+<hgeokg/resource/275099148>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/469101347>
+<hgeokg/resource/275099148>	<http://www.w3.org/2000/01/rdf-schema#label>	Max Stern Athletic Center
+<hgeokg/resource/469101348>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Park>
+<hgeokg/resource/275099144>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Polygon>
+<hgeokg/resource/5384045093>	<http://www.w3.org/2000/01/rdf-schema#label>	Amsterdam Avenue & West 187th Street
+<hgeokg/resource/469101347>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/275099151>
+<hgeokg/resource/275099208>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Polygon>
+<hgeokg/resource/275099148>	<Polygon_buildings-Adjacent-Polygon_buildings>	<hgeokg/resource/275099144>
+<hgeokg/resource/469101348>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/275099151>
+<hgeokg/resource/5384045093>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/3105305>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/275099208>	<Polygon_buildings-Adjacent-Polygon_buildings>	<hgeokg/resource/275099148>
+<hgeokg/resource/275099151>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/469101348>
+<hgeokg/resource/275099148>	<Point_pois-Intersect-Polygon_buildings>	<hgeokg/resource/3105305>
+<hgeokg/resource/275099148>	<hgeokg/schema/height>	height-19.4
+<hgeokg/resource/3105305>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5384045093>
+<hgeokg/resource/745675478>	<Line_roads-Intersect-Point_pois>	<hgeokg/resource/3105305>
+<hgeokg/resource/420874480>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/275099148>	<Polygon_buildings-Adjacent-Polygon_buildings>	<hgeokg/resource/275099208>
+<hgeokg/resource/420874480>	<http://www.w3.org/2000/01/rdf-schema#label>	Amsterdam Avenue
+<hgeokg/resource/745675478>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/420874480>
+<hgeokg/resource/5384045093>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5670438>
+<hgeokg/resource/275099148>	<Polygon_buildings-Adjacent-Polygon_buildings>	<hgeokg/resource/275099151>
+<hgeokg/resource/275099208>	<hgeokg/schema/height>	height-24.5
+<hgeokg/resource/275099208>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/469101348>
+<hgeokg/resource/275099144>	<Polygon_buildings-Adjacent-Polygon_buildings>	<hgeokg/resource/275099151>
+<hgeokg/resource/275099144>	<hgeokg/schema/nycdoittBin>	nycdoittBin-1063580
+<hgeokg/resource/3105305>	<Point_pois-Intersect-Point_pois>	<hgeokg/resource/469101348>
+<hgeokg/resource/275099208>	<hgeokg/schema/nycdoittBin>	nycdoittBin-1063582
+<hgeokg/resource/5384045093>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/BusStop>
+<hgeokg/resource/469101348>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/275099208>
+<hgeokg/resource/275099151>	<Polygon_buildings-Adjacent-Polygon_buildings>	<hgeokg/resource/275099148>
+<hgeokg/resource/420874480>	<hgeokg/schema/wikipedia>	wikipedia-en:Tenth Avenue (Manhattan)
+<hgeokg/resource/5384045093>	<hgeokg/schema/bench>	bench-no
+<hgeokg/resource/5384045093>	<hgeokg/schema/lit>	lit-yes
+<hgeokg/resource/469101347>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/275099144>
+<hgeokg/resource/469101348>	<http://www.w3.org/2000/01/rdf-schema#label>	Danciger Quadrangle
+<hgeokg/resource/5670438>	<Line_roads-Intersect-Point_pois>	<hgeokg/resource/3105305>
+<hgeokg/resource/420874480>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/469101347>
+<hgeokg/resource/420874480>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Secondary>
+<hgeokg/resource/745675478>	<http://www.w3.org/2000/01/rdf-schema#label>	Amsterdam Avenue
+<hgeokg/resource/275099151>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Polygon>
+<hgeokg/resource/275099144>	<http://www.w3.org/2000/01/rdf-schema#label>	Belfer Hall
+<hgeokg/resource/469101347>	<http://www.w3.org/2000/01/rdf-schema#label>	Tenzer Garden
+<hgeokg/resource/745675478>	<hgeokg/schema/surface>	surface-asphalt
+<hgeokg/resource/5670438>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/745675478>	<hgeokg/schema/lanes>	lanes-4
+<hgeokg/resource/3105305>	<http://www.w3.org/2000/01/rdf-schema#label>	Yeshiva University - Wilf Campus
+<hgeokg/resource/5384045093>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/3105305>
+<hgeokg/resource/469101347>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/275099208>
+<hgeokg/resource/275099151>	<Polygon_buildings-Adjacent-Polygon_buildings>	<hgeokg/resource/275099144>
+<hgeokg/resource/420874480>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/275099144>
+<hgeokg/resource/275099208>	<Polygon_buildings-Intersect-Polygon_buildings>	<hgeokg/resource/275099151>
+<hgeokg/resource/3105305>	<Point_pois-Intersect-Polygon_buildings>	<hgeokg/resource/275099208>
+<hgeokg/resource/275099151>	<hgeokg/schema/height>	height-12.1
+<hgeokg/resource/420874480>	<hgeokg/schema/surface>	surface-asphalt
+<hgeokg/resource/275099151>	<Polygon_buildings-Intersect-Polygon_buildings>	<hgeokg/resource/275099208>
+<hgeokg/resource/3105305>	<Point_pois-Intersect-Point_pois>	<hgeokg/resource/469101347>
+<hgeokg/resource/275099148>	<hgeokg/schema/addrPostcode>	addrPostcode-10033
+<hgeokg/resource/3105305>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/AmenityUniversity>
+<hgeokg/resource/275099151>	<hgeokg/schema/nycdoittBin>	nycdoittBin-1081871
+<hgeokg/resource/420874480>	<Line_roads-Intersect-Point_pois>	<hgeokg/resource/3105305>
+<hgeokg/resource/469101348>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/275099148>
+<hgeokg/resource/3105305>	<hgeokg/schema/type>	type-multipolygon
+<hgeokg/resource/275099144>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/420874480>
+<hgeokg/resource/420874480>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/745675478>
+<hgeokg/resource/275099144>	<Polygon_buildings-Adjacent-Polygon_buildings>	<hgeokg/resource/275099148>
+<hgeokg/resource/275099144>	<Point_pois-Intersect-Polygon_buildings>	<hgeokg/resource/3105305>
+<hgeokg/resource/275099151>	<Point_pois-Intersect-Polygon_buildings>	<hgeokg/resource/3105305>
+<hgeokg/resource/3105305>	<Line_roads-Intersect-Point_pois>	<hgeokg/resource/745675478>
+<hgeokg/resource/420874480>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/275099148>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Polygon>
+<hgeokg/resource/5384045093>	<hgeokg/schema/shelter>	shelter-no
+<hgeokg/resource/5384045093>	<hgeokg/schema/routeRef>	routeRef-M101
+<hgeokg/resource/469101348>	<Point_pois-Intersect-Point_pois>	<hgeokg/resource/3105305>
+<hgeokg/resource/5670438>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/745675478>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/5670438>	<http://www.w3.org/2000/01/rdf-schema#label>	West 187th Street
+<hgeokg/resource/420874480>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/SharedLane>
+<hgeokg/resource/5384045093>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/PublicTransportPlatform>
+<hgeokg/resource/275099148>	<hgeokg/schema/fixme>	fixme-name?
+<hgeokg/resource/275099208>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/469101347>
+<hgeokg/resource/5670438>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5384045093>
+<hgeokg/resource/275099208>	<Point_pois-Intersect-Polygon_buildings>	<hgeokg/resource/3105305>
+<hgeokg/resource/5384045093>	<hgeokg/schema/bus>	bus-yes
+<hgeokg/resource/745675478>	<hgeokg/schema/wikipedia>	wikipedia-en:Tenth Avenue (Manhattan)
+<hgeokg/resource/3105305>	<Point_pois-Intersect-Polygon_buildings>	<hgeokg/resource/275099144>
+<hgeokg/resource/745675478>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Secondary>
+<hgeokg/resource/745675478>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/469101347>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/275099151>	<hgeokg/schema/addrPostcode>	addrPostcode-10033
+<hgeokg/resource/275099148>	<hgeokg/schema/nycdoittBin>	nycdoittBin-1081872
+<hgeokg/resource/275099151>	<http://www.w3.org/2000/01/rdf-schema#label>	Strenger Residence Hall
+<hgeokg/resource/469101348>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/469101347>
+<hgeokg/resource/275099151>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/469101347>

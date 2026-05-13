@@ -1,0 +1,170 @@
+<hgeokg/resource/452339698>	<hgeokg/schema/wikipedia>	wikipedia-en:Henry Street (Manhattan)
+<hgeokg/resource/739591695>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/364262683>
+<hgeokg/resource/739591695>	<hgeokg/schema/oneway>	oneway-no
+<hgeokg/resource/440122889>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/730300445>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/46154286>
+<hgeokg/resource/739591695>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/317348442>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/46154286>
+<hgeokg/resource/5670888>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/440122889>
+<hgeokg/resource/452339698>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/364262683>
+<hgeokg/resource/730300445>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/440122889>	<hgeokg/schema/cyclewayLeft>	cyclewayLeft-track
+<hgeokg/resource/450896752>	<http://www.w3.org/2000/01/rdf-schema#label>	Clinton Street
+<hgeokg/resource/452339697>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/730300445>
+<hgeokg/resource/263088941>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/730300445>
+<hgeokg/resource/452339698>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/730300445>
+<hgeokg/resource/317348442>	<Point_pois-Intersect-Point_pois>	<hgeokg/resource/317349867>
+<hgeokg/resource/739591695>	<http://www.w3.org/2000/01/rdf-schema#label>	Madison Street
+<hgeokg/resource/5670888>	<http://www.w3.org/2000/01/rdf-schema#label>	Clinton Street
+<hgeokg/resource/46154286>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/317349867>	<Point_pois-Intersect-Point_pois>	<hgeokg/resource/317348442>
+<hgeokg/resource/452339698>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/278255525>
+<hgeokg/resource/317348442>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/440122889>
+<hgeokg/resource/739591695>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/278255525>
+<hgeokg/resource/739591695>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/452339698>
+<hgeokg/resource/739591695>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/452339697>
+<hgeokg/resource/730300445>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/278255525>
+<hgeokg/resource/263088941>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/452339697>
+<hgeokg/resource/5670888>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/739591695>
+<hgeokg/resource/278255525>	<hgeokg/schema/height>	height-13.8
+<hgeokg/resource/317348442>	<http://www.w3.org/2000/01/rdf-schema#label>	Public School 137
+<hgeokg/resource/440122889>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayService>
+<hgeokg/resource/730300445>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/317348442>
+<hgeokg/resource/730300445>	<http://www.w3.org/2000/01/rdf-schema#label>	Montgomery Street
+<hgeokg/resource/450896752>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/364262683>
+<hgeokg/resource/440122889>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/317349867>
+<hgeokg/resource/5670888>	<hgeokg/schema/surface>	surface-asphalt
+<hgeokg/resource/730300445>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/364262683>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/450896752>
+<hgeokg/resource/317349867>	<http://www.w3.org/2000/01/rdf-schema#label>	Clinton Cherry Playground
+<hgeokg/resource/364262683>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/739591695>
+<hgeokg/resource/46154286>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Primary>
+<hgeokg/resource/278255525>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/BuildingSchool>
+<hgeokg/resource/452339698>	<hgeokg/schema/lit>	lit-yes
+<hgeokg/resource/452339697>	<hgeokg/schema/surface>	surface-asphalt
+<hgeokg/resource/730300445>	<hgeokg/schema/lanes>	lanes-2
+<hgeokg/resource/452339698>	<hgeokg/schema/maxspeed>	maxspeed-25 mph
+<hgeokg/resource/364262683>	<Point_pois-Intersect-Polygon_buildings>	<hgeokg/resource/278255525>
+<hgeokg/resource/452339697>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/739591695>
+<hgeokg/resource/278255525>	<Point_pois-Intersect-Polygon_buildings>	<hgeokg/resource/364262683>
+<hgeokg/resource/317348442>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/AmenitySchool>
+<hgeokg/resource/739591695>	<hgeokg/schema/maxspeed>	maxspeed-25 mph
+<hgeokg/resource/263088941>	<hgeokg/schema/lanes>	lanes-2
+<hgeokg/resource/263088941>	<hgeokg/schema/cyclewayRight>	cyclewayRight-lane
+<hgeokg/resource/364262683>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/452339697>
+<hgeokg/resource/263088941>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/452339698>
+<hgeokg/resource/263088941>	<hgeokg/schema/surface>	surface-asphalt
+<hgeokg/resource/263088941>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/739591695>
+<hgeokg/resource/452339697>	<hgeokg/schema/foot>	foot-use_sidepath
+<hgeokg/resource/452339697>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/364262683>	<http://www.w3.org/2000/01/rdf-schema#label>	Corlears Junior High School
+<hgeokg/resource/450896752>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/739591695>
+<hgeokg/resource/5670888>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/739591695>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/CyclewayLane>
+<hgeokg/resource/263088941>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/364262683>
+<hgeokg/resource/440122889>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5670888>
+<hgeokg/resource/730300445>	<hgeokg/schema/surface>	surface-asphalt
+<hgeokg/resource/450896752>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/278255525>
+<hgeokg/resource/46154286>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/263088941>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/5670888>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/278255525>
+<hgeokg/resource/450896752>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/440122889>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/317348442>
+<hgeokg/resource/452339698>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/46154286>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/730300445>
+<hgeokg/resource/278255525>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/263088941>
+<hgeokg/resource/46154286>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/317348442>
+<hgeokg/resource/263088941>	<hgeokg/schema/maxspeed>	maxspeed-25 mph
+<hgeokg/resource/730300445>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/452339698>
+<hgeokg/resource/739591695>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5670888>
+<hgeokg/resource/440122889>	<hgeokg/schema/foot>	foot-yes
+<hgeokg/resource/317348442>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5670888>
+<hgeokg/resource/364262683>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/730300445>
+<hgeokg/resource/278255525>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/5670888>
+<hgeokg/resource/452339697>	<http://www.w3.org/2000/01/rdf-schema#label>	Montgomery Street
+<hgeokg/resource/317349867>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5670888>
+<hgeokg/resource/730300445>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Secondary>
+<hgeokg/resource/452339698>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/263088941>	<hgeokg/schema/bicycle>	bicycle-yes
+<hgeokg/resource/5670888>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/317349867>
+<hgeokg/resource/450896752>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5670888>
+<hgeokg/resource/452339697>	<hgeokg/schema/maxspeed>	maxspeed-25 mph
+<hgeokg/resource/452339697>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/317349867>	<hgeokg/schema/gnisFeatureId>	gnisFeatureId-2500460
+<hgeokg/resource/364262683>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/AmenitySchool>
+<hgeokg/resource/364262683>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/452339698>
+<hgeokg/resource/450896752>	<hgeokg/schema/lanes>	lanes-1
+<hgeokg/resource/452339698>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/739591695>
+<hgeokg/resource/364262683>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/46154286>	<hgeokg/schema/maxspeed>	maxspeed-25 mph
+<hgeokg/resource/452339698>	<hgeokg/schema/surface>	surface-asphalt
+<hgeokg/resource/739591695>	<hgeokg/schema/bicycle>	bicycle-yes
+<hgeokg/resource/278255525>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/450896752>
+<hgeokg/resource/452339697>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/452339698>
+<hgeokg/resource/452339698>	<http://www.w3.org/2000/01/rdf-schema#label>	Henry Street
+<hgeokg/resource/450896752>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/5670888>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/317348442>
+<hgeokg/resource/440122889>	<http://www.w3.org/2000/01/rdf-schema#label>	Clinton Street
+<hgeokg/resource/364262683>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5670888>
+<hgeokg/resource/730300445>	<hgeokg/schema/maxspeed>	maxspeed-25 mph
+<hgeokg/resource/317348442>	<hgeokg/schema/ele>	ele-6
+<hgeokg/resource/730300445>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/739591695>
+<hgeokg/resource/5670888>	<hgeokg/schema/lanes>	lanes-1
+<hgeokg/resource/450896752>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/5670888>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/730300445>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/263088941>
+<hgeokg/resource/450896752>	<hgeokg/schema/cyclewayLeft>	cyclewayLeft-lane
+<hgeokg/resource/317349867>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/440122889>
+<hgeokg/resource/46154286>	<hgeokg/schema/wikipedia>	wikipedia-en:South Street (Manhattan)
+<hgeokg/resource/739591695>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/450896752>
+<hgeokg/resource/730300445>	<hgeokg/schema/bicycle>	bicycle-yes
+<hgeokg/resource/317348442>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/452339697>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/364262683>
+<hgeokg/resource/263088941>	<http://www.w3.org/2000/01/rdf-schema#label>	Montgomery Street
+<hgeokg/resource/263088941>	<hgeokg/schema/cyclewayLeft>	cyclewayLeft-track
+<hgeokg/resource/739591695>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/730300445>
+<hgeokg/resource/278255525>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/730300445>
+<hgeokg/resource/317348442>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/730300445>
+<hgeokg/resource/317348442>	<hgeokg/schema/gnisFeatureId>	gnisFeatureId-2083953
+<hgeokg/resource/364262683>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/263088941>
+<hgeokg/resource/46154286>	<hgeokg/schema/surface>	surface-asphalt
+<hgeokg/resource/5670888>	<hgeokg/schema/cyclewayLeft>	cyclewayLeft-track
+<hgeokg/resource/278255525>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Polygon>
+<hgeokg/resource/263088941>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/278255525>
+<hgeokg/resource/730300445>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/364262683>
+<hgeokg/resource/5670888>	<hgeokg/schema/maxspeed>	maxspeed-25 mph
+<hgeokg/resource/317349867>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/5670888>	<hgeokg/schema/onewayBicycle>	onewayBicycle-no
+<hgeokg/resource/452339698>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/452339697>
+<hgeokg/resource/5670888>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/278255525>	<hgeokg/schema/addrHousenumber>	addrHousenumber-220
+<hgeokg/resource/450896752>	<hgeokg/schema/maxspeed>	maxspeed-25 mph
+<hgeokg/resource/263088941>	<hgeokg/schema/foot>	foot-use_sidepath
+<hgeokg/resource/263088941>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Secondary>
+<hgeokg/resource/46154286>	<http://www.w3.org/2000/01/rdf-schema#label>	South Street
+<hgeokg/resource/263088941>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/739591695>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/5670888>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/364262683>
+<hgeokg/resource/278255525>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/739591695>
+<hgeokg/resource/278255525>	<hgeokg/schema/addrPostcode>	addrPostcode-10002
+<hgeokg/resource/452339697>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/278255525>
+<hgeokg/resource/730300445>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/452339697>
+<hgeokg/resource/278255525>	<http://www.w3.org/2000/01/rdf-schema#label>	Junior High School 56
+<hgeokg/resource/317349867>	<hgeokg/schema/ele>	ele-5
+<hgeokg/resource/5670888>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/450896752>
+<hgeokg/resource/278255525>	<hgeokg/schema/nycdoittBin>	nycdoittBin-1003223
+<hgeokg/resource/452339698>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/730300445>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/CyclewayLane>
+<hgeokg/resource/452339697>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/278255525>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/452339697>
+<hgeokg/resource/46154286>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/739591695>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/263088941>
+<hgeokg/resource/450896752>	<hgeokg/schema/onewayBicycle>	onewayBicycle-no
+<hgeokg/resource/452339698>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/263088941>
+<hgeokg/resource/739591695>	<hgeokg/schema/surface>	surface-asphalt
+<hgeokg/resource/317349867>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Playground>
+<hgeokg/resource/739591695>	<hgeokg/schema/wikipedia>	wikipedia-en:Madison Street (Manhattan)
+<hgeokg/resource/452339697>	<hgeokg/schema/lit>	lit-yes
+<hgeokg/resource/46154286>	<hgeokg/schema/hgv>	hgv-destination
+<hgeokg/resource/452339697>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/263088941>
+<hgeokg/resource/278255525>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/452339698>

@@ -1,0 +1,145 @@
+<hgeokg/resource/6899386345>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Pharmacy>
+<hgeokg/resource/357621351>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6899386345>
+<hgeokg/resource/6001869972>	<hgeokg/schema/bench>	bench-no
+<hgeokg/resource/6001375861>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/6001869972>
+<hgeokg/resource/6217812888>	<http://www.w3.org/2000/01/rdf-schema#label>	USPS
+<hgeokg/resource/4969057543>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5670261>
+<hgeokg/resource/6217812888>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/46693868>
+<hgeokg/resource/6001370411>	<hgeokg/schema/operatorType>	operatorType-public
+<hgeokg/resource/46693868>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/357621351>
+<hgeokg/resource/5670261>	<hgeokg/schema/lanes>	lanes-1
+<hgeokg/resource/46693868>	<hgeokg/schema/onewayBicycle>	onewayBicycle-no
+<hgeokg/resource/664315722>	<http://www.w3.org/2000/01/rdf-schema#label>	Lovina House
+<hgeokg/resource/664315722>	<hgeokg/schema/addrPostcode>	addrPostcode-10029
+<hgeokg/resource/6001375861>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5670261>
+<hgeokg/resource/357621351>	<hgeokg/schema/addrPostcode>	addrPostcode-10029
+<hgeokg/resource/6001370411>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5670261>
+<hgeokg/resource/6001370411>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/664315722>
+<hgeokg/resource/4969057544>	<hgeokg/schema/addrHousenumber>	addrHousenumber-83
+<hgeokg/resource/4969057543>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/6680630112>	<hgeokg/schema/brand>	brand-USPS
+<hgeokg/resource/6217812888>	<hgeokg/schema/operatorType>	operatorType-public
+<hgeokg/resource/46693868>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/6899386345>	<hgeokg/schema/dispensing>	dispensing-yes
+<hgeokg/resource/5670261>	<hgeokg/schema/bicycle>	bicycle-yes
+<hgeokg/resource/46693868>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/7022680977>
+<hgeokg/resource/6899386345>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/7022680977>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/46693868>
+<hgeokg/resource/6680630112>	<http://www.w3.org/2000/01/rdf-schema#label>	USPS
+<hgeokg/resource/6001370411>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6001375861>
+<hgeokg/resource/6899386345>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/7022680977>
+<hgeokg/resource/5670261>	<http://www.w3.org/2000/01/rdf-schema#label>	East 110th Street
+<hgeokg/resource/6001370411>	<hgeokg/schema/brand>	brand-USPS
+<hgeokg/resource/6680630112>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6001370411>
+<hgeokg/resource/5670261>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/46693868>	<hgeokg/schema/maxspeed>	maxspeed-25 mph
+<hgeokg/resource/6001375861>	<hgeokg/schema/organic>	organic-yes
+<hgeokg/resource/664315722>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/6001370411>
+<hgeokg/resource/6001869972>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/6001370411>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/PostBox>
+<hgeokg/resource/4969057543>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Convenience>
+<hgeokg/resource/6217812888>	<hgeokg/schema/brandWikipedia>	brandWikipedia-en:United States Postal Service
+<hgeokg/resource/6001869972>	<http://www.w3.org/2000/01/rdf-schema#label>	Madison Avenue & East 111th Street
+<hgeokg/resource/6001370411>	<hgeokg/schema/operatorWikipedia>	operatorWikipedia-en:United States Postal Service
+<hgeokg/resource/4969057544>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/4969057543>
+<hgeokg/resource/7022680977>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6899386345>
+<hgeokg/resource/6217812888>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/357621351>
+<hgeokg/resource/5670261>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/4969057543>
+<hgeokg/resource/46693868>	<hgeokg/schema/wikipedia>	wikipedia-en:110th Street (Manhattan)
+<hgeokg/resource/6217812888>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/PostBox>
+<hgeokg/resource/664315722>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/4969057544>
+<hgeokg/resource/5670261>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6001375861>
+<hgeokg/resource/7022680977>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6217812888>
+<hgeokg/resource/6001869972>	<hgeokg/schema/bus>	bus-yes
+<hgeokg/resource/5670261>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/664315722>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Polygon>
+<hgeokg/resource/5670261>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/6217812888>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/6680630112>	<hgeokg/schema/operator>	operator-United States Postal Service
+<hgeokg/resource/5670261>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6001370411>
+<hgeokg/resource/46693868>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6001375861>
+<hgeokg/resource/46693868>	<hgeokg/schema/cyclewayLeft>	cyclewayLeft-lane
+<hgeokg/resource/46693868>	<hgeokg/schema/lit>	lit-yes
+<hgeokg/resource/357621351>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/46693868>
+<hgeokg/resource/6001370411>	<hgeokg/schema/brandWikidata>	brandWikidata-Q668687
+<hgeokg/resource/46693868>	<hgeokg/schema/lanes>	lanes-1
+<hgeokg/resource/5670261>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/46693868>
+<hgeokg/resource/6001375861>	<hgeokg/schema/airConditioning>	airConditioning-yes
+<hgeokg/resource/7022680977>	<http://www.w3.org/2000/01/rdf-schema#label>	Maxwell’s
+<hgeokg/resource/46693868>	<http://www.w3.org/2000/01/rdf-schema#label>	East 110th Street
+<hgeokg/resource/6680630112>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/6680630112>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/PostBox>
+<hgeokg/resource/6001370411>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/6001869972>
+<hgeokg/resource/6001375861>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/ShopSupermarket>
+<hgeokg/resource/6001869972>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/BusStop>
+<hgeokg/resource/4969057544>	<http://www.w3.org/2000/01/rdf-schema#label>	S & J Laundromat
+<hgeokg/resource/6001375861>	<hgeokg/schema/wheelchair>	wheelchair-yes
+<hgeokg/resource/4969057543>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/664315722>
+<hgeokg/resource/5670261>	<hgeokg/schema/wikipedia>	wikipedia-en:110th Street (Manhattan)
+<hgeokg/resource/5670261>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/6001375861>	<hgeokg/schema/addrHousenumber>	addrHousenumber-1660
+<hgeokg/resource/6001370411>	<hgeokg/schema/brandWikipedia>	brandWikipedia-en:United States Postal Service
+<hgeokg/resource/6217812888>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/7022680977>
+<hgeokg/resource/4969057544>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/6680630112>	<hgeokg/schema/operatorType>	operatorType-public
+<hgeokg/resource/5670261>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/4969057544>
+<hgeokg/resource/664315722>	<hgeokg/schema/addrState>	addrState-NY
+<hgeokg/resource/46693868>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5670261>
+<hgeokg/resource/46693868>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/6217812888>	<hgeokg/schema/operator>	operator-United States Postal Service
+<hgeokg/resource/6001370411>	<http://www.w3.org/2000/01/rdf-schema#label>	USPS
+<hgeokg/resource/664315722>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Apartments>
+<hgeokg/resource/46693868>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-E
+<hgeokg/resource/664315722>	<hgeokg/schema/phone>	phone-+1-917-406-3123
+<hgeokg/resource/46693868>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/6680630112>	<hgeokg/schema/operatorWikipedia>	operatorWikipedia-en:United States Postal Service
+<hgeokg/resource/46693868>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6217812888>
+<hgeokg/resource/6680630112>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/6001869972>
+<hgeokg/resource/357621351>	<hgeokg/schema/ele>	ele-6
+<hgeokg/resource/6001370411>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/6001375861>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6001370411>
+<hgeokg/resource/6001375861>	<hgeokg/schema/internetAccess>	internetAccess-no
+<hgeokg/resource/664315722>	<hgeokg/schema/website>	website-https://www.lovinahouse.com/
+<hgeokg/resource/4969057544>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5670261>
+<hgeokg/resource/6001370411>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6680630112>
+<hgeokg/resource/5670261>	<hgeokg/schema/cyclewayLeft>	cyclewayLeft-lane
+<hgeokg/resource/6001869972>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/6680630112>
+<hgeokg/resource/357621351>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/7022680977>
+<hgeokg/resource/357621351>	<hgeokg/schema/gnisFeatureId>	gnisFeatureId-2083884
+<hgeokg/resource/664315722>	<hgeokg/schema/addrHousenumber>	addrHousenumber-71
+<hgeokg/resource/4969057543>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/4969057544>
+<hgeokg/resource/7022680977>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Bar>
+<hgeokg/resource/6001869972>	<hgeokg/schema/routeRef>	routeRef-M1;M1ltd
+<hgeokg/resource/357621351>	<http://www.w3.org/2000/01/rdf-schema#label>	Northside Center Day School
+<hgeokg/resource/6217812888>	<hgeokg/schema/brand>	brand-USPS
+<hgeokg/resource/6001869972>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/6001370411>
+<hgeokg/resource/357621351>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/AmenitySchool>
+<hgeokg/resource/4969057544>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Laundry>
+<hgeokg/resource/6217812888>	<hgeokg/schema/brandWikidata>	brandWikidata-Q668687
+<hgeokg/resource/6899386345>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/357621351>
+<hgeokg/resource/46693868>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/357621351>	<hgeokg/schema/addrHousenumber>	addrHousenumber-1302
+<hgeokg/resource/6680630112>	<hgeokg/schema/brandWikidata>	brandWikidata-Q668687
+<hgeokg/resource/6001375861>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/6680630112>	<hgeokg/schema/brandWikipedia>	brandWikipedia-en:United States Postal Service
+<hgeokg/resource/6899386345>	<http://www.w3.org/2000/01/rdf-schema#label>	5th Avenue Pharmacy
+<hgeokg/resource/46693868>	<hgeokg/schema/surface>	surface-asphalt
+<hgeokg/resource/6001869972>	<hgeokg/schema/shelter>	shelter-no
+<hgeokg/resource/7022680977>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/357621351>
+<hgeokg/resource/7022680977>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/5670261>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/664315722>
+<hgeokg/resource/6001370411>	<hgeokg/schema/operator>	operator-United States Postal Service
+<hgeokg/resource/4969057543>	<http://www.w3.org/2000/01/rdf-schema#label>	Shop Smart Food Center
+<hgeokg/resource/6001375861>	<http://www.w3.org/2000/01/rdf-schema#label>	NYC Fresh Market
+<hgeokg/resource/357621351>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6217812888>
+<hgeokg/resource/357621351>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/6001869972>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/PublicTransportPlatform>
+<hgeokg/resource/6217812888>	<hgeokg/schema/operatorWikipedia>	operatorWikipedia-en:United States Postal Service
+<hgeokg/resource/6001869972>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/6001375861>
+<hgeokg/resource/6001375861>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/46693868>
+<hgeokg/resource/664315722>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/5670261>
+<hgeokg/resource/664315722>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/4969057543>
+<hgeokg/resource/664315722>	<hgeokg/schema/email>	email-thelovinahouse@gmail.com
+<hgeokg/resource/5670261>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-E
+<hgeokg/resource/4969057544>	<hgeokg/schema/phone>	phone-+1-212-996-0400
+<hgeokg/resource/4969057544>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/664315722>

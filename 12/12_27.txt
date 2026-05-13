@@ -1,0 +1,329 @@
+<hgeokg/resource/5669666>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/5671109>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/61914066>
+<hgeokg/resource/61914065>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/196117057>	<hgeokg/schema/wikipedia>	wikipedia-en:St. Nicholas Avenue
+<hgeokg/resource/357624578>	<hgeokg/schema/religion>	religion-jewish
+<hgeokg/resource/5673067>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/223486857>
+<hgeokg/resource/223486858>	<hgeokg/schema/surface>	surface-asphalt
+<hgeokg/resource/5673067>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/104077634>
+<hgeokg/resource/61914065>	<http://www.w3.org/2000/01/rdf-schema#label>	Wadsworth Terrace
+<hgeokg/resource/104077634>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Park>
+<hgeokg/resource/5403868126>	<hgeokg/schema/routeRef>	routeRef-M3;M101
+<hgeokg/resource/4248887014>	<hgeokg/schema/level>	level--2
+<hgeokg/resource/104984000>	<hgeokg/schema/lit>	lit-yes
+<hgeokg/resource/196117057>	<http://www.w3.org/2000/01/rdf-schema#label>	Saint Nicholas Avenue
+<hgeokg/resource/5673067>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/196117057>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/5669666>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/223486858>
+<hgeokg/resource/3623472008>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/104077634>
+<hgeokg/resource/1203032532>	<http://www.w3.org/2000/01/rdf-schema#label>	Gertie A. Gorman Memorial
+<hgeokg/resource/5403868126>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/PublicTransportPlatform>
+<hgeokg/resource/1203032532>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/61914066>
+<hgeokg/resource/5981269523>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Artwork>
+<hgeokg/resource/5669666>	<Line_roads-Adjacent-Polygon_landuse>	<hgeokg/resource/734216064>
+<hgeokg/resource/4233195990>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5403868126>
+<hgeokg/resource/5981269523>	<http://www.w3.org/2000/01/rdf-schema#label>	Sidewalk Flowers
+<hgeokg/resource/3623507882>	<hgeokg/schema/addrState>	addrState-NY
+<hgeokg/resource/421840993>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Secondary>
+<hgeokg/resource/196117055>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/4248887014>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/RailwayStation>
+<hgeokg/resource/61914066>	<hgeokg/schema/cyclewayBoth>	cyclewayBoth-no
+<hgeokg/resource/420874488>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/1203032532>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5673067>
+<hgeokg/resource/4233195990>	<http://www.w3.org/2000/01/rdf-schema#label>	PR Mabi Mobile
+<hgeokg/resource/104984000>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/223486858>
+<hgeokg/resource/5669666>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/104077634>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5673069>
+<hgeokg/resource/5673069>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/223486858>
+<hgeokg/resource/4248887014>	<hgeokg/schema/wikimediaCommons>	wikimediaCommons-Category:191st Street (IRT Broadway – Seventh Avenue Line)
+<hgeokg/resource/4248887014>	<hgeokg/schema/wheelchair>	wheelchair-no
+<hgeokg/resource/275103020>	<hgeokg/schema/addrPostcode>	addrPostcode-10040
+<hgeokg/resource/196117055>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/223486857>
+<hgeokg/resource/1203032532>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/61914065>
+<hgeokg/resource/5673067>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5671109>
+<hgeokg/resource/4248887014>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/PublicTransportStation>
+<hgeokg/resource/223486858>	<http://www.w3.org/2000/01/rdf-schema#label>	Broadway
+<hgeokg/resource/196117055>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5403868126>
+<hgeokg/resource/4233195990>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/196117055>	<hgeokg/schema/maxspeed>	maxspeed-25 mph
+<hgeokg/resource/4248887014>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5673067>
+<hgeokg/resource/3623507882>	<hgeokg/schema/cuisine>	cuisine-regional
+<hgeokg/resource/3623472008>	<hgeokg/schema/takeaway>	takeaway-yes
+<hgeokg/resource/196117057>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420874488>
+<hgeokg/resource/5981269523>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/61914066>
+<hgeokg/resource/196117057>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/725335343>
+<hgeokg/resource/3623472008>	<hgeokg/schema/delivery>	delivery-yes
+<hgeokg/resource/5669666>	<http://www.w3.org/2000/01/rdf-schema#label>	West 192nd Street
+<hgeokg/resource/5673069>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/421840993>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420874488>
+<hgeokg/resource/4233195990>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/196117055>
+<hgeokg/resource/5673069>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/734216064>	<Line_roads-Adjacent-Polygon_landuse>	<hgeokg/resource/223486858>
+<hgeokg/resource/421840993>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/196117055>
+<hgeokg/resource/275103020>	<hgeokg/schema/addrHousenumber>	addrHousenumber-1547
+<hgeokg/resource/104077634>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5671109>
+<hgeokg/resource/5671109>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/61914065>
+<hgeokg/resource/3623472008>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5671789>
+<hgeokg/resource/61914065>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/104077634>
+<hgeokg/resource/104984000>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5669666>
+<hgeokg/resource/5673067>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/61914066>
+<hgeokg/resource/3623472008>	<hgeokg/schema/openingHours>	openingHours-Mo-Su 12:00-23:30
+<hgeokg/resource/5403868126>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/BusStop>
+<hgeokg/resource/104077634>	<http://www.w3.org/2000/01/rdf-schema#label>	Gorman Memorial Park
+<hgeokg/resource/5671789>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/223486857>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/223486858>
+<hgeokg/resource/104077634>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/223486858>
+<hgeokg/resource/2797628447>	<hgeokg/schema/addrPostcode>	addrPostcode-10040
+<hgeokg/resource/3623507882>	<hgeokg/schema/addrPostcode>	addrPostcode-10040
+<hgeokg/resource/196117057>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Secondary>
+<hgeokg/resource/3623507882>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/357624578>	<http://www.w3.org/2000/01/rdf-schema#label>	Mount Sinai Jewish Center
+<hgeokg/resource/223486858>	<hgeokg/schema/oneway>	oneway-no
+<hgeokg/resource/5403868126>	<hgeokg/schema/shelter>	shelter-yes
+<hgeokg/resource/4233195990>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/421840993>
+<hgeokg/resource/196117057>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/223486857>
+<hgeokg/resource/421840993>	<http://www.w3.org/2000/01/rdf-schema#label>	Saint Nicholas Avenue
+<hgeokg/resource/223486857>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5671109>
+<hgeokg/resource/2797628447>	<hgeokg/schema/addrHousenumber>	addrHousenumber-1555
+<hgeokg/resource/421840993>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/4233195990>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/420874488>
+<hgeokg/resource/1203032532>	<Point_pois-Within-Point_pois>	<hgeokg/resource/104077634>
+<hgeokg/resource/5403868126>	<hgeokg/schema/bench>	bench-yes
+<hgeokg/resource/104984000>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/4248887014>	<hgeokg/schema/network>	network-NYC Subway
+<hgeokg/resource/5673069>	<hgeokg/schema/surface>	surface-asphalt
+<hgeokg/resource/223486857>	<hgeokg/schema/oneway>	oneway-no
+<hgeokg/resource/3623472008>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/725335343>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/104077634>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/61914065>
+<hgeokg/resource/196117057>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/61914066>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/1203032532>
+<hgeokg/resource/61914066>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/5671789>	<http://www.w3.org/2000/01/rdf-schema#label>	West 189th Street
+<hgeokg/resource/61914066>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/421840993>	<hgeokg/schema/lanes>	lanes-2
+<hgeokg/resource/357624578>	<hgeokg/schema/gnisFeatureId>	gnisFeatureId-2099805
+<hgeokg/resource/2797628447>	<hgeokg/schema/nameEn>	nameEn-Grito - Mexican Grill
+<hgeokg/resource/3623507882>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/223486858>
+<hgeokg/resource/104984000>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/420874488>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/196117057>
+<hgeokg/resource/357624578>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/104984000>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/4233195990>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Beverages>
+<hgeokg/resource/5671789>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/3623507882>	<Point_pofw-Adjacent-Point_pois>	<hgeokg/resource/357624578>
+<hgeokg/resource/4233195990>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/196117057>
+<hgeokg/resource/5673067>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/1203032532>
+<hgeokg/resource/4248887014>	<hgeokg/schema/wikipedia>	wikipedia-en:191st Street station
+<hgeokg/resource/196117055>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/CyclewayLane>
+<hgeokg/resource/2797628447>	<http://www.w3.org/2000/01/rdf-schema#label>	Grito
+<hgeokg/resource/734216064>	<Line_roads-Adjacent-Polygon_landuse>	<hgeokg/resource/5669666>
+<hgeokg/resource/4248887014>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/725335343>
+<hgeokg/resource/5673069>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-W
+<hgeokg/resource/104984000>	<hgeokg/schema/surface>	surface-asphalt
+<hgeokg/resource/5673067>	<hgeokg/schema/cyclewayBoth>	cyclewayBoth-no
+<hgeokg/resource/3623507882>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Restaurant>
+<hgeokg/resource/421840993>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/223486857>
+<hgeokg/resource/5673067>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/4248887014>
+<hgeokg/resource/275103020>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/PlaceOfWorship>
+<hgeokg/resource/196117055>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Secondary>
+<hgeokg/resource/104077634>	<hgeokg/schema/ele>	ele-39
+<hgeokg/resource/421840993>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/4248887014>	<hgeokg/schema/startDate>	startDate-1911-01-14
+<hgeokg/resource/275103020>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/223486857>
+<hgeokg/resource/61914065>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/223486857>
+<hgeokg/resource/725335343>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/196117057>
+<hgeokg/resource/196117057>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5673067>
+<hgeokg/resource/5671109>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/104077634>	<Point_pois-Contain-Point_pois>	<hgeokg/resource/1203032532>
+<hgeokg/resource/223486857>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/196117055>
+<hgeokg/resource/2797628447>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/420874488>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/4233195990>
+<hgeokg/resource/421840993>	<hgeokg/schema/wikipedia>	wikipedia-en:St. Nicholas Avenue
+<hgeokg/resource/5671789>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-W
+<hgeokg/resource/421840993>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5403868126>
+<hgeokg/resource/4233195990>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/223486857>
+<hgeokg/resource/223486858>	<hgeokg/schema/wikipedia>	wikipedia-en:Broadway (Manhattan)
+<hgeokg/resource/2797628447>	<hgeokg/schema/cuisine>	cuisine-mexican
+<hgeokg/resource/61914065>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5673067>
+<hgeokg/resource/223486858>	<hgeokg/schema/hgv>	hgv-local
+<hgeokg/resource/275103020>	<hgeokg/schema/phone>	phone-+1-212-568-0367
+<hgeokg/resource/420874488>	<hgeokg/schema/onewayBicycle>	onewayBicycle-no
+<hgeokg/resource/104077634>	<hgeokg/schema/gnisFeatureId>	gnisFeatureId-2078994
+<hgeokg/resource/196117057>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/CyclewayLane>
+<hgeokg/resource/5669666>	<hgeokg/schema/maxspeed>	maxspeed-20 mph
+<hgeokg/resource/3623507882>	<hgeokg/schema/delivery>	delivery-yes
+<hgeokg/resource/223486858>	<hgeokg/schema/nameRu>	nameRu-Бродвей
+<hgeokg/resource/3623472008>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/223486858>
+<hgeokg/resource/3623507882>	<hgeokg/schema/openingHours>	openingHours-Mo-Su 10:30-20:00
+<hgeokg/resource/223486858>	<hgeokg/schema/sidewalk>	sidewalk-separate
+<hgeokg/resource/196117055>	<hgeokg/schema/wikipedia>	wikipedia-en:St. Nicholas Avenue
+<hgeokg/resource/5669666>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/104984000>
+<hgeokg/resource/61914066>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5673067>
+<hgeokg/resource/5669666>	<hgeokg/schema/surface>	surface-asphalt
+<hgeokg/resource/196117057>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5403868126>
+<hgeokg/resource/104984000>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/725335343>	<http://www.w3.org/2000/01/rdf-schema#label>	Fine Fare
+<hgeokg/resource/1203032532>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5671109>
+<hgeokg/resource/61914065>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/1203032532>
+<hgeokg/resource/5671789>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/3623472008>
+<hgeokg/resource/223486857>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/5403868126>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/196117057>
+<hgeokg/resource/5673067>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-W
+<hgeokg/resource/104984000>	<http://www.w3.org/2000/01/rdf-schema#label>	Bennett Avenue
+<hgeokg/resource/420874488>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/5673067>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/275103020>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/223486857>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/61914066>
+<hgeokg/resource/5671789>	<hgeokg/schema/surface>	surface-asphalt
+<hgeokg/resource/61914066>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/223486857>
+<hgeokg/resource/2797628447>	<hgeokg/schema/phone>	phone-2127950700
+<hgeokg/resource/104077634>	<hgeokg/schema/source>	source-http://www.nycgovparks.org/parks/M031/
+<hgeokg/resource/734216064>	<http://www.w3.org/2000/01/rdf-schema#label>	Fort Tryon Gardens
+<hgeokg/resource/357624578>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/PlaceOfWorship>
+<hgeokg/resource/275103020>	<hgeokg/schema/height>	height-14.1
+<hgeokg/resource/275103020>	<hgeokg/schema/addrState>	addrState-NY
+<hgeokg/resource/61914066>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/223486857>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/4233195990>
+<hgeokg/resource/196117055>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/104984000>	<Line_roads-Adjacent-Polygon_landuse>	<hgeokg/resource/734216064>
+<hgeokg/resource/223486858>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5673069>
+<hgeokg/resource/5673067>	<http://www.w3.org/2000/01/rdf-schema#label>	West 190th Street
+<hgeokg/resource/104077634>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5673067>
+<hgeokg/resource/5673067>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/5403868126>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/223486857>
+<hgeokg/resource/223486857>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5403868126>
+<hgeokg/resource/61914065>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/61914066>
+<hgeokg/resource/275103020>	<hgeokg/schema/denomination>	denomination-greek_orthodox
+<hgeokg/resource/5671109>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/223486857>
+<hgeokg/resource/734216064>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Polygon>
+<hgeokg/resource/196117057>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/196117055>
+<hgeokg/resource/223486857>	<http://www.w3.org/2000/01/rdf-schema#label>	Wadsworth Avenue
+<hgeokg/resource/5671109>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5673067>
+<hgeokg/resource/4248887014>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/3623472008>	<hgeokg/schema/addrHousenumber>	addrHousenumber-4421
+<hgeokg/resource/3623507882>	<hgeokg/schema/takeaway>	takeaway-yes
+<hgeokg/resource/357624578>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/223486858>
+<hgeokg/resource/420874488>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/421840993>
+<hgeokg/resource/5673067>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/61914065>
+<hgeokg/resource/223486858>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5669666>
+<hgeokg/resource/223486858>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/223486857>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/196117057>
+<hgeokg/resource/196117055>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/196117057>
+<hgeokg/resource/5671789>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/104077634>
+<hgeokg/resource/420874488>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5403868126>
+<hgeokg/resource/196117055>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/421840993>
+<hgeokg/resource/5673069>	<http://www.w3.org/2000/01/rdf-schema#label>	West 190th Street
+<hgeokg/resource/5669666>	<hgeokg/schema/lit>	lit-yes
+<hgeokg/resource/357624578>	<hgeokg/schema/denomination>	denomination-ashkenazi_orthodox
+<hgeokg/resource/1203032532>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Memorial>
+<hgeokg/resource/3623472008>	<hgeokg/schema/addrState>	addrState-NY
+<hgeokg/resource/2797628447>	<Point_pois-Adjacent-Point_pofw>	<hgeokg/resource/275103020>
+<hgeokg/resource/223486858>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/223486857>
+<hgeokg/resource/5671789>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/223486858>
+<hgeokg/resource/5671109>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/1203032532>
+<hgeokg/resource/223486858>	<Line_roads-Adjacent-Polygon_landuse>	<hgeokg/resource/734216064>
+<hgeokg/resource/5671789>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/196117057>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/421840993>
+<hgeokg/resource/5403868126>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/196117055>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/4233195990>
+<hgeokg/resource/5673067>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/725335343>
+<hgeokg/resource/5403868126>	<hgeokg/schema/bus>	bus-yes
+<hgeokg/resource/61914066>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5981269523>
+<hgeokg/resource/734216064>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/LanduseResidential>
+<hgeokg/resource/5669666>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-W
+<hgeokg/resource/223486857>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420874488>
+<hgeokg/resource/5671109>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/104077634>
+<hgeokg/resource/2797628447>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Restaurant>
+<hgeokg/resource/61914065>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/223486858>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/357624578>
+<hgeokg/resource/61914066>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/61914065>
+<hgeokg/resource/196117057>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/4248887014>
+<hgeokg/resource/3623472008>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Restaurant>
+<hgeokg/resource/223486858>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/104984000>
+<hgeokg/resource/421840993>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/4233195990>
+<hgeokg/resource/104077634>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/3623472008>
+<hgeokg/resource/420874488>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/196117055>
+<hgeokg/resource/3623472008>	<hgeokg/schema/cuisine>	cuisine-chinese
+<hgeokg/resource/5403868126>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/420874488>
+<hgeokg/resource/223486857>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/421840993>
+<hgeokg/resource/5673069>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/104077634>
+<hgeokg/resource/223486858>	<hgeokg/schema/ref>	ref-US 9
+<hgeokg/resource/275103020>	<hgeokg/schema/nycdoittBin>	nycdoittBin-1063998
+<hgeokg/resource/5673067>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/5673069>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/5671109>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/5403868126>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/421840993>
+<hgeokg/resource/420874488>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/223486857>
+<hgeokg/resource/5671109>	<http://www.w3.org/2000/01/rdf-schema#label>	Wadsworth Terrace
+<hgeokg/resource/4248887014>	<hgeokg/schema/internetAccess>	internetAccess-wlan
+<hgeokg/resource/734216064>	<hgeokg/schema/residential>	residential-apartments
+<hgeokg/resource/104984000>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5673069>
+<hgeokg/resource/196117055>	<http://www.w3.org/2000/01/rdf-schema#label>	Saint Nicholas Avenue
+<hgeokg/resource/196117055>	<hgeokg/schema/lanes>	lanes-3
+<hgeokg/resource/2797628447>	<hgeokg/schema/website>	website-http://www.gritomexicangrill.com
+<hgeokg/resource/5671109>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/421840993>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/196117057>
+<hgeokg/resource/223486857>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/3623472008>	<hgeokg/schema/addrPostcode>	addrPostcode-10040
+<hgeokg/resource/420874488>	<http://www.w3.org/2000/01/rdf-schema#label>	Fort George Hill
+<hgeokg/resource/357624578>	<Point_pofw-Adjacent-Point_pois>	<hgeokg/resource/3623507882>
+<hgeokg/resource/1203032532>	<hgeokg/schema/source>	source-nycgovparks.org
+<hgeokg/resource/725335343>	<hgeokg/schema/addrHousenumber>	addrHousenumber-1617
+<hgeokg/resource/5669666>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/104077634>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/61914066>
+<hgeokg/resource/5671109>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/223486857>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5673067>
+<hgeokg/resource/4248887014>	<hgeokg/schema/subway>	subway-yes
+<hgeokg/resource/275103020>	<Point_pois-Adjacent-Point_pofw>	<hgeokg/resource/2797628447>
+<hgeokg/resource/421840993>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/CyclewayLane>
+<hgeokg/resource/4248887014>	<hgeokg/schema/operator>	operator-New York City Transit Authority
+<hgeokg/resource/104077634>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/61914066>	<http://www.w3.org/2000/01/rdf-schema#label>	Wadsworth Terrace
+<hgeokg/resource/223486858>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/3623472008>
+<hgeokg/resource/734216064>	<Line_roads-Adjacent-Polygon_landuse>	<hgeokg/resource/104984000>
+<hgeokg/resource/61914066>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/104077634>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5671789>
+<hgeokg/resource/3623507882>	<hgeokg/schema/addrHousenumber>	addrHousenumber-4384
+<hgeokg/resource/5403868126>	<http://www.w3.org/2000/01/rdf-schema#label>	Saint Nicholas Avenue & West 192nd Street
+<hgeokg/resource/223486857>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Tertiary>
+<hgeokg/resource/61914065>	<hgeokg/schema/cyclewayBoth>	cyclewayBoth-no
+<hgeokg/resource/223486858>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/5673067>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/196117057>
+<hgeokg/resource/4248887014>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/196117057>
+<hgeokg/resource/420874488>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Secondary>
+<hgeokg/resource/196117057>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/4233195990>
+<hgeokg/resource/5981269523>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/223486857>
+<hgeokg/resource/223486858>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/104077634>
+<hgeokg/resource/5673069>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/104984000>
+<hgeokg/resource/4248887014>	<hgeokg/schema/station>	station-subway
+<hgeokg/resource/223486857>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5981269523>
+<hgeokg/resource/223486858>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5671789>
+<hgeokg/resource/725335343>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/ShopSupermarket>
+<hgeokg/resource/223486857>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/275103020>
+<hgeokg/resource/61914066>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5671109>
+<hgeokg/resource/1203032532>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/5403868126>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/4233195990>
+<hgeokg/resource/3623472008>	<http://www.w3.org/2000/01/rdf-schema#label>	Chan's Kitchen
+<hgeokg/resource/4248887014>	<http://www.w3.org/2000/01/rdf-schema#label>	191st Street
+<hgeokg/resource/196117055>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420874488>
+<hgeokg/resource/5403868126>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/196117055>
+<hgeokg/resource/223486857>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/61914065>
+<hgeokg/resource/5671789>	<hgeokg/schema/maxspeed>	maxspeed-20 mph
+<hgeokg/resource/725335343>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5673067>
+<hgeokg/resource/3623507882>	<http://www.w3.org/2000/01/rdf-schema#label>	La Cabana Salvadorena
+<hgeokg/resource/104984000>	<hgeokg/schema/maxspeed>	maxspeed-20 mph
+<hgeokg/resource/5981269523>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/61914065>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5671109>
+<hgeokg/resource/223486858>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/3623507882>
+<hgeokg/resource/725335343>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/4248887014>
+<hgeokg/resource/61914065>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/275103020>	<http://www.w3.org/2000/01/rdf-schema#label>	Sts. Anargyroi Greek Orthodox Church
+<hgeokg/resource/61914066>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/104077634>
+<hgeokg/resource/275103020>	<hgeokg/schema/religion>	religion-christian
+<hgeokg/resource/5673069>	<hgeokg/schema/maxspeed>	maxspeed-20 mph
+<hgeokg/resource/5671789>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/357624578>	<hgeokg/schema/ele>	ele-35
+<hgeokg/resource/223486858>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Primary>
+<hgeokg/resource/223486858>	<hgeokg/schema/lanes>	lanes-4
+<hgeokg/resource/421840993>	<hgeokg/schema/maxspeed>	maxspeed-25 mph

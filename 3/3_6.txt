@@ -1,0 +1,351 @@
+<hgeokg/resource/6892940430>	<hgeokg/schema/addrHousenumber>	addrHousenumber-40
+<hgeokg/resource/5248779949>	<hgeokg/schema/addrHousenumber>	addrHousenumber-620
+<hgeokg/resource/250265371>	<hgeokg/schema/addrPostcode>	addrPostcode-10009
+<hgeokg/resource/6892940430>	<http://www.w3.org/2000/01/rdf-schema#label>	Bedlam
+<hgeokg/resource/706833044>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5672621>
+<hgeokg/resource/3708656563>	<hgeokg/schema/fee>	fee-yes
+<hgeokg/resource/46608204>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/453527685>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/250265371>
+<hgeokg/resource/3708656563>	<hgeokg/schema/networkWikidata>	networkWikidata-Q2974438
+<hgeokg/resource/368055709>	<hgeokg/schema/openingHoursSigned>	openingHoursSigned-no
+<hgeokg/resource/3819501658>	<hgeokg/schema/openingHours>	openingHours-Mo-Fr 09:00-16:00
+<hgeokg/resource/5670560>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6892940430>
+<hgeokg/resource/453527686>	<hgeokg/schema/addrHousenumber>	addrHousenumber-600
+<hgeokg/resource/5243548103>	<http://www.w3.org/2000/01/rdf-schema#label>	Casa Adela
+<hgeokg/resource/5243554212>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/606901055>
+<hgeokg/resource/250265371>	<hgeokg/schema/access>	access-private
+<hgeokg/resource/3708656563>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/BicycleRental>
+<hgeokg/resource/5243515178>	<hgeokg/schema/routeRef>	routeRef-M9
+<hgeokg/resource/5243554212>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/BusStop>
+<hgeokg/resource/5243554212>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5670560>
+<hgeokg/resource/46608204>	<hgeokg/schema/maxspeed>	maxspeed-20 mph
+<hgeokg/resource/5243515178>	<hgeokg/schema/surveyDate>	surveyDate-2019-12-19
+<hgeokg/resource/5243550545>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/PublicTransportPlatform>
+<hgeokg/resource/706833044>	<hgeokg/schema/cyclewayLeft>	cyclewayLeft-lane
+<hgeokg/resource/5243548103>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5243515178>
+<hgeokg/resource/5243515178>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/5243546976>	<hgeokg/schema/tactilePaving>	tactilePaving-no
+<hgeokg/resource/5243554212>	<hgeokg/schema/bus>	bus-yes
+<hgeokg/resource/46608204>	<http://www.w3.org/2000/01/rdf-schema#label>	East 5th Street
+<hgeokg/resource/250265350>	<http://www.w3.org/2000/01/rdf-schema#label>	San Isidro Y San Leandro Church
+<hgeokg/resource/250265371>	<http://www.w3.org/2000/01/rdf-schema#label>	Orchard Alley Garden
+<hgeokg/resource/5243515178>	<hgeokg/schema/tactilePaving>	tactilePaving-no
+<hgeokg/resource/5672183>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/368055709>
+<hgeokg/resource/5672621>	<http://www.w3.org/2000/01/rdf-schema#label>	Avenue B
+<hgeokg/resource/453527686>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5248779949>
+<hgeokg/resource/3708656563>	<hgeokg/schema/website>	website-https://citibikenyc.com/
+<hgeokg/resource/5243550545>	<hgeokg/schema/bus>	bus-yes
+<hgeokg/resource/453527685>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/AmenitySchool>
+<hgeokg/resource/3708656563>	<hgeokg/schema/brandWikipedia>	brandWikipedia-en:Citi Bike
+<hgeokg/resource/250265371>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Garden>
+<hgeokg/resource/706833044>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/46608204>
+<hgeokg/resource/46608204>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/5243548103>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/706833044>
+<hgeokg/resource/5243515178>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/3708656563>
+<hgeokg/resource/453527686>	<http://www.w3.org/2000/01/rdf-schema#label>	Public School 64
+<hgeokg/resource/6892940430>	<hgeokg/schema/openingHours>	openingHours-Su 18:00-01:00; We 21:00-01:00; Th 20:00-01:00; Fr, Sa 20:00-04:00; Su 19:00-02:00
+<hgeokg/resource/3708656563>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/813956618>
+<hgeokg/resource/813956618>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5248779949>
+<hgeokg/resource/5243546976>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5672183>
+<hgeokg/resource/250265371>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/706833044>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5243554212>
+<hgeokg/resource/813956618>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/453527685>
+<hgeokg/resource/5670560>	<http://www.w3.org/2000/01/rdf-schema#label>	East 3rd Street
+<hgeokg/resource/5243550545>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/706833044>
+<hgeokg/resource/46608204>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/250265371>
+<hgeokg/resource/5243550545>	<hgeokg/schema/routeRef>	routeRef-M14D
+<hgeokg/resource/5243548103>	<hgeokg/schema/addrHousenumber>	addrHousenumber-66
+<hgeokg/resource/46608204>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/3708656563>
+<hgeokg/resource/706833044>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/453527685>
+<hgeokg/resource/5670560>	<Line_roads-Adjacent-Point_pofw>	<hgeokg/resource/250265350>
+<hgeokg/resource/5670560>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/3708656563>	<hgeokg/schema/brandWikidata>	brandWikidata-Q2974438
+<hgeokg/resource/5672621>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5672183>
+<hgeokg/resource/453527686>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/368055709>
+<hgeokg/resource/5670560>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/706833044>
+<hgeokg/resource/250265371>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/46608204>
+<hgeokg/resource/5243548103>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/5672183>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5243515178>
+<hgeokg/resource/5243554212>	<hgeokg/schema/bin>	bin-yes
+<hgeokg/resource/606901055>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5670560>
+<hgeokg/resource/5243515178>	<hgeokg/schema/mapillary>	mapillary-310635243961076
+<hgeokg/resource/5672183>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5248779949>
+<hgeokg/resource/813956618>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5672183>
+<hgeokg/resource/813956618>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/46608204>
+<hgeokg/resource/5243550545>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/453527685>
+<hgeokg/resource/5243546976>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/606901055>	<hgeokg/schema/addrHousenumber>	addrHousenumber-293
+<hgeokg/resource/5243554212>	<hgeokg/schema/shelter>	shelter-no
+<hgeokg/resource/5672183>	<hgeokg/schema/surface>	surface-asphalt
+<hgeokg/resource/706833044>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/453527686>
+<hgeokg/resource/813956618>	<http://www.w3.org/2000/01/rdf-schema#label>	East 6th Street
+<hgeokg/resource/5243546976>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/BusStop>
+<hgeokg/resource/5243550545>	<hgeokg/schema/tactilePaving>	tactilePaving-no
+<hgeokg/resource/5672183>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/46608204>
+<hgeokg/resource/453527685>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5243548103>
+<hgeokg/resource/5243550545>	<hgeokg/schema/ref>	ref-401596
+<hgeokg/resource/5672183>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-E
+<hgeokg/resource/250265350>	<Line_roads-Adjacent-Point_pofw>	<hgeokg/resource/5670560>
+<hgeokg/resource/250265350>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/PlaceOfWorship>
+<hgeokg/resource/706833044>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/250265371>
+<hgeokg/resource/453527686>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/706833044>
+<hgeokg/resource/5243554212>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/6892940430>
+<hgeokg/resource/5243515178>	<hgeokg/schema/bus>	bus-yes
+<hgeokg/resource/5670560>	<hgeokg/schema/surface>	surface-asphalt
+<hgeokg/resource/5670560>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/250265371>
+<hgeokg/resource/5243515178>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/46608204>
+<hgeokg/resource/813956618>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/368055709>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5248779949>
+<hgeokg/resource/368055709>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5243515178>
+<hgeokg/resource/5670560>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/606901055>
+<hgeokg/resource/5672183>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/453527686>
+<hgeokg/resource/5672621>	<hgeokg/schema/surface>	surface-asphalt
+<hgeokg/resource/706833044>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-E
+<hgeokg/resource/5672183>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/250265350>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/250265350>	<Point_pofw-Adjacent-Point_pois>	<hgeokg/resource/250265371>
+<hgeokg/resource/5243515178>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/368055709>
+<hgeokg/resource/5243546976>	<hgeokg/schema/mapillary>	mapillary-895939944589092
+<hgeokg/resource/250265371>	<hgeokg/schema/gnisFeatureId>	gnisFeatureId-2500558
+<hgeokg/resource/453527686>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5672183>
+<hgeokg/resource/706833044>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/3819501658>
+<hgeokg/resource/250265350>	<hgeokg/schema/denomination>	denomination-orthodox
+<hgeokg/resource/5243546976>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/3708656563>
+<hgeokg/resource/5672183>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5672621>
+<hgeokg/resource/368055709>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/453527686>
+<hgeokg/resource/5670560>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5243554212>
+<hgeokg/resource/368055709>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5672183>
+<hgeokg/resource/813956618>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/706833044>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/606901055>
+<hgeokg/resource/5243546976>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/46608204>
+<hgeokg/resource/5243550545>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/250265371>
+<hgeokg/resource/5672621>	<hgeokg/schema/lit>	lit-yes
+<hgeokg/resource/250265371>	<hgeokg/schema/addrHousenumber>	addrHousenumber-354
+<hgeokg/resource/5243550545>	<http://www.w3.org/2000/01/rdf-schema#label>	Avenue D & East 4th Street
+<hgeokg/resource/606901055>	<hgeokg/schema/description>	description-Founded in 1980 Protected in 1999 by The Trust for Public Land
+<hgeokg/resource/5243515178>	<hgeokg/schema/network>	network-NYC Transit
+<hgeokg/resource/453527685>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/250265350>	<hgeokg/schema/height>	height-11.7
+<hgeokg/resource/453527686>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5672621>
+<hgeokg/resource/250265350>	<hgeokg/schema/addrPostcode>	addrPostcode-10009
+<hgeokg/resource/5243550545>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5670560>
+<hgeokg/resource/46608204>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5243546976>
+<hgeokg/resource/3708656563>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5243515178>
+<hgeokg/resource/3819501658>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/453527686>
+<hgeokg/resource/5243515178>	<hgeokg/schema/lit>	lit-yes
+<hgeokg/resource/6892940430>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/706833044>
+<hgeokg/resource/6892940430>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Nightclub>
+<hgeokg/resource/250265350>	<Line_roads-Adjacent-Point_pofw>	<hgeokg/resource/706833044>
+<hgeokg/resource/5243515178>	<Point_transport-Adjacent-Point_transport>	<hgeokg/resource/5243546976>
+<hgeokg/resource/706833044>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/3708656563>
+<hgeokg/resource/5243548103>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5672183>
+<hgeokg/resource/606901055>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Park>
+<hgeokg/resource/5248779949>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/368055709>
+<hgeokg/resource/5243548103>	<hgeokg/schema/takeaway>	takeaway-yes
+<hgeokg/resource/250265350>	<hgeokg/schema/ele>	ele-4
+<hgeokg/resource/706833044>	<hgeokg/schema/maxspeed>	maxspeed-20 mph
+<hgeokg/resource/3708656563>	<http://www.w3.org/2000/01/rdf-schema#label>	Citi Bike - East 5th Street & Avenue C
+<hgeokg/resource/5672621>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/706833044>
+<hgeokg/resource/5243548103>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/453527685>
+<hgeokg/resource/5672183>	<hgeokg/schema/lit>	lit-yes
+<hgeokg/resource/5672183>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/3708656563>
+<hgeokg/resource/5243554212>	<hgeokg/schema/lit>	lit-yes
+<hgeokg/resource/5243515178>	<http://www.w3.org/2000/01/rdf-schema#label>	Avenue C & East 6th Street
+<hgeokg/resource/606901055>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/250265371>
+<hgeokg/resource/606901055>	<hgeokg/schema/addrState>	addrState-NY
+<hgeokg/resource/3708656563>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/46608204>
+<hgeokg/resource/706833044>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/5672621>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/250265371>	<hgeokg/schema/gardenType>	gardenType-community
+<hgeokg/resource/5243548103>	<hgeokg/schema/cuisine>	cuisine-caribbean;puerto_rican
+<hgeokg/resource/6892940430>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5243554212>
+<hgeokg/resource/5672183>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/5670560>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-E
+<hgeokg/resource/3819501658>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/5243554212>	<hgeokg/schema/ref>	ref-402036
+<hgeokg/resource/5248779949>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5672183>
+<hgeokg/resource/368055709>	<hgeokg/schema/addrState>	addrState-NY
+<hgeokg/resource/3708656563>	<hgeokg/schema/network>	network-Citi Bike
+<hgeokg/resource/5243546976>	<Point_transport-Adjacent-Point_transport>	<hgeokg/resource/5243515178>
+<hgeokg/resource/5243546976>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/PublicTransportPlatform>
+<hgeokg/resource/5243546976>	<hgeokg/schema/surveyDate>	surveyDate-2019-12-18
+<hgeokg/resource/5243554212>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/5243550545>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/3708656563>	<hgeokg/schema/operatorType>	operatorType-private
+<hgeokg/resource/5243550545>	<hgeokg/schema/bin>	bin-no
+<hgeokg/resource/453527686>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/5243548103>	<hgeokg/schema/delivery>	delivery-yes
+<hgeokg/resource/5243546976>	<hgeokg/schema/bus>	bus-yes
+<hgeokg/resource/5243546976>	<hgeokg/schema/lit>	lit-yes
+<hgeokg/resource/5243515178>	<hgeokg/schema/ref>	ref-403305
+<hgeokg/resource/250265350>	<Point_transport-Adjacent-Point_pofw>	<hgeokg/resource/5243550545>
+<hgeokg/resource/368055709>	<http://www.w3.org/2000/01/rdf-schema#label>	Sixth Street Community Center
+<hgeokg/resource/46608204>	<Line_roads-Adjacent-Point_pofw>	<hgeokg/resource/250265350>
+<hgeokg/resource/3708656563>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5243546976>
+<hgeokg/resource/5672183>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5243548103>
+<hgeokg/resource/3708656563>	<hgeokg/schema/brand>	brand-Citi Bike
+<hgeokg/resource/368055709>	<hgeokg/schema/source>	source-USGS Geonames
+<hgeokg/resource/368055709>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/3708656563>
+<hgeokg/resource/453527686>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/AmenitySchool>
+<hgeokg/resource/250265371>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5670560>
+<hgeokg/resource/3708656563>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/368055709>
+<hgeokg/resource/5672183>	<hgeokg/schema/maxspeed>	maxspeed-20 mph
+<hgeokg/resource/813956618>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/3708656563>
+<hgeokg/resource/6892940430>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/606901055>
+<hgeokg/resource/606901055>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6892940430>
+<hgeokg/resource/706833044>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5243548103>
+<hgeokg/resource/5248779949>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/453527686>
+<hgeokg/resource/706833044>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5670560>
+<hgeokg/resource/453527686>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/3819501658>
+<hgeokg/resource/5243550545>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/BusStop>
+<hgeokg/resource/6892940430>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/5243548103>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5243546976>
+<hgeokg/resource/5672621>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Secondary>
+<hgeokg/resource/453527685>	<http://www.w3.org/2000/01/rdf-schema#label>	Public School 15 - Roberto Clemente
+<hgeokg/resource/5243550545>	<hgeokg/schema/shelter>	shelter-no
+<hgeokg/resource/46608204>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5672183>
+<hgeokg/resource/5243515178>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/BusStop>
+<hgeokg/resource/5243548103>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Restaurant>
+<hgeokg/resource/606901055>	<hgeokg/schema/addrPostcode>	addrPostcode-10009
+<hgeokg/resource/606901055>	<hgeokg/schema/startDate>	startDate-1980
+<hgeokg/resource/5243548103>	<hgeokg/schema/website>	website-http://casaadelanewyork.mybistro.online/
+<hgeokg/resource/813956618>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5243515178>
+<hgeokg/resource/706833044>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6892940430>
+<hgeokg/resource/5243548103>	<hgeokg/schema/email>	email-casaadelarestaurant@gmail.com
+<hgeokg/resource/250265350>	<hgeokg/schema/addrHousenumber>	addrHousenumber-345
+<hgeokg/resource/5243554212>	<hgeokg/schema/routeRef>	routeRef-M9
+<hgeokg/resource/250265350>	<hgeokg/schema/religion>	religion-christian
+<hgeokg/resource/5670560>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/3708656563>	<hgeokg/schema/capacity>	capacity-31
+<hgeokg/resource/5243546976>	<hgeokg/schema/ref>	ref-402037
+<hgeokg/resource/250265371>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/706833044>
+<hgeokg/resource/250265371>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5243550545>
+<hgeokg/resource/5243515178>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5672183>
+<hgeokg/resource/5243515178>	<hgeokg/schema/bin>	bin-no
+<hgeokg/resource/5672621>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/3819501658>
+<hgeokg/resource/5243554212>	<http://www.w3.org/2000/01/rdf-schema#label>	Avenue C & East 3rd Street
+<hgeokg/resource/706833044>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5672183>
+<hgeokg/resource/5248779949>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/46608204>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/453527685>
+<hgeokg/resource/606901055>	<http://www.w3.org/2000/01/rdf-schema#label>	All People's Garden
+<hgeokg/resource/5243548103>	<hgeokg/schema/openingHours>	openingHours-07:00-22:00
+<hgeokg/resource/5672183>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5243546976>
+<hgeokg/resource/606901055>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/5243548103>	<hgeokg/schema/contactFacebook>	contactFacebook-https://www.facebook.com/Casa-Adela-186242794063/
+<hgeokg/resource/250265371>	<hgeokg/schema/ele>	ele-4
+<hgeokg/resource/813956618>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/368055709>
+<hgeokg/resource/46608204>	<hgeokg/schema/lit>	lit-yes
+<hgeokg/resource/706833044>	<hgeokg/schema/surface>	surface-asphalt
+<hgeokg/resource/3819501658>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/706833044>
+<hgeokg/resource/453527685>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/606901055>
+<hgeokg/resource/368055709>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/CommunityCentre>
+<hgeokg/resource/250265371>	<Point_pofw-Adjacent-Point_pois>	<hgeokg/resource/250265350>
+<hgeokg/resource/5243515178>	<hgeokg/schema/bench>	bench-yes
+<hgeokg/resource/5243515178>	<hgeokg/schema/shelter>	shelter-yes
+<hgeokg/resource/813956618>	<hgeokg/schema/maxspeed>	maxspeed-20 mph
+<hgeokg/resource/813956618>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/453527686>
+<hgeokg/resource/453527686>	<hgeokg/schema/addrPostcode>	addrPostcode-10009
+<hgeokg/resource/5248779949>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/813956618>
+<hgeokg/resource/5670560>	<hgeokg/schema/lit>	lit-yes
+<hgeokg/resource/5670560>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/368055709>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/813956618>
+<hgeokg/resource/368055709>	<hgeokg/schema/gnisFeatureId>	gnisFeatureId-2083003
+<hgeokg/resource/5248779949>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Vacant>
+<hgeokg/resource/3708656563>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/250265371>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/606901055>
+<hgeokg/resource/5672621>	<hgeokg/schema/lanes>	lanes-2
+<hgeokg/resource/5243546976>	<hgeokg/schema/bin>	bin-no
+<hgeokg/resource/3708656563>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5672183>
+<hgeokg/resource/5672621>	<hgeokg/schema/maxspeed>	maxspeed-20 mph
+<hgeokg/resource/5672621>	<hgeokg/schema/wikipedia>	wikipedia-en:Avenue B (Manhattan)
+<hgeokg/resource/5672183>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/453527685>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/706833044>
+<hgeokg/resource/453527685>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5243550545>
+<hgeokg/resource/5243554212>	<hgeokg/schema/surveyDate>	surveyDate-2019-12-18
+<hgeokg/resource/5243550545>	<Point_transport-Adjacent-Point_pofw>	<hgeokg/resource/250265350>
+<hgeokg/resource/5243515178>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/PublicTransportPlatform>
+<hgeokg/resource/250265371>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/453527685>
+<hgeokg/resource/5243550545>	<hgeokg/schema/lit>	lit-yes
+<hgeokg/resource/813956618>	<hgeokg/schema/smoothness>	smoothness-good
+<hgeokg/resource/3819501658>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Bank>
+<hgeokg/resource/46608204>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/5243554212>	<hgeokg/schema/mapillary>	mapillary-2894728347431732
+<hgeokg/resource/706833044>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/6892940430>	<hgeokg/schema/website>	website-http://www.bedlamnyc.com/
+<hgeokg/resource/5670560>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5243550545>
+<hgeokg/resource/5243548103>	<hgeokg/schema/phone>	phone-+1 212-473-1882
+<hgeokg/resource/368055709>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/706833044>	<Line_roads-Adjacent-Point_pofw>	<hgeokg/resource/250265350>
+<hgeokg/resource/46608204>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5243515178>
+<hgeokg/resource/5670560>	<hgeokg/schema/maxspeed>	maxspeed-20 mph
+<hgeokg/resource/46608204>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5243548103>
+<hgeokg/resource/250265350>	<Line_roads-Adjacent-Point_pofw>	<hgeokg/resource/46608204>
+<hgeokg/resource/3819501658>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5672621>
+<hgeokg/resource/453527685>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/46608204>
+<hgeokg/resource/5243550545>	<hgeokg/schema/mapillary>	mapillary-369415777831681
+<hgeokg/resource/5243554212>	<hgeokg/schema/tactilePaving>	tactilePaving-no
+<hgeokg/resource/453527685>	<Point_pofw-Intersect-Point_pois>	<hgeokg/resource/250265350>
+<hgeokg/resource/6892940430>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5670560>
+<hgeokg/resource/5243550545>	<hgeokg/schema/bench>	bench-no
+<hgeokg/resource/813956618>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/5243554212>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/PublicTransportPlatform>
+<hgeokg/resource/5243554212>	<hgeokg/schema/bench>	bench-no
+<hgeokg/resource/453527686>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/813956618>
+<hgeokg/resource/250265350>	<hgeokg/schema/nycdoittBin>	nycdoittBin-1004422
+<hgeokg/resource/3819501658>	<hgeokg/schema/addrState>	addrState-NY
+<hgeokg/resource/5243546976>	<hgeokg/schema/routeRef>	routeRef-M9
+<hgeokg/resource/5243548103>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/46608204>
+<hgeokg/resource/5243546976>	<hgeokg/schema/bench>	bench-yes
+<hgeokg/resource/813956618>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5672621>
+<hgeokg/resource/368055709>	<hgeokg/schema/ele>	ele-5
+<hgeokg/resource/5672183>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/706833044>
+<hgeokg/resource/5670560>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/453527685>
+<hgeokg/resource/5243546976>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/813956618>
+<hgeokg/resource/606901055>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/706833044>
+<hgeokg/resource/5243546976>	<hgeokg/schema/shelter>	shelter-yes
+<hgeokg/resource/250265350>	<Point_pofw-Intersect-Point_pois>	<hgeokg/resource/453527685>
+<hgeokg/resource/3819501658>	<http://www.w3.org/2000/01/rdf-schema#label>	Lower East Side People's Federal Credit Union
+<hgeokg/resource/5243546976>	<hgeokg/schema/networkWikidata>	networkWikidata-Q1325591
+<hgeokg/resource/6892940430>	<hgeokg/schema/cocktails>	cocktails-yes
+<hgeokg/resource/5672183>	<http://www.w3.org/2000/01/rdf-schema#label>	East 5th Street
+<hgeokg/resource/250265350>	<hgeokg/schema/gnisFeatureId>	gnisFeatureId-2083004
+<hgeokg/resource/250265371>	<hgeokg/schema/note>	note-Orchard Alley is a community gardens was started in 1989 by Ayo Harrington. It boasts fruit trees, flowering plants, shrubs and multiple seating areas.
+<hgeokg/resource/46608204>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/813956618>
+<hgeokg/resource/706833044>	<hgeokg/schema/wikipedia>	wikipedia-en:4th Street (Manhattan)
+<hgeokg/resource/3708656563>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5243548103>
+<hgeokg/resource/5243554212>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/706833044>
+<hgeokg/resource/706833044>	<http://www.w3.org/2000/01/rdf-schema#label>	East 4th Street
+<hgeokg/resource/368055709>	<hgeokg/schema/website>	website-http://sixthstreetcenter.org/
+<hgeokg/resource/5243546976>	<hgeokg/schema/network>	network-NYC Transit
+<hgeokg/resource/813956618>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5243546976>
+<hgeokg/resource/453527685>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5670560>
+<hgeokg/resource/5243515178>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5243548103>
+<hgeokg/resource/46608204>	<hgeokg/schema/surface>	surface-asphalt
+<hgeokg/resource/3708656563>	<hgeokg/schema/operatorWikipedia>	operatorWikipedia-en:Motivate (company)
+<hgeokg/resource/706833044>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/6892940430>	<hgeokg/schema/phone>	phone-+1-646-870-0150
+<hgeokg/resource/5672183>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/813956618>
+<hgeokg/resource/5670560>	<hgeokg/schema/cyclewayLeft>	cyclewayLeft-lane
+<hgeokg/resource/5672621>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/453527686>
+<hgeokg/resource/706833044>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5243550545>
+<hgeokg/resource/3708656563>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/706833044>
+<hgeokg/resource/3708656563>	<hgeokg/schema/operator>	operator-Motivate
+<hgeokg/resource/46608204>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-E
+<hgeokg/resource/3819501658>	<hgeokg/schema/addrHousenumber>	addrHousenumber-37
+<hgeokg/resource/46608204>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/706833044>
+<hgeokg/resource/5243546976>	<http://www.w3.org/2000/01/rdf-schema#label>	Avenue C & East 5th Street
+<hgeokg/resource/46608204>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/5243548103>	<hgeokg/schema/reservation>	reservation-no
+<hgeokg/resource/453527685>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/813956618>
+<hgeokg/resource/606901055>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5243554212>
+<hgeokg/resource/5243546976>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5243548103>
+<hgeokg/resource/813956618>	<hgeokg/schema/lit>	lit-yes
+<hgeokg/resource/5243548103>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/3708656563>
+<hgeokg/resource/5243515178>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/813956618>
+<hgeokg/resource/5243515178>	<hgeokg/schema/networkWikidata>	networkWikidata-Q1325591
+<hgeokg/resource/606901055>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/453527685>
+<hgeokg/resource/5672621>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/813956618>
+<hgeokg/resource/5672621>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/5243550545>	<hgeokg/schema/surveyDate>	surveyDate-2019-12-18
+<hgeokg/resource/813956618>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-E
+<hgeokg/resource/813956618>	<hgeokg/schema/lanes>	lanes-1

@@ -1,0 +1,207 @@
+<hgeokg/resource/5672264>	<hgeokg/schema/cyclewayBoth>	cyclewayBoth-no
+<hgeokg/resource/326119982>	<Line_railway-Adjacent-Polygon_buildings>	<hgeokg/resource/275111569>
+<hgeokg/resource/734871771>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/326119982>
+<hgeokg/resource/164839573>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/275111569>
+<hgeokg/resource/5672264>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Tertiary>
+<hgeokg/resource/164842044>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/46344718>
+<hgeokg/resource/164842044>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/734871771>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/46344718>
+<hgeokg/resource/5671112>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/4248884824>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/PublicTransportStation>
+<hgeokg/resource/5673208>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5672264>
+<hgeokg/resource/357624574>	<http://www.w3.org/2000/01/rdf-schema#label>	Inwood Jewish Center
+<hgeokg/resource/164839573>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/4248884824>
+<hgeokg/resource/357631906>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5671112>
+<hgeokg/resource/5671112>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/357631906>
+<hgeokg/resource/275111593>	<hgeokg/schema/ele>	ele-14
+<hgeokg/resource/5672264>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/275111569>	<hgeokg/schema/wikipedia>	wikipedia-en:Dyckman-Hillside Substation
+<hgeokg/resource/5671285>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/357631906>
+<hgeokg/resource/164842044>	<http://www.w3.org/2000/01/rdf-schema#label>	Nagle Avenue
+<hgeokg/resource/357631906>	<hgeokg/schema/ele>	ele-12
+<hgeokg/resource/357578879>	<Point_pofw-Adjacent-Point_pois>	<hgeokg/resource/357624574>
+<hgeokg/resource/5671112>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/164839573>
+<hgeokg/resource/326119982>	<hgeokg/schema/bridge>	bridge-yes
+<hgeokg/resource/275111569>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Substation>
+<hgeokg/resource/5670177>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5673208>
+<hgeokg/resource/275111569>	<Line_railway-Adjacent-Polygon_buildings>	<hgeokg/resource/46344718>
+<hgeokg/resource/275111569>	<http://www.w3.org/2000/01/rdf-schema#label>	Substation 17
+<hgeokg/resource/164842044>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/164839573>
+<hgeokg/resource/357624574>	<hgeokg/schema/ele>	ele-15
+<hgeokg/resource/275111593>	<hgeokg/schema/nycdoittBin>	nycdoittBin-1064061
+<hgeokg/resource/357624574>	<Point_pofw-Adjacent-Point_pois>	<hgeokg/resource/357578879>
+<hgeokg/resource/164842044>	<hgeokg/schema/hgv>	hgv-local
+<hgeokg/resource/4248884824>	<hgeokg/schema/network>	network-NYC Subway
+<hgeokg/resource/164839573>	<hgeokg/schema/hgv>	hgv-local
+<hgeokg/resource/275111569>	<hgeokg/schema/addrHousenumber>	addrHousenumber-129
+<hgeokg/resource/4248884824>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/734871771>	<http://www.w3.org/2000/01/rdf-schema#label>	Fort George Hill
+<hgeokg/resource/357631906>	<http://www.w3.org/2000/01/rdf-schema#label>	Washington Heights Academy
+<hgeokg/resource/275111593>	<hgeokg/schema/height>	height-11.4
+<hgeokg/resource/357624574>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/5671112>
+<hgeokg/resource/275111569>	<hgeokg/schema/operator>	operator-New York City Transit Authority
+<hgeokg/resource/164839573>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/46344718>
+<hgeokg/resource/734871771>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/5672264>	<http://www.w3.org/2000/01/rdf-schema#label>	Fairview Avenue
+<hgeokg/resource/46344718>	<hgeokg/schema/bridge>	bridge-yes
+<hgeokg/resource/164839573>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/46344718>	<Line_railway-Adjacent-Polygon_buildings>	<hgeokg/resource/275111569>
+<hgeokg/resource/357624574>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/164839573>
+<hgeokg/resource/357578879>	<hgeokg/schema/gnisFeatureId>	gnisFeatureId-961374
+<hgeokg/resource/5670177>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/164842044>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Primary>
+<hgeokg/resource/275111593>	<hgeokg/schema/addrHousenumber>	addrHousenumber-4558
+<hgeokg/resource/734871771>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/275111569>
+<hgeokg/resource/734871771>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5671112>
+<hgeokg/resource/5671285>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/357624574>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/5671285>
+<hgeokg/resource/734871771>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5672264>
+<hgeokg/resource/357578879>	<http://www.w3.org/2000/01/rdf-schema#label>	Public School 152
+<hgeokg/resource/5673208>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/46344718>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/734871771>
+<hgeokg/resource/5673208>	<http://www.w3.org/2000/01/rdf-schema#label>	Broadway Terrace
+<hgeokg/resource/5671285>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/357578879>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/AmenitySchool>
+<hgeokg/resource/5671112>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5671285>
+<hgeokg/resource/357578879>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5671285>
+<hgeokg/resource/5670177>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/5670177>	<hgeokg/schema/surface>	surface-asphalt
+<hgeokg/resource/734871771>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Secondary>
+<hgeokg/resource/164839573>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/357624574>
+<hgeokg/resource/5672264>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5673208>
+<hgeokg/resource/46344718>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/164842044>
+<hgeokg/resource/357631906>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/164839573>	<hgeokg/schema/surface>	surface-asphalt
+<hgeokg/resource/5671285>	<http://www.w3.org/2000/01/rdf-schema#label>	Bogardus Place
+<hgeokg/resource/357578879>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5671112>
+<hgeokg/resource/164842044>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/326119982>
+<hgeokg/resource/5670177>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/5671112>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/357578879>
+<hgeokg/resource/326119982>	<hgeokg/schema/voltage>	voltage-625
+<hgeokg/resource/5671285>	<hgeokg/schema/wikipedia>	wikipedia-en:Bogardus Place
+<hgeokg/resource/46344718>	<hgeokg/schema/electrified>	electrified-rail
+<hgeokg/resource/46344718>	<hgeokg/schema/railwayTrackRef>	railwayTrackRef-1
+<hgeokg/resource/326119982>	<hgeokg/schema/frequency>	frequency-0
+<hgeokg/resource/164839573>	<http://www.w3.org/2000/01/rdf-schema#label>	Nagle Avenue
+<hgeokg/resource/5672264>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/357624574>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/PlaceOfWorship>
+<hgeokg/resource/46344718>	<Point_transport-Adjacent-Line_railway>	<hgeokg/resource/4248884824>
+<hgeokg/resource/164839573>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/734871771>
+<hgeokg/resource/275111593>	<hgeokg/schema/addrPostcode>	addrPostcode-10040
+<hgeokg/resource/164839573>	<hgeokg/schema/lanes>	lanes-4
+<hgeokg/resource/5671112>	<http://www.w3.org/2000/01/rdf-schema#label>	Ellwood Street
+<hgeokg/resource/326119982>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/357631906>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/357578879>
+<hgeokg/resource/275111569>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/734871771>
+<hgeokg/resource/357624574>	<Point_pofw-Adjacent-Point_pois>	<hgeokg/resource/357631906>
+<hgeokg/resource/5672264>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/734871771>
+<hgeokg/resource/5670177>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/275111569>	<hgeokg/schema/altName>	altName-Dyckman-Hillside Substation
+<hgeokg/resource/357578879>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/164839573>
+<hgeokg/resource/4248884824>	<http://www.w3.org/2000/01/rdf-schema#label>	Dyckman Street
+<hgeokg/resource/5671285>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5671112>
+<hgeokg/resource/5671112>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/46344718>	<http://www.w3.org/2000/01/rdf-schema#label>	IRT Broadway–Seventh Avenue Line
+<hgeokg/resource/5671112>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/326119982>	<Point_transport-Adjacent-Line_railway>	<hgeokg/resource/4248884824>
+<hgeokg/resource/46344718>	<hgeokg/schema/level>	level-1
+<hgeokg/resource/5670177>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-W
+<hgeokg/resource/4248884824>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/734871771>
+<hgeokg/resource/357631906>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/164839573>
+<hgeokg/resource/5671112>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/357624574>
+<hgeokg/resource/734871771>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/164839573>
+<hgeokg/resource/326119982>	<Line_railway-Adjacent-Line_railway>	<hgeokg/resource/46344718>
+<hgeokg/resource/164842044>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/734871771>
+<hgeokg/resource/275111569>	<hgeokg/schema/substation>	substation-traction
+<hgeokg/resource/5673208>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/275111593>
+<hgeokg/resource/5672264>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5670177>
+<hgeokg/resource/275111569>	<Line_railway-Adjacent-Polygon_buildings>	<hgeokg/resource/326119982>
+<hgeokg/resource/164839573>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/357631906>
+<hgeokg/resource/275111569>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/BuildingService>
+<hgeokg/resource/4248884824>	<Point_transport-Adjacent-Line_railway>	<hgeokg/resource/46344718>
+<hgeokg/resource/275111593>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/164839573>
+<hgeokg/resource/164839573>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/164842044>
+<hgeokg/resource/5671112>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/46344718>	<hgeokg/schema/voltage>	voltage-625
+<hgeokg/resource/4248884824>	<hgeokg/schema/subway>	subway-yes
+<hgeokg/resource/4248884824>	<hgeokg/schema/station>	station-subway
+<hgeokg/resource/164842044>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/164842044>	<hgeokg/schema/sidewalk>	sidewalk-separate
+<hgeokg/resource/5673208>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/5671285>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/164839573>
+<hgeokg/resource/357578879>	<hgeokg/schema/ele>	ele-9
+<hgeokg/resource/5671285>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/275111593>
+<hgeokg/resource/46344718>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/164839573>
+<hgeokg/resource/357631906>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/AmenitySchool>
+<hgeokg/resource/734871771>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/5670177>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5672264>
+<hgeokg/resource/357631906>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5671285>
+<hgeokg/resource/326119982>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/RailwaySubway>
+<hgeokg/resource/326119982>	<hgeokg/schema/level>	level-1
+<hgeokg/resource/4248884824>	<hgeokg/schema/operator>	operator-New York City Transit Authority
+<hgeokg/resource/4248884824>	<hgeokg/schema/wheelchair>	wheelchair-limited
+<hgeokg/resource/46344718>	<hgeokg/schema/gauge>	gauge-1435
+<hgeokg/resource/5671285>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/164842044>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/4248884824>
+<hgeokg/resource/357578879>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/357631906>
+<hgeokg/resource/46344718>	<Line_railway-Adjacent-Line_railway>	<hgeokg/resource/326119982>
+<hgeokg/resource/46344718>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/RailwaySubway>
+<hgeokg/resource/164839573>	<hgeokg/schema/cyclewayBoth>	cyclewayBoth-no
+<hgeokg/resource/734871771>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/164842044>
+<hgeokg/resource/4248884824>	<Point_transport-Adjacent-Line_railway>	<hgeokg/resource/326119982>
+<hgeokg/resource/5670177>	<http://www.w3.org/2000/01/rdf-schema#label>	West 193rd Street
+<hgeokg/resource/326119982>	<hgeokg/schema/electrified>	electrified-rail
+<hgeokg/resource/4248884824>	<hgeokg/schema/level>	level-1
+<hgeokg/resource/357578879>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/164839573>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/275111593>
+<hgeokg/resource/275111593>	<hgeokg/schema/openingHours>	openingHours-Mo-Fr 08:00-17:00; Sa 08:00-16:00
+<hgeokg/resource/4248884824>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/164842044>
+<hgeokg/resource/4248884824>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/RailwayStation>
+<hgeokg/resource/46344718>	<hgeokg/schema/frequency>	frequency-0
+<hgeokg/resource/275111569>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Polygon>
+<hgeokg/resource/357631906>	<Point_pofw-Adjacent-Point_pois>	<hgeokg/resource/357624574>
+<hgeokg/resource/164839573>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5671285>
+<hgeokg/resource/326119982>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/734871771>
+<hgeokg/resource/326119982>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/164842044>
+<hgeokg/resource/357631906>	<hgeokg/schema/gnisFeatureId>	gnisFeatureId-2367530
+<hgeokg/resource/326119982>	<hgeokg/schema/layer>	layer-1
+<hgeokg/resource/164839573>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5671112>
+<hgeokg/resource/5671112>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/734871771>
+<hgeokg/resource/46344718>	<hgeokg/schema/layer>	layer-1
+<hgeokg/resource/734871771>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/4248884824>
+<hgeokg/resource/4248884824>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/164839573>
+<hgeokg/resource/164842044>	<hgeokg/schema/lanes>	lanes-2
+<hgeokg/resource/275111593>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/PostOffice>
+<hgeokg/resource/275111593>	<http://www.w3.org/2000/01/rdf-schema#label>	Fort George Station Post Office
+<hgeokg/resource/734871771>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/275111593>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5671285>
+<hgeokg/resource/164839573>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Primary>
+<hgeokg/resource/164839573>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/357578879>
+<hgeokg/resource/275111569>	<hgeokg/schema/nycdoittBin>	nycdoittBin-1064070
+<hgeokg/resource/5673208>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5670177>
+<hgeokg/resource/164839573>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/326119982>
+<hgeokg/resource/326119982>	<hgeokg/schema/gauge>	gauge-1435
+<hgeokg/resource/5670177>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/275111593>
+<hgeokg/resource/275111593>	<hgeokg/schema/addrState>	addrState-NY
+<hgeokg/resource/357624574>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/275111593>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5673208>
+<hgeokg/resource/46344718>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/734871771>	<hgeokg/schema/sidewalk>	sidewalk-separate
+<hgeokg/resource/357624574>	<hgeokg/schema/gnisFeatureId>	gnisFeatureId-2099803
+<hgeokg/resource/164839573>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/5673208>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/275111569>	<hgeokg/schema/height>	height-17.7
+<hgeokg/resource/164842044>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/5671285>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/357578879>
+<hgeokg/resource/5671285>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/357624574>
+<hgeokg/resource/275111593>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5670177>
+<hgeokg/resource/357624574>	<hgeokg/schema/religion>	religion-jewish
+<hgeokg/resource/275111593>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/275111569>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/164839573>
+<hgeokg/resource/275111593>	<hgeokg/schema/gnisFeatureId>	gnisFeatureId-2083810
+<hgeokg/resource/5673208>	<hgeokg/schema/wikipedia>	wikipedia-en:Broadway (Manhattan)
+<hgeokg/resource/326119982>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/164839573>
+<hgeokg/resource/326119982>	<http://www.w3.org/2000/01/rdf-schema#label>	IRT Broadway–Seventh Avenue Line
+<hgeokg/resource/326119982>	<hgeokg/schema/railwayTrackRef>	railwayTrackRef-4
+<hgeokg/resource/5673208>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/275111569>	<hgeokg/schema/addrPostcode>	addrPostcode-10040

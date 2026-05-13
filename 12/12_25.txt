@@ -1,0 +1,501 @@
+<hgeokg/resource/799505581>	<Line_railway-Adjacent-Line_railway>	<hgeokg/resource/326119858>
+<hgeokg/resource/799505581>	<http://www.w3.org/2000/01/rdf-schema#label>	IRT Broadway–Seventh Avenue Line
+<hgeokg/resource/799505583>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/562562103>
+<hgeokg/resource/326119858>	<Line_railway-Adjacent-Line_railway>	<hgeokg/resource/799505581>
+<hgeokg/resource/562562103>	<Point_pois-Intersect-Polygon_landuse>	<hgeokg/resource/118529220>
+<hgeokg/resource/33145689>	<hgeokg/schema/railwayTrackRef>	railwayTrackRef-1
+<hgeokg/resource/47845066>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/245848829>
+<hgeokg/resource/5672284>	<http://www.w3.org/2000/01/rdf-schema#label>	Payson Avenue
+<hgeokg/resource/33145995>	<hgeokg/schema/hgv>	hgv-no
+<hgeokg/resource/680889022>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/562562103>
+<hgeokg/resource/5670141>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/455098899>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/680889022>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/799505581>
+<hgeokg/resource/33145690>	<Line_railway-Intersect-Line_railway>	<hgeokg/resource/532037963>
+<hgeokg/resource/33145993>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Motorway>
+<hgeokg/resource/680889661>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/47845066>
+<hgeokg/resource/275121108>	<Polygon_buildings-Adjacent-Polygon_buildings>	<hgeokg/resource/275121131>
+<hgeokg/resource/33145993>	<Point_natual-Adjacent-Line_roads>	<hgeokg/resource/357630079>
+<hgeokg/resource/33145689>	<hgeokg/schema/bridge>	bridge-yes
+<hgeokg/resource/118529212>	<Line_roads-Intersect-Point_pois>	<hgeokg/resource/8119396>
+<hgeokg/resource/47845066>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-W
+<hgeokg/resource/118529220>	<Line_roads-Adjacent-Polygon_landuse>	<hgeokg/resource/5670141>
+<hgeokg/resource/275121108>	<hgeokg/schema/addrHousenumber>	addrHousenumber-575
+<hgeokg/resource/799505581>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/141125508>
+<hgeokg/resource/357630079>	<Point_natual-Adjacent-Line_roads>	<hgeokg/resource/33145993>
+<hgeokg/resource/9764584>	<hgeokg/schema/goods>	goods-no
+<hgeokg/resource/680889661>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/799505581>
+<hgeokg/resource/118529220>	<Polygon_landuse-Intersect-Polygon_buildings>	<hgeokg/resource/275121108>
+<hgeokg/resource/658334180>	<hgeokg/schema/operator>	operator-Amtrak
+<hgeokg/resource/532037963>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Rail>
+<hgeokg/resource/799505583>	<hgeokg/schema/bridge>	bridge-yes
+<hgeokg/resource/8119396>	<hgeokg/schema/bridgeName>	bridgeName-Henry Hudson Bridge
+<hgeokg/resource/118529212>	<Line_roads-Intersect-Point_pois>	<hgeokg/resource/9764584>
+<hgeokg/resource/326119858>	<hgeokg/schema/gauge>	gauge-1435
+<hgeokg/resource/658334180>	<Line_railway-Intersect-Line_railway>	<hgeokg/resource/33145689>
+<hgeokg/resource/9764584>	<hgeokg/schema/layer>	layer-2
+<hgeokg/resource/33145995>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/9764584>	<hgeokg/schema/bridgeName>	bridgeName-Henry Hudson Bridge
+<hgeokg/resource/33145993>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/33145995>
+<hgeokg/resource/440122890>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/33145993>
+<hgeokg/resource/8119396>	<hgeokg/schema/lanes>	lanes-3
+<hgeokg/resource/9764584>	<hgeokg/schema/motorcar>	motorcar-designated
+<hgeokg/resource/9764584>	<hgeokg/schema/wikipedia>	wikipedia-en:Henry Hudson Bridge
+<hgeokg/resource/8119396>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/9764584>
+<hgeokg/resource/532037963>	<hgeokg/schema/operator>	operator-Amtrak
+<hgeokg/resource/205297613>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Playground>
+<hgeokg/resource/562562103>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/AmenityHospital>
+<hgeokg/resource/455098899>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/33145690>
+<hgeokg/resource/275121108>	<Polygon_landuse-Intersect-Polygon_buildings>	<hgeokg/resource/118529220>
+<hgeokg/resource/118529212>	<Point_pois-Contain-Point_natual>	<hgeokg/resource/357630079>
+<hgeokg/resource/205297613>	<hgeokg/schema/access>	access-yes
+<hgeokg/resource/8119396>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/532037963>
+<hgeokg/resource/799505581>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/799505583>
+<hgeokg/resource/118529212>	<Line_roads-Intersect-Point_pois>	<hgeokg/resource/33145995>
+<hgeokg/resource/33145689>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/5672284>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/118529212>
+<hgeokg/resource/532037963>	<Line_railway-Intersect-Point_pois>	<hgeokg/resource/118529212>
+<hgeokg/resource/33145690>	<Line_railway-Intersect-Line_railway>	<hgeokg/resource/658334180>
+<hgeokg/resource/357545993>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Park>
+<hgeokg/resource/532037963>	<hgeokg/schema/maxspeed>	maxspeed-60 mph
+<hgeokg/resource/440122890>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/118529212>
+<hgeokg/resource/118529220>	<hgeokg/schema/owner>	owner-Columbia University
+<hgeokg/resource/9764584>	<Line_roads-Intersect-Point_pois>	<hgeokg/resource/118529212>
+<hgeokg/resource/8119396>	<hgeokg/schema/wikipedia>	wikipedia-en:Henry Hudson Bridge
+<hgeokg/resource/562562103>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/141125508>
+<hgeokg/resource/455098899>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/33145995>
+<hgeokg/resource/799505581>	<Line_roads-Intersect-Line_railway>	<hgeokg/resource/165399494>
+<hgeokg/resource/33145689>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Rail>
+<hgeokg/resource/118529212>	<Line_railway-Intersect-Point_pois>	<hgeokg/resource/33145690>
+<hgeokg/resource/132500932>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-W
+<hgeokg/resource/194722293>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/275121191>
+<hgeokg/resource/33145995>	<hgeokg/schema/motorcar>	motorcar-designated
+<hgeokg/resource/47845066>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/132500932>
+<hgeokg/resource/562562103>	<hgeokg/schema/gnisFeatureId>	gnisFeatureId-2078990
+<hgeokg/resource/141125508>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/680889661>
+<hgeokg/resource/132500932>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/118529212>
+<hgeokg/resource/532037963>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/33145995>
+<hgeokg/resource/33145689>	<Line_railway-Intersect-Line_railway>	<hgeokg/resource/658334180>
+<hgeokg/resource/680889661>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/245848829>
+<hgeokg/resource/132500932>	<hgeokg/schema/surface>	surface-asphalt
+<hgeokg/resource/9764584>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Motorway>
+<hgeokg/resource/8119396>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/33145690>
+<hgeokg/resource/33145993>	<hgeokg/schema/lanes>	lanes-3
+<hgeokg/resource/440122890>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/455098899>
+<hgeokg/resource/5672284>	<hgeokg/schema/maxspeed>	maxspeed-20 mph
+<hgeokg/resource/33145689>	<hgeokg/schema/owner>	owner-Amtrak
+<hgeokg/resource/118529212>	<Point_pois-Intersect-Point_pois>	<hgeokg/resource/194722293>
+<hgeokg/resource/47845066>	<http://www.w3.org/2000/01/rdf-schema#label>	West 218th Street
+<hgeokg/resource/9764584>	<hgeokg/schema/ref>	ref-HH;NY 9A
+<hgeokg/resource/799505581>	<Line_railway-Adjacent-Point_pois>	<hgeokg/resource/562562103>
+<hgeokg/resource/440122890>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Unclassified>
+<hgeokg/resource/680889661>	<hgeokg/schema/sidewalk>	sidewalk-separate
+<hgeokg/resource/799505583>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/326119858>
+<hgeokg/resource/33145690>	<hgeokg/schema/operator>	operator-Amtrak
+<hgeokg/resource/33145690>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/33145993>
+<hgeokg/resource/132500932>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/SharedLane>
+<hgeokg/resource/47845066>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/275121108>	<hgeokg/schema/addrPostcode>	addrPostcode-10034
+<hgeokg/resource/357545993>	<Point_pois-Within-Polygon_landuse>	<hgeokg/resource/118529220>
+<hgeokg/resource/33145689>	<hgeokg/schema/operator>	operator-Amtrak
+<hgeokg/resource/562562103>	<hgeokg/schema/operator>	operator-NewYork-Presbyterian
+<hgeokg/resource/680889022>	<http://www.w3.org/2000/01/rdf-schema#label>	Broadway
+<hgeokg/resource/8119396>	<hgeokg/schema/goods>	goods-no
+<hgeokg/resource/118529212>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5670141>
+<hgeokg/resource/118529220>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Polygon>
+<hgeokg/resource/33145690>	<hgeokg/schema/oldRailwayOperator>	oldRailwayOperator-NYC
+<hgeokg/resource/118529220>	<Polygon_landuse-Intersect-Polygon_buildings>	<hgeokg/resource/275121131>
+<hgeokg/resource/799505581>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/680889022>
+<hgeokg/resource/33145993>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/33145690>	<http://www.w3.org/2000/01/rdf-schema#label>	West Side Line
+<hgeokg/resource/658334180>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/8119396>
+<hgeokg/resource/9764584>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/118529212>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/455098899>
+<hgeokg/resource/562562103>	<Line_railway-Adjacent-Point_pois>	<hgeokg/resource/326119858>
+<hgeokg/resource/165399494>	<http://www.w3.org/2000/01/rdf-schema#label>	West 218th Street
+<hgeokg/resource/33145995>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Motorway>
+<hgeokg/resource/33145993>	<hgeokg/schema/hgv>	hgv-no
+<hgeokg/resource/8119396>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/658334180>
+<hgeokg/resource/47845066>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/326119858>
+<hgeokg/resource/799505581>	<hgeokg/schema/voltage>	voltage-625
+<hgeokg/resource/33145689>	<hgeokg/schema/layer>	layer-1
+<hgeokg/resource/165399494>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/245848829>
+<hgeokg/resource/680889022>	<Line_roads-Adjacent-Polygon_landuse>	<hgeokg/resource/118529220>
+<hgeokg/resource/562562103>	<hgeokg/schema/oldName>	oldName-Allan Pavilion of New York Presbyterian Hospital
+<hgeokg/resource/5672284>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/8119396>	<hgeokg/schema/hgv>	hgv-no
+<hgeokg/resource/357616388>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/275121131>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/5670141>
+<hgeokg/resource/357616388>	<hgeokg/schema/ele>	ele-11
+<hgeokg/resource/132500932>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/275121131>
+<hgeokg/resource/275121131>	<hgeokg/schema/height>	height-10.4
+<hgeokg/resource/275121131>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/132500932>
+<hgeokg/resource/680889022>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/680889661>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/205297613>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/5670141>
+<hgeokg/resource/562562103>	<hgeokg/schema/phone>	phone-+1 212 932 4000
+<hgeokg/resource/562562103>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/680889661>
+<hgeokg/resource/680889661>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/165399494>
+<hgeokg/resource/245848829>	<hgeokg/schema/wikipedia>	wikipedia-it:Campbell Sports Center
+<hgeokg/resource/165399494>	<Line_roads-Adjacent-Polygon_landuse>	<hgeokg/resource/118529220>
+<hgeokg/resource/245848829>	<Line_railway-Adjacent-Polygon_buildings>	<hgeokg/resource/326119858>
+<hgeokg/resource/118529212>	<Point_pois-Contain-Line_roads>	<hgeokg/resource/8119396>
+<hgeokg/resource/9764584>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/8119396>
+<hgeokg/resource/455098899>	<hgeokg/schema/wikipedia>	wikipedia-en:Dyckman Street
+<hgeokg/resource/33145690>	<hgeokg/schema/owner>	owner-Amtrak
+<hgeokg/resource/118529212>	<Line_railway-Intersect-Point_pois>	<hgeokg/resource/33145689>
+<hgeokg/resource/455098899>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/118529212>
+<hgeokg/resource/118529212>	<Line_railway-Intersect-Point_pois>	<hgeokg/resource/658334180>
+<hgeokg/resource/799505581>	<hgeokg/schema/level>	level-2
+<hgeokg/resource/326119858>	<hgeokg/schema/level>	level-2
+<hgeokg/resource/275121103>	<http://www.w3.org/2000/01/rdf-schema#label>	Chrystie Field House
+<hgeokg/resource/245848829>	<Line_railway-Adjacent-Polygon_buildings>	<hgeokg/resource/799505581>
+<hgeokg/resource/680889022>	<hgeokg/schema/ref>	ref-US 9
+<hgeokg/resource/455098899>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/33145993>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/440122890>
+<hgeokg/resource/9764584>	<hgeokg/schema/bridge>	bridge-yes
+<hgeokg/resource/680889022>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Primary>
+<hgeokg/resource/680889661>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Primary>
+<hgeokg/resource/165399494>	<Line_roads-Intersect-Line_railway>	<hgeokg/resource/799505581>
+<hgeokg/resource/5670141>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/47845066>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/8119396>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/799505583>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/141125508>
+<hgeokg/resource/205297613>	<Point_pois-Intersect-Point_pois>	<hgeokg/resource/118529212>
+<hgeokg/resource/132500932>	<Line_roads-Adjacent-Polygon_landuse>	<hgeokg/resource/118529220>
+<hgeokg/resource/680889022>	<hgeokg/schema/wikipedia>	wikipedia-en:Broadway (Manhattan)
+<hgeokg/resource/141125508>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Primary>
+<hgeokg/resource/33145993>	<hgeokg/schema/unsignedRef>	unsignedRef-NY 907V
+<hgeokg/resource/118529220>	<Line_roads-Adjacent-Polygon_landuse>	<hgeokg/resource/141125508>
+<hgeokg/resource/9764584>	<hgeokg/schema/unsignedRef>	unsignedRef-NY 907V
+<hgeokg/resource/118529220>	<Polygon_landuse-Contain-Point_pois>	<hgeokg/resource/357545993>
+<hgeokg/resource/141125508>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/245848829>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Polygon>
+<hgeokg/resource/562562103>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/799505583>
+<hgeokg/resource/118529220>	<Line_roads-Adjacent-Polygon_landuse>	<hgeokg/resource/680889022>
+<hgeokg/resource/275121108>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Tennis>
+<hgeokg/resource/532037963>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/440122890>
+<hgeokg/resource/455098899>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/33145993>
+<hgeokg/resource/275121103>	<hgeokg/schema/addrHousenumber>	addrHousenumber-517
+<hgeokg/resource/275121131>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/118529212>
+<hgeokg/resource/275121108>	<http://www.w3.org/2000/01/rdf-schema#label>	Dick Savitt Tennis Center
+<hgeokg/resource/5670141>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/8119396>	<Line_roads-Intersect-Point_pois>	<hgeokg/resource/118529212>
+<hgeokg/resource/275121108>	<hgeokg/schema/height>	height-4.3
+<hgeokg/resource/275121103>	<Polygon_landuse-Intersect-Polygon_buildings>	<hgeokg/resource/118529220>
+<hgeokg/resource/33145690>	<hgeokg/schema/electrified>	electrified-no
+<hgeokg/resource/33145993>	<http://www.w3.org/2000/01/rdf-schema#label>	Henry Hudson Parkway
+<hgeokg/resource/275121103>	<hgeokg/schema/height>	height-9.1
+<hgeokg/resource/5670141>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/118529220>	<http://www.w3.org/2000/01/rdf-schema#label>	Baker Athletics Complex
+<hgeokg/resource/33145995>	<hgeokg/schema/notName>	notName-West Side Highway
+<hgeokg/resource/455098899>	<hgeokg/schema/bicycle>	bicycle-designated
+<hgeokg/resource/141125508>	<Line_roads-Adjacent-Polygon_landuse>	<hgeokg/resource/118529220>
+<hgeokg/resource/680889661>	<hgeokg/schema/nameRu>	nameRu-Бродвей
+<hgeokg/resource/326119858>	<hgeokg/schema/frequency>	frequency-0
+<hgeokg/resource/33145690>	<hgeokg/schema/usage>	usage-branch
+<hgeokg/resource/455098899>	<http://www.w3.org/2000/01/rdf-schema#label>	Dyckman Street
+<hgeokg/resource/680889661>	<hgeokg/schema/ref>	ref-US 9
+<hgeokg/resource/33145993>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/33145690>
+<hgeokg/resource/275121108>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/357616388>
+<hgeokg/resource/532037963>	<hgeokg/schema/oldRailwayOperator>	oldRailwayOperator-NYC
+<hgeokg/resource/33145690>	<hgeokg/schema/gauge>	gauge-1435
+<hgeokg/resource/47845066>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Tertiary>
+<hgeokg/resource/326119858>	<hgeokg/schema/layer>	layer-2
+<hgeokg/resource/118529212>	<http://www.w3.org/2000/01/rdf-schema#label>	Inwood Hill Park
+<hgeokg/resource/33145689>	<hgeokg/schema/usage>	usage-branch
+<hgeokg/resource/799505583>	<hgeokg/schema/ref>	ref-US 9
+<hgeokg/resource/33145690>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/455098899>
+<hgeokg/resource/658334180>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Rail>
+<hgeokg/resource/5672284>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/532037963>	<Line_railway-Intersect-Line_railway>	<hgeokg/resource/658334180>
+<hgeokg/resource/47845066>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/680889022>
+<hgeokg/resource/118529220>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/RecreationGround>
+<hgeokg/resource/532037963>	<hgeokg/schema/railwayTrackRef>	railwayTrackRef-2
+<hgeokg/resource/8119396>	<hgeokg/schema/toll>	toll-yes
+<hgeokg/resource/455098899>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/562562103>	<hgeokg/schema/openingHours>	openingHours-24/7
+<hgeokg/resource/141125508>	<hgeokg/schema/ref>	ref-US 9
+<hgeokg/resource/118529220>	<Polygon_landuse-Intersect-Polygon_buildings>	<hgeokg/resource/275121103>
+<hgeokg/resource/194722293>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/5672284>
+<hgeokg/resource/118529212>	<hgeokg/schema/source>	source-Bing
+<hgeokg/resource/5672284>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/141125508>	<hgeokg/schema/wikipedia>	wikipedia-en:Broadway (Manhattan)
+<hgeokg/resource/799505583>	<http://www.w3.org/2000/01/rdf-schema#label>	Broadway
+<hgeokg/resource/357545993>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/118529212>	<Line_railway-Intersect-Point_pois>	<hgeokg/resource/532037963>
+<hgeokg/resource/33145993>	<hgeokg/schema/toll>	toll-yes
+<hgeokg/resource/33145689>	<hgeokg/schema/bridgeName>	bridgeName-Spuyten Duyvil Bridge
+<hgeokg/resource/33145993>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/455098899>
+<hgeokg/resource/132500932>	<http://www.w3.org/2000/01/rdf-schema#label>	West 218th Street
+<hgeokg/resource/532037963>	<hgeokg/schema/owner>	owner-Amtrak
+<hgeokg/resource/440122890>	<hgeokg/schema/wikipedia>	wikipedia-en:Dyckman Street
+<hgeokg/resource/8119396>	<hgeokg/schema/unsignedRef>	unsignedRef-NY 907V
+<hgeokg/resource/118529220>	<Line_railway-Adjacent-Polygon_landuse>	<hgeokg/resource/799505581>
+<hgeokg/resource/275121191>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/47845066>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/165399494>
+<hgeokg/resource/326119858>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/141125508>
+<hgeokg/resource/680889661>	<hgeokg/schema/wikipedia>	wikipedia-en:Broadway (Manhattan)
+<hgeokg/resource/33145689>	<Line_railway-Intersect-Point_pois>	<hgeokg/resource/118529212>
+<hgeokg/resource/8119396>	<hgeokg/schema/ref>	ref-HH;NY 9A
+<hgeokg/resource/118529212>	<Point_pois-Intersect-Polygon_landuse>	<hgeokg/resource/118529220>
+<hgeokg/resource/658334180>	<hgeokg/schema/maxspeed>	maxspeed-45 mph
+<hgeokg/resource/532037963>	<hgeokg/schema/gauge>	gauge-1435
+<hgeokg/resource/275121131>	<Polygon_buildings-Adjacent-Polygon_buildings>	<hgeokg/resource/275121108>
+<hgeokg/resource/326119858>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/799505583>
+<hgeokg/resource/562562103>	<http://www.w3.org/2000/01/rdf-schema#label>	NewYork-Presbyterian/Allen Hospital
+<hgeokg/resource/680889022>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/275121131>	<hgeokg/schema/nycdoittBin>	nycdoittBin-1089217
+<hgeokg/resource/33145995>	<hgeokg/schema/layer>	layer-1
+<hgeokg/resource/205297613>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/33145995>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/8119396>
+<hgeokg/resource/680889661>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/680889022>
+<hgeokg/resource/357545993>	<hgeokg/schema/ele>	ele-17
+<hgeokg/resource/132500932>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/799505583>	<hgeokg/schema/sidewalk>	sidewalk-separate
+<hgeokg/resource/357630079>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Peak>
+<hgeokg/resource/799505581>	<hgeokg/schema/railwayTrackRef>	railwayTrackRef-M
+<hgeokg/resource/562562103>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/357545993>
+<hgeokg/resource/562562103>	<hgeokg/schema/altName>	altName-The Allen Hospital
+<hgeokg/resource/8119396>	<hgeokg/schema/motorcar>	motorcar-designated
+<hgeokg/resource/326119858>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/680889661>
+<hgeokg/resource/33145995>	<hgeokg/schema/unsignedRef>	unsignedRef-NY 907V
+<hgeokg/resource/47845066>	<Line_roads-Adjacent-Polygon_landuse>	<hgeokg/resource/118529220>
+<hgeokg/resource/440122890>	<hgeokg/schema/bicycle>	bicycle-designated
+<hgeokg/resource/532037963>	<hgeokg/schema/usage>	usage-branch
+<hgeokg/resource/9764584>	<hgeokg/schema/hgv>	hgv-no
+<hgeokg/resource/799505583>	<hgeokg/schema/lanes>	lanes-2
+<hgeokg/resource/33145993>	<hgeokg/schema/motorcar>	motorcar-designated
+<hgeokg/resource/680889022>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/47845066>
+<hgeokg/resource/680889661>	<http://www.w3.org/2000/01/rdf-schema#label>	Broadway
+<hgeokg/resource/5670141>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/132500932>
+<hgeokg/resource/118529212>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/132500932>
+<hgeokg/resource/326119858>	<Line_roads-Intersect-Line_railway>	<hgeokg/resource/165399494>
+<hgeokg/resource/562562103>	<hgeokg/schema/addrHousenumber>	addrHousenumber-5141
+<hgeokg/resource/8119396>	<Line_roads-Within-Point_pois>	<hgeokg/resource/118529212>
+<hgeokg/resource/326119858>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/680889022>
+<hgeokg/resource/680889661>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/562562103>
+<hgeokg/resource/118529220>	<Line_roads-Adjacent-Polygon_landuse>	<hgeokg/resource/132500932>
+<hgeokg/resource/658334180>	<hgeokg/schema/gauge>	gauge-1435
+<hgeokg/resource/5672284>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/326119858>	<Line_railway-Adjacent-Point_pois>	<hgeokg/resource/562562103>
+<hgeokg/resource/118529212>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5672284>
+<hgeokg/resource/680889022>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/326119858>
+<hgeokg/resource/118529220>	<Line_roads-Adjacent-Polygon_landuse>	<hgeokg/resource/47845066>
+<hgeokg/resource/8119396>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/33145993>
+<hgeokg/resource/440122890>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/5672284>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/275121191>
+<hgeokg/resource/8119396>	<hgeokg/schema/layer>	layer-1
+<hgeokg/resource/658334180>	<http://www.w3.org/2000/01/rdf-schema#label>	West Side Line
+<hgeokg/resource/357616388>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Park>
+<hgeokg/resource/326119858>	<hgeokg/schema/voltage>	voltage-625
+<hgeokg/resource/118529220>	<Line_railway-Adjacent-Polygon_landuse>	<hgeokg/resource/326119858>
+<hgeokg/resource/275121191>	<hgeokg/schema/height>	height-6.8
+<hgeokg/resource/680889022>	<hgeokg/schema/lanes>	lanes-2
+<hgeokg/resource/680889022>	<hgeokg/schema/sidewalk>	sidewalk-separate
+<hgeokg/resource/532037963>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/455098899>
+<hgeokg/resource/357630079>	<http://www.w3.org/2000/01/rdf-schema#label>	Inwood Hill
+<hgeokg/resource/440122890>	<http://www.w3.org/2000/01/rdf-schema#label>	Dyckman Street
+<hgeokg/resource/799505581>	<hgeokg/schema/bridge>	bridge-yes
+<hgeokg/resource/33145993>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/8119396>
+<hgeokg/resource/141125508>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/799505581>
+<hgeokg/resource/118529212>	<Line_roads-Intersect-Point_pois>	<hgeokg/resource/33145993>
+<hgeokg/resource/5672284>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/194722293>
+<hgeokg/resource/562562103>	<Line_railway-Adjacent-Point_pois>	<hgeokg/resource/799505581>
+<hgeokg/resource/562562103>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/194722293>	<Point_pois-Intersect-Point_pois>	<hgeokg/resource/118529212>
+<hgeokg/resource/47845066>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/SharedLane>
+<hgeokg/resource/33145993>	<hgeokg/schema/notName>	notName-West Side Highway
+<hgeokg/resource/275121131>	<http://www.w3.org/2000/01/rdf-schema#label>	Columbia Boat House
+<hgeokg/resource/275121108>	<hgeokg/schema/addrState>	addrState-NY
+<hgeokg/resource/326119858>	<Line_railway-Adjacent-Polygon_buildings>	<hgeokg/resource/245848829>
+<hgeokg/resource/33145995>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/33145690>
+<hgeokg/resource/562562103>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/680889022>
+<hgeokg/resource/33145995>	<Line_roads-Intersect-Point_pois>	<hgeokg/resource/118529212>
+<hgeokg/resource/141125508>	<hgeokg/schema/nameRu>	nameRu-Бродвей
+<hgeokg/resource/9764584>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/440122890>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/33145995>
+<hgeokg/resource/357545993>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/562562103>
+<hgeokg/resource/33145995>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/33145993>
+<hgeokg/resource/326119858>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/RailwaySubway>
+<hgeokg/resource/245848829>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/165399494>
+<hgeokg/resource/680889661>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/275121191>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5672284>
+<hgeokg/resource/245848829>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/680889661>
+<hgeokg/resource/132500932>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/47845066>
+<hgeokg/resource/5670141>	<Line_roads-Adjacent-Polygon_landuse>	<hgeokg/resource/118529220>
+<hgeokg/resource/33145993>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/532037963>
+<hgeokg/resource/532037963>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/8119396>
+<hgeokg/resource/357616388>	<http://www.w3.org/2000/01/rdf-schema#label>	Lawrence A Wein Stadium
+<hgeokg/resource/658334180>	<hgeokg/schema/oldRailwayOperator>	oldRailwayOperator-NYC
+<hgeokg/resource/33145995>	<hgeokg/schema/lanes>	lanes-3
+<hgeokg/resource/245848829>	<hgeokg/schema/buildingLevels>	buildingLevels-5
+<hgeokg/resource/141125508>	<hgeokg/schema/sidewalk>	sidewalk-separate
+<hgeokg/resource/799505583>	<hgeokg/schema/layer>	layer-1
+<hgeokg/resource/5670141>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/118529212>
+<hgeokg/resource/357630079>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/562562103>	<hgeokg/schema/website>	website-https://www.nyp.org/allenhospital
+<hgeokg/resource/141125508>	<hgeokg/schema/lanes>	lanes-2
+<hgeokg/resource/562562103>	<hgeokg/schema/addrPostcode>	addrPostcode-10040
+<hgeokg/resource/118529220>	<Point_pois-Intersect-Polygon_landuse>	<hgeokg/resource/118529212>
+<hgeokg/resource/326119858>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/47845066>
+<hgeokg/resource/562562103>	<hgeokg/schema/wheelchair>	wheelchair-yes
+<hgeokg/resource/326119858>	<Line_railway-Adjacent-Polygon_landuse>	<hgeokg/resource/118529220>
+<hgeokg/resource/275121108>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Polygon>
+<hgeokg/resource/680889661>	<Line_roads-Adjacent-Polygon_landuse>	<hgeokg/resource/118529220>
+<hgeokg/resource/118529212>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/275121131>
+<hgeokg/resource/5670141>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/275121131>
+<hgeokg/resource/799505583>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/275121191>	<hgeokg/schema/operator>	operator-NYC Parks Dept
+<hgeokg/resource/799505581>	<Line_railway-Adjacent-Polygon_buildings>	<hgeokg/resource/245848829>
+<hgeokg/resource/33145993>	<hgeokg/schema/ref>	ref-HH;NY 9A
+<hgeokg/resource/5670141>	<http://www.w3.org/2000/01/rdf-schema#label>	Indian Road
+<hgeokg/resource/33145995>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/455098899>
+<hgeokg/resource/118529212>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Park>
+<hgeokg/resource/455098899>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Unclassified>
+<hgeokg/resource/141125508>	<http://www.w3.org/2000/01/rdf-schema#label>	Broadway
+<hgeokg/resource/658334180>	<Line_railway-Intersect-Line_railway>	<hgeokg/resource/532037963>
+<hgeokg/resource/326119858>	<hgeokg/schema/railwayTrackRef>	railwayTrackRef-1
+<hgeokg/resource/8119396>	<hgeokg/schema/bridge>	bridge-yes
+<hgeokg/resource/9764584>	<http://www.w3.org/2000/01/rdf-schema#label>	Henry Hudson Parkway
+<hgeokg/resource/275121191>	<hgeokg/schema/nycdoittBin>	nycdoittBin-1089222
+<hgeokg/resource/326119858>	<hgeokg/schema/electrified>	electrified-rail
+<hgeokg/resource/326119858>	<http://www.w3.org/2000/01/rdf-schema#label>	IRT Broadway–Seventh Avenue Line
+<hgeokg/resource/799505583>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Primary>
+<hgeokg/resource/33145995>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/532037963>
+<hgeokg/resource/165399494>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/118529220>	<Polygon_landuse-Intersect-Polygon_buildings>	<hgeokg/resource/245848829>
+<hgeokg/resource/357630079>	<hgeokg/schema/gnisFeatureId>	gnisFeatureId-2359513
+<hgeokg/resource/357616388>	<hgeokg/schema/gnisFeatureId>	gnisFeatureId-2079037
+<hgeokg/resource/245848829>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/47845066>
+<hgeokg/resource/455098899>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/532037963>
+<hgeokg/resource/165399494>	<hgeokg/schema/sidewalk>	sidewalk-separate
+<hgeokg/resource/33145690>	<Line_railway-Intersect-Point_pois>	<hgeokg/resource/118529212>
+<hgeokg/resource/275121191>	<http://www.w3.org/2000/01/rdf-schema#label>	Payson Nature Center
+<hgeokg/resource/440122890>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/532037963>
+<hgeokg/resource/165399494>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/47845066>
+<hgeokg/resource/5670141>	<hgeokg/schema/maxspeed>	maxspeed-20 mph
+<hgeokg/resource/455098899>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/440122890>
+<hgeokg/resource/357545993>	<hgeokg/schema/gnisFeatureId>	gnisFeatureId-942830
+<hgeokg/resource/141125508>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/326119858>
+<hgeokg/resource/245848829>	<http://www.w3.org/2000/01/rdf-schema#label>	Campbell Sports Center
+<hgeokg/resource/33145995>	<hgeokg/schema/goods>	goods-no
+<hgeokg/resource/8119396>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/47845066>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/799505581>
+<hgeokg/resource/194722293>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Playground>
+<hgeokg/resource/33145689>	<hgeokg/schema/maxspeed>	maxspeed-45 mph
+<hgeokg/resource/680889022>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/680889661>
+<hgeokg/resource/141125508>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/680889022>
+<hgeokg/resource/680889022>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/165399494>
+<hgeokg/resource/275121103>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Polygon>
+<hgeokg/resource/658334180>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/205297613>	<http://www.w3.org/2000/01/rdf-schema#label>	Indian Road Playground
+<hgeokg/resource/799505581>	<Line_railway-Adjacent-Polygon_landuse>	<hgeokg/resource/118529220>
+<hgeokg/resource/8119396>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/33145995>
+<hgeokg/resource/680889661>	<hgeokg/schema/lanes>	lanes-2
+<hgeokg/resource/33145689>	<hgeokg/schema/gauge>	gauge-1435
+<hgeokg/resource/33145995>	<http://www.w3.org/2000/01/rdf-schema#label>	Henry Hudson Parkway
+<hgeokg/resource/5670141>	<hgeokg/schema/surface>	surface-asphalt
+<hgeokg/resource/47845066>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/680889661>
+<hgeokg/resource/8119396>	<http://www.w3.org/2000/01/rdf-schema#label>	Henry Hudson Parkway
+<hgeokg/resource/8119396>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Motorway>
+<hgeokg/resource/132500932>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/33145689>	<hgeokg/schema/electrified>	electrified-no
+<hgeokg/resource/275121103>	<hgeokg/schema/addrPostcode>	addrPostcode-10034
+<hgeokg/resource/275121191>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/AmenityToilets>
+<hgeokg/resource/275121103>	<hgeokg/schema/nycdoittBin>	nycdoittBin-1082066
+<hgeokg/resource/194722293>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/118529220>	<Line_roads-Adjacent-Polygon_landuse>	<hgeokg/resource/165399494>
+<hgeokg/resource/799505581>	<hgeokg/schema/electrified>	electrified-rail
+<hgeokg/resource/680889661>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/141125508>
+<hgeokg/resource/118529212>	<Point_pois-Intersect-Point_pois>	<hgeokg/resource/275121191>
+<hgeokg/resource/680889022>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/141125508>
+<hgeokg/resource/658334180>	<hgeokg/schema/electrified>	electrified-no
+<hgeokg/resource/33145690>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Rail>
+<hgeokg/resource/680889022>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/245848829>
+<hgeokg/resource/132500932>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5670141>
+<hgeokg/resource/194722293>	<http://www.w3.org/2000/01/rdf-schema#label>	Payson Playground
+<hgeokg/resource/33145995>	<hgeokg/schema/bridge>	bridge-yes
+<hgeokg/resource/33145993>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/532037963>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/33145993>
+<hgeokg/resource/5670141>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/205297613>
+<hgeokg/resource/47845066>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/275121103>
+<hgeokg/resource/799505583>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/799505581>
+<hgeokg/resource/118529212>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/165399494>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-W
+<hgeokg/resource/532037963>	<hgeokg/schema/electrified>	electrified-no
+<hgeokg/resource/33145690>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/33145690>	<hgeokg/schema/railwayTrackRef>	railwayTrackRef-1
+<hgeokg/resource/532037963>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/118529220>	<Line_roads-Adjacent-Polygon_landuse>	<hgeokg/resource/680889661>
+<hgeokg/resource/165399494>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/680889022>
+<hgeokg/resource/33145690>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/440122890>
+<hgeokg/resource/33145689>	<hgeokg/schema/oldRailwayOperator>	oldRailwayOperator-NYC
+<hgeokg/resource/165399494>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/799505581>	<hgeokg/schema/gauge>	gauge-1435
+<hgeokg/resource/205297613>	<hgeokg/schema/wheelchair>	wheelchair-yes
+<hgeokg/resource/141125508>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/658334180>	<hgeokg/schema/railwayTrackRef>	railwayTrackRef-1
+<hgeokg/resource/799505581>	<hgeokg/schema/layer>	layer-2
+<hgeokg/resource/165399494>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/680889661>
+<hgeokg/resource/33145995>	<hgeokg/schema/surface>	surface-asphalt
+<hgeokg/resource/440122890>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/33145690>	<hgeokg/schema/maxspeed>	maxspeed-60 mph
+<hgeokg/resource/9764584>	<hgeokg/schema/toll>	toll-yes
+<hgeokg/resource/275121131>	<Polygon_landuse-Intersect-Polygon_buildings>	<hgeokg/resource/118529220>
+<hgeokg/resource/118529212>	<Point_pois-Intersect-Point_pois>	<hgeokg/resource/205297613>
+<hgeokg/resource/118529220>	<hgeokg/schema/source>	source-Bing
+<hgeokg/resource/33145995>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/275121131>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Polygon>
+<hgeokg/resource/33145995>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/440122890>
+<hgeokg/resource/118529220>	<Point_pois-Intersect-Polygon_landuse>	<hgeokg/resource/562562103>
+<hgeokg/resource/118529212>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/440122890>
+<hgeokg/resource/165399494>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Tertiary>
+<hgeokg/resource/680889661>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/326119858>
+<hgeokg/resource/33145993>	<hgeokg/schema/goods>	goods-no
+<hgeokg/resource/275121108>	<hgeokg/schema/nycdoittBin>	nycdoittBin-1082789
+<hgeokg/resource/132500932>	<hgeokg/schema/maxspeed>	maxspeed-20 mph
+<hgeokg/resource/326119858>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/326119858>	<hgeokg/schema/bridge>	bridge-yes
+<hgeokg/resource/440122890>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/799505581>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/47845066>	<hgeokg/schema/sidewalk>	sidewalk-separate
+<hgeokg/resource/680889022>	<hgeokg/schema/nameRu>	nameRu-Бродвей
+<hgeokg/resource/275121103>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/47845066>
+<hgeokg/resource/658334180>	<Line_railway-Intersect-Line_railway>	<hgeokg/resource/33145690>
+<hgeokg/resource/799505581>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/47845066>
+<hgeokg/resource/658334180>	<hgeokg/schema/owner>	owner-Amtrak
+<hgeokg/resource/141125508>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/562562103>
+<hgeokg/resource/33145995>	<hgeokg/schema/ref>	ref-HH;NY 9A
+<hgeokg/resource/47845066>	<hgeokg/schema/surface>	surface-asphalt
+<hgeokg/resource/440122890>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/33145690>
+<hgeokg/resource/33145690>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/8119396>
+<hgeokg/resource/799505581>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/RailwaySubway>
+<hgeokg/resource/245848829>	<Polygon_buildings-Adjacent-Polygon_buildings>	<hgeokg/resource/275121103>
+<hgeokg/resource/658334180>	<hgeokg/schema/usage>	usage-branch
+<hgeokg/resource/357630079>	<Point_natual-Within-Point_pois>	<hgeokg/resource/118529212>
+<hgeokg/resource/799505581>	<hgeokg/schema/frequency>	frequency-0
+<hgeokg/resource/33145690>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/33145995>
+<hgeokg/resource/799505583>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/275121191>	<Point_pois-Intersect-Point_pois>	<hgeokg/resource/118529212>
+<hgeokg/resource/165399494>	<Line_roads-Intersect-Line_railway>	<hgeokg/resource/326119858>
+<hgeokg/resource/33145993>	<Line_roads-Intersect-Point_pois>	<hgeokg/resource/118529212>
+<hgeokg/resource/532037963>	<Line_railway-Intersect-Line_railway>	<hgeokg/resource/33145690>
+<hgeokg/resource/33145689>	<http://www.w3.org/2000/01/rdf-schema#label>	West Side Line
+<hgeokg/resource/132500932>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Tertiary>
+<hgeokg/resource/532037963>	<http://www.w3.org/2000/01/rdf-schema#label>	West Side Line
+<hgeokg/resource/9764584>	<hgeokg/schema/lanes>	lanes-3
+<hgeokg/resource/275121191>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/194722293>
+<hgeokg/resource/275121103>	<Polygon_buildings-Adjacent-Polygon_buildings>	<hgeokg/resource/245848829>
+<hgeokg/resource/357616388>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/275121108>
+<hgeokg/resource/658334180>	<Line_railway-Intersect-Point_pois>	<hgeokg/resource/118529212>
+<hgeokg/resource/799505583>	<hgeokg/schema/bridgeName>	bridgeName-Broadway Bridge
+<hgeokg/resource/245848829>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/680889022>
+<hgeokg/resource/799505583>	<hgeokg/schema/nameRu>	nameRu-Бродвей
+<hgeokg/resource/799505583>	<hgeokg/schema/wikipedia>	wikipedia-en:Broadway Bridge (Manhattan)
+<hgeokg/resource/357545993>	<http://www.w3.org/2000/01/rdf-schema#label>	Baker Field
+<hgeokg/resource/33145995>	<hgeokg/schema/toll>	toll-yes
+<hgeokg/resource/141125508>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/799505583>
+<hgeokg/resource/357630079>	<hgeokg/schema/ele>	ele-70
+<hgeokg/resource/799505581>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/680889661>
+<hgeokg/resource/245848829>	<Polygon_landuse-Intersect-Polygon_buildings>	<hgeokg/resource/118529220>

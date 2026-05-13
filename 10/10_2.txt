@@ -1,0 +1,691 @@
+<hgeokg/resource/271823296>	<hgeokg/schema/buildingMaterial>	buildingMaterial-brick
+<hgeokg/resource/420878097>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/763320784>
+<hgeokg/resource/4803945992>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/GuestHouse>
+<hgeokg/resource/275298549>	<http://www.w3.org/2000/01/rdf-schema#label>	West 133rd Street
+<hgeokg/resource/497262702>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/497262700>
+<hgeokg/resource/271814752>	<hgeokg/schema/ele>	ele-9
+<hgeokg/resource/420590007>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5670228>
+<hgeokg/resource/271814751>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/420877107>
+<hgeokg/resource/364026608>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5235585640>
+<hgeokg/resource/271824433>	<Point_pofw-Adjacent-Point_pofw>	<hgeokg/resource/271814751>
+<hgeokg/resource/275298548>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/180719506>
+<hgeokg/resource/420590007>	<hgeokg/schema/wikipedia>	wikipedia-en:Seventh Avenue (Manhattan)
+<hgeokg/resource/3628264>	<hgeokg/schema/ele>	ele-10
+<hgeokg/resource/497262701>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/4449731898>
+<hgeokg/resource/5004045121>	<Point_pois-Adjacent-Point_pofw>	<hgeokg/resource/271814751>
+<hgeokg/resource/420877107>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Primary>
+<hgeokg/resource/497262700>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-W
+<hgeokg/resource/420589999>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/497262700>
+<hgeokg/resource/2767552427>	<hgeokg/schema/addrState>	addrState-NY
+<hgeokg/resource/275298546>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-W
+<hgeokg/resource/180719506>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/275298549>
+<hgeokg/resource/497262702>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/763320782>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/364026608>
+<hgeokg/resource/46594124>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5004045121>
+<hgeokg/resource/204085726>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/763320784>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/4449731898>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/420590007>
+<hgeokg/resource/224028029>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/420878106>
+<hgeokg/resource/275298548>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5402620985>
+<hgeokg/resource/2767552427>	<http://www.w3.org/2000/01/rdf-schema#label>	Revolution Books
+<hgeokg/resource/420877085>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/275298548>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/204085726>
+<hgeokg/resource/5670228>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/224028029>
+<hgeokg/resource/2767552427>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5235585640>
+<hgeokg/resource/420590007>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/275298549>
+<hgeokg/resource/204085726>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/497262700>
+<hgeokg/resource/271824433>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/420590007>
+<hgeokg/resource/420878106>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/46594124>
+<hgeokg/resource/4449731898>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/420589999>
+<hgeokg/resource/2767552427>	<hgeokg/schema/openingHours>	openingHours-Tu-Sa 12:00-21:00
+<hgeokg/resource/46594124>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/204085726>
+<hgeokg/resource/420877085>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/275298546>
+<hgeokg/resource/275298549>	<hgeokg/schema/wikipedia>	wikipedia-en:133rd Street (Manhattan)
+<hgeokg/resource/497262702>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/275298549>
+<hgeokg/resource/46594124>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/497262701>	<hgeokg/schema/maxspeed>	maxspeed-25 mph
+<hgeokg/resource/5235585640>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/2767552427>
+<hgeokg/resource/3628264>	<Point_pofw-Adjacent-Polygon_buildings>	<hgeokg/resource/271814751>
+<hgeokg/resource/497262701>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/46594124>
+<hgeokg/resource/497262702>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420877107>
+<hgeokg/resource/5670228>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/763320784>
+<hgeokg/resource/420590007>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/497262700>
+<hgeokg/resource/4449731898>	<hgeokg/schema/phone>	phone-212-690-0699
+<hgeokg/resource/275298549>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/275298548>
+<hgeokg/resource/420877085>	<hgeokg/schema/altName>	altName-7th Ave
+<hgeokg/resource/271823296>	<hgeokg/schema/ele>	ele-7
+<hgeokg/resource/420589999>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/364026608>	<hgeokg/schema/wikipedia>	wikipedia-en:Lenox Avenue
+<hgeokg/resource/497262700>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/271814751>
+<hgeokg/resource/271814752>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Polygon>
+<hgeokg/resource/275298549>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/497262701>
+<hgeokg/resource/271814751>	<hgeokg/schema/height>	height-12.4
+<hgeokg/resource/420878106>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/420878097>
+<hgeokg/resource/420878098>	<hgeokg/schema/wikipedia>	wikipedia-en:Lenox Avenue
+<hgeokg/resource/271814751>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/497262700>
+<hgeokg/resource/420877085>	<hgeokg/schema/bicycle>	bicycle-yes
+<hgeokg/resource/204085726>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5235591459>
+<hgeokg/resource/497262702>	<hgeokg/schema/network>	network-lcn
+<hgeokg/resource/275298548>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/271823296>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/763320782>
+<hgeokg/resource/224028029>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5235585640>
+<hgeokg/resource/420589999>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/420877107>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/275298548>
+<hgeokg/resource/497262701>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/275298549>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/180719506>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/271824433>	<Point_pofw-Adjacent-Polygon_buildings>	<hgeokg/resource/271814752>
+<hgeokg/resource/2767552427>	<hgeokg/schema/phone>	phone-212-691-3345
+<hgeokg/resource/420877107>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/204085726>
+<hgeokg/resource/3628264>	<Point_pois-Intersect-Polygon_buildings>	<hgeokg/resource/324991270>
+<hgeokg/resource/420878098>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/497262702>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/4449731898>
+<hgeokg/resource/46594124>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420878098>
+<hgeokg/resource/420590007>	<hgeokg/schema/hgv>	hgv-local
+<hgeokg/resource/275298546>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420877085>
+<hgeokg/resource/271814752>	<hgeokg/schema/addrPostcode>	addrPostcode-10027
+<hgeokg/resource/275298549>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-W
+<hgeokg/resource/204085726>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/275298549>
+<hgeokg/resource/763320784>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/364026608>
+<hgeokg/resource/420589999>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5235591459>
+<hgeokg/resource/420877085>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5235591459>
+<hgeokg/resource/46594124>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5235591459>
+<hgeokg/resource/497262701>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/180719506>
+<hgeokg/resource/420590007>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/4449731898>
+<hgeokg/resource/497262701>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/420877107>
+<hgeokg/resource/5670228>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/420590007>
+<hgeokg/resource/271814751>	<Point_pofw-Adjacent-Polygon_buildings>	<hgeokg/resource/271814752>
+<hgeokg/resource/763320782>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5670228>
+<hgeokg/resource/46594124>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/275298546>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5670228>
+<hgeokg/resource/275298546>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5235585640>
+<hgeokg/resource/420877085>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/5235585640>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/46594124>
+<hgeokg/resource/5402620985>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/324991270>
+<hgeokg/resource/420878097>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5670228>
+<hgeokg/resource/420589999>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/5235585640>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/224028029>
+<hgeokg/resource/5235591459>	<http://www.w3.org/2000/01/rdf-schema#label>	Adam Clayton Powell Jr Boulevard & West 132nd Street
+<hgeokg/resource/3628264>	<hgeokg/schema/height>	height-10.4
+<hgeokg/resource/420877107>	<hgeokg/schema/network>	network-lcn
+<hgeokg/resource/204085726>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/180719506>
+<hgeokg/resource/497262701>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Primary>
+<hgeokg/resource/420878097>	<hgeokg/schema/hgv>	hgv-destination
+<hgeokg/resource/5235591459>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/PublicTransportPlatform>
+<hgeokg/resource/271814751>	<hgeokg/schema/addrHousenumber>	addrHousenumber-219
+<hgeokg/resource/497262701>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420877085>
+<hgeokg/resource/5235585640>	<hgeokg/schema/bus>	bus-yes
+<hgeokg/resource/271824433>	<hgeokg/schema/height>	height-22.0
+<hgeokg/resource/5004045121>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/271814752>
+<hgeokg/resource/420878097>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/5670228>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/275298548>
+<hgeokg/resource/420878106>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/2767552427>
+<hgeokg/resource/275298546>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420589999>
+<hgeokg/resource/364026608>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Secondary>
+<hgeokg/resource/420878098>	<hgeokg/schema/lanes>	lanes-3
+<hgeokg/resource/420877085>	<hgeokg/schema/hgv>	hgv-local
+<hgeokg/resource/271823296>	<hgeokg/schema/operatorWikipedia>	operatorWikipedia-en:New York City Fire Department
+<hgeokg/resource/271824433>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/275298549>
+<hgeokg/resource/420589999>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/275298546>
+<hgeokg/resource/497262700>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420877085>
+<hgeokg/resource/497262702>	<hgeokg/schema/wikipedia>	wikipedia-en:Seventh Avenue (Manhattan)
+<hgeokg/resource/46594124>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/271814752>
+<hgeokg/resource/4803945992>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/271814752>
+<hgeokg/resource/420589999>	<hgeokg/schema/hgv>	hgv-local
+<hgeokg/resource/275298546>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/204085726>
+<hgeokg/resource/420877107>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/275298549>
+<hgeokg/resource/420589999>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/271824433>
+<hgeokg/resource/497262702>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/5235591459>	<hgeokg/schema/bus>	bus-yes
+<hgeokg/resource/271814752>	<hgeokg/schema/nycdoittBin>	nycdoittBin-1058776
+<hgeokg/resource/364026608>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/204085726>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/46594124>
+<hgeokg/resource/420590007>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/271824433>
+<hgeokg/resource/420878097>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/2767552427>
+<hgeokg/resource/364026608>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/763320782>
+<hgeokg/resource/324991270>	<http://www.w3.org/2000/01/rdf-schema#label>	Public School 92
+<hgeokg/resource/275298546>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/497262702>
+<hgeokg/resource/420590007>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/497262701>
+<hgeokg/resource/497262701>	<hgeokg/schema/altName>	altName-7th Ave
+<hgeokg/resource/271814752>	<Point_transport-Adjacent-Polygon_buildings>	<hgeokg/resource/5235591459>
+<hgeokg/resource/275298548>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/497262701>
+<hgeokg/resource/497262700>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/497262701>
+<hgeokg/resource/497262700>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/420878097>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/271823296>
+<hgeokg/resource/5235591459>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/420589999>
+<hgeokg/resource/497262701>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/271814752>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/BuildingSchool>
+<hgeokg/resource/3628264>	<http://www.w3.org/2000/01/rdf-schema#label>	Public School 92
+<hgeokg/resource/763320784>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/271823296>
+<hgeokg/resource/763320784>	<hgeokg/schema/altName>	altName-Lenox Avenue
+<hgeokg/resource/180719506>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/497262702>
+<hgeokg/resource/324991270>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/4803945992>
+<hgeokg/resource/6211784452>	<hgeokg/schema/operator>	operator-Bill's Place
+<hgeokg/resource/275298549>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/4449731898>
+<hgeokg/resource/497262700>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/275298548>
+<hgeokg/resource/204085726>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/497262701>
+<hgeokg/resource/364026608>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5670228>
+<hgeokg/resource/180719506>	<http://www.w3.org/2000/01/rdf-schema#label>	West 132nd Street
+<hgeokg/resource/420589999>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/204085726>
+<hgeokg/resource/497262702>	<hgeokg/schema/hgv>	hgv-local
+<hgeokg/resource/420589999>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/275298549>
+<hgeokg/resource/4449731898>	<hgeokg/schema/nameEn>	nameEn-Yatenga French Bistro
+<hgeokg/resource/5004045121>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/275298548>
+<hgeokg/resource/3628264>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/BuildingSchool>
+<hgeokg/resource/420590007>	<hgeokg/schema/network>	network-lcn
+<hgeokg/resource/275298546>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/420878106>
+<hgeokg/resource/420589999>	<hgeokg/schema/altName>	altName-7th Ave
+<hgeokg/resource/275298548>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5004045121>
+<hgeokg/resource/763320782>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/763320784>
+<hgeokg/resource/420878106>	<hgeokg/schema/source>	source-Bing
+<hgeokg/resource/275298548>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/497262700>
+<hgeokg/resource/271814752>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/180719506>
+<hgeokg/resource/497262700>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/275298549>
+<hgeokg/resource/271824433>	<Point_pofw-Adjacent-Point_pois>	<hgeokg/resource/324991270>
+<hgeokg/resource/3628264>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/4803945992>
+<hgeokg/resource/271824433>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/420589999>
+<hgeokg/resource/5004045121>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/5670228>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/763320782>
+<hgeokg/resource/3628264>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/180719506>
+<hgeokg/resource/5670228>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/420589999>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/275298548>
+<hgeokg/resource/275298546>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/271823296>
+<hgeokg/resource/364026608>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/271823296>
+<hgeokg/resource/5235585640>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/PublicTransportPlatform>
+<hgeokg/resource/420877107>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/5235585640>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/420590007>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/420878097>	<hgeokg/schema/lanes>	lanes-3
+<hgeokg/resource/275298548>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/271814751>
+<hgeokg/resource/271823296>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/420878097>
+<hgeokg/resource/271824433>	<hgeokg/schema/addrHousenumber>	addrHousenumber-213
+<hgeokg/resource/180719506>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5670228>
+<hgeokg/resource/271824433>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/275298548>
+<hgeokg/resource/420878106>	<hgeokg/schema/hgv>	hgv-destination
+<hgeokg/resource/497262700>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5235591459>
+<hgeokg/resource/204085726>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420877107>
+<hgeokg/resource/420878106>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5670228>
+<hgeokg/resource/497262702>	<hgeokg/schema/surface>	surface-asphalt
+<hgeokg/resource/5670228>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-W
+<hgeokg/resource/5235585640>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/275298546>
+<hgeokg/resource/420589999>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420877107>
+<hgeokg/resource/6211784452>	<hgeokg/schema/addrPostcode>	addrPostcode-10027
+<hgeokg/resource/46594124>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/420877085>
+<hgeokg/resource/5004045121>	<http://www.w3.org/2000/01/rdf-schema#label>	American legion
+<hgeokg/resource/180719506>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5402620985>
+<hgeokg/resource/420877107>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/497262700>
+<hgeokg/resource/204085726>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/RouteBicycle>
+<hgeokg/resource/763320782>	<hgeokg/schema/lanes>	lanes-1
+<hgeokg/resource/2767552427>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/420878106>
+<hgeokg/resource/497262702>	<hgeokg/schema/maxspeed>	maxspeed-25 mph
+<hgeokg/resource/5402620985>	<hgeokg/schema/phone>	phone-+1-347-702-1805
+<hgeokg/resource/180719506>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/3628264>
+<hgeokg/resource/275298549>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/5670228>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/271823296>
+<hgeokg/resource/275298548>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/271824433>
+<hgeokg/resource/420877107>	<hgeokg/schema/altName>	altName-7th Ave
+<hgeokg/resource/46594124>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/420877107>
+<hgeokg/resource/275298549>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/271824433>
+<hgeokg/resource/46594124>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/275298546>
+<hgeokg/resource/275298549>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/420589999>
+<hgeokg/resource/275298548>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420589999>
+<hgeokg/resource/275298548>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5670228>
+<hgeokg/resource/420877085>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/204085726>
+<hgeokg/resource/420590007>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/420589999>
+<hgeokg/resource/46594124>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/224028029>
+<hgeokg/resource/3628264>	<Point_pofw-Adjacent-Polygon_buildings>	<hgeokg/resource/271824433>
+<hgeokg/resource/275298549>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/204085726>
+<hgeokg/resource/271824433>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/420878097>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/46594124>
+<hgeokg/resource/271814752>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/5004045121>
+<hgeokg/resource/271814751>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/180719506>
+<hgeokg/resource/275298546>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/420878097>
+<hgeokg/resource/46594124>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/275298546>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/224028029>
+<hgeokg/resource/204085726>	<hgeokg/schema/bicycle>	bicycle-yes
+<hgeokg/resource/497262701>	<hgeokg/schema/surface>	surface-asphalt
+<hgeokg/resource/763320784>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420878097>
+<hgeokg/resource/275298548>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/4449731898>
+<hgeokg/resource/420878098>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/46594124>
+<hgeokg/resource/763320782>	<http://www.w3.org/2000/01/rdf-schema#label>	West 134th Street
+<hgeokg/resource/497262701>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/RouteBicycle>
+<hgeokg/resource/420877107>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420589999>
+<hgeokg/resource/275298546>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/5670228>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420877107>
+<hgeokg/resource/275298548>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/180719506>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5235591459>
+<hgeokg/resource/275298548>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/271814752>
+<hgeokg/resource/275298548>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/275298549>
+<hgeokg/resource/497262702>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/497262701>
+<hgeokg/resource/271823296>	<hgeokg/schema/addrHousenumber>	addrHousenumber-111
+<hgeokg/resource/420877107>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420590007>
+<hgeokg/resource/271823296>	<hgeokg/schema/buildingLevels>	buildingLevels-2
+<hgeokg/resource/275298549>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/497262700>
+<hgeokg/resource/180719506>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/204085726>
+<hgeokg/resource/420878106>	<http://www.w3.org/2000/01/rdf-schema#label>	Malcolm X Boulevard
+<hgeokg/resource/420878106>	<hgeokg/schema/lanes>	lanes-2
+<hgeokg/resource/420590007>	<hgeokg/schema/maxspeed>	maxspeed-25 mph
+<hgeokg/resource/420589999>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/497262702>
+<hgeokg/resource/497262700>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/180719506>
+<hgeokg/resource/497262702>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/275298546>
+<hgeokg/resource/5235585640>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/420878106>
+<hgeokg/resource/275298548>	<hgeokg/schema/wikipedia>	wikipedia-en:133rd Street (Manhattan)
+<hgeokg/resource/420590007>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/275298548>
+<hgeokg/resource/204085726>	<hgeokg/schema/hgv>	hgv-local
+<hgeokg/resource/271823296>	<hgeokg/schema/operator>	operator-New York City Fire Department
+<hgeokg/resource/204085726>	<hgeokg/schema/maxspeed>	maxspeed-25 mph
+<hgeokg/resource/5235591459>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/420877085>
+<hgeokg/resource/420878106>	<hgeokg/schema/altName>	altName-Lenox Avenue
+<hgeokg/resource/271824433>	<hgeokg/schema/addrPostcode>	addrPostcode-10030
+<hgeokg/resource/364026608>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/2767552427>
+<hgeokg/resource/420877107>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/275298546>
+<hgeokg/resource/271823296>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/275298546>
+<hgeokg/resource/324991270>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/271814752>
+<hgeokg/resource/275298549>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/420590007>
+<hgeokg/resource/497262700>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420589999>
+<hgeokg/resource/275298548>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/497262702>
+<hgeokg/resource/497262701>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/275298549>
+<hgeokg/resource/5235591459>	<hgeokg/schema/routeRef>	routeRef-M2
+<hgeokg/resource/420878097>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/420878106>
+<hgeokg/resource/364026608>	<hgeokg/schema/altName>	altName-Lenox Avenue
+<hgeokg/resource/497262701>	<http://www.w3.org/2000/01/rdf-schema#label>	Adam Clayton Powell Jr. Boulevard
+<hgeokg/resource/271814751>	<hgeokg/schema/addrPostcode>	addrPostcode-10027
+<hgeokg/resource/497262700>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/275298546>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/180719506>
+<hgeokg/resource/275298546>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420877107>
+<hgeokg/resource/420877085>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/497262700>
+<hgeokg/resource/420878097>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/46594124>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/2767552427>
+<hgeokg/resource/5004045121>	<hgeokg/schema/nameFr>	nameFr-American legion
+<hgeokg/resource/271814752>	<hgeokg/schema/gnisFeatureId>	gnisFeatureId-2084006
+<hgeokg/resource/5235591459>	<Point_transport-Adjacent-Polygon_buildings>	<hgeokg/resource/271814752>
+<hgeokg/resource/275298549>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420877107>
+<hgeokg/resource/5235585640>	<http://www.w3.org/2000/01/rdf-schema#label>	Malcolm X Boulevard & West 132nd Street
+<hgeokg/resource/204085726>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Primary>
+<hgeokg/resource/497262700>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/497262702>
+<hgeokg/resource/224028029>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Park>
+<hgeokg/resource/497262702>	<http://www.w3.org/2000/01/rdf-schema#label>	Adam Clayton Powell Jr. Boulevard
+<hgeokg/resource/420877107>	<hgeokg/schema/hgv>	hgv-local
+<hgeokg/resource/4803945992>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/6211784452>	<hgeokg/schema/addrState>	addrState-NY
+<hgeokg/resource/364026608>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/275298546>
+<hgeokg/resource/5670228>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/275298546>
+<hgeokg/resource/275298548>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/4803945992>
+<hgeokg/resource/497262701>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/271814751>
+<hgeokg/resource/271814751>	<Point_pofw-Adjacent-Point_pois>	<hgeokg/resource/324991270>
+<hgeokg/resource/324991270>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/180719506>
+<hgeokg/resource/6211784452>	<hgeokg/schema/liveMusic>	liveMusic-yes
+<hgeokg/resource/2767552427>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/364026608>
+<hgeokg/resource/420877107>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/271814751>	<Point_pois-Adjacent-Point_pofw>	<hgeokg/resource/5004045121>
+<hgeokg/resource/271824433>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/5670228>
+<hgeokg/resource/4803945992>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5004045121>
+<hgeokg/resource/275298546>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5235591459>
+<hgeokg/resource/5235585640>	<hgeokg/schema/bench>	bench-yes
+<hgeokg/resource/324991270>	<Point_pois-Intersect-Polygon_buildings>	<hgeokg/resource/3628264>
+<hgeokg/resource/420878106>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Secondary>
+<hgeokg/resource/271814751>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/5670228>	<hgeokg/schema/wikipedia>	wikipedia-en:133rd Street (Manhattan)
+<hgeokg/resource/420877107>	<hgeokg/schema/surface>	surface-asphalt
+<hgeokg/resource/271824433>	<hgeokg/schema/gnisFeatureId>	gnisFeatureId-2083740
+<hgeokg/resource/763320784>	<hgeokg/schema/hgv>	hgv-destination
+<hgeokg/resource/763320782>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/2767552427>	<hgeokg/schema/operator>	operator-Revolution Books
+<hgeokg/resource/420878098>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/6211784452>	<hgeokg/schema/reservation>	reservation-required
+<hgeokg/resource/420877107>	<hgeokg/schema/bicycle>	bicycle-yes
+<hgeokg/resource/364026608>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/271823296>	<hgeokg/schema/buildingColour>	buildingColour-#C34149
+<hgeokg/resource/497262702>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5670228>
+<hgeokg/resource/497262700>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/420877107>
+<hgeokg/resource/4803945992>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/324991270>
+<hgeokg/resource/5670228>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/271824433>
+<hgeokg/resource/6211784452>	<hgeokg/schema/description>	description-Jazz legends play the small no-frills room. Patrons can bring their own alcohol. Reservations needed.
+<hgeokg/resource/324991270>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/46594124>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/271814751>
+<hgeokg/resource/5670228>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/180719506>
+<hgeokg/resource/497262701>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/497262702>
+<hgeokg/resource/2767552427>	<hgeokg/schema/email>	email-revbooksnyc@yahoo.com
+<hgeokg/resource/5235591459>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/497262701>
+<hgeokg/resource/5235585640>	<hgeokg/schema/shelter>	shelter-no
+<hgeokg/resource/420590007>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/204085726>
+<hgeokg/resource/2767552427>	<hgeokg/schema/addrPostcode>	addrPostcode-10037
+<hgeokg/resource/420877107>	<hgeokg/schema/lanes>	lanes-2
+<hgeokg/resource/5235591459>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/46594124>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420878097>
+<hgeokg/resource/497262701>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/204085726>
+<hgeokg/resource/4803945992>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/275298548>
+<hgeokg/resource/6211784452>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Theatre>
+<hgeokg/resource/420878106>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/420589999>	<hgeokg/schema/maxspeed>	maxspeed-25 mph
+<hgeokg/resource/271824433>	<Point_pofw-Adjacent-Polygon_buildings>	<hgeokg/resource/3628264>
+<hgeokg/resource/420589999>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/4449731898>
+<hgeokg/resource/420878097>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/364026608>
+<hgeokg/resource/224028029>	<http://www.w3.org/2000/01/rdf-schema#label>	Onehundredthirtysecond Street Block Association Park
+<hgeokg/resource/420877107>	<hgeokg/schema/wikipedia>	wikipedia-en:Seventh Avenue (Manhattan)
+<hgeokg/resource/763320784>	<hgeokg/schema/wikipedia>	wikipedia-en:Lenox Avenue
+<hgeokg/resource/180719506>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/271814752>
+<hgeokg/resource/324991270>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/275298548>
+<hgeokg/resource/420877085>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/180719506>
+<hgeokg/resource/5004045121>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/46594124>
+<hgeokg/resource/275298548>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/497262702>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/275298548>
+<hgeokg/resource/271814751>	<hgeokg/schema/religion>	religion-christian
+<hgeokg/resource/763320782>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/275298549>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/497262702>
+<hgeokg/resource/420878098>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Secondary>
+<hgeokg/resource/3628264>	<Polygon_buildings-Adjacent-Polygon_buildings>	<hgeokg/resource/271814752>
+<hgeokg/resource/224028029>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5670228>
+<hgeokg/resource/420877085>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/497262701>
+<hgeokg/resource/4803945992>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/3628264>
+<hgeokg/resource/763320784>	<http://www.w3.org/2000/01/rdf-schema#label>	Malcolm X Boulevard
+<hgeokg/resource/180719506>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/275298548>
+<hgeokg/resource/3628264>	<hgeokg/schema/gnisFeatureId>	gnisFeatureId-2083946
+<hgeokg/resource/5670228>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420878106>
+<hgeokg/resource/224028029>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/420878097>
+<hgeokg/resource/4803945992>	<http://www.w3.org/2000/01/rdf-schema#label>	La Maison d'Art Private Gallery
+<hgeokg/resource/5004045121>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/180719506>
+<hgeokg/resource/4449731898>	<hgeokg/schema/cuisine>	cuisine-african;caribbean;french
+<hgeokg/resource/2767552427>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/46594124>
+<hgeokg/resource/204085726>	<http://www.w3.org/2000/01/rdf-schema#label>	Adam Clayton Powell Jr. Boulevard
+<hgeokg/resource/420877085>	<hgeokg/schema/network>	network-lcn
+<hgeokg/resource/420878106>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/420878098>
+<hgeokg/resource/420589999>	<hgeokg/schema/network>	network-lcn
+<hgeokg/resource/420877107>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5235591459>
+<hgeokg/resource/5235591459>	<hgeokg/schema/shelter>	shelter-yes
+<hgeokg/resource/420877107>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/271814751>
+<hgeokg/resource/497262702>	<hgeokg/schema/bicycle>	bicycle-yes
+<hgeokg/resource/497262700>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/275298546>
+<hgeokg/resource/46594124>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/180719506>
+<hgeokg/resource/271814752>	<Point_pofw-Adjacent-Polygon_buildings>	<hgeokg/resource/271814751>
+<hgeokg/resource/180719506>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/46594124>
+<hgeokg/resource/5402620985>	<http://www.w3.org/2000/01/rdf-schema#label>	Bolt Bike Shop
+<hgeokg/resource/180719506>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/420877107>
+<hgeokg/resource/420590007>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420877107>
+<hgeokg/resource/364026608>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/420877085>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/271814752>	<http://www.w3.org/2000/01/rdf-schema#label>	Saint Aloysius School
+<hgeokg/resource/420589999>	<hgeokg/schema/wikipedia>	wikipedia-en:Seventh Avenue (Manhattan)
+<hgeokg/resource/6211784452>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5670228>
+<hgeokg/resource/497262702>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420590007>
+<hgeokg/resource/5670228>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/275298546>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/497262701>
+<hgeokg/resource/2767552427>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/3628264>	<hgeokg/schema/nycdoittBin>	nycdoittBin-1058808
+<hgeokg/resource/5670228>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/204085726>
+<hgeokg/resource/224028029>	<hgeokg/schema/ele>	ele-8
+<hgeokg/resource/275298546>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/497262700>
+<hgeokg/resource/420877107>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/497262701>
+<hgeokg/resource/275298548>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420877107>
+<hgeokg/resource/180719506>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420590007>
+<hgeokg/resource/497262702>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420589999>
+<hgeokg/resource/497262700>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5670228>
+<hgeokg/resource/271823296>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/5004045121>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Bar>
+<hgeokg/resource/420878097>	<hgeokg/schema/altName>	altName-Lenox Avenue
+<hgeokg/resource/420590007>	<hgeokg/schema/surface>	surface-asphalt
+<hgeokg/resource/271824433>	<hgeokg/schema/nycdoittBin>	nycdoittBin-1058818
+<hgeokg/resource/420878098>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/420878106>
+<hgeokg/resource/420589999>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/180719506>
+<hgeokg/resource/763320784>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Secondary>
+<hgeokg/resource/497262701>	<hgeokg/schema/network>	network-lcn
+<hgeokg/resource/224028029>	<hgeokg/schema/source>	source-http://www.nycgovparks.org
+<hgeokg/resource/420590007>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/420877107>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/497262702>
+<hgeokg/resource/5235591459>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/204085726>
+<hgeokg/resource/420589999>	<hgeokg/schema/surface>	surface-asphalt
+<hgeokg/resource/497262702>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/4449731898>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/275298548>
+<hgeokg/resource/497262702>	<hgeokg/schema/lanes>	lanes-2
+<hgeokg/resource/46594124>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/497262700>
+<hgeokg/resource/5670228>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6211784452>
+<hgeokg/resource/420877085>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Primary>
+<hgeokg/resource/420590007>	<hgeokg/schema/altName>	altName-7th Ave
+<hgeokg/resource/763320782>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/420589999>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5670228>
+<hgeokg/resource/46594124>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/4803945992>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/180719506>
+<hgeokg/resource/497262701>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/497262700>
+<hgeokg/resource/271814751>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/PlaceOfWorship>
+<hgeokg/resource/46594124>	<http://www.w3.org/2000/01/rdf-schema#label>	West 131st Street
+<hgeokg/resource/3628264>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Polygon>
+<hgeokg/resource/275298546>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6211784452>
+<hgeokg/resource/4449731898>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/497262701>	<hgeokg/schema/wikipedia>	wikipedia-en:Seventh Avenue (Manhattan)
+<hgeokg/resource/180719506>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/324991270>
+<hgeokg/resource/271823296>	<hgeokg/schema/addrPostcode>	addrPostcode-10030
+<hgeokg/resource/275298548>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/420589999>	<hgeokg/schema/bicycle>	bicycle-yes
+<hgeokg/resource/364026608>	<hgeokg/schema/lanes>	lanes-2
+<hgeokg/resource/271814751>	<http://www.w3.org/2000/01/rdf-schema#label>	Saint Aloysius Roman Catholic Church
+<hgeokg/resource/5670228>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/420589999>
+<hgeokg/resource/420877085>	<hgeokg/schema/lanes>	lanes-3
+<hgeokg/resource/271823296>	<hgeokg/schema/nycdoittBin>	nycdoittBin-1058225
+<hgeokg/resource/763320784>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/763320782>
+<hgeokg/resource/5670228>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/3628264>	<hgeokg/schema/addrPostcode>	addrPostcode-10030
+<hgeokg/resource/763320782>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-W
+<hgeokg/resource/204085726>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/420877085>
+<hgeokg/resource/4449731898>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Restaurant>
+<hgeokg/resource/46594124>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-W; E
+<hgeokg/resource/420590007>	<hgeokg/schema/lanes>	lanes-2
+<hgeokg/resource/5670228>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/497262702>
+<hgeokg/resource/6211784452>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/275298546>
+<hgeokg/resource/4449731898>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5670228>
+<hgeokg/resource/6211784452>	<http://www.w3.org/2000/01/rdf-schema#label>	Bill's Place
+<hgeokg/resource/3628264>	<hgeokg/schema/type>	type-multipolygon
+<hgeokg/resource/420877107>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/180719506>
+<hgeokg/resource/224028029>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/275298546>
+<hgeokg/resource/271814751>	<hgeokg/schema/denomination>	denomination-roman_catholic
+<hgeokg/resource/5670228>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/364026608>
+<hgeokg/resource/420877085>	<hgeokg/schema/wikipedia>	wikipedia-en:Seventh Avenue (Manhattan)
+<hgeokg/resource/204085726>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/275298548>
+<hgeokg/resource/275298548>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/275298546>
+<hgeokg/resource/275298546>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/275298549>
+<hgeokg/resource/5670228>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420878097>
+<hgeokg/resource/2767552427>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/420878097>
+<hgeokg/resource/224028029>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/364026608>
+<hgeokg/resource/763320784>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/420878097>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5235585640>
+<hgeokg/resource/275298548>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/3628264>
+<hgeokg/resource/204085726>	<hgeokg/schema/network>	network-lcn
+<hgeokg/resource/3628264>	<hgeokg/schema/addrHousenumber>	addrHousenumber-222
+<hgeokg/resource/420877085>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/RouteBicycle>
+<hgeokg/resource/2767552427>	<hgeokg/schema/website>	website-https://www.revolutionbooksnyc.org
+<hgeokg/resource/180719506>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/271814751>
+<hgeokg/resource/420877085>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420877107>
+<hgeokg/resource/271814751>	<Point_transport-Adjacent-Point_pofw>	<hgeokg/resource/5235591459>
+<hgeokg/resource/420589999>	<hgeokg/schema/lanes>	lanes-3
+<hgeokg/resource/420590007>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/497262702>
+<hgeokg/resource/271814751>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/46594124>
+<hgeokg/resource/180719506>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5004045121>
+<hgeokg/resource/324991270>	<Point_pofw-Adjacent-Point_pois>	<hgeokg/resource/271824433>
+<hgeokg/resource/180719506>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420877085>
+<hgeokg/resource/271814752>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/4803945992>
+<hgeokg/resource/275298546>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/2767552427>
+<hgeokg/resource/420878098>	<http://www.w3.org/2000/01/rdf-schema#label>	Malcolm X Boulevard
+<hgeokg/resource/275298549>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5670228>
+<hgeokg/resource/180719506>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420589999>
+<hgeokg/resource/224028029>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/46594124>
+<hgeokg/resource/204085726>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/497262702>
+<hgeokg/resource/275298546>	<http://www.w3.org/2000/01/rdf-schema#label>	West 132nd Street
+<hgeokg/resource/2767552427>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Books>
+<hgeokg/resource/5235591459>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/497262700>
+<hgeokg/resource/204085726>	<hgeokg/schema/lanes>	lanes-2
+<hgeokg/resource/271823296>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/5670228>
+<hgeokg/resource/271823296>	<hgeokg/schema/height>	height-8.9
+<hgeokg/resource/271814752>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/275298548>
+<hgeokg/resource/5235591459>	<hgeokg/schema/bench>	bench-yes
+<hgeokg/resource/180719506>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/275298546>
+<hgeokg/resource/204085726>	<hgeokg/schema/wikipedia>	wikipedia-en:Seventh Avenue (Manhattan)
+<hgeokg/resource/5235585640>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/364026608>
+<hgeokg/resource/5670228>	<http://www.w3.org/2000/01/rdf-schema#label>	West 133rd Street
+<hgeokg/resource/5670228>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/275298549>
+<hgeokg/resource/2767552427>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/224028029>
+<hgeokg/resource/497262702>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/RouteBicycle>
+<hgeokg/resource/420590007>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Primary>
+<hgeokg/resource/420878097>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/275298546>
+<hgeokg/resource/180719506>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/420878097>	<hgeokg/schema/source>	source-Bing
+<hgeokg/resource/4803945992>	<hgeokg/schema/addrPostcode>	addrPostcode-10027
+<hgeokg/resource/497262701>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5235591459>
+<hgeokg/resource/420878106>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/420877107>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5670228>
+<hgeokg/resource/497262702>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/271824433>
+<hgeokg/resource/204085726>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420590007>
+<hgeokg/resource/5670228>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/4449731898>
+<hgeokg/resource/224028029>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/180719506>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-W
+<hgeokg/resource/420877107>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420877085>
+<hgeokg/resource/420878106>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/275298546>
+<hgeokg/resource/420878106>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/364026608>
+<hgeokg/resource/5004045121>	<hgeokg/schema/nameEn>	nameEn-American legion
+<hgeokg/resource/271814752>	<Point_pofw-Adjacent-Polygon_buildings>	<hgeokg/resource/271824433>
+<hgeokg/resource/271814751>	<hgeokg/schema/ele>	ele-9
+<hgeokg/resource/763320784>	<hgeokg/schema/source>	source-Bing
+<hgeokg/resource/5235591459>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/420877107>
+<hgeokg/resource/46594124>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/420878106>
+<hgeokg/resource/5670228>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/497262700>
+<hgeokg/resource/420878097>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Secondary>
+<hgeokg/resource/497262701>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/275298548>
+<hgeokg/resource/4449731898>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/497262702>
+<hgeokg/resource/420877085>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/46594124>
+<hgeokg/resource/180719506>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/497262700>
+<hgeokg/resource/364026608>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/224028029>
+<hgeokg/resource/420878097>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/224028029>
+<hgeokg/resource/5004045121>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/4803945992>
+<hgeokg/resource/497262701>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/271824433>
+<hgeokg/resource/497262701>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/271824433>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/PlaceOfWorship>
+<hgeokg/resource/420878106>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/271824433>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/497262701>
+<hgeokg/resource/275298546>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420590007>
+<hgeokg/resource/5004045121>	<hgeokg/schema/openingHours>	openingHours-Su 20:00-00:00
+<hgeokg/resource/275298549>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/180719506>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/4803945992>
+<hgeokg/resource/5402620985>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/ShopBicycle>
+<hgeokg/resource/497262700>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/275298549>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/275298546>
+<hgeokg/resource/497262700>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/204085726>
+<hgeokg/resource/364026608>	<hgeokg/schema/hgv>	hgv-destination
+<hgeokg/resource/420589999>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Primary>
+<hgeokg/resource/275298546>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/364026608>
+<hgeokg/resource/497262700>	<http://www.w3.org/2000/01/rdf-schema#label>	West 132nd Street
+<hgeokg/resource/5402620985>	<hgeokg/schema/addrHousenumber>	addrHousenumber-2478A
+<hgeokg/resource/497262701>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420589999>
+<hgeokg/resource/271823296>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/763320784>
+<hgeokg/resource/275298546>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/420877107>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/46594124>
+<hgeokg/resource/420878106>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5235585640>
+<hgeokg/resource/271814751>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/497262701>
+<hgeokg/resource/275298548>	<http://www.w3.org/2000/01/rdf-schema#label>	West 133rd Street
+<hgeokg/resource/420878097>	<http://www.w3.org/2000/01/rdf-schema#label>	Malcolm X Boulevard
+<hgeokg/resource/271814751>	<hgeokg/schema/nycdoittBin>	nycdoittBin-1058777
+<hgeokg/resource/204085726>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/420878106>	<hgeokg/schema/wikipedia>	wikipedia-en:Lenox Avenue
+<hgeokg/resource/420590007>	<hgeokg/schema/bicycle>	bicycle-yes
+<hgeokg/resource/275298546>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/275298548>
+<hgeokg/resource/5670228>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/497262702>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/180719506>
+<hgeokg/resource/420878098>	<hgeokg/schema/hgv>	hgv-destination
+<hgeokg/resource/420589999>	<http://www.w3.org/2000/01/rdf-schema#label>	Adam Clayton Powell Jr. Boulevard
+<hgeokg/resource/271814752>	<hgeokg/schema/addrHousenumber>	addrHousenumber-223
+<hgeokg/resource/5235591459>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/275298546>
+<hgeokg/resource/271823296>	<hgeokg/schema/addrState>	addrState-NY
+<hgeokg/resource/204085726>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/275298546>
+<hgeokg/resource/271823296>	<http://www.w3.org/2000/01/rdf-schema#label>	FDNY Engine 59/Laddere 30
+<hgeokg/resource/271814752>	<hgeokg/schema/height>	height-15.2
+<hgeokg/resource/204085726>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5670228>
+<hgeokg/resource/271824433>	<hgeokg/schema/religion>	religion-christian
+<hgeokg/resource/497262701>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5670228>
+<hgeokg/resource/204085726>	<hgeokg/schema/surface>	surface-asphalt
+<hgeokg/resource/324991270>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5402620985>
+<hgeokg/resource/420590007>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/180719506>
+<hgeokg/resource/271824433>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/497262702>
+<hgeokg/resource/271814751>	<Point_pofw-Adjacent-Point_pofw>	<hgeokg/resource/271824433>
+<hgeokg/resource/420877107>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/RouteBicycle>
+<hgeokg/resource/763320782>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/271823296>
+<hgeokg/resource/497262701>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/275298546>
+<hgeokg/resource/275298548>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/324991270>
+<hgeokg/resource/420878098>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/4449731898>	<http://www.w3.org/2000/01/rdf-schema#label>	Yatenga French Bistro
+<hgeokg/resource/420878097>	<hgeokg/schema/wikipedia>	wikipedia-en:Lenox Avenue
+<hgeokg/resource/497262702>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Primary>
+<hgeokg/resource/324991270>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/AmenitySchool>
+<hgeokg/resource/497262701>	<hgeokg/schema/lanes>	lanes-3
+<hgeokg/resource/2767552427>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/275298546>
+<hgeokg/resource/180719506>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/420589999>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/RouteBicycle>
+<hgeokg/resource/364026608>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420878106>
+<hgeokg/resource/420589999>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/497262701>
+<hgeokg/resource/46594124>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5235585640>
+<hgeokg/resource/204085726>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/420877107>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/5235591459>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/180719506>
+<hgeokg/resource/271814751>	<Point_pofw-Adjacent-Polygon_buildings>	<hgeokg/resource/3628264>
+<hgeokg/resource/420877085>	<http://www.w3.org/2000/01/rdf-schema#label>	Adam Clayton Powell Jr. Boulevard
+<hgeokg/resource/364026608>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/420878097>
+<hgeokg/resource/497262700>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/46594124>
+<hgeokg/resource/420877107>	<http://www.w3.org/2000/01/rdf-schema#label>	Adam Clayton Powell Jr. Boulevard
+<hgeokg/resource/364026608>	<http://www.w3.org/2000/01/rdf-schema#label>	Malcolm X Boulevard
+<hgeokg/resource/420877085>	<hgeokg/schema/surface>	surface-asphalt
+<hgeokg/resource/364026608>	<hgeokg/schema/source>	source-Bing
+<hgeokg/resource/497262702>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/204085726>
+<hgeokg/resource/275298548>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-W
+<hgeokg/resource/271814751>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/275298548>
+<hgeokg/resource/271814752>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/324991270>
+<hgeokg/resource/420878106>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/224028029>
+<hgeokg/resource/271824433>	<http://www.w3.org/2000/01/rdf-schema#label>	Saint Philip's Episcopal Church
+<hgeokg/resource/271814752>	<Polygon_buildings-Adjacent-Polygon_buildings>	<hgeokg/resource/3628264>
+<hgeokg/resource/324991270>	<Point_pofw-Adjacent-Point_pois>	<hgeokg/resource/271814751>
+<hgeokg/resource/420590007>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/275298546>
+<hgeokg/resource/5235591459>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/46594124>
+<hgeokg/resource/2767552427>	<hgeokg/schema/addrHousenumber>	addrHousenumber-437
+<hgeokg/resource/5402620985>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/364026608>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/763320784>
+<hgeokg/resource/763320784>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5670228>
+<hgeokg/resource/5402620985>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/275298548>
+<hgeokg/resource/271814752>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/46594124>
+<hgeokg/resource/420590007>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/275298546>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/46594124>
+<hgeokg/resource/497262700>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420590007>
+<hgeokg/resource/5235591459>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/BusStop>
+<hgeokg/resource/420878097>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/271823296>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/364026608>
+<hgeokg/resource/46594124>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/497262701>
+<hgeokg/resource/224028029>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/2767552427>
+<hgeokg/resource/420878098>	<hgeokg/schema/altName>	altName-Lenox Avenue
+<hgeokg/resource/497262701>	<hgeokg/schema/bicycle>	bicycle-yes
+<hgeokg/resource/4449731898>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/497262701>
+<hgeokg/resource/5402620985>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/180719506>
+<hgeokg/resource/497262701>	<hgeokg/schema/hgv>	hgv-local
+<hgeokg/resource/497262702>	<hgeokg/schema/altName>	altName-7th Ave
+<hgeokg/resource/5235585640>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/BusStop>
+<hgeokg/resource/420590007>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/RouteBicycle>
+<hgeokg/resource/497262701>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420590007>
+<hgeokg/resource/4449731898>	<hgeokg/schema/nameFr>	nameFr-Yatenga French Bistro
+<hgeokg/resource/275298548>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420590007>
+<hgeokg/resource/5670228>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/497262701>
+<hgeokg/resource/204085726>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420589999>
+<hgeokg/resource/5235585640>	<hgeokg/schema/routeRef>	routeRef-M7;M102
+<hgeokg/resource/763320782>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/420589999>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/420590007>
+<hgeokg/resource/271823296>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/AmenityFireStation>
+<hgeokg/resource/4449731898>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/275298549>
+<hgeokg/resource/180719506>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/497262701>
+<hgeokg/resource/6211784452>	<hgeokg/schema/addrHousenumber>	addrHousenumber-148
+<hgeokg/resource/763320784>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/5235591459>	<Point_transport-Adjacent-Point_pofw>	<hgeokg/resource/271814751>
+<hgeokg/resource/275298546>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/271823296>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/BuildingFireStation>
+<hgeokg/resource/5235585640>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/420878097>
+<hgeokg/resource/204085726>	<hgeokg/schema/altName>	altName-7th Ave
+<hgeokg/resource/271814751>	<hgeokg/schema/gnisFeatureId>	gnisFeatureId-2083739
+<hgeokg/resource/420877085>	<hgeokg/schema/maxspeed>	maxspeed-25 mph
+<hgeokg/resource/3628264>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/275298548>
+<hgeokg/resource/6211784452>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/420590007>	<http://www.w3.org/2000/01/rdf-schema#label>	Adam Clayton Powell Jr. Boulevard
+<hgeokg/resource/275298549>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/420877107>	<hgeokg/schema/maxspeed>	maxspeed-25 mph
+<hgeokg/resource/420878098>	<hgeokg/schema/source>	source-Bing
+<hgeokg/resource/275298549>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/180719506>

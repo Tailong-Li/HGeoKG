@@ -1,0 +1,449 @@
+<hgeokg/resource/524630433>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/808614658>
+<hgeokg/resource/801411753>	<hgeokg/schema/oldName>	oldName-Triborough Bridge
+<hgeokg/resource/5670339>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/108159403>
+<hgeokg/resource/452493797>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/798930995>
+<hgeokg/resource/6116361859>	<hgeokg/schema/phone>	phone-+1 212-860-1100
+<hgeokg/resource/798930997>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/122738256>
+<hgeokg/resource/669157624>	<http://www.w3.org/2000/01/rdf-schema#label>	Harlem River Drive
+<hgeokg/resource/226015259>	<Line_roads-Adjacent-Polygon_landuse>	<hgeokg/resource/222376965>
+<hgeokg/resource/122738256>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Motorway>
+<hgeokg/resource/524630433>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/25464382>
+<hgeokg/resource/226015242>	<hgeokg/schema/lanes>	lanes-2
+<hgeokg/resource/222376965>	<Line_roads-Adjacent-Polygon_landuse>	<hgeokg/resource/5670339>
+<hgeokg/resource/271597127>	<hgeokg/schema/height>	height-7.4
+<hgeokg/resource/122738256>	<hgeokg/schema/surface>	surface-asphalt
+<hgeokg/resource/222376965>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Polygon>
+<hgeokg/resource/271597127>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/BuildingRetail>
+<hgeokg/resource/5670667>	<Line_roads-Adjacent-Polygon_landuse>	<hgeokg/resource/222376965>
+<hgeokg/resource/222376965>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/LanduseResidential>
+<hgeokg/resource/798930997>	<http://www.w3.org/2000/01/rdf-schema#label>	Paladino Avenue
+<hgeokg/resource/25464382>	<http://www.w3.org/2000/01/rdf-schema#label>	Robert F. Kennedy Bridge
+<hgeokg/resource/798930997>	<hgeokg/schema/surface>	surface-asphalt
+<hgeokg/resource/122738256>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/46226326>
+<hgeokg/resource/122738256>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/226015242>
+<hgeokg/resource/122738257>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/524630433>
+<hgeokg/resource/798930995>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/798930995>	<hgeokg/schema/surface>	surface-asphalt
+<hgeokg/resource/5670667>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5670665>
+<hgeokg/resource/440122893>	<Line_roads-Adjacent-Polygon_landuse>	<hgeokg/resource/222376965>
+<hgeokg/resource/357621617>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/357621664>
+<hgeokg/resource/46240274>	<http://www.w3.org/2000/01/rdf-schema#label>	East 120th Street
+<hgeokg/resource/226015242>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/108159409>
+<hgeokg/resource/5670339>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/357580912>
+<hgeokg/resource/108159409>	<hgeokg/schema/bridge>	bridge-yes
+<hgeokg/resource/122738256>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/25464382>
+<hgeokg/resource/798930995>	<http://www.w3.org/2000/01/rdf-schema#label>	Paladino Avenue
+<hgeokg/resource/46240274>	<hgeokg/schema/bicycle>	bicycle-yes
+<hgeokg/resource/226015242>	<hgeokg/schema/bicycle>	bicycle-yes
+<hgeokg/resource/46240274>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/357580912>
+<hgeokg/resource/357621347>	<hgeokg/schema/gnisFeatureId>	gnisFeatureId-2083883
+<hgeokg/resource/122738257>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/33114684>
+<hgeokg/resource/357621664>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/122738256>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/808614658>
+<hgeokg/resource/798930995>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/122738257>
+<hgeokg/resource/440122893>	<http://www.w3.org/2000/01/rdf-schema#label>	East 120th Street
+<hgeokg/resource/6116361859>	<Point_traffic-Adjacent-Line_roads>	<hgeokg/resource/440122893>
+<hgeokg/resource/271597127>	<hgeokg/schema/buildingLevels>	buildingLevels-2
+<hgeokg/resource/798930995>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/798930996>
+<hgeokg/resource/808614658>	<hgeokg/schema/oneway>	oneway-no
+<hgeokg/resource/798930996>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/801411753>	<hgeokg/schema/hgv>	hgv-local
+<hgeokg/resource/222376965>	<Line_roads-Adjacent-Polygon_landuse>	<hgeokg/resource/452493797>
+<hgeokg/resource/122738257>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/798930996>
+<hgeokg/resource/798930997>	<hgeokg/schema/lit>	lit-yes
+<hgeokg/resource/226015259>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/46240274>
+<hgeokg/resource/357621617>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/46240274>
+<hgeokg/resource/5670339>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/357621617>
+<hgeokg/resource/808614658>	<hgeokg/schema/layer>	layer-1
+<hgeokg/resource/108159403>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/46240274>
+<hgeokg/resource/46240274>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/108159403>
+<hgeokg/resource/226015242>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/33114684>
+<hgeokg/resource/25464382>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/5670667>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/452493797>
+<hgeokg/resource/357580912>	<hgeokg/schema/ele>	ele-3
+<hgeokg/resource/5670665>	<hgeokg/schema/lanes>	lanes-1
+<hgeokg/resource/798930995>	<Line_roads-Adjacent-Polygon_landuse>	<hgeokg/resource/222376965>
+<hgeokg/resource/33114684>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/798930996>
+<hgeokg/resource/357621617>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5670339>
+<hgeokg/resource/108159403>	<http://www.w3.org/2000/01/rdf-schema#label>	East 120th Street Pedestrian Bridge
+<hgeokg/resource/669157624>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/122738257>
+<hgeokg/resource/122738257>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/801411753>
+<hgeokg/resource/6116361859>	<hgeokg/schema/openingHours>	openingHours-24/7
+<hgeokg/resource/440122893>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/46240274>
+<hgeokg/resource/226015259>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/440122893>
+<hgeokg/resource/271597127>	<hgeokg/schema/addrPostcode>	addrPostcode-10035
+<hgeokg/resource/46226326>	<hgeokg/schema/lanes>	lanes-1
+<hgeokg/resource/440122893>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/357621664>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5670339>
+<hgeokg/resource/271597408>	<hgeokg/schema/addrHousenumber>	addrHousenumber-414
+<hgeokg/resource/222376965>	<Point_pois-Adjacent-Polygon_landuse>	<hgeokg/resource/357621664>
+<hgeokg/resource/5670339>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-E
+<hgeokg/resource/271597127>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/ShopSupermarket>
+<hgeokg/resource/5670667>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/6116361859>	<hgeokg/schema/brandWikidata>	brandWikidata-Q152057
+<hgeokg/resource/808614658>	<hgeokg/schema/bicycle>	bicycle-dismount
+<hgeokg/resource/6116361859>	<Point_traffic-Adjacent-Point_pois>	<hgeokg/resource/357621347>
+<hgeokg/resource/108159403>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/798930997>
+<hgeokg/resource/46226326>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/271597408>	<Polygon_landuse-Adjacent-Polygon_buildings>	<hgeokg/resource/222376965>
+<hgeokg/resource/122738257>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/25464382>
+<hgeokg/resource/222376965>	<Line_roads-Adjacent-Polygon_landuse>	<hgeokg/resource/440122893>
+<hgeokg/resource/440122893>	<Point_traffic-Adjacent-Line_roads>	<hgeokg/resource/6116361859>
+<hgeokg/resource/122738257>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/122738256>
+<hgeokg/resource/222376965>	<Line_roads-Adjacent-Polygon_landuse>	<hgeokg/resource/33114684>
+<hgeokg/resource/33114684>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/226015242>
+<hgeokg/resource/524630433>	<hgeokg/schema/layer>	layer-2
+<hgeokg/resource/271597408>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Polygon>
+<hgeokg/resource/226015259>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/222376965>	<Line_roads-Adjacent-Polygon_landuse>	<hgeokg/resource/808614658>
+<hgeokg/resource/808614658>	<Line_roads-Adjacent-Polygon_landuse>	<hgeokg/resource/222376965>
+<hgeokg/resource/25464382>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/122738257>
+<hgeokg/resource/440122893>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/801411753>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/25464382>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Motorway>
+<hgeokg/resource/798930995>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/524630433>	<http://www.w3.org/2000/01/rdf-schema#label>	RFK south side walkway
+<hgeokg/resource/271597127>	<hgeokg/schema/addrHousenumber>	addrHousenumber-2330
+<hgeokg/resource/226015242>	<hgeokg/schema/foot>	foot-yes
+<hgeokg/resource/6116361859>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/AmenityFuel>
+<hgeokg/resource/357580912>	<hgeokg/schema/gnisFeatureId>	gnisFeatureId-961851
+<hgeokg/resource/798930996>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/798930995>
+<hgeokg/resource/271597127>	<hgeokg/schema/nycdoittBin>	nycdoittBin-1054882
+<hgeokg/resource/357621617>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/AmenitySchool>
+<hgeokg/resource/226015242>	<Line_roads-Adjacent-Polygon_landuse>	<hgeokg/resource/222376965>
+<hgeokg/resource/108159409>	<Line_roads-Adjacent-Polygon_landuse>	<hgeokg/resource/222376965>
+<hgeokg/resource/798930997>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/108159409>
+<hgeokg/resource/271597127>	<hgeokg/schema/openingHours>	openingHours-06:00-24:00
+<hgeokg/resource/108159409>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Footway>
+<hgeokg/resource/108159409>	<hgeokg/schema/bicycle>	bicycle-designated
+<hgeokg/resource/226015242>	<hgeokg/schema/horse>	horse-no
+<hgeokg/resource/669157624>	<hgeokg/schema/lanes>	lanes-2
+<hgeokg/resource/271597127>	<http://www.w3.org/2000/01/rdf-schema#label>	Fine Fare Supermarket
+<hgeokg/resource/122738257>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Motorway>
+<hgeokg/resource/808614658>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/122738257>
+<hgeokg/resource/357621347>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/440122893>
+<hgeokg/resource/108159409>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/46240274>
+<hgeokg/resource/222376965>	<Line_roads-Adjacent-Polygon_landuse>	<hgeokg/resource/122738256>
+<hgeokg/resource/222376965>	<Line_roads-Adjacent-Polygon_landuse>	<hgeokg/resource/226015259>
+<hgeokg/resource/357621347>	<hgeokg/schema/ele>	ele-3
+<hgeokg/resource/798930997>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/46240274>
+<hgeokg/resource/108159409>	<hgeokg/schema/foot>	foot-yes
+<hgeokg/resource/25464382>	<hgeokg/schema/bridge>	bridge-yes
+<hgeokg/resource/222376965>	<Polygon_landuse-Adjacent-Polygon_buildings>	<hgeokg/resource/271597408>
+<hgeokg/resource/357580912>	<http://www.w3.org/2000/01/rdf-schema#label>	Public School 78
+<hgeokg/resource/25464382>	<hgeokg/schema/toll>	toll-yes
+<hgeokg/resource/226015242>	<hgeokg/schema/surface>	surface-paved
+<hgeokg/resource/46240274>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/440122893>
+<hgeokg/resource/5670339>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/798930997>
+<hgeokg/resource/524630433>	<hgeokg/schema/surface>	surface-paved
+<hgeokg/resource/5670665>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/122738256>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/801411753>
+<hgeokg/resource/808614658>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/46240274>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/357580912>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5670339>
+<hgeokg/resource/33114684>	<http://www.w3.org/2000/01/rdf-schema#label>	Harlem River Drive
+<hgeokg/resource/798930995>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/808614658>	<hgeokg/schema/bridge>	bridge-yes
+<hgeokg/resource/108159403>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/108159409>
+<hgeokg/resource/226015242>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/798930996>
+<hgeokg/resource/357621664>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/798930997>
+<hgeokg/resource/357621664>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/AmenitySchool>
+<hgeokg/resource/798930997>	<Line_roads-Adjacent-Polygon_landuse>	<hgeokg/resource/222376965>
+<hgeokg/resource/46240274>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/33114684>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/108159403>
+<hgeokg/resource/808614658>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/46226326>
+<hgeokg/resource/271597408>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/271597127>
+<hgeokg/resource/108159409>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/357621617>
+<hgeokg/resource/357621664>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/108159409>
+<hgeokg/resource/798930996>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/271597127>	<hgeokg/schema/website>	website-https://www.finefaresupermarkets.com
+<hgeokg/resource/5670339>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/226015259>
+<hgeokg/resource/122738256>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/46240274>
+<hgeokg/resource/357621347>	<Point_pois-Adjacent-Polygon_landuse>	<hgeokg/resource/222376965>
+<hgeokg/resource/222376965>	<Line_roads-Adjacent-Polygon_landuse>	<hgeokg/resource/798930995>
+<hgeokg/resource/25464382>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/801411753>
+<hgeokg/resource/798930997>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/226015242>
+<hgeokg/resource/6116361859>	<http://www.w3.org/2000/01/rdf-schema#label>	BP
+<hgeokg/resource/46226326>	<hgeokg/schema/hgv>	hgv-destination
+<hgeokg/resource/271597408>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/440122893>
+<hgeokg/resource/122738257>	<hgeokg/schema/hgv>	hgv-no
+<hgeokg/resource/226015242>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/122738257>
+<hgeokg/resource/46240274>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/226015242>
+<hgeokg/resource/5670339>	<Line_roads-Adjacent-Polygon_landuse>	<hgeokg/resource/222376965>
+<hgeokg/resource/108159403>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/357621664>
+<hgeokg/resource/357621664>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/108159403>
+<hgeokg/resource/33114684>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/798930997>
+<hgeokg/resource/357621617>	<hgeokg/schema/gnisFeatureId>	gnisFeatureId-2083949
+<hgeokg/resource/357621347>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/357621347>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/271597127>
+<hgeokg/resource/357621347>	<http://www.w3.org/2000/01/rdf-schema#label>	East Harlem Village Academy Charter School
+<hgeokg/resource/669157624>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/46226326>
+<hgeokg/resource/808614658>	<hgeokg/schema/wikipedia>	wikipedia-en:Triborough Bridge
+<hgeokg/resource/5670667>	<hgeokg/schema/lanes>	lanes-1
+<hgeokg/resource/108159409>	<hgeokg/schema/surface>	surface-paved
+<hgeokg/resource/46226326>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/122738256>
+<hgeokg/resource/357621664>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/46240274>
+<hgeokg/resource/108159409>	<http://www.w3.org/2000/01/rdf-schema#label>	East 120th Street Pedestrian Bridge
+<hgeokg/resource/798930997>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5670339>
+<hgeokg/resource/452493797>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5670667>
+<hgeokg/resource/33114684>	<hgeokg/schema/lanes>	lanes-3
+<hgeokg/resource/357621664>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/357621617>
+<hgeokg/resource/798930996>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/33114684>
+<hgeokg/resource/46226326>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/108159403>	<hgeokg/schema/surface>	surface-paved
+<hgeokg/resource/33114684>	<Line_roads-Adjacent-Polygon_landuse>	<hgeokg/resource/222376965>
+<hgeokg/resource/226015242>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/122738256>
+<hgeokg/resource/669157624>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/122738256>
+<hgeokg/resource/669157624>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/122738257>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/798930995>
+<hgeokg/resource/122738257>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/226015242>
+<hgeokg/resource/108159409>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/33114684>
+<hgeokg/resource/5670339>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/440122893>
+<hgeokg/resource/440122893>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/226015259>
+<hgeokg/resource/524630433>	<hgeokg/schema/oneway>	oneway-no
+<hgeokg/resource/808614658>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Footway>
+<hgeokg/resource/122738256>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/798930996>
+<hgeokg/resource/357621617>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/108159409>
+<hgeokg/resource/452493797>	<http://www.w3.org/2000/01/rdf-schema#label>	Paladino Avenue
+<hgeokg/resource/357621347>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/271597408>
+<hgeokg/resource/46240274>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/357621617>
+<hgeokg/resource/271597408>	<http://www.w3.org/2000/01/rdf-schema#label>	The Stamford
+<hgeokg/resource/271597127>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/440122893>
+<hgeokg/resource/524630433>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/226015242>
+<hgeokg/resource/801411753>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/25464382>
+<hgeokg/resource/524630433>	<hgeokg/schema/bicycle>	bicycle-dismount
+<hgeokg/resource/801411753>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/798930997>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/108159403>
+<hgeokg/resource/5670665>	<http://www.w3.org/2000/01/rdf-schema#label>	1st Avenue
+<hgeokg/resource/357621664>	<hgeokg/schema/gnisFeatureId>	gnisFeatureId-2083962
+<hgeokg/resource/108159403>	<Line_roads-Adjacent-Polygon_landuse>	<hgeokg/resource/222376965>
+<hgeokg/resource/226015259>	<hgeokg/schema/wikipedia>	wikipedia-en:Pleasant Avenue
+<hgeokg/resource/798930996>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/452493797>
+<hgeokg/resource/33114684>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/25464382>	<hgeokg/schema/wikipedia>	wikipedia-en:Triborough Bridge
+<hgeokg/resource/108159403>	<hgeokg/schema/bicycle>	bicycle-designated
+<hgeokg/resource/801411753>	<hgeokg/schema/lanes>	lanes-3
+<hgeokg/resource/122738256>	<hgeokg/schema/lanes>	lanes-2
+<hgeokg/resource/226015242>	<http://www.w3.org/2000/01/rdf-schema#label>	Bobby Wagner Walk
+<hgeokg/resource/226015259>	<http://www.w3.org/2000/01/rdf-schema#label>	Pleasant Avenue
+<hgeokg/resource/798930996>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/271597127>	<Point_traffic-Adjacent-Point_pois>	<hgeokg/resource/6116361859>
+<hgeokg/resource/357621617>	<Point_pois-Adjacent-Polygon_landuse>	<hgeokg/resource/222376965>
+<hgeokg/resource/226015259>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/6116361859>	<Point_traffic-Adjacent-Polygon_buildings>	<hgeokg/resource/271597408>
+<hgeokg/resource/226015242>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/801411753>
+<hgeokg/resource/357621664>	<Point_pois-Adjacent-Polygon_landuse>	<hgeokg/resource/222376965>
+<hgeokg/resource/798930996>	<http://www.w3.org/2000/01/rdf-schema#label>	Paladino Avenue
+<hgeokg/resource/226015259>	<hgeokg/schema/bicycle>	bicycle-yes
+<hgeokg/resource/808614658>	<hgeokg/schema/bridgeName>	bridgeName-Robert F. Kennedy Triborough Bridge
+<hgeokg/resource/452493797>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/122738256>
+<hgeokg/resource/122738256>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/452493797>
+<hgeokg/resource/271597127>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/271597408>
+<hgeokg/resource/798930997>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/357621617>
+<hgeokg/resource/524630433>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/108159403>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/33114684>
+<hgeokg/resource/801411753>	<hgeokg/schema/bridge>	bridge-yes
+<hgeokg/resource/25464382>	<hgeokg/schema/hgv>	hgv-local
+<hgeokg/resource/222376965>	<Line_roads-Adjacent-Polygon_landuse>	<hgeokg/resource/5670667>
+<hgeokg/resource/801411753>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/122738256>
+<hgeokg/resource/33114684>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/46240274>
+<hgeokg/resource/452493797>	<Line_roads-Adjacent-Polygon_landuse>	<hgeokg/resource/222376965>
+<hgeokg/resource/798930996>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/122738257>
+<hgeokg/resource/122738256>	<hgeokg/schema/hgv>	hgv-no
+<hgeokg/resource/222376965>	<Point_pois-Adjacent-Polygon_landuse>	<hgeokg/resource/357621347>
+<hgeokg/resource/122738256>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/108159409>
+<hgeokg/resource/271597408>	<hgeokg/schema/addrPostcode>	addrPostcode-10035
+<hgeokg/resource/108159409>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5670339>
+<hgeokg/resource/798930996>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/122738256>
+<hgeokg/resource/222376965>	<Line_roads-Adjacent-Polygon_landuse>	<hgeokg/resource/108159409>
+<hgeokg/resource/122738256>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/798930997>
+<hgeokg/resource/798930995>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/452493797>
+<hgeokg/resource/5670667>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/46226326>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/122738257>
+<hgeokg/resource/33114684>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Motorway>
+<hgeokg/resource/33114684>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/122738257>
+<hgeokg/resource/25464382>	<hgeokg/schema/lanes>	lanes-3
+<hgeokg/resource/6116361859>	<hgeokg/schema/brand>	brand-BP
+<hgeokg/resource/25464382>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/5670665>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5670667>
+<hgeokg/resource/33114684>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/108159409>
+<hgeokg/resource/226015259>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/222376965>	<Line_roads-Adjacent-Polygon_landuse>	<hgeokg/resource/46240274>
+<hgeokg/resource/108159409>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/122738256>
+<hgeokg/resource/271597408>	<hgeokg/schema/addrState>	addrState-NY
+<hgeokg/resource/122738256>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/25464382>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/25464382>	<hgeokg/schema/layer>	layer-2
+<hgeokg/resource/669157624>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/46226326>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/669157624>
+<hgeokg/resource/108159409>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/226015242>
+<hgeokg/resource/440122893>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/357621347>
+<hgeokg/resource/452493797>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/271597127>	<hgeokg/schema/phone>	phone-+1 212-410-1640
+<hgeokg/resource/122738257>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/46240274>	<Line_roads-Adjacent-Polygon_landuse>	<hgeokg/resource/222376965>
+<hgeokg/resource/271597408>	<hgeokg/schema/height>	height-21.2
+<hgeokg/resource/524630433>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Footway>
+<hgeokg/resource/271597408>	<hgeokg/schema/nycdoittBin>	nycdoittBin-1087383
+<hgeokg/resource/5670339>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/808614658>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/122738256>
+<hgeokg/resource/108159403>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/5670339>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/357621664>
+<hgeokg/resource/808614658>	<hgeokg/schema/surface>	surface-paved
+<hgeokg/resource/798930997>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/798930996>
+<hgeokg/resource/108159403>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5670339>
+<hgeokg/resource/46240274>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/798930997>
+<hgeokg/resource/357580912>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/46240274>
+<hgeokg/resource/801411753>	<hgeokg/schema/bridgeName>	bridgeName-Robert F. Kennedy Triborough Bridge
+<hgeokg/resource/122738256>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/669157624>
+<hgeokg/resource/46226326>	<http://www.w3.org/2000/01/rdf-schema#label>	1st Avenue
+<hgeokg/resource/440122893>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/271597127>
+<hgeokg/resource/108159403>	<hgeokg/schema/foot>	foot-yes
+<hgeokg/resource/46240274>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/122738256>
+<hgeokg/resource/452493797>	<hgeokg/schema/surface>	surface-asphalt
+<hgeokg/resource/122738257>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/46226326>
+<hgeokg/resource/5670665>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/452493797>
+<hgeokg/resource/46240274>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/CyclewayLane>
+<hgeokg/resource/46226326>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/SecondaryLink>
+<hgeokg/resource/46226326>	<hgeokg/schema/nameRu>	nameRu-1-я Авеню
+<hgeokg/resource/108159403>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Footway>
+<hgeokg/resource/5670339>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/108159403>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/122738256>
+<hgeokg/resource/226015242>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/25464382>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/226015242>
+<hgeokg/resource/108159403>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/226015242>
+<hgeokg/resource/801411753>	<hgeokg/schema/layer>	layer-2
+<hgeokg/resource/108159409>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/108159403>
+<hgeokg/resource/226015259>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5670339>
+<hgeokg/resource/801411753>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/226015242>
+<hgeokg/resource/798930996>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/798930997>
+<hgeokg/resource/222376965>	<http://www.w3.org/2000/01/rdf-schema#label>	Robert F. Wagner Houses
+<hgeokg/resource/226015259>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/357580912>
+<hgeokg/resource/271597127>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/801411753>	<http://www.w3.org/2000/01/rdf-schema#label>	Robert F. Kennedy Bridge
+<hgeokg/resource/222376965>	<Line_roads-Adjacent-Polygon_landuse>	<hgeokg/resource/108159403>
+<hgeokg/resource/5670339>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/108159409>
+<hgeokg/resource/357621664>	<http://www.w3.org/2000/01/rdf-schema#label>	Public School 206
+<hgeokg/resource/122738257>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/669157624>
+<hgeokg/resource/108159409>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/222376965>	<Line_roads-Adjacent-Polygon_landuse>	<hgeokg/resource/798930997>
+<hgeokg/resource/357580912>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/226015259>
+<hgeokg/resource/669157624>	<hgeokg/schema/hgv>	hgv-no
+<hgeokg/resource/357580912>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/440122893>
+<hgeokg/resource/808614658>	<http://www.w3.org/2000/01/rdf-schema#label>	RFK south side walkway
+<hgeokg/resource/122738256>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/122738257>
+<hgeokg/resource/452493797>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/440122893>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/271597408>
+<hgeokg/resource/5670339>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/357621617>	<http://www.w3.org/2000/01/rdf-schema#label>	Public School 112
+<hgeokg/resource/524630433>	<hgeokg/schema/wikipedia>	wikipedia-en:Triborough Bridge
+<hgeokg/resource/33114684>	<hgeokg/schema/hgv>	hgv-no
+<hgeokg/resource/357580912>	<Point_pois-Adjacent-Polygon_landuse>	<hgeokg/resource/222376965>
+<hgeokg/resource/5670667>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/801411753>	<hgeokg/schema/wikipedia>	wikipedia-en:Triborough Bridge
+<hgeokg/resource/357580912>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/226015242>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/798930997>
+<hgeokg/resource/452493797>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5670665>
+<hgeokg/resource/798930996>	<hgeokg/schema/surface>	surface-asphalt
+<hgeokg/resource/226015259>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/CyclewayLane>
+<hgeokg/resource/122738256>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/357621617>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/798930997>
+<hgeokg/resource/798930997>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/271597408>	<Point_traffic-Adjacent-Polygon_buildings>	<hgeokg/resource/6116361859>
+<hgeokg/resource/122738256>	<hgeokg/schema/destination>	destination-FDR Drive South
+<hgeokg/resource/524630433>	<hgeokg/schema/bridge>	bridge-yes
+<hgeokg/resource/357621617>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/108159409>	<hgeokg/schema/layer>	layer-1
+<hgeokg/resource/46240274>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/108159409>
+<hgeokg/resource/440122893>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/801411753>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/122738257>
+<hgeokg/resource/6116361859>	<hgeokg/schema/brandWikipedia>	brandWikipedia-en:BP
+<hgeokg/resource/440122893>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5670339>
+<hgeokg/resource/524630433>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/122738256>
+<hgeokg/resource/6116361859>	<hgeokg/schema/toilets>	toilets-yes
+<hgeokg/resource/6116361859>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/122738256>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/524630433>
+<hgeokg/resource/357621347>	<Point_traffic-Adjacent-Point_pois>	<hgeokg/resource/6116361859>
+<hgeokg/resource/808614658>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/524630433>
+<hgeokg/resource/5670667>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/222376965>	<Point_pois-Adjacent-Polygon_landuse>	<hgeokg/resource/357580912>
+<hgeokg/resource/33114684>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/357621617>	<hgeokg/schema/ele>	ele-3
+<hgeokg/resource/226015242>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/524630433>
+<hgeokg/resource/122738256>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/25464382>	<hgeokg/schema/oldName>	oldName-Triborough Bridge
+<hgeokg/resource/222376965>	<Line_roads-Adjacent-Polygon_landuse>	<hgeokg/resource/226015242>
+<hgeokg/resource/801411753>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/524630433>
+<hgeokg/resource/6116361859>	<hgeokg/schema/addrHousenumber>	addrHousenumber-2326
+<hgeokg/resource/798930997>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/222376965>	<Point_pois-Adjacent-Polygon_landuse>	<hgeokg/resource/271597127>
+<hgeokg/resource/25464382>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/524630433>
+<hgeokg/resource/25464382>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/122738256>
+<hgeokg/resource/452493797>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/798930996>
+<hgeokg/resource/122738257>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/808614658>
+<hgeokg/resource/122738256>	<http://www.w3.org/2000/01/rdf-schema#label>	Harlem River Drive
+<hgeokg/resource/798930997>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/33114684>
+<hgeokg/resource/33114684>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/122738256>
+<hgeokg/resource/357580912>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/AmenitySchool>
+<hgeokg/resource/6116361859>	<hgeokg/schema/addrPostcode>	addrPostcode-10035
+<hgeokg/resource/524630433>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/122738257>
+<hgeokg/resource/452493797>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/222376965>	<Line_roads-Adjacent-Polygon_landuse>	<hgeokg/resource/122738257>
+<hgeokg/resource/5670665>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/PrimaryLink>
+<hgeokg/resource/33114684>	<hgeokg/schema/surface>	surface-asphalt
+<hgeokg/resource/122738257>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/669157624>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Motorway>
+<hgeokg/resource/357621347>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/AmenitySchool>
+<hgeokg/resource/108159409>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/357621664>
+<hgeokg/resource/5670665>	<Line_roads-Intersect-Polygon_landuse>	<hgeokg/resource/222376965>
+<hgeokg/resource/122738256>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/33114684>
+<hgeokg/resource/226015242>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/108159403>
+<hgeokg/resource/5670339>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/46240274>
+<hgeokg/resource/122738257>	<hgeokg/schema/surface>	surface-asphalt
+<hgeokg/resource/226015242>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/25464382>
+<hgeokg/resource/357621664>	<hgeokg/schema/ele>	ele-3
+<hgeokg/resource/226015242>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/46240274>
+<hgeokg/resource/801411753>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Motorway>
+<hgeokg/resource/524630433>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/801411753>
+<hgeokg/resource/271597408>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/357621347>
+<hgeokg/resource/440122893>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-E
+<hgeokg/resource/46226326>	<hgeokg/schema/nameEn>	nameEn-1st Avenue
+<hgeokg/resource/798930996>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/226015242>
+<hgeokg/resource/798930996>	<Line_roads-Adjacent-Polygon_landuse>	<hgeokg/resource/222376965>
+<hgeokg/resource/798930995>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/122738256>
+<hgeokg/resource/122738257>	<http://www.w3.org/2000/01/rdf-schema#label>	Harlem River Drive
+<hgeokg/resource/122738256>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/108159403>
+<hgeokg/resource/122738257>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/46240274>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/226015259>
+<hgeokg/resource/440122893>	<hgeokg/schema/cyclewayRight>	cyclewayRight-lane
+<hgeokg/resource/440122893>	<hgeokg/schema/bicycle>	bicycle-yes
+<hgeokg/resource/46240274>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/357621664>
+<hgeokg/resource/25464382>	<hgeokg/schema/bridgeName>	bridgeName-Robert F. Kennedy Triborough Bridge
+<hgeokg/resource/222376965>	<Line_roads-Adjacent-Polygon_landuse>	<hgeokg/resource/798930996>
+<hgeokg/resource/524630433>	<hgeokg/schema/bridgeName>	bridgeName-Robert F. Kennedy Triborough Bridge
+<hgeokg/resource/6116361859>	<Point_traffic-Adjacent-Point_pois>	<hgeokg/resource/271597127>
+<hgeokg/resource/669157624>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/226015242>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Cycleway>
+<hgeokg/resource/5670339>	<http://www.w3.org/2000/01/rdf-schema#label>	East 119th Street
+<hgeokg/resource/798930997>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/357621664>
+<hgeokg/resource/801411753>	<hgeokg/schema/toll>	toll-no
+<hgeokg/resource/440122893>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/222376965>	<Point_pois-Adjacent-Polygon_landuse>	<hgeokg/resource/357621617>
+<hgeokg/resource/46240274>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/46240274>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5670339>
+<hgeokg/resource/5670667>	<http://www.w3.org/2000/01/rdf-schema#label>	Paladino Avenue
+<hgeokg/resource/798930997>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/46240274>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-E
+<hgeokg/resource/46240274>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/33114684>
+<hgeokg/resource/5670665>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/122738257>	<hgeokg/schema/lanes>	lanes-2
+<hgeokg/resource/271597127>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/357621347>
+<hgeokg/resource/801411753>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/122738256>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/798930995>
+<hgeokg/resource/46226326>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/808614658>
+<hgeokg/resource/222376965>	<Line_roads-Intersect-Polygon_landuse>	<hgeokg/resource/5670665>
+<hgeokg/resource/108159409>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/798930997>
+<hgeokg/resource/440122893>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/357580912>
+<hgeokg/resource/122738256>	<Line_roads-Adjacent-Polygon_landuse>	<hgeokg/resource/222376965>
+<hgeokg/resource/271597127>	<Point_pois-Adjacent-Polygon_landuse>	<hgeokg/resource/222376965>
+<hgeokg/resource/122738257>	<Line_roads-Adjacent-Polygon_landuse>	<hgeokg/resource/222376965>

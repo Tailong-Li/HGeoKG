@@ -1,0 +1,400 @@
+<hgeokg/resource/271810345>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/305323024>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/1967406009>
+<hgeokg/resource/1967406009>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Cafe>
+<hgeokg/resource/180719510>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/271807938>	<http://www.w3.org/2000/01/rdf-schema#label>	Mount Moriah Baptist Church
+<hgeokg/resource/118524659>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/275298545>
+<hgeokg/resource/7299388185>	<hgeokg/schema/startDate>	startDate-2004
+<hgeokg/resource/7299388185>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Car>
+<hgeokg/resource/118524659>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/4953971785>
+<hgeokg/resource/180719512>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5274257023>
+<hgeokg/resource/5235585005>	<http://www.w3.org/2000/01/rdf-schema#label>	Malcolm X Boulevard & West 129th Street
+<hgeokg/resource/6825047287>	<hgeokg/schema/operator>	operator-Nicholas Grant
+<hgeokg/resource/420878118>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/497264365>
+<hgeokg/resource/420878095>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/180719512>
+<hgeokg/resource/4231923696>	<hgeokg/schema/openingHours>	openingHours-Mo-Tu 11:00-22:30;We-Sa 09:00-22:30;Su 11:00-20:00
+<hgeokg/resource/5274257023>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/497264366>
+<hgeokg/resource/420878095>	<hgeokg/schema/altName>	altName-Lenox Avenue
+<hgeokg/resource/497264366>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-E; W
+<hgeokg/resource/275298545>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/271807431>	<Point_pofw-Adjacent-Polygon_buildings>	<hgeokg/resource/271807938>
+<hgeokg/resource/5235585005>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/1967406009>
+<hgeokg/resource/1967406009>	<hgeokg/schema/cuisine>	cuisine-coffee_shop
+<hgeokg/resource/5274257023>	<http://www.w3.org/2000/01/rdf-schema#label>	5th Avenue & West 128th Street
+<hgeokg/resource/420878095>	<hgeokg/schema/wikipedia>	wikipedia-en:Lenox Avenue
+<hgeokg/resource/497264366>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/271807431>
+<hgeokg/resource/497264365>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/180719512>
+<hgeokg/resource/497264365>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/1967406009>	<hgeokg/schema/addrHousenumber>	addrHousenumber-404
+<hgeokg/resource/5671916>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/419367529>
+<hgeokg/resource/118524659>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/226007081>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/271807431>
+<hgeokg/resource/271807431>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/226007081>
+<hgeokg/resource/305323024>	<http://www.w3.org/2000/01/rdf-schema#label>	Malcolm X Boulevard
+<hgeokg/resource/305323024>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/271810345>	<hgeokg/schema/nycdoittBin>	nycdoittBin-1053772
+<hgeokg/resource/5235585005>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/224031776>	<http://www.w3.org/2000/01/rdf-schema#label>	Collyer Brothers Park
+<hgeokg/resource/5671916>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/419367529>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/180719510>
+<hgeokg/resource/1967406009>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5235585005>
+<hgeokg/resource/226007081>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/497264366>
+<hgeokg/resource/5671916>	<http://www.w3.org/2000/01/rdf-schema#label>	West 129th Street
+<hgeokg/resource/6825047287>	<hgeokg/schema/email>	email-leasewithbadcreditny@gmail.com
+<hgeokg/resource/357650567>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5671916>
+<hgeokg/resource/224029303>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/497264366>
+<hgeokg/resource/419367529>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/180719512>
+<hgeokg/resource/419367529>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/420878118>
+<hgeokg/resource/7299388185>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/357621096>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/PlaceOfWorship>
+<hgeokg/resource/419367529>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/224029303>
+<hgeokg/resource/6622078088>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/420878118>
+<hgeokg/resource/4231923696>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/224029303>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/180719512>
+<hgeokg/resource/357621096>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/180719510>
+<hgeokg/resource/419367529>	<http://www.w3.org/2000/01/rdf-schema#label>	Lenox Coffee
+<hgeokg/resource/5671916>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/118524659>
+<hgeokg/resource/6825047287>	<hgeokg/schema/addrState>	addrState-NY
+<hgeokg/resource/5274257023>	<Point_transport-Adjacent-Point_pofw>	<hgeokg/resource/271807938>
+<hgeokg/resource/5274257023>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/226007081>
+<hgeokg/resource/118524659>	<Point_pofw-Adjacent-Point_pois>	<hgeokg/resource/357621096>
+<hgeokg/resource/118524659>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5671916>
+<hgeokg/resource/226007081>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/118524659>
+<hgeokg/resource/497264366>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/226007081>
+<hgeokg/resource/118524659>	<http://www.w3.org/2000/01/rdf-schema#label>	Courtney Callender Playground
+<hgeokg/resource/224029303>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/305323024>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420878118>
+<hgeokg/resource/224031776>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/497264366>
+<hgeokg/resource/4231923696>	<hgeokg/schema/website>	website-http://sylviasrestaurant.com
+<hgeokg/resource/1967406009>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/180719510>
+<hgeokg/resource/271807938>	<hgeokg/schema/gnisFeatureId>	gnisFeatureId-2083708
+<hgeokg/resource/497264367>	<hgeokg/schema/lanes>	lanes-2
+<hgeokg/resource/5235585005>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/420878095>
+<hgeokg/resource/419367529>	<hgeokg/schema/capacity>	capacity-2
+<hgeokg/resource/419367529>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Cafe>
+<hgeokg/resource/180719512>	<http://www.w3.org/2000/01/rdf-schema#label>	West 128th Street
+<hgeokg/resource/5274257023>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/BusStop>
+<hgeokg/resource/357621096>	<Point_pofw-Adjacent-Point_pois>	<hgeokg/resource/118524659>
+<hgeokg/resource/118524659>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Park>
+<hgeokg/resource/6825047287>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/271807622>
+<hgeokg/resource/180719512>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/497264365>
+<hgeokg/resource/305323024>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5671916>
+<hgeokg/resource/497264366>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/271807938>
+<hgeokg/resource/7299388185>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/275298545>
+<hgeokg/resource/224031776>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/226007081>
+<hgeokg/resource/118524659>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/226007081>
+<hgeokg/resource/224029303>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Park>
+<hgeokg/resource/271810345>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/305323024>
+<hgeokg/resource/180719510>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5671916>
+<hgeokg/resource/4231923696>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/497264365>
+<hgeokg/resource/6825047287>	<http://www.w3.org/2000/01/rdf-schema#label>	Lease With Bad Credit
+<hgeokg/resource/497264365>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/497264366>
+<hgeokg/resource/180719512>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-W
+<hgeokg/resource/420878095>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5671916>
+<hgeokg/resource/305323024>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/420878095>
+<hgeokg/resource/271807622>	<http://www.w3.org/2000/01/rdf-schema#label>	Men Shelter
+<hgeokg/resource/275298545>	<http://www.w3.org/2000/01/rdf-schema#label>	West 132nd Street
+<hgeokg/resource/271807622>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/497264366>
+<hgeokg/resource/497264366>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/180719510>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/305323024>
+<hgeokg/resource/497264366>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/271807622>
+<hgeokg/resource/4231923696>	<hgeokg/schema/addrHousenumber>	addrHousenumber-328
+<hgeokg/resource/4953971785>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Cafe>
+<hgeokg/resource/420878118>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/180719512>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/224031776>
+<hgeokg/resource/271807938>	<Point_transport-Adjacent-Point_pofw>	<hgeokg/resource/5274257023>
+<hgeokg/resource/497264366>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/497264365>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/4231923696>
+<hgeokg/resource/6825047287>	<hgeokg/schema/phone>	phone-+1-646-918-8701
+<hgeokg/resource/357650567>	<hgeokg/schema/gnisFeatureId>	gnisFeatureId-2500803
+<hgeokg/resource/226007081>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/6825047287>	<hgeokg/schema/addrHousenumber>	addrHousenumber-51
+<hgeokg/resource/118524659>	<hgeokg/schema/source>	source-Bing
+<hgeokg/resource/5235585005>	<hgeokg/schema/bus>	bus-yes
+<hgeokg/resource/419367529>	<hgeokg/schema/internetAccess>	internetAccess-wlan
+<hgeokg/resource/271810345>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/1967406009>
+<hgeokg/resource/271810345>	<hgeokg/schema/addrHousenumber>	addrHousenumber-410
+<hgeokg/resource/271807431>	<hgeokg/schema/addrHousenumber>	addrHousenumber-15
+<hgeokg/resource/420878118>	<hgeokg/schema/hgv>	hgv-destination
+<hgeokg/resource/226007081>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/180719510>
+<hgeokg/resource/226007081>	<http://www.w3.org/2000/01/rdf-schema#label>	5th Avenue
+<hgeokg/resource/6825047287>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/497264366>
+<hgeokg/resource/226007081>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5671916>
+<hgeokg/resource/180719510>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/226007081>
+<hgeokg/resource/5274257023>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/497264366>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/4231923696>
+<hgeokg/resource/271810345>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5235585005>
+<hgeokg/resource/118524659>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/180719510>
+<hgeokg/resource/420878118>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5235585005>
+<hgeokg/resource/5671916>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/1967406009>
+<hgeokg/resource/4953971785>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/271807938>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/226007081>
+<hgeokg/resource/5671916>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/226007081>
+<hgeokg/resource/180719512>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/420878118>
+<hgeokg/resource/7299388185>	<hgeokg/schema/addrState>	addrState-NY
+<hgeokg/resource/497264365>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/420878118>
+<hgeokg/resource/7299388185>	<http://www.w3.org/2000/01/rdf-schema#label>	Online Car Offers
+<hgeokg/resource/180719510>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/1967406009>
+<hgeokg/resource/5235585005>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/305323024>
+<hgeokg/resource/420878095>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Secondary>
+<hgeokg/resource/271807431>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Polygon>
+<hgeokg/resource/271807938>	<hgeokg/schema/nycdoittBin>	nycdoittBin-1053568
+<hgeokg/resource/226007081>	<hgeokg/schema/wikipedia>	wikipedia-en:Fifth Avenue
+<hgeokg/resource/180719510>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-W
+<hgeokg/resource/180719512>	<hgeokg/schema/cyclewayLeft>	cyclewayLeft-lane
+<hgeokg/resource/180719510>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5235585005>
+<hgeokg/resource/497264366>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5274257023>
+<hgeokg/resource/224031776>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5274257023>
+<hgeokg/resource/6622078088>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/497264367>
+<hgeokg/resource/5235585005>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/PublicTransportPlatform>
+<hgeokg/resource/275298545>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/180719510>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/357621096>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/180719510>	<http://www.w3.org/2000/01/rdf-schema#label>	West 130th Street
+<hgeokg/resource/226007081>	<hgeokg/schema/nameEn>	nameEn-5th Avenue
+<hgeokg/resource/271807622>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/6825047287>
+<hgeokg/resource/226007081>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/275298545>
+<hgeokg/resource/226007081>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5274257023>
+<hgeokg/resource/497264366>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/180719512>
+<hgeokg/resource/271807938>	<hgeokg/schema/addrPostcode>	addrPostcode-10027
+<hgeokg/resource/420878095>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/5671916>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/224029303>
+<hgeokg/resource/118524659>	<hgeokg/schema/gnisFeatureId>	gnisFeatureId-2500801
+<hgeokg/resource/419367529>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/305323024>
+<hgeokg/resource/305323024>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/180719510>
+<hgeokg/resource/224029303>	<http://www.w3.org/2000/01/rdf-schema#label>	Rev. Linnette C Williamson Memorial Park
+<hgeokg/resource/420878095>	<hgeokg/schema/hgv>	hgv-destination
+<hgeokg/resource/357650567>	<http://www.w3.org/2000/01/rdf-schema#label>	Collyer Brothers Park
+<hgeokg/resource/180719512>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/305323024>
+<hgeokg/resource/7299388185>	<hgeokg/schema/addrHousenumber>	addrHousenumber-35
+<hgeokg/resource/271807622>	<Polygon_buildings-Adjacent-Polygon_buildings>	<hgeokg/resource/271807431>
+<hgeokg/resource/180719510>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/118524659>
+<hgeokg/resource/4231923696>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6622078088>
+<hgeokg/resource/357650567>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/224031776>
+<hgeokg/resource/1967406009>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/271810345>
+<hgeokg/resource/497264367>	<http://www.w3.org/2000/01/rdf-schema#label>	Malcolm X Boulevard
+<hgeokg/resource/224029303>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/419367529>
+<hgeokg/resource/305323024>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/275298545>
+<hgeokg/resource/6825047287>	<hgeokg/schema/secondHand>	secondHand-no
+<hgeokg/resource/271807622>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Polygon>
+<hgeokg/resource/1967406009>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5671916>
+<hgeokg/resource/497264366>	<http://www.w3.org/2000/01/rdf-schema#label>	West 127th Street
+<hgeokg/resource/271810345>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Restaurant>
+<hgeokg/resource/180719512>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/271807431>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/PlaceOfWorship>
+<hgeokg/resource/271810345>	<hgeokg/schema/addrPostcode>	addrPostcode-10027
+<hgeokg/resource/5671916>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/305323024>
+<hgeokg/resource/497264365>	<http://www.w3.org/2000/01/rdf-schema#label>	West 127th Street
+<hgeokg/resource/497264367>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/4231923696>
+<hgeokg/resource/275298545>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/4953971785>
+<hgeokg/resource/4231923696>	<hgeokg/schema/wikipedia>	wikipedia-en:Sylvia's Restaurant of Harlem
+<hgeokg/resource/6825047287>	<hgeokg/schema/addrPostcode>	addrPostcode-10027
+<hgeokg/resource/357650567>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/275298545>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/7299388185>
+<hgeokg/resource/226007081>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/271807622>	<hgeokg/schema/nycdoittBin>	nycdoittBin-1053556
+<hgeokg/resource/420878095>	<http://www.w3.org/2000/01/rdf-schema#label>	Malcolm X Boulevard
+<hgeokg/resource/226007081>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/180719512>
+<hgeokg/resource/5274257023>	<hgeokg/schema/bench>	bench-no
+<hgeokg/resource/305323024>	<hgeokg/schema/hgv>	hgv-destination
+<hgeokg/resource/497264366>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/5671916>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/180719512>
+<hgeokg/resource/497264367>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/497264365>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6622078088>
+<hgeokg/resource/271810345>	<hgeokg/schema/addrState>	addrState-NY
+<hgeokg/resource/497264366>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6622078088>
+<hgeokg/resource/271807938>	<Point_pofw-Adjacent-Polygon_buildings>	<hgeokg/resource/271807431>
+<hgeokg/resource/180719512>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/419367529>
+<hgeokg/resource/180719510>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/357621096>
+<hgeokg/resource/180719512>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/497264367>
+<hgeokg/resource/271807938>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/497264366>
+<hgeokg/resource/271807938>	<hgeokg/schema/ele>	ele-7
+<hgeokg/resource/4231923696>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Restaurant>
+<hgeokg/resource/271807938>	<hgeokg/schema/height>	height-23.4
+<hgeokg/resource/497264366>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/497264367>
+<hgeokg/resource/224031776>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5671916>
+<hgeokg/resource/420878118>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Secondary>
+<hgeokg/resource/271807431>	<http://www.w3.org/2000/01/rdf-schema#label>	Pilgrim Cathedral
+<hgeokg/resource/497264367>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/420878118>
+<hgeokg/resource/6825047287>	<hgeokg/schema/openingHours>	openingHours-Mo-Th, Sa 09:00-21:00; Fr 09:00-19:00; Su 10:00-19:00
+<hgeokg/resource/5235585005>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/271810345>
+<hgeokg/resource/5235585005>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/420878118>
+<hgeokg/resource/226007081>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/497264367>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/497264367>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/497264365>
+<hgeokg/resource/1967406009>	<hgeokg/schema/addrState>	addrState-NY
+<hgeokg/resource/180719512>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/224029303>
+<hgeokg/resource/5671916>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/420878095>
+<hgeokg/resource/118524659>	<hgeokg/schema/ele>	ele-6
+<hgeokg/resource/6622078088>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Attraction>
+<hgeokg/resource/271807938>	<hgeokg/schema/denomination>	denomination-baptist
+<hgeokg/resource/5274257023>	<hgeokg/schema/routeRef>	routeRef-M1
+<hgeokg/resource/180719512>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/271807622>	<hgeokg/schema/addrPostcode>	addrPostcode-10027
+<hgeokg/resource/5235585005>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/419367529>
+<hgeokg/resource/419367529>	<hgeokg/schema/cuisine>	cuisine-coffee_shop
+<hgeokg/resource/5274257023>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/180719512>
+<hgeokg/resource/226007081>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/224031776>
+<hgeokg/resource/4953971785>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/226007081>
+<hgeokg/resource/226007081>	<hgeokg/schema/nameRu>	nameRu-5-я авеню
+<hgeokg/resource/357621096>	<hgeokg/schema/ele>	ele-6
+<hgeokg/resource/6825047287>	<hgeokg/schema/website>	website-http://leasewithbadcredit.com
+<hgeokg/resource/224031776>	<hgeokg/schema/source>	source-http://www.nycgovparks.org/parks/
+<hgeokg/resource/180719510>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/1967406009>	<http://www.w3.org/2000/01/rdf-schema#label>	Astor Row Cafe
+<hgeokg/resource/226007081>	<hgeokg/schema/lanes>	lanes-2
+<hgeokg/resource/5235585005>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/BusStop>
+<hgeokg/resource/226007081>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/357650567>
+<hgeokg/resource/497264365>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/5671916>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-W
+<hgeokg/resource/271810345>	<http://www.w3.org/2000/01/rdf-schema#label>	African and American Best Food
+<hgeokg/resource/180719512>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/6622078088>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/497264365>
+<hgeokg/resource/224031776>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Park>
+<hgeokg/resource/420878095>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/5671916>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/357650567>
+<hgeokg/resource/1967406009>	<hgeokg/schema/internetAccess>	internetAccess-wlan
+<hgeokg/resource/7299388185>	<hgeokg/schema/website>	website-http://onlinecaroffers.com
+<hgeokg/resource/271807938>	<hgeokg/schema/addrHousenumber>	addrHousenumber-2050
+<hgeokg/resource/4953971785>	<http://www.w3.org/2000/01/rdf-schema#label>	Harlem Blues Cafe
+<hgeokg/resource/5235585005>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/180719510>
+<hgeokg/resource/420878118>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/497264367>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6622078088>
+<hgeokg/resource/224031776>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/180719512>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/305323024>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/419367529>
+<hgeokg/resource/180719512>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/357650567>
+<hgeokg/resource/420878118>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6622078088>
+<hgeokg/resource/420878118>	<hgeokg/schema/altName>	altName-Lenox Avenue
+<hgeokg/resource/420878118>	<hgeokg/schema/wikipedia>	wikipedia-en:Lenox Avenue
+<hgeokg/resource/7299388185>	<hgeokg/schema/email>	email-onlinecaroffersny@gmail.com
+<hgeokg/resource/420878118>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/305323024>
+<hgeokg/resource/5274257023>	<hgeokg/schema/shelter>	shelter-no
+<hgeokg/resource/497264367>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/497264366>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/271807938>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/PlaceOfWorship>
+<hgeokg/resource/305323024>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/271810345>
+<hgeokg/resource/420878118>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/497264367>
+<hgeokg/resource/357650567>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/180719512>
+<hgeokg/resource/357650567>	<hgeokg/schema/ele>	ele-6
+<hgeokg/resource/497264367>	<hgeokg/schema/hgv>	hgv-destination
+<hgeokg/resource/271807431>	<hgeokg/schema/height>	height-22.0
+<hgeokg/resource/357621096>	<http://www.w3.org/2000/01/rdf-schema#label>	Saint Ambrose Episcopal Church
+<hgeokg/resource/497264367>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/497264366>
+<hgeokg/resource/6825047287>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/224031776>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/357650567>
+<hgeokg/resource/497264365>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/497264367>
+<hgeokg/resource/6825047287>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Car>
+<hgeokg/resource/420878118>	<hgeokg/schema/lanes>	lanes-2
+<hgeokg/resource/5671916>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5235585005>
+<hgeokg/resource/6825047287>	<hgeokg/schema/startDate>	startDate-2004-07-08
+<hgeokg/resource/419367529>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/420878095>
+<hgeokg/resource/497264365>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-E; W
+<hgeokg/resource/7299388185>	<hgeokg/schema/operator>	operator-Robert Cox
+<hgeokg/resource/7299388185>	<hgeokg/schema/openingHours>	openingHours-Mo-Th, Sa 09:00-21:00; Fr 09:00-19:00; Su 10:00-19:00
+<hgeokg/resource/419367529>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5235585005>
+<hgeokg/resource/271810345>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/180719510>
+<hgeokg/resource/420878095>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5235585005>
+<hgeokg/resource/7299388185>	<hgeokg/schema/addrPostcode>	addrPostcode-10037
+<hgeokg/resource/497264367>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Secondary>
+<hgeokg/resource/305323024>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/271810345>	<hgeokg/schema/height>	height-18.7
+<hgeokg/resource/180719510>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/6622078088>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/4231923696>
+<hgeokg/resource/420878095>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/305323024>
+<hgeokg/resource/5671916>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/180719510>
+<hgeokg/resource/305323024>	<hgeokg/schema/altName>	altName-Lenox Avenue
+<hgeokg/resource/357650567>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/226007081>
+<hgeokg/resource/4231923696>	<hgeokg/schema/addrPostcode>	addrPostcode-10027
+<hgeokg/resource/1967406009>	<hgeokg/schema/addrPostcode>	addrPostcode-10037
+<hgeokg/resource/4231923696>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/420878118>
+<hgeokg/resource/4953971785>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/118524659>
+<hgeokg/resource/271807622>	<hgeokg/schema/addrHousenumber>	addrHousenumber-35
+<hgeokg/resource/224031776>	<hgeokg/schema/nameEn>	nameEn-Collyer Brothers Park
+<hgeokg/resource/420878095>	<hgeokg/schema/lanes>	lanes-3
+<hgeokg/resource/224029303>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5671916>
+<hgeokg/resource/226007081>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Secondary>
+<hgeokg/resource/5671916>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/224031776>
+<hgeokg/resource/275298545>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/226007081>
+<hgeokg/resource/497264367>	<hgeokg/schema/wikipedia>	wikipedia-en:Lenox Avenue
+<hgeokg/resource/4231923696>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/497264366>
+<hgeokg/resource/271807938>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/420878118>	<http://www.w3.org/2000/01/rdf-schema#label>	Malcolm X Boulevard
+<hgeokg/resource/305323024>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5235585005>
+<hgeokg/resource/420878118>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5671916>
+<hgeokg/resource/6622078088>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/497264367>	<hgeokg/schema/altName>	altName-Lenox Avenue
+<hgeokg/resource/305323024>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/5274257023>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/PublicTransportPlatform>
+<hgeokg/resource/5235585005>	<hgeokg/schema/bench>	bench-no
+<hgeokg/resource/275298545>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-W
+<hgeokg/resource/271807938>	<hgeokg/schema/religion>	religion-christian
+<hgeokg/resource/305323024>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/180719512>
+<hgeokg/resource/419367529>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5671916>
+<hgeokg/resource/226007081>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/271807938>
+<hgeokg/resource/180719512>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/497264366>
+<hgeokg/resource/497264366>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/224031776>
+<hgeokg/resource/420878118>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/419367529>
+<hgeokg/resource/180719510>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420878095>
+<hgeokg/resource/5671916>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/180719512>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/226007081>
+<hgeokg/resource/497264366>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6825047287>
+<hgeokg/resource/5274257023>	<hgeokg/schema/bus>	bus-yes
+<hgeokg/resource/275298545>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/305323024>
+<hgeokg/resource/4231923696>	<hgeokg/schema/phone>	phone-+1 212 996-0660
+<hgeokg/resource/420878095>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/419367529>
+<hgeokg/resource/420878118>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/4231923696>
+<hgeokg/resource/180719512>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420878095>
+<hgeokg/resource/271807431>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/497264366>
+<hgeokg/resource/420878118>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/420878095>
+<hgeokg/resource/420878118>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/180719512>
+<hgeokg/resource/497264366>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/224029303>
+<hgeokg/resource/226007081>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/4953971785>
+<hgeokg/resource/271810345>	<hgeokg/schema/addrCountry>	addrCountry-US
+<hgeokg/resource/1967406009>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/305323024>
+<hgeokg/resource/305323024>	<hgeokg/schema/lanes>	lanes-2
+<hgeokg/resource/1967406009>	<hgeokg/schema/addrCountry>	addrCountry-US
+<hgeokg/resource/5235585005>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5671916>
+<hgeokg/resource/420878095>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/420878118>
+<hgeokg/resource/420878118>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/497264366>
+<hgeokg/resource/497264367>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/180719512>
+<hgeokg/resource/271807431>	<hgeokg/schema/nycdoittBin>	nycdoittBin-1053563
+<hgeokg/resource/357621096>	<hgeokg/schema/religion>	religion-christian
+<hgeokg/resource/275298545>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/271807622>	<hgeokg/schema/height>	height-18.4
+<hgeokg/resource/275298545>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/118524659>
+<hgeokg/resource/420878095>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/180719510>
+<hgeokg/resource/5274257023>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/224031776>
+<hgeokg/resource/6622078088>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/497264366>
+<hgeokg/resource/497264366>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/497264365>
+<hgeokg/resource/180719510>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/271810345>
+<hgeokg/resource/271807431>	<Polygon_buildings-Adjacent-Polygon_buildings>	<hgeokg/resource/271807622>
+<hgeokg/resource/4953971785>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/275298545>
+<hgeokg/resource/5671916>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420878118>
+<hgeokg/resource/224031776>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/180719512>
+<hgeokg/resource/4231923696>	<hgeokg/schema/cuisine>	cuisine-seafood;regional
+<hgeokg/resource/497264366>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/420878118>
+<hgeokg/resource/357650567>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Park>
+<hgeokg/resource/4231923696>	<http://www.w3.org/2000/01/rdf-schema#label>	Sylvia's Restaurant
+<hgeokg/resource/6622078088>	<http://www.w3.org/2000/01/rdf-schema#label>	Taste Harlem Tour
+<hgeokg/resource/226007081>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-E;W
+<hgeokg/resource/7299388185>	<hgeokg/schema/phone>	phone-+1-347-625-1685
+<hgeokg/resource/226007081>	<hgeokg/schema/hgv>	hgv-local
+<hgeokg/resource/180719512>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5671916>
+<hgeokg/resource/180719510>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/419367529>
+<hgeokg/resource/271807431>	<hgeokg/schema/addrPostcode>	addrPostcode-10027
+<hgeokg/resource/497264365>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/4231923696>	<hgeokg/schema/fax>	fax-+1 212 427-6389
+<hgeokg/resource/420878095>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/4231923696>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/497264367>
+<hgeokg/resource/420878118>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/497264365>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/5671916>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/1967406009>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/5671916>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/419367529>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/305323024>	<hgeokg/schema/wikipedia>	wikipedia-en:Lenox Avenue
+<hgeokg/resource/305323024>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Secondary>
+<hgeokg/resource/4231923696>	<hgeokg/schema/email>	email-info@sylviasrestaurant.com
+<hgeokg/resource/357621096>	<hgeokg/schema/gnisFeatureId>	gnisFeatureId-2083712
+<hgeokg/resource/5235585005>	<hgeokg/schema/shelter>	shelter-no

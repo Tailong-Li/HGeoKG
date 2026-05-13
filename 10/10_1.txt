@@ -1,0 +1,430 @@
+<hgeokg/resource/2714230679>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6799248313>
+<hgeokg/resource/5673505>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420878087>
+<hgeokg/resource/225158141>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5673505>
+<hgeokg/resource/420878087>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/6957709100>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/420878087>
+<hgeokg/resource/5670540>	<hgeokg/schema/wikipedia>	wikipedia-en:116th Street (Manhattan)
+<hgeokg/resource/5673505>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420878084>
+<hgeokg/resource/6957709110>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/FastFood>
+<hgeokg/resource/5673505>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/265800196>
+<hgeokg/resource/6957709097>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6863378285>
+<hgeokg/resource/46613634>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/5673505>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/225158141>
+<hgeokg/resource/5673505>	<http://www.w3.org/2000/01/rdf-schema#label>	West 117th Street
+<hgeokg/resource/6899386346>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/46613634>
+<hgeokg/resource/265799245>	<hgeokg/schema/addrPostcode>	addrPostcode-10026
+<hgeokg/resource/420878085>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5673505>
+<hgeokg/resource/420878084>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/5670540>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/420878087>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6957709100>
+<hgeokg/resource/420878115>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/46613634>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/420878115>
+<hgeokg/resource/6957709100>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/420878084>
+<hgeokg/resource/265799244>	<Point_pofw-Adjacent-Polygon_buildings>	<hgeokg/resource/265799248>
+<hgeokg/resource/6957709097>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/420878075>	<http://www.w3.org/2000/01/rdf-schema#label>	Malcolm X Boulevard
+<hgeokg/resource/6799248313>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/2714230679>
+<hgeokg/resource/265800196>	<hgeokg/schema/gnisFeatureId>	gnisFeatureId-2083695
+<hgeokg/resource/420878084>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5670540>
+<hgeokg/resource/420878087>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420878115>
+<hgeokg/resource/6957709100>	<http://www.w3.org/2000/01/rdf-schema#label>	CVS Pharmacy
+<hgeokg/resource/265800196>	<hgeokg/schema/religion>	religion-christian
+<hgeokg/resource/6957709097>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6957709107>
+<hgeokg/resource/6957709107>	<hgeokg/schema/level>	level-0
+<hgeokg/resource/46613634>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/225158141>
+<hgeokg/resource/6799248313>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/420878087>
+<hgeokg/resource/6957709107>	<hgeokg/schema/fax>	fax-+1 212-876-8686
+<hgeokg/resource/5673505>	<hgeokg/schema/maxspeedConditional>	maxspeedConditional-5 mph @ (08:00-20:00)
+<hgeokg/resource/420878084>	<http://www.w3.org/2000/01/rdf-schema#label>	Malcolm X Boulevard
+<hgeokg/resource/5670540>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420878085>
+<hgeokg/resource/5673505>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/46613634>
+<hgeokg/resource/265799248>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/420878084>
+<hgeokg/resource/6957709097>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5670540>
+<hgeokg/resource/420878084>	<hgeokg/schema/altName>	altName-Lenox Avenue
+<hgeokg/resource/6957709100>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5673505>
+<hgeokg/resource/2714230679>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6957709110>
+<hgeokg/resource/46613634>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/6899386346>
+<hgeokg/resource/420878087>	<hgeokg/schema/hgv>	hgv-destination
+<hgeokg/resource/5719013573>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/5670540>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/265799244>
+<hgeokg/resource/5673505>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/265799245>
+<hgeokg/resource/5670540>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/6957709110>	<hgeokg/schema/brand>	brand-Popeyes
+<hgeokg/resource/265799248>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/3938132962>
+<hgeokg/resource/420878084>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6799248313>
+<hgeokg/resource/420878084>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/420878085>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/420878087>
+<hgeokg/resource/6863378285>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6957709110>
+<hgeokg/resource/6957709100>	<hgeokg/schema/brandWikipedia>	brandWikipedia-en:CVS Pharmacy
+<hgeokg/resource/420878075>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420878087>
+<hgeokg/resource/420878084>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Secondary>
+<hgeokg/resource/6957709107>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6957709110>
+<hgeokg/resource/5719013573>	<hgeokg/schema/branch>	branch-5th Ave & 116th St
+<hgeokg/resource/5719013573>	<hgeokg/schema/level>	level-0
+<hgeokg/resource/46613634>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6863378285>
+<hgeokg/resource/6957709097>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/2714230679>
+<hgeokg/resource/6957709097>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6957709100>
+<hgeokg/resource/6863378285>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/420878115>
+<hgeokg/resource/420878085>	<hgeokg/schema/wikipedia>	wikipedia-en:Lenox Avenue
+<hgeokg/resource/420878087>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6799248313>
+<hgeokg/resource/6799248313>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6957709110>
+<hgeokg/resource/420878115>	<hgeokg/schema/altName>	altName-Lenox Avenue
+<hgeokg/resource/6899386346>	<hgeokg/schema/shelter>	shelter-yes
+<hgeokg/resource/6899386346>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/46613634>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/265800196>
+<hgeokg/resource/6799248313>	<hgeokg/schema/brand>	brand-T-Mobile
+<hgeokg/resource/420878115>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/420878086>
+<hgeokg/resource/6863378285>	<hgeokg/schema/addrHousenumber>	addrHousenumber-142
+<hgeokg/resource/6957709107>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5673505>
+<hgeokg/resource/420878084>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/420878087>
+<hgeokg/resource/265799244>	<Point_pofw-Adjacent-Point_pofw>	<hgeokg/resource/265799245>
+<hgeokg/resource/6863378285>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/46613634>
+<hgeokg/resource/265799244>	<hgeokg/schema/addrHousenumber>	addrHousenumber-37
+<hgeokg/resource/420878115>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/420878085>
+<hgeokg/resource/6899386346>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/PublicTransportPlatform>
+<hgeokg/resource/6799248313>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/420878115>
+<hgeokg/resource/3938132962>	<Point_pofw-Adjacent-Point_pois>	<hgeokg/resource/265799244>
+<hgeokg/resource/420878115>	<hgeokg/schema/lanes>	lanes-2
+<hgeokg/resource/420878084>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/420878075>
+<hgeokg/resource/420878084>	<hgeokg/schema/hgv>	hgv-destination
+<hgeokg/resource/6957709107>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/6957709107>	<hgeokg/schema/branch>	branch-Harlem
+<hgeokg/resource/265800196>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/PlaceOfWorship>
+<hgeokg/resource/6957709107>	<hgeokg/schema/operatorType>	operatorType-private
+<hgeokg/resource/6799248313>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6957709097>
+<hgeokg/resource/6957709107>	<Point_pofw-Adjacent-Point_pois>	<hgeokg/resource/265799244>
+<hgeokg/resource/6863378285>	<http://www.w3.org/2000/01/rdf-schema#label>	Carver Federal Savings Bank
+<hgeokg/resource/6957709107>	<hgeokg/schema/openingHours>	openingHours-Mo-Fr 08:30-19:30; Sa 10:00-17:00; Su 11:00-16:00
+<hgeokg/resource/6957709107>	<hgeokg/schema/email>	email-store4163@theupsstore.com
+<hgeokg/resource/265799248>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/420878087>
+<hgeokg/resource/5673505>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/2714230679>
+<hgeokg/resource/265799248>	<hgeokg/schema/height>	height-35.9
+<hgeokg/resource/6957709097>	<http://www.w3.org/2000/01/rdf-schema#label>	Dunkin'
+<hgeokg/resource/265799245>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/LanduseConstruction>
+<hgeokg/resource/5673505>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/SharedLane>
+<hgeokg/resource/420878115>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420878084>
+<hgeokg/resource/6957709107>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/420878085>
+<hgeokg/resource/420878086>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Secondary>
+<hgeokg/resource/265799245>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/5670540>
+<hgeokg/resource/5670540>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/420878084>
+<hgeokg/resource/5670540>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6957709100>
+<hgeokg/resource/6957709100>	<hgeokg/schema/phone>	phone-+1 212-348-2199
+<hgeokg/resource/420878115>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/420878115>	<hgeokg/schema/hgv>	hgv-destination
+<hgeokg/resource/420878084>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420878085>
+<hgeokg/resource/5719013573>	<Point_pofw-Adjacent-Point_pois>	<hgeokg/resource/265799245>
+<hgeokg/resource/6899386346>	<hgeokg/schema/bus>	bus-yes
+<hgeokg/resource/420878115>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/5670540>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420878075>
+<hgeokg/resource/265799245>	<Point_pofw-Adjacent-Point_pois>	<hgeokg/resource/5719013573>
+<hgeokg/resource/225158141>	<Point_pofw-Adjacent-Point_pois>	<hgeokg/resource/265800196>
+<hgeokg/resource/420878085>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/6957709107>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6863378285>
+<hgeokg/resource/6957709107>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/PostOffice>
+<hgeokg/resource/5719013573>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/MobilePhone>
+<hgeokg/resource/6899386346>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/225158141>
+<hgeokg/resource/6957709100>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/420878075>
+<hgeokg/resource/420878087>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/6863378285>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/6957709100>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5670540>
+<hgeokg/resource/6899386346>	<hgeokg/schema/routeRef>	routeRef-M1
+<hgeokg/resource/5673505>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/420878085>
+<hgeokg/resource/265799244>	<Point_pofw-Adjacent-Point_pois>	<hgeokg/resource/6957709110>
+<hgeokg/resource/3938132962>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5673505>
+<hgeokg/resource/6957709107>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/420878087>
+<hgeokg/resource/420878085>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5670540>
+<hgeokg/resource/6799248313>	<http://www.w3.org/2000/01/rdf-schema#label>	T-Mobile
+<hgeokg/resource/265800196>	<hgeokg/schema/nycdoittBin>	nycdoittBin-1053186
+<hgeokg/resource/420878115>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6957709100>
+<hgeokg/resource/6957709110>	<Point_pofw-Adjacent-Point_pois>	<hgeokg/resource/265799244>
+<hgeokg/resource/265800196>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/2714230679>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/420878084>
+<hgeokg/resource/6957709107>	<hgeokg/schema/brandWikipedia>	brandWikipedia-en:The UPS Store
+<hgeokg/resource/3938132962>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/265799248>
+<hgeokg/resource/265799248>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/5670540>
+<hgeokg/resource/265799248>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/420878085>
+<hgeokg/resource/5673505>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/225158141>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/6899386346>
+<hgeokg/resource/265799245>	<hgeokg/schema/height>	height-11.7
+<hgeokg/resource/6863378285>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/420878085>
+<hgeokg/resource/46613634>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/6799248313>	<hgeokg/schema/addrHousenumber>	addrHousenumber-140
+<hgeokg/resource/46613634>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/420878075>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/46613634>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420878085>
+<hgeokg/resource/420878085>	<http://www.w3.org/2000/01/rdf-schema#label>	Malcolm X Boulevard
+<hgeokg/resource/2714230679>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6957709097>
+<hgeokg/resource/6957709110>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5670540>
+<hgeokg/resource/6957709100>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6863378285>
+<hgeokg/resource/6863378285>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6957709100>
+<hgeokg/resource/6957709097>	<hgeokg/schema/brandWikidata>	brandWikidata-Q847743
+<hgeokg/resource/265799245>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/5673505>
+<hgeokg/resource/6799248313>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/MobilePhone>
+<hgeokg/resource/420878085>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/265799248>
+<hgeokg/resource/420878075>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6957709100>
+<hgeokg/resource/265799244>	<hgeokg/schema/nycdoittBin>	nycdoittBin-1051428
+<hgeokg/resource/6863378285>	<hgeokg/schema/addrPostcode>	addrPostcode-10026
+<hgeokg/resource/6957709110>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/2714230679>
+<hgeokg/resource/3938132962>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/46613634>
+<hgeokg/resource/265799244>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/PlaceOfWorship>
+<hgeokg/resource/5673505>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/5673505>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5670540>
+<hgeokg/resource/420878115>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6799248313>
+<hgeokg/resource/420878085>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/420878115>
+<hgeokg/resource/6957709110>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6957709107>
+<hgeokg/resource/420878086>	<hgeokg/schema/altName>	altName-Lenox Avenue
+<hgeokg/resource/5670540>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420878115>
+<hgeokg/resource/420878086>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/46613634>
+<hgeokg/resource/5670540>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6957709107>
+<hgeokg/resource/5673505>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/265799244>
+<hgeokg/resource/265799244>	<Point_pofw-Adjacent-Point_pois>	<hgeokg/resource/6957709107>
+<hgeokg/resource/420878075>	<hgeokg/schema/wikipedia>	wikipedia-en:Lenox Avenue
+<hgeokg/resource/265799244>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/5673505>
+<hgeokg/resource/6957709097>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/FastFood>
+<hgeokg/resource/265799244>	<hgeokg/schema/phone>	phone-+1 212-722-5488
+<hgeokg/resource/420878115>	<hgeokg/schema/wikipedia>	wikipedia-en:Lenox Avenue
+<hgeokg/resource/420878086>	<hgeokg/schema/lanes>	lanes-3
+<hgeokg/resource/265799245>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/420878087>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/6957709097>	<Point_pofw-Adjacent-Point_pois>	<hgeokg/resource/265799244>
+<hgeokg/resource/420878086>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/420878115>
+<hgeokg/resource/6863378285>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6957709097>
+<hgeokg/resource/265800196>	<Point_pofw-Adjacent-Point_pois>	<hgeokg/resource/225158141>
+<hgeokg/resource/5670540>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-W
+<hgeokg/resource/265799244>	<hgeokg/schema/addrPostcode>	addrPostcode-10026
+<hgeokg/resource/420878084>	<hgeokg/schema/lanes>	lanes-3
+<hgeokg/resource/2714230679>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5670540>
+<hgeokg/resource/5719013573>	<hgeokg/schema/brandWikidata>	brandWikidata-Q327634
+<hgeokg/resource/3938132962>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/AmenitySchool>
+<hgeokg/resource/420878115>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/46613634>
+<hgeokg/resource/265799248>	<Polygon_buildings-Contain-Point_pois>	<hgeokg/resource/2714230679>
+<hgeokg/resource/6957709107>	<hgeokg/schema/brand>	brand-The UPS Store
+<hgeokg/resource/6799248313>	<hgeokg/schema/brandWikidata>	brandWikidata-Q327634
+<hgeokg/resource/5719013573>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5670540>
+<hgeokg/resource/5670540>	<http://www.w3.org/2000/01/rdf-schema#label>	West 116th Street
+<hgeokg/resource/420878084>	<hgeokg/schema/wikipedia>	wikipedia-en:Lenox Avenue
+<hgeokg/resource/420878085>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420878084>
+<hgeokg/resource/265799244>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/6863378285>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/420878087>
+<hgeokg/resource/6899386346>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5673505>
+<hgeokg/resource/6957709100>	<hgeokg/schema/dispensing>	dispensing-yes
+<hgeokg/resource/6957709100>	<hgeokg/schema/addrPostcode>	addrPostcode-10026
+<hgeokg/resource/6799248313>	<hgeokg/schema/addrState>	addrState-NY
+<hgeokg/resource/265799245>	<Point_pofw-Adjacent-Point_pofw>	<hgeokg/resource/265799244>
+<hgeokg/resource/2714230679>	<hgeokg/schema/addrState>	addrState-NY
+<hgeokg/resource/6957709100>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6957709110>
+<hgeokg/resource/420878115>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420878087>
+<hgeokg/resource/420878087>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5670540>
+<hgeokg/resource/6957709110>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6957709100>
+<hgeokg/resource/3938132962>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/5719013573>	<hgeokg/schema/openingHours>	openingHours-Mo-Sa 10:00-20:00; Su 11:00-18:00
+<hgeokg/resource/2714230679>	<Point_pois-Within-Polygon_buildings>	<hgeokg/resource/265799248>
+<hgeokg/resource/5719013573>	<hgeokg/schema/website>	website-https://www.t-mobile.com/stores/bd/t-mobile-new-york-ny-10026-5642
+<hgeokg/resource/265800196>	<hgeokg/schema/height>	height-13.4
+<hgeokg/resource/2714230679>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/420878085>
+<hgeokg/resource/265799248>	<hgeokg/schema/addrHousenumber>	addrHousenumber-130
+<hgeokg/resource/265799244>	<hgeokg/schema/facebook>	facebook-sndheadquarters
+<hgeokg/resource/6799248313>	<hgeokg/schema/brandWikipedia>	brandWikipedia-en:T-Mobile
+<hgeokg/resource/2714230679>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5673505>
+<hgeokg/resource/5719013573>	<hgeokg/schema/addrHousenumber>	addrHousenumber-1400
+<hgeokg/resource/265800196>	<hgeokg/schema/addrPostcode>	addrPostcode-10026
+<hgeokg/resource/5670540>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6799248313>
+<hgeokg/resource/46613634>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420878086>
+<hgeokg/resource/420878087>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/2714230679>
+<hgeokg/resource/420878087>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/420878085>
+<hgeokg/resource/6957709110>	<hgeokg/schema/brandWikipedia>	brandWikipedia-en:Popeyes
+<hgeokg/resource/420878075>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Secondary>
+<hgeokg/resource/3938132962>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6957709097>
+<hgeokg/resource/6957709097>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5673505>
+<hgeokg/resource/420878115>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5670540>
+<hgeokg/resource/5670540>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5673505>
+<hgeokg/resource/5670540>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/6957709107>	<hgeokg/schema/addrHousenumber>	addrHousenumber-55
+<hgeokg/resource/2714230679>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6957709107>
+<hgeokg/resource/265799245>	<hgeokg/schema/nycdoittBin>	nycdoittBin-1051432
+<hgeokg/resource/6957709107>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/2714230679>
+<hgeokg/resource/225158141>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/46613634>
+<hgeokg/resource/265799248>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/420878075>
+<hgeokg/resource/6957709110>	<http://www.w3.org/2000/01/rdf-schema#label>	Popeyes
+<hgeokg/resource/6863378285>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Bank>
+<hgeokg/resource/6957709107>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6957709097>
+<hgeokg/resource/6957709110>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/265799248>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/420878115>
+<hgeokg/resource/6799248313>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6863378285>
+<hgeokg/resource/6799248313>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/420878084>
+<hgeokg/resource/6799248313>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/420878085>
+<hgeokg/resource/6957709100>	<hgeokg/schema/brand>	brand-CVS Pharmacy
+<hgeokg/resource/420878115>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Secondary>
+<hgeokg/resource/2714230679>	<hgeokg/schema/addrPostcode>	addrPostcode-10026
+<hgeokg/resource/6957709110>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6863378285>
+<hgeokg/resource/420878087>	<hgeokg/schema/altName>	altName-Lenox Avenue
+<hgeokg/resource/420878085>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/2714230679>
+<hgeokg/resource/6957709107>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6957709100>
+<hgeokg/resource/6863378285>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6799248313>
+<hgeokg/resource/265799248>	<Point_pofw-Adjacent-Polygon_buildings>	<hgeokg/resource/265799244>
+<hgeokg/resource/2714230679>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6957709100>
+<hgeokg/resource/6799248313>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/265799248>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Apartments>
+<hgeokg/resource/420878115>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/2714230679>
+<hgeokg/resource/265799244>	<http://www.w3.org/2000/01/rdf-schema#label>	Salvation and Deliverence Church
+<hgeokg/resource/420878087>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5673505>
+<hgeokg/resource/225158141>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Playground>
+<hgeokg/resource/6957709100>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Pharmacy>
+<hgeokg/resource/420878086>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/5673505>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/6799248313>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5673505>
+<hgeokg/resource/420878115>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6863378285>
+<hgeokg/resource/420878086>	<hgeokg/schema/hgv>	hgv-destination
+<hgeokg/resource/6957709097>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6957709110>
+<hgeokg/resource/5670540>	<hgeokg/schema/hgv>	hgv-local
+<hgeokg/resource/6863378285>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/3938132962>
+<hgeokg/resource/2714230679>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6863378285>
+<hgeokg/resource/420878086>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/5673505>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-W
+<hgeokg/resource/6863378285>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/420878084>
+<hgeokg/resource/46613634>	<http://www.w3.org/2000/01/rdf-schema#label>	West 118th Street
+<hgeokg/resource/6957709110>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6799248313>
+<hgeokg/resource/420878084>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420878115>
+<hgeokg/resource/6899386346>	<hgeokg/schema/bench>	bench-yes
+<hgeokg/resource/5673505>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/6899386346>
+<hgeokg/resource/420878086>	<hgeokg/schema/wikipedia>	wikipedia-en:Lenox Avenue
+<hgeokg/resource/5670540>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6957709097>
+<hgeokg/resource/265799248>	<hgeokg/schema/nycdoittBin>	nycdoittBin-1085936
+<hgeokg/resource/6957709100>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6957709107>
+<hgeokg/resource/265799245>	<hgeokg/schema/addrHousenumber>	addrHousenumber-11
+<hgeokg/resource/6799248313>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5670540>
+<hgeokg/resource/420878087>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/420878084>
+<hgeokg/resource/420878087>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420878075>
+<hgeokg/resource/420878075>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/6957709100>	<hgeokg/schema/brandWikidata>	brandWikidata-Q2078880
+<hgeokg/resource/420878087>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6863378285>
+<hgeokg/resource/5673505>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6957709110>
+<hgeokg/resource/265799244>	<hgeokg/schema/email>	email-info@sndhq.org
+<hgeokg/resource/420878085>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6863378285>
+<hgeokg/resource/420878087>	<http://www.w3.org/2000/01/rdf-schema#label>	Malcolm X Boulevard
+<hgeokg/resource/420878085>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Secondary>
+<hgeokg/resource/6957709107>	<hgeokg/schema/ref>	ref-4163
+<hgeokg/resource/5673505>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6799248313>
+<hgeokg/resource/3938132962>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6863378285>
+<hgeokg/resource/6863378285>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/2714230679>
+<hgeokg/resource/420878085>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6957709107>
+<hgeokg/resource/6899386346>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/BusStop>
+<hgeokg/resource/265799248>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/46613634>
+<hgeokg/resource/5670540>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/420878087>
+<hgeokg/resource/6957709097>	<hgeokg/schema/brandWikipedia>	brandWikipedia-en:Dunkin' Donuts
+<hgeokg/resource/265799248>	<hgeokg/schema/addrState>	addrState-NY
+<hgeokg/resource/420878075>	<hgeokg/schema/lanes>	lanes-2
+<hgeokg/resource/46613634>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/3938132962>
+<hgeokg/resource/6957709097>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/3938132962>
+<hgeokg/resource/265799244>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/5670540>
+<hgeokg/resource/2714230679>	<http://www.w3.org/2000/01/rdf-schema#label>	Carver Federal Savings Bank
+<hgeokg/resource/6957709100>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6957709097>
+<hgeokg/resource/2714230679>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Bank>
+<hgeokg/resource/6899386346>	<http://www.w3.org/2000/01/rdf-schema#label>	5th Avenue & West 118th Street
+<hgeokg/resource/6957709100>	<hgeokg/schema/addrHousenumber>	addrHousenumber-130
+<hgeokg/resource/5673505>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/3938132962>
+<hgeokg/resource/46613634>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-W
+<hgeokg/resource/6957709107>	<hgeokg/schema/brandWikidata>	brandWikidata-Q7771029
+<hgeokg/resource/265800196>	<http://www.w3.org/2000/01/rdf-schema#label>	Bethel Way of the Cross Church of Christ
+<hgeokg/resource/5719013573>	<hgeokg/schema/ref>	ref-5222
+<hgeokg/resource/5673505>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6957709097>
+<hgeokg/resource/5670540>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5719013573>
+<hgeokg/resource/5673505>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/225158141>	<http://www.w3.org/2000/01/rdf-schema#label>	Milbank
+<hgeokg/resource/420878084>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/2714230679>
+<hgeokg/resource/420878086>	<http://www.w3.org/2000/01/rdf-schema#label>	Malcolm X Boulevard
+<hgeokg/resource/265799248>	<http://www.w3.org/2000/01/rdf-schema#label>	The Renaissance
+<hgeokg/resource/6957709107>	<hgeokg/schema/phone>	phone-+1 212-876-8800
+<hgeokg/resource/265800196>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/5673505>
+<hgeokg/resource/5670540>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/265799248>
+<hgeokg/resource/46613634>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5673505>
+<hgeokg/resource/46613634>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/5673505>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6957709100>
+<hgeokg/resource/6957709097>	<hgeokg/schema/brand>	brand-Dunkin'
+<hgeokg/resource/5719013573>	<http://www.w3.org/2000/01/rdf-schema#label>	T-Mobile
+<hgeokg/resource/6957709107>	<hgeokg/schema/website>	website-https://locations.theupsstore.com/ny/new-york/55-w-116th-st
+<hgeokg/resource/6957709097>	<hgeokg/schema/takeaway>	takeaway-yes
+<hgeokg/resource/5719013573>	<hgeokg/schema/brandWikipedia>	brandWikipedia-en:T-Mobile
+<hgeokg/resource/6957709100>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/2714230679>
+<hgeokg/resource/6957709100>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/420878115>
+<hgeokg/resource/6957709107>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5670540>
+<hgeokg/resource/6957709097>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6799248313>
+<hgeokg/resource/6957709097>	<hgeokg/schema/altName>	altName-Dunkin' Donuts
+<hgeokg/resource/6957709107>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Copyshop>
+<hgeokg/resource/2714230679>	<hgeokg/schema/addrHousenumber>	addrHousenumber-142
+<hgeokg/resource/420878075>	<hgeokg/schema/altName>	altName-Lenox Avenue
+<hgeokg/resource/6957709100>	<hgeokg/schema/website>	website-https://www.cvs.com/store-locator/new-york-ny-pharmacies/130-lenox-ave-btwn-116th-and-117th-st-new-york-ny-10026
+<hgeokg/resource/6957709110>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5673505>
+<hgeokg/resource/5673505>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/420878115>
+<hgeokg/resource/6799248313>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6957709107>
+<hgeokg/resource/5719013573>	<hgeokg/schema/addrPostcode>	addrPostcode-10026
+<hgeokg/resource/420878087>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/265799248>
+<hgeokg/resource/2714230679>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/420878087>
+<hgeokg/resource/265800196>	<hgeokg/schema/addrHousenumber>	addrHousenumber-23
+<hgeokg/resource/265799248>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Polygon>
+<hgeokg/resource/5670540>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/265799245>
+<hgeokg/resource/420878075>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5670540>
+<hgeokg/resource/6957709097>	<hgeokg/schema/cuisine>	cuisine-donut;coffee_shop
+<hgeokg/resource/420878115>	<http://www.w3.org/2000/01/rdf-schema#label>	Malcolm X Boulevard
+<hgeokg/resource/420878085>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6957709100>
+<hgeokg/resource/265800196>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/46613634>
+<hgeokg/resource/5719013573>	<hgeokg/schema/phone>	phone-+1 646-490-5393
+<hgeokg/resource/6957709107>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6799248313>
+<hgeokg/resource/5673505>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/265799248>
+<hgeokg/resource/5670540>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6863378285>
+<hgeokg/resource/6863378285>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5673505>
+<hgeokg/resource/265799244>	<Point_pofw-Adjacent-Point_pois>	<hgeokg/resource/6957709097>
+<hgeokg/resource/5673505>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6957709107>
+<hgeokg/resource/265799248>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/5673505>
+<hgeokg/resource/420878085>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/420878075>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/420878085>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6799248313>
+<hgeokg/resource/6957709110>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6957709097>
+<hgeokg/resource/5673505>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6863378285>
+<hgeokg/resource/6957709107>	<hgeokg/schema/operatorWikipedia>	operatorWikipedia-en:The UPS Store
+<hgeokg/resource/420878087>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Secondary>
+<hgeokg/resource/6957709110>	<hgeokg/schema/cuisine>	cuisine-chicken
+<hgeokg/resource/420878075>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/265799248>
+<hgeokg/resource/6863378285>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6957709107>
+<hgeokg/resource/5719013573>	<hgeokg/schema/wheelchair>	wheelchair-yes
+<hgeokg/resource/420878087>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6957709107>
+<hgeokg/resource/6957709107>	<http://www.w3.org/2000/01/rdf-schema#label>	The UPS Store
+<hgeokg/resource/265799244>	<Point_pofw-Adjacent-Point_pois>	<hgeokg/resource/3938132962>
+<hgeokg/resource/6957709100>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/6957709110>	<hgeokg/schema/takeaway>	takeaway-yes
+<hgeokg/resource/420878084>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/265799248>
+<hgeokg/resource/265799244>	<hgeokg/schema/website>	website-https://www.sndhq.org
+<hgeokg/resource/6957709107>	<hgeokg/schema/operator>	operator-The UPS Store
+<hgeokg/resource/5670540>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6957709110>
+<hgeokg/resource/420878075>	<hgeokg/schema/hgv>	hgv-destination
+<hgeokg/resource/420878075>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/420878084>
+<hgeokg/resource/420878084>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5673505>
+<hgeokg/resource/5719013573>	<hgeokg/schema/brand>	brand-T-Mobile
+<hgeokg/resource/3938132962>	<http://www.w3.org/2000/01/rdf-schema#label>	Public School 147
+<hgeokg/resource/225158141>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/420878084>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/420878086>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/46613634>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/265799248>
+<hgeokg/resource/6863378285>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5670540>
+<hgeokg/resource/2714230679>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/2714230679>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/420878115>
+<hgeokg/resource/420878085>	<hgeokg/schema/altName>	altName-Lenox Avenue
+<hgeokg/resource/5673505>	<hgeokg/schema/motorVehicleConditional>	motorVehicleConditional-destination @ (08:00-20:00)
+<hgeokg/resource/420878084>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6863378285>
+<hgeokg/resource/6957709107>	<hgeokg/schema/wheelchair>	wheelchair-yes
+<hgeokg/resource/6957709110>	<hgeokg/schema/brandWikidata>	brandWikidata-Q1330910
+<hgeokg/resource/265800196>	<hgeokg/schema/ele>	ele-7
+<hgeokg/resource/420878087>	<hgeokg/schema/lanes>	lanes-2
+<hgeokg/resource/6799248313>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6957709100>
+<hgeokg/resource/420878085>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/46613634>
+<hgeokg/resource/420878085>	<hgeokg/schema/hgv>	hgv-destination
+<hgeokg/resource/6957709100>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/420878085>
+<hgeokg/resource/6957709100>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6799248313>
+<hgeokg/resource/420878087>	<hgeokg/schema/wikipedia>	wikipedia-en:Lenox Avenue
+<hgeokg/resource/420878115>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/265799248>
+<hgeokg/resource/5670540>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/2714230679>
+<hgeokg/resource/265799244>	<hgeokg/schema/religion>	religion-christian
+<hgeokg/resource/420878084>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6957709100>
+<hgeokg/resource/265799244>	<hgeokg/schema/height>	height-22.6
+<hgeokg/resource/420878085>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/420878115>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5673505>

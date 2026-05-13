@@ -1,0 +1,326 @@
+<hgeokg/resource/5672195>	<Line_roads-Adjacent-Polygon_landuse>	<hgeokg/resource/225981837>
+<hgeokg/resource/275298533>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/224035498>
+<hgeokg/resource/420878113>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/225143097>
+<hgeokg/resource/271285706>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/357579137>
+<hgeokg/resource/224035498>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/357621668>
+<hgeokg/resource/275298533>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/225143097>
+<hgeokg/resource/6270715636>	<hgeokg/schema/operator>	operator-United States Postal Service
+<hgeokg/resource/420878113>	<http://www.w3.org/2000/01/rdf-schema#label>	Malcolm X Boulevard
+<hgeokg/resource/46613661>	<hgeokg/schema/oldName>	oldName-Frawley Circle
+<hgeokg/resource/271285706>	<hgeokg/schema/height>	height-38.3
+<hgeokg/resource/357579137>	<hgeokg/schema/gnisFeatureId>	gnisFeatureId-961425
+<hgeokg/resource/420878099>	<hgeokg/schema/lanes>	lanes-2
+<hgeokg/resource/224035498>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/271285706>
+<hgeokg/resource/22898583>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/224035498>
+<hgeokg/resource/2762425310>	<hgeokg/schema/level>	level-0
+<hgeokg/resource/46613661>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Secondary>
+<hgeokg/resource/225981837>	<Point_pois-Adjacent-Polygon_landuse>	<hgeokg/resource/357579137>
+<hgeokg/resource/6223308656>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/22898583>
+<hgeokg/resource/357579259>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/224035498>
+<hgeokg/resource/6223308656>	<Point_pofw-Adjacent-Point_pois>	<hgeokg/resource/5978868295>
+<hgeokg/resource/224035498>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/46613661>
+<hgeokg/resource/420878113>	<hgeokg/schema/lanes>	lanes-3
+<hgeokg/resource/271285706>	<hgeokg/schema/addrPostcode>	addrPostcode-10026
+<hgeokg/resource/420878082>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6680630122>
+<hgeokg/resource/420878113>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/6680630122>	<hgeokg/schema/operatorWikipedia>	operatorWikipedia-en:Citi Bike
+<hgeokg/resource/6223308478>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/6270715636>
+<hgeokg/resource/420878102>	<Line_roads-Adjacent-Polygon_landuse>	<hgeokg/resource/225981837>
+<hgeokg/resource/271285706>	<hgeokg/schema/wikipedia>	wikipedia-en:Lincoln Correctional Facility
+<hgeokg/resource/420878099>	<hgeokg/schema/hgv>	hgv-destination
+<hgeokg/resource/225981837>	<http://www.w3.org/2000/01/rdf-schema#label>	Martin Luther King Jr. Towers
+<hgeokg/resource/2762425310>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/420878102>
+<hgeokg/resource/420878079>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/2762425310>
+<hgeokg/resource/420878102>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/275298533>
+<hgeokg/resource/6223308478>	<http://www.w3.org/2000/01/rdf-schema#label>	Central Park North & Frawley Circle
+<hgeokg/resource/6680630122>	<http://www.w3.org/2000/01/rdf-schema#label>	Citi Bike
+<hgeokg/resource/3623587>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/420878079>
+<hgeokg/resource/5978868295>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/224035498>
+<hgeokg/resource/5672195>	<hgeokg/schema/altName>	altName-Lenox Avenue
+<hgeokg/resource/275298533>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5672195>
+<hgeokg/resource/22898583>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/6223308656>
+<hgeokg/resource/225143097>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5672195>
+<hgeokg/resource/420878102>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/420878102>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/225143097>
+<hgeokg/resource/420878082>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/2762425310>	<hgeokg/schema/religion>	religion-christian
+<hgeokg/resource/5978868295>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/22898583>
+<hgeokg/resource/224035498>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/6223308478>
+<hgeokg/resource/420878113>	<hgeokg/schema/altName>	altName-Lenox Avenue
+<hgeokg/resource/357579259>	<hgeokg/schema/grades>	grades-PK-2
+<hgeokg/resource/6680630122>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5672195>
+<hgeokg/resource/420878102>	<hgeokg/schema/wikipedia>	wikipedia-en:Lenox Avenue
+<hgeokg/resource/225143097>	<hgeokg/schema/ele>	ele-7
+<hgeokg/resource/5672195>	<hgeokg/schema/lanes>	lanes-2
+<hgeokg/resource/5672195>	<http://www.w3.org/2000/01/rdf-schema#label>	Malcolm X Boulevard
+<hgeokg/resource/2762425310>	<http://www.w3.org/2000/01/rdf-schema#label>	Second Canaan Baptist Church
+<hgeokg/resource/46613661>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/6223308478>
+<hgeokg/resource/225143097>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/420878082>
+<hgeokg/resource/420878079>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/6680630122>	<hgeokg/schema/operator>	operator-Citi Bike
+<hgeokg/resource/224035498>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/225981837>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Polygon>
+<hgeokg/resource/420878079>	<hgeokg/schema/altName>	altName-Lenox Avenue
+<hgeokg/resource/357579137>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/357579259>
+<hgeokg/resource/357579259>	<hgeokg/schema/school>	school-magnet
+<hgeokg/resource/6223308656>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/PlaceOfWorship>
+<hgeokg/resource/420878113>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/6680630122>	<hgeokg/schema/networkWikidata>	networkWikidata-Q2974438
+<hgeokg/resource/6223308656>	<hgeokg/schema/religion>	religion-christian
+<hgeokg/resource/225143097>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/420878113>
+<hgeokg/resource/357579259>	<hgeokg/schema/operatorType>	operatorType-public
+<hgeokg/resource/22898583>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/46613661>
+<hgeokg/resource/22898583>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Secondary>
+<hgeokg/resource/225143097>	<Point_pois-Intersect-Polygon_landuse>	<hgeokg/resource/225981837>
+<hgeokg/resource/420878113>	<Line_roads-Adjacent-Polygon_landuse>	<hgeokg/resource/225981837>
+<hgeokg/resource/420878102>	<hgeokg/schema/lanes>	lanes-2
+<hgeokg/resource/6223308656>	<hgeokg/schema/addrHousenumber>	addrHousenumber-7
+<hgeokg/resource/22898583>	<http://www.w3.org/2000/01/rdf-schema#label>	5th Avenue
+<hgeokg/resource/357579259>	<hgeokg/schema/ref>	ref-PS 185
+<hgeokg/resource/5672195>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/225143097>
+<hgeokg/resource/225143097>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/275298533>
+<hgeokg/resource/225981837>	<Point_pois-Intersect-Polygon_landuse>	<hgeokg/resource/225143097>
+<hgeokg/resource/420878082>	<hgeokg/schema/altName>	altName-Lenox Avenue
+<hgeokg/resource/420878113>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Secondary>
+<hgeokg/resource/2762425310>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/420878079>
+<hgeokg/resource/5672195>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420878102>
+<hgeokg/resource/6270715636>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/3623587>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/5672195>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/275298533>
+<hgeokg/resource/420878113>	<hgeokg/schema/wikipedia>	wikipedia-en:Lenox Avenue
+<hgeokg/resource/6270715636>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/271285706>
+<hgeokg/resource/6270715636>	<hgeokg/schema/brandWikipedia>	brandWikipedia-en:United States Postal Service
+<hgeokg/resource/357579137>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/357621668>
+<hgeokg/resource/420878082>	<hgeokg/schema/wikipedia>	wikipedia-en:Lenox Avenue
+<hgeokg/resource/225981837>	<Line_roads-Adjacent-Polygon_landuse>	<hgeokg/resource/420878102>
+<hgeokg/resource/6270715636>	<hgeokg/schema/brandWikidata>	brandWikidata-Q668687
+<hgeokg/resource/3623587>	<hgeokg/schema/nycdoittBin>	nycdoittBin-1051391
+<hgeokg/resource/420878099>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/420878079>
+<hgeokg/resource/357579259>	<http://www.w3.org/2000/01/rdf-schema#label>	Public School 185 Early Childhood Discovery and Design
+<hgeokg/resource/275298533>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/357579259>
+<hgeokg/resource/420878099>	<http://www.w3.org/2000/01/rdf-schema#label>	Malcolm X Boulevard
+<hgeokg/resource/420878099>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/275298533>	<http://www.w3.org/2000/01/rdf-schema#label>	West 112th Street
+<hgeokg/resource/224035498>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/357579137>
+<hgeokg/resource/271285706>	<hgeokg/schema/nycdoittBin>	nycdoittBin-1051394
+<hgeokg/resource/271285706>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5978868295>
+<hgeokg/resource/5672195>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Secondary>
+<hgeokg/resource/420878082>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/225143097>
+<hgeokg/resource/22898583>	<Line_roads-Adjacent-Polygon_landuse>	<hgeokg/resource/225981837>
+<hgeokg/resource/420878079>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/275298533>
+<hgeokg/resource/6680630122>	<hgeokg/schema/network>	network-Citi Bike
+<hgeokg/resource/357621668>	<hgeokg/schema/gnisFeatureId>	gnisFeatureId-2083995
+<hgeokg/resource/420878102>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/3623587>
+<hgeokg/resource/22898583>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5978868295>
+<hgeokg/resource/3623587>	<hgeokg/schema/height>	height-19.7
+<hgeokg/resource/224035498>	<Point_pofw-Adjacent-Point_pois>	<hgeokg/resource/6223308656>
+<hgeokg/resource/6270715636>	<hgeokg/schema/operatorType>	operatorType-public
+<hgeokg/resource/420878079>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/420878102>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420878099>
+<hgeokg/resource/225981837>	<Polygon_landuse-Contain-Point_pois>	<hgeokg/resource/225143097>
+<hgeokg/resource/357579137>	<hgeokg/schema/ele>	ele-7
+<hgeokg/resource/275298533>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/22898583>
+<hgeokg/resource/225143097>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Park>
+<hgeokg/resource/6223308656>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/6223308656>	<Point_pofw-Adjacent-Point_pois>	<hgeokg/resource/224035498>
+<hgeokg/resource/3623587>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/420878102>
+<hgeokg/resource/6680630122>	<Point_pois-Adjacent-Polygon_landuse>	<hgeokg/resource/225981837>
+<hgeokg/resource/3623587>	<hgeokg/schema/type>	type-multipolygon
+<hgeokg/resource/6223308656>	<hgeokg/schema/phone>	phone-+1-212-369-1255
+<hgeokg/resource/420878079>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/420878099>
+<hgeokg/resource/6223308478>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/271285706>
+<hgeokg/resource/225143097>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/6223308478>	<hgeokg/schema/shelter>	shelter-no
+<hgeokg/resource/6223308656>	<Point_pofw-Adjacent-Point_pois>	<hgeokg/resource/271285706>
+<hgeokg/resource/6270715636>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5978868295>
+<hgeokg/resource/357579137>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/224035498>
+<hgeokg/resource/225981837>	<Point_pois-Adjacent-Polygon_landuse>	<hgeokg/resource/6680630122>
+<hgeokg/resource/6680630122>	<hgeokg/schema/operatorType>	operatorType-private
+<hgeokg/resource/5672195>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/357621668>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/357579137>
+<hgeokg/resource/6680630122>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/BicycleRental>
+<hgeokg/resource/6223308478>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/BusStop>
+<hgeokg/resource/2762425310>	<Point_pofw-Adjacent-Point_pois>	<hgeokg/resource/3623587>
+<hgeokg/resource/5978868295>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/6223308478>
+<hgeokg/resource/357621668>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/357579259>
+<hgeokg/resource/5672195>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/420878113>
+<hgeokg/resource/275298533>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/357579137>
+<hgeokg/resource/420878082>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Secondary>
+<hgeokg/resource/22898583>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/6223308478>
+<hgeokg/resource/6223308478>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/224035498>
+<hgeokg/resource/420878082>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/420878082>	<http://www.w3.org/2000/01/rdf-schema#label>	Malcolm X Boulevard
+<hgeokg/resource/5978868295>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6270715636>
+<hgeokg/resource/3623587>	<Point_pofw-Adjacent-Point_pois>	<hgeokg/resource/2762425310>
+<hgeokg/resource/420878079>	<hgeokg/schema/hgv>	hgv-destination
+<hgeokg/resource/6680630122>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/225143097>
+<hgeokg/resource/357579259>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/275298533>
+<hgeokg/resource/225981837>	<hgeokg/schema/nameEtymologyWikidata>	nameEtymologyWikidata-Q8027
+<hgeokg/resource/3623587>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/420878099>
+<hgeokg/resource/420878113>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/275298533>
+<hgeokg/resource/357579137>	<hgeokg/schema/operator>	operator-New York City Department of Education
+<hgeokg/resource/5672195>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/420878082>
+<hgeokg/resource/6270715636>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/6223308478>
+<hgeokg/resource/420878113>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/420878099>	<hgeokg/schema/altName>	altName-Lenox Avenue
+<hgeokg/resource/420878099>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420878102>
+<hgeokg/resource/420878082>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/5672195>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/275298533>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/420878079>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/420878102>
+<hgeokg/resource/225981837>	<Line_roads-Adjacent-Polygon_landuse>	<hgeokg/resource/420878082>
+<hgeokg/resource/5672195>	<hgeokg/schema/hgv>	hgv-destination
+<hgeokg/resource/5978868295>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/46613661>
+<hgeokg/resource/225981837>	<Line_roads-Adjacent-Polygon_landuse>	<hgeokg/resource/5672195>
+<hgeokg/resource/420878099>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/2762425310>
+<hgeokg/resource/275298533>	<Line_roads-Adjacent-Polygon_landuse>	<hgeokg/resource/225981837>
+<hgeokg/resource/420878079>	<http://www.w3.org/2000/01/rdf-schema#label>	Malcolm X Boulevard
+<hgeokg/resource/357579137>	<hgeokg/schema/operatorType>	operatorType-public
+<hgeokg/resource/420878082>	<Line_roads-Adjacent-Polygon_landuse>	<hgeokg/resource/225981837>
+<hgeokg/resource/6270715636>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/224035498>
+<hgeokg/resource/420878099>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Secondary>
+<hgeokg/resource/2762425310>	<hgeokg/schema/addrPostcode>	addrPostcode-10026
+<hgeokg/resource/275298533>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/6223308656>	<Point_transport-Adjacent-Point_pofw>	<hgeokg/resource/6223308478>
+<hgeokg/resource/6680630122>	<hgeokg/schema/fee>	fee-yes
+<hgeokg/resource/3623587>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/TourismHotel>
+<hgeokg/resource/225143097>	<hgeokg/schema/gnisFeatureId>	gnisFeatureId-2500832
+<hgeokg/resource/46613661>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/22898583>
+<hgeokg/resource/275298533>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/2762425310>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/420878099>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/6223308478>	<Point_transport-Adjacent-Point_pofw>	<hgeokg/resource/6223308656>
+<hgeokg/resource/420878079>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/2762425310>	<hgeokg/schema/addrHousenumber>	addrHousenumber-10
+<hgeokg/resource/6680630122>	<hgeokg/schema/brand>	brand-Citi Bike
+<hgeokg/resource/224035498>	<Point_pois-Adjacent-Polygon_landuse>	<hgeokg/resource/225981837>
+<hgeokg/resource/420878102>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Secondary>
+<hgeokg/resource/6223308478>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/PublicTransportPlatform>
+<hgeokg/resource/6223308478>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5978868295>
+<hgeokg/resource/357579259>	<Point_pois-Adjacent-Polygon_landuse>	<hgeokg/resource/225981837>
+<hgeokg/resource/420878079>	<hgeokg/schema/lanes>	lanes-4
+<hgeokg/resource/275298533>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/420878102>
+<hgeokg/resource/420878079>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Secondary>
+<hgeokg/resource/22898583>	<hgeokg/schema/nameRu>	nameRu-5-я авеню
+<hgeokg/resource/357579137>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/AmenitySchool>
+<hgeokg/resource/5978868295>	<Point_pofw-Adjacent-Point_pois>	<hgeokg/resource/6223308656>
+<hgeokg/resource/6223308478>	<hgeokg/schema/routeRef>	routeRef-M2;M3;M4
+<hgeokg/resource/357579259>	<hgeokg/schema/ele>	ele-6
+<hgeokg/resource/271285706>	<Point_pofw-Adjacent-Point_pois>	<hgeokg/resource/6223308656>
+<hgeokg/resource/22898583>	<hgeokg/schema/lanes>	lanes-2
+<hgeokg/resource/420878102>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/420878113>
+<hgeokg/resource/6680630122>	<hgeokg/schema/brandWikipedia>	brandWikipedia-en:Citi Bike
+<hgeokg/resource/46613661>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/6223308656>	<Point_pofw-Adjacent-Point_pois>	<hgeokg/resource/6270715636>
+<hgeokg/resource/6223308656>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/46613661>
+<hgeokg/resource/420878102>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5672195>
+<hgeokg/resource/420878099>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/420878082>	<hgeokg/schema/hgv>	hgv-destination
+<hgeokg/resource/224035498>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/275298533>
+<hgeokg/resource/225143097>	<Point_pois-Within-Polygon_landuse>	<hgeokg/resource/225981837>
+<hgeokg/resource/357621668>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/224035498>
+<hgeokg/resource/5672195>	<hgeokg/schema/wikipedia>	wikipedia-en:Lenox Avenue
+<hgeokg/resource/6680630122>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/420878082>
+<hgeokg/resource/420878079>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/3623587>
+<hgeokg/resource/3623587>	<http://www.w3.org/2000/01/rdf-schema#label>	Park View Hotel
+<hgeokg/resource/6270715636>	<hgeokg/schema/operatorWikipedia>	operatorWikipedia-en:United States Postal Service
+<hgeokg/resource/5672195>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6680630122>
+<hgeokg/resource/224035498>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/357579259>
+<hgeokg/resource/420878102>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/420878102>	<http://www.w3.org/2000/01/rdf-schema#label>	Malcolm X Boulevard
+<hgeokg/resource/420878102>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/420878079>
+<hgeokg/resource/22898583>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/275298533>
+<hgeokg/resource/357579137>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/6223308478>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/22898583>
+<hgeokg/resource/46613661>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/224035498>
+<hgeokg/resource/6270715636>	<http://www.w3.org/2000/01/rdf-schema#label>	USPS
+<hgeokg/resource/357621668>	<http://www.w3.org/2000/01/rdf-schema#label>	Public School 208
+<hgeokg/resource/225981837>	<Point_pois-Adjacent-Polygon_landuse>	<hgeokg/resource/224035498>
+<hgeokg/resource/22898583>	<hgeokg/schema/cyclewayLeft>	cyclewayLeft-track
+<hgeokg/resource/225981837>	<Point_pois-Adjacent-Polygon_landuse>	<hgeokg/resource/357579259>
+<hgeokg/resource/225981837>	<Point_pois-Adjacent-Polygon_landuse>	<hgeokg/resource/357621668>
+<hgeokg/resource/46613661>	<http://www.w3.org/2000/01/rdf-schema#label>	Duke Ellington Circle
+<hgeokg/resource/420878102>	<hgeokg/schema/hgv>	hgv-destination
+<hgeokg/resource/357579137>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/271285706>
+<hgeokg/resource/224035498>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/22898583>
+<hgeokg/resource/357621668>	<hgeokg/schema/operatorType>	operatorType-public
+<hgeokg/resource/6680630122>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/5978868295>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Convenience>
+<hgeokg/resource/275298533>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/225981837>	<Line_roads-Adjacent-Polygon_landuse>	<hgeokg/resource/420878113>
+<hgeokg/resource/46613661>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/420878113>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/420878102>
+<hgeokg/resource/357621668>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/224035498>	<http://www.w3.org/2000/01/rdf-schema#label>	P.S. 185 School Yard
+<hgeokg/resource/357579259>	<hgeokg/schema/operator>	operator-New York City Department of Education
+<hgeokg/resource/5978868295>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/5978868295>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/271285706>
+<hgeokg/resource/271285706>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6270715636>
+<hgeokg/resource/6223308478>	<hgeokg/schema/bus>	bus-yes
+<hgeokg/resource/6223308478>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/271285706>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Prison>
+<hgeokg/resource/357579137>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/275298533>
+<hgeokg/resource/275298533>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-W
+<hgeokg/resource/22898583>	<hgeokg/schema/onewayBicycle>	onewayBicycle-no
+<hgeokg/resource/225981837>	<Line_roads-Adjacent-Polygon_landuse>	<hgeokg/resource/275298533>
+<hgeokg/resource/6270715636>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/PostBox>
+<hgeokg/resource/22898583>	<hgeokg/schema/wikipedia>	wikipedia-en:Fifth Avenue
+<hgeokg/resource/46613661>	<hgeokg/schema/nameEtymologyWikidata>	nameEtymologyWikidata-Q4030
+<hgeokg/resource/6680630122>	<hgeokg/schema/brandWikidata>	brandWikidata-Q2974438
+<hgeokg/resource/420878082>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5672195>
+<hgeokg/resource/2762425310>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/PlaceOfWorship>
+<hgeokg/resource/271285706>	<http://www.w3.org/2000/01/rdf-schema#label>	Lincoln Correctional Facility
+<hgeokg/resource/420878113>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5672195>
+<hgeokg/resource/46613661>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5978868295>
+<hgeokg/resource/275298533>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420878079>
+<hgeokg/resource/357621668>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/275298533>
+<hgeokg/resource/357621668>	<Point_pois-Adjacent-Polygon_landuse>	<hgeokg/resource/225981837>
+<hgeokg/resource/420878102>	<hgeokg/schema/altName>	altName-Lenox Avenue
+<hgeokg/resource/46613661>	<hgeokg/schema/cyclewayRight>	cyclewayRight-lane
+<hgeokg/resource/225143097>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/420878102>
+<hgeokg/resource/271285706>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/420878079>	<hgeokg/schema/wikipedia>	wikipedia-en:Lenox Avenue
+<hgeokg/resource/6223308656>	<http://www.w3.org/2000/01/rdf-schema#label>	Templo Cristiano \\\Bethel\\\""
+<hgeokg/resource/357579137>	<hgeokg/schema/ref>	ref-PS 170
+<hgeokg/resource/420878102>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/225143097>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6680630122>
+<hgeokg/resource/275298533>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420878113>
+<hgeokg/resource/22898583>	<hgeokg/schema/hgv>	hgv-destination;no
+<hgeokg/resource/22898583>	<hgeokg/schema/nameEn>	nameEn-5th Avenue
+<hgeokg/resource/420878099>	<hgeokg/schema/wikipedia>	wikipedia-en:Lenox Avenue
+<hgeokg/resource/357621668>	<hgeokg/schema/operator>	operator-New York City Department of Education
+<hgeokg/resource/225981837>	<Line_roads-Adjacent-Polygon_landuse>	<hgeokg/resource/22898583>
+<hgeokg/resource/357579259>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/AmenitySchool>
+<hgeokg/resource/5978868295>	<http://www.w3.org/2000/01/rdf-schema#label>	Central Park Organic
+<hgeokg/resource/6223308478>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/46613661>
+<hgeokg/resource/2762425310>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/420878099>
+<hgeokg/resource/275298533>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/357621668>
+<hgeokg/resource/271285706>	<hgeokg/schema/addrHousenumber>	addrHousenumber-31
+<hgeokg/resource/420878099>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/3623587>
+<hgeokg/resource/46613661>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/6223308656>
+<hgeokg/resource/420878113>	<hgeokg/schema/hgv>	hgv-destination
+<hgeokg/resource/22898583>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/357621668>	<hgeokg/schema/ref>	ref-PS 208
+<hgeokg/resource/357579259>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/420878082>	<hgeokg/schema/lanes>	lanes-3
+<hgeokg/resource/357579137>	<Point_pois-Adjacent-Polygon_landuse>	<hgeokg/resource/225981837>
+<hgeokg/resource/224035498>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5978868295>
+<hgeokg/resource/5672195>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/225143097>	<http://www.w3.org/2000/01/rdf-schema#label>	Martin Luther King Playground
+<hgeokg/resource/225143097>	<hgeokg/schema/nameEtymologyWikidata>	nameEtymologyWikidata-Q8027
+<hgeokg/resource/22898583>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/46613661>	<hgeokg/schema/hgv>	hgv-destination
+<hgeokg/resource/357579259>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/357579137>
+<hgeokg/resource/225981837>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/LanduseResidential>
+<hgeokg/resource/6270715636>	<hgeokg/schema/brand>	brand-USPS
+<hgeokg/resource/357579259>	<hgeokg/schema/gnisFeatureId>	gnisFeatureId-961459
+<hgeokg/resource/6270715636>	<Point_pofw-Adjacent-Point_pois>	<hgeokg/resource/6223308656>
+<hgeokg/resource/357579137>	<http://www.w3.org/2000/01/rdf-schema#label>	Public School 170
+<hgeokg/resource/271285706>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/224035498>
+<hgeokg/resource/357621668>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/AmenitySchool>
+<hgeokg/resource/224035498>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6270715636>
+<hgeokg/resource/271285706>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/6223308478>
+<hgeokg/resource/357621668>	<hgeokg/schema/ele>	ele-6
+<hgeokg/resource/420878102>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/2762425310>
+<hgeokg/resource/6223308478>	<hgeokg/schema/bench>	bench-no
+<hgeokg/resource/357579259>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/357621668>

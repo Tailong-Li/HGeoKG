@@ -1,0 +1,131 @@
+<hgeokg/resource/196116968>	<hgeokg/schema/wikipedia>	wikipedia-en:Tenth Avenue (Manhattan)
+<hgeokg/resource/5670333>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/197294051>
+<hgeokg/resource/5670088>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5673538>
+<hgeokg/resource/5670793>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5670333>
+<hgeokg/resource/275052787>	<hgeokg/schema/height>	height-21.4
+<hgeokg/resource/197294051>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/5670793>	<http://www.w3.org/2000/01/rdf-schema#label>	Jumel Place
+<hgeokg/resource/606283450>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayService>
+<hgeokg/resource/357621565>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/275052787>
+<hgeokg/resource/5670793>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5673538>
+<hgeokg/resource/197294051>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/606283450>
+<hgeokg/resource/357621565>	<hgeokg/schema/ele>	ele-48
+<hgeokg/resource/5670793>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/278667969>
+<hgeokg/resource/5670333>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5670793>
+<hgeokg/resource/275052787>	<hgeokg/schema/nycdoittBin>	nycdoittBin-1076741
+<hgeokg/resource/196116968>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Secondary>
+<hgeokg/resource/5670333>	<hgeokg/schema/cyclewayRight>	cyclewayRight-track
+<hgeokg/resource/278667969>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/5672889>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-W
+<hgeokg/resource/5670793>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5672889>
+<hgeokg/resource/197294051>	<http://www.w3.org/2000/01/rdf-schema#label>	Edgecombe Avenue
+<hgeokg/resource/5670793>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/197294051>
+<hgeokg/resource/275052787>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/5670793>
+<hgeokg/resource/606283450>	<http://www.w3.org/2000/01/rdf-schema#label>	Jackson Avenue
+<hgeokg/resource/278667969>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5670333>
+<hgeokg/resource/5670088>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/197294051>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/278667969>
+<hgeokg/resource/5673538>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/5670333>	<hgeokg/schema/bicycle>	bicycle-designated
+<hgeokg/resource/5672889>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/606283450>	<hgeokg/schema/access>	access-private
+<hgeokg/resource/357621565>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/AmenitySchool>
+<hgeokg/resource/5673538>	<http://www.w3.org/2000/01/rdf-schema#label>	West 166th Street
+<hgeokg/resource/278667969>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/275052787>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/197294051>
+<hgeokg/resource/5673538>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/197294051>
+<hgeokg/resource/278667969>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/196116968>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/5670088>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/606283450>
+<hgeokg/resource/5670793>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/357621565>
+<hgeokg/resource/357621565>	<http://www.w3.org/2000/01/rdf-schema#label>	Public School 8
+<hgeokg/resource/5670333>	<http://www.w3.org/2000/01/rdf-schema#label>	Edgecombe Avenue
+<hgeokg/resource/606283450>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/5672889>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/196116968>
+<hgeokg/resource/197294051>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5673538>
+<hgeokg/resource/197294051>	<hgeokg/schema/onewayBicycle>	onewayBicycle-no
+<hgeokg/resource/275052787>	<http://www.w3.org/2000/01/rdf-schema#label>	Intermediate School 90
+<hgeokg/resource/606283450>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5670793>
+<hgeokg/resource/278667969>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5670793>
+<hgeokg/resource/5670333>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/196116968>
+<hgeokg/resource/5670088>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5670793>
+<hgeokg/resource/5670088>	<http://www.w3.org/2000/01/rdf-schema#label>	West 167th Street
+<hgeokg/resource/197294051>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5670333>
+<hgeokg/resource/278667969>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/197294051>
+<hgeokg/resource/5672889>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/5670333>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/278667969>
+<hgeokg/resource/5670333>	<hgeokg/schema/cyclewayRightOneway>	cyclewayRightOneway-no
+<hgeokg/resource/5670088>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-W
+<hgeokg/resource/275052787>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/357621565>
+<hgeokg/resource/5672889>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/606283450>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5673538>
+<hgeokg/resource/5673538>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/196116968>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5670088>
+<hgeokg/resource/357621565>	<hgeokg/schema/gnisFeatureId>	gnisFeatureId-2083937
+<hgeokg/resource/5670333>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/275052787>
+<hgeokg/resource/357621565>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5670793>
+<hgeokg/resource/5673538>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5670793>
+<hgeokg/resource/5670088>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/278667969>	<http://www.w3.org/2000/01/rdf-schema#label>	Edgecombe Avenue
+<hgeokg/resource/196116968>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/CyclewayLane>
+<hgeokg/resource/5673538>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/5670793>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/5672889>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5670793>
+<hgeokg/resource/357621565>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/196116968>
+<hgeokg/resource/196116968>	<http://www.w3.org/2000/01/rdf-schema#label>	Amsterdam Avenue
+<hgeokg/resource/275052787>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/5670333>
+<hgeokg/resource/275052787>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/5670088>
+<hgeokg/resource/5670333>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/5670088>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/357621565>
+<hgeokg/resource/5672889>	<hgeokg/schema/lanes>	lanes-1
+<hgeokg/resource/357621565>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/197294051>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/275052787>
+<hgeokg/resource/5673538>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/196116968>	<hgeokg/schema/hgv>	hgv-local
+<hgeokg/resource/5670088>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/197294051>
+<hgeokg/resource/275052787>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/278667969>
+<hgeokg/resource/606283450>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/197294051>
+<hgeokg/resource/197294051>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5670793>
+<hgeokg/resource/357621565>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5672889>
+<hgeokg/resource/196116968>	<hgeokg/schema/oneway>	oneway-no
+<hgeokg/resource/5673538>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/196116968>
+<hgeokg/resource/5670793>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/275052787>
+<hgeokg/resource/196116968>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5672889>
+<hgeokg/resource/357621565>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5670088>
+<hgeokg/resource/275052787>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Polygon>
+<hgeokg/resource/5673538>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5670088>
+<hgeokg/resource/5670793>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5670088>
+<hgeokg/resource/5672889>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/357621565>
+<hgeokg/resource/196116968>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/357621565>
+<hgeokg/resource/5672889>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/275052787>
+<hgeokg/resource/5670333>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/5673538>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/606283450>
+<hgeokg/resource/5670793>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/606283450>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5670088>
+<hgeokg/resource/5672889>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/278667969>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/196116968>
+<hgeokg/resource/5670088>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/196116968>
+<hgeokg/resource/5670088>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5672889>
+<hgeokg/resource/275052787>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/5672889>
+<hgeokg/resource/196116968>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5670333>
+<hgeokg/resource/196116968>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/278667969>
+<hgeokg/resource/275052787>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/AmenitySchool>
+<hgeokg/resource/5673538>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-W
+<hgeokg/resource/196116968>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/197294051>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5670088>
+<hgeokg/resource/278667969>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/275052787>
+<hgeokg/resource/197294051>	<hgeokg/schema/cyclewayLeft>	cyclewayLeft-track
+<hgeokg/resource/275052787>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/BuildingSchool>
+<hgeokg/resource/5670793>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/606283450>
+<hgeokg/resource/197294051>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/5670793>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/5670088>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/5670088>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/275052787>
+<hgeokg/resource/275052787>	<hgeokg/schema/gnisFeatureId>	gnisFeatureId-2083893
+<hgeokg/resource/197294051>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/197294051>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/278667969>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/5672889>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5670088>
+<hgeokg/resource/275052787>	<hgeokg/schema/ele>	ele-49
+<hgeokg/resource/196116968>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5673538>
+<hgeokg/resource/5672889>	<http://www.w3.org/2000/01/rdf-schema#label>	West 168th Street

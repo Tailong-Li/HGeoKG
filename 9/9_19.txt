@@ -1,0 +1,175 @@
+<hgeokg/resource/357621395>	<http://www.w3.org/2000/01/rdf-schema#label>	Intermediate School 195
+<hgeokg/resource/505478248>	<hgeokg/schema/altName>	altName-Riverside Drive East
+<hgeokg/resource/44164415>	<hgeokg/schema/railwayTrackRef>	railwayTrackRef-M
+<hgeokg/resource/426103181>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/RailwaySubway>
+<hgeokg/resource/813505727>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/813505725>	<hgeokg/schema/gauge>	gauge-1435
+<hgeokg/resource/5671626>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/813505726>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/RailwaySubway>
+<hgeokg/resource/46226328>	<http://www.w3.org/2000/01/rdf-schema#label>	West 133rd Street
+<hgeokg/resource/426103181>	<Line_railway-Adjacent-Line_railway>	<hgeokg/resource/426103175>
+<hgeokg/resource/813505727>	<hgeokg/schema/gauge>	gauge-1435
+<hgeokg/resource/813505726>	<hgeokg/schema/railwayTrackRef>	railwayTrackRef-4
+<hgeokg/resource/813505726>	<Line_railway-Adjacent-Line_railway>	<hgeokg/resource/426103181>
+<hgeokg/resource/6824835767>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/505478248>
+<hgeokg/resource/813505728>	<Line_railway-Adjacent-Line_railway>	<hgeokg/resource/813505726>
+<hgeokg/resource/5781374253>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/46568312>
+<hgeokg/resource/5671626>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/46568312>
+<hgeokg/resource/6824835767>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/5671626>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/426103181>	<Line_railway-Intersect-Line_railway>	<hgeokg/resource/813505725>
+<hgeokg/resource/5671626>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/505478248>
+<hgeokg/resource/813505726>	<hgeokg/schema/frequency>	frequency-0
+<hgeokg/resource/426103181>	<Line_railway-Adjacent-Line_railway>	<hgeokg/resource/813505727>
+<hgeokg/resource/813505725>	<Line_railway-Intersect-Line_railway>	<hgeokg/resource/426103181>
+<hgeokg/resource/813505728>	<hgeokg/schema/railwayTrackRef>	railwayTrackRef-M
+<hgeokg/resource/813505727>	<http://www.w3.org/2000/01/rdf-schema#label>	IRT Broadway–Seventh Avenue Line
+<hgeokg/resource/426103181>	<hgeokg/schema/electrified>	electrified-rail
+<hgeokg/resource/44164415>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/426103175>	<hgeokg/schema/frequency>	frequency-0
+<hgeokg/resource/6824835767>	<hgeokg/schema/addrState>	addrState-NY
+<hgeokg/resource/426103175>	<Line_railway-Adjacent-Line_railway>	<hgeokg/resource/813505727>
+<hgeokg/resource/46568312>	<hgeokg/schema/cyclewayRight>	cyclewayRight-lane
+<hgeokg/resource/813505727>	<Line_railway-Adjacent-Line_railway>	<hgeokg/resource/813505726>
+<hgeokg/resource/46226328>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/46568312>
+<hgeokg/resource/426103175>	<Line_railway-Adjacent-Line_railway>	<hgeokg/resource/813505725>
+<hgeokg/resource/505478248>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/5671626>	<hgeokg/schema/maxweightSigned>	maxweightSigned-no
+<hgeokg/resource/813505725>	<hgeokg/schema/electrified>	electrified-rail
+<hgeokg/resource/813505727>	<hgeokg/schema/electrified>	electrified-rail
+<hgeokg/resource/46568312>	<hgeokg/schema/lit>	lit-no
+<hgeokg/resource/46226328>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/813505725>	<hgeokg/schema/frequency>	frequency-0
+<hgeokg/resource/813505727>	<hgeokg/schema/railwayTrackRef>	railwayTrackRef-M
+<hgeokg/resource/6824835767>	<hgeokg/schema/addrHousenumber>	addrHousenumber-626
+<hgeokg/resource/505478248>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6824835767>
+<hgeokg/resource/813505725>	<Line_railway-Adjacent-Line_railway>	<hgeokg/resource/813505727>
+<hgeokg/resource/46568312>	<http://www.w3.org/2000/01/rdf-schema#label>	12th Avenue
+<hgeokg/resource/426103181>	<hgeokg/schema/voltage>	voltage-625
+<hgeokg/resource/6824835767>	<hgeokg/schema/email>	email-zerodownleasedeals@gmail.com
+<hgeokg/resource/813505726>	<hgeokg/schema/gauge>	gauge-1435
+<hgeokg/resource/44164415>	<hgeokg/schema/electrified>	electrified-rail
+<hgeokg/resource/5671626>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/813505728>	<Line_railway-Adjacent-Line_railway>	<hgeokg/resource/426103175>
+<hgeokg/resource/44164415>	<hgeokg/schema/gauge>	gauge-1435
+<hgeokg/resource/6824835767>	<hgeokg/schema/openingHours>	openingHours-Mo-Th, Sa 09:00-21:00; Fr 09:00-19:00; Su 10:00-19:00
+<hgeokg/resource/5781374253>	<http://www.w3.org/2000/01/rdf-schema#label>	Bierstrasse Harlem
+<hgeokg/resource/6824835767>	<hgeokg/schema/operator>	operator-Lucas Willis
+<hgeokg/resource/6824835767>	<hgeokg/schema/addrPostcode>	addrPostcode-10031
+<hgeokg/resource/426103175>	<http://www.w3.org/2000/01/rdf-schema#label>	IRT Broadway–Seventh Avenue Line
+<hgeokg/resource/44164415>	<hgeokg/schema/voltage>	voltage-625
+<hgeokg/resource/44164415>	<Line_railway-Adjacent-Line_railway>	<hgeokg/resource/426103175>
+<hgeokg/resource/813505725>	<Line_railway-Adjacent-Line_railway>	<hgeokg/resource/44164415>
+<hgeokg/resource/813505727>	<hgeokg/schema/voltage>	voltage-625
+<hgeokg/resource/5671626>	<hgeokg/schema/bridge>	bridge-yes
+<hgeokg/resource/46226328>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/5781374253>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/46226328>
+<hgeokg/resource/5781374253>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/813505727>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/RailwaySubway>
+<hgeokg/resource/505478248>	<http://www.w3.org/2000/01/rdf-schema#label>	Riverside Drive
+<hgeokg/resource/813505725>	<Line_railway-Adjacent-Line_railway>	<hgeokg/resource/813505726>
+<hgeokg/resource/426103175>	<Line_railway-Intersect-Line_railway>	<hgeokg/resource/813505726>
+<hgeokg/resource/813505728>	<hgeokg/schema/frequency>	frequency-0
+<hgeokg/resource/426103181>	<hgeokg/schema/gauge>	gauge-1435
+<hgeokg/resource/5671626>	<hgeokg/schema/sidewalk>	sidewalk-both
+<hgeokg/resource/813505728>	<hgeokg/schema/gauge>	gauge-1435
+<hgeokg/resource/813505727>	<Line_railway-Adjacent-Line_railway>	<hgeokg/resource/426103175>
+<hgeokg/resource/813505728>	<http://www.w3.org/2000/01/rdf-schema#label>	IRT Broadway–Seventh Avenue Line
+<hgeokg/resource/5671626>	<hgeokg/schema/lit>	lit-yes
+<hgeokg/resource/44164415>	<hgeokg/schema/frequency>	frequency-0
+<hgeokg/resource/813505726>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/5671626>	<hgeokg/schema/layer>	layer-1
+<hgeokg/resource/813505728>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/RailwaySubway>
+<hgeokg/resource/813505727>	<Line_railway-Adjacent-Line_railway>	<hgeokg/resource/426103181>
+<hgeokg/resource/813505726>	<Line_railway-Adjacent-Line_railway>	<hgeokg/resource/813505727>
+<hgeokg/resource/44164415>	<Line_railway-Intersect-Line_railway>	<hgeokg/resource/813505727>
+<hgeokg/resource/357621395>	<hgeokg/schema/ref>	ref-IS 195
+<hgeokg/resource/426103175>	<hgeokg/schema/gauge>	gauge-1435
+<hgeokg/resource/426103175>	<Line_railway-Adjacent-Line_railway>	<hgeokg/resource/44164415>
+<hgeokg/resource/46568312>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5671626>
+<hgeokg/resource/426103181>	<Line_railway-Adjacent-Line_railway>	<hgeokg/resource/813505726>
+<hgeokg/resource/426103181>	<Line_railway-Adjacent-Line_railway>	<hgeokg/resource/813505728>
+<hgeokg/resource/505478248>	<hgeokg/schema/cyclewayRight>	cyclewayRight-lane
+<hgeokg/resource/426103175>	<hgeokg/schema/railwayTrackRef>	railwayTrackRef-4
+<hgeokg/resource/505478248>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5671626>
+<hgeokg/resource/46568312>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/505478248>
+<hgeokg/resource/813505727>	<Line_railway-Intersect-Line_railway>	<hgeokg/resource/813505728>
+<hgeokg/resource/813505725>	<Line_railway-Adjacent-Line_railway>	<hgeokg/resource/813505728>
+<hgeokg/resource/5671626>	<http://www.w3.org/2000/01/rdf-schema#label>	West 134th Street (upper)
+<hgeokg/resource/46568312>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/46226328>
+<hgeokg/resource/426103181>	<http://www.w3.org/2000/01/rdf-schema#label>	IRT Broadway–Seventh Avenue Line
+<hgeokg/resource/6824835767>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Car>
+<hgeokg/resource/813505726>	<Line_railway-Intersect-Line_railway>	<hgeokg/resource/426103175>
+<hgeokg/resource/46568312>	<hgeokg/schema/surface>	surface-concrete
+<hgeokg/resource/46226328>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/6824835767>	<hgeokg/schema/startDate>	startDate-2004-07-08
+<hgeokg/resource/505478248>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/46568312>
+<hgeokg/resource/813505726>	<hgeokg/schema/voltage>	voltage-625
+<hgeokg/resource/813505728>	<Line_railway-Adjacent-Line_railway>	<hgeokg/resource/44164415>
+<hgeokg/resource/813505726>	<http://www.w3.org/2000/01/rdf-schema#label>	IRT Broadway–Seventh Avenue Line
+<hgeokg/resource/6824835767>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5671626>
+<hgeokg/resource/505478248>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Secondary>
+<hgeokg/resource/44164415>	<http://www.w3.org/2000/01/rdf-schema#label>	IRT Broadway–Seventh Avenue Line
+<hgeokg/resource/6824835767>	<http://www.w3.org/2000/01/rdf-schema#label>	Zero Down Lease Deals
+<hgeokg/resource/357621395>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/AmenitySchool>
+<hgeokg/resource/46568312>	<hgeokg/schema/bicycle>	bicycle-designated
+<hgeokg/resource/357621395>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/46568312>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/505478248>	<hgeokg/schema/wikipedia>	wikipedia-en:Riverside Drive (Manhattan)
+<hgeokg/resource/813505728>	<Line_railway-Intersect-Line_railway>	<hgeokg/resource/813505727>
+<hgeokg/resource/813505727>	<Line_railway-Adjacent-Line_railway>	<hgeokg/resource/813505725>
+<hgeokg/resource/426103181>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/505478248>	<hgeokg/schema/surface>	surface-asphalt
+<hgeokg/resource/813505728>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/46568312>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/426103175>	<hgeokg/schema/electrified>	electrified-rail
+<hgeokg/resource/46226328>	<hgeokg/schema/wikipedia>	wikipedia-en:133rd Street (Manhattan)
+<hgeokg/resource/813505726>	<Line_railway-Adjacent-Line_railway>	<hgeokg/resource/813505728>
+<hgeokg/resource/426103181>	<Line_railway-Adjacent-Line_railway>	<hgeokg/resource/44164415>
+<hgeokg/resource/505478248>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/6824835767>	<hgeokg/schema/website>	website-http://zerodownleasedeals.com
+<hgeokg/resource/426103175>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/505478248>	<hgeokg/schema/hgv>	hgv-no
+<hgeokg/resource/46568312>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/5781374253>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Bar>
+<hgeokg/resource/813505728>	<Line_railway-Adjacent-Line_railway>	<hgeokg/resource/813505725>
+<hgeokg/resource/5671626>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6824835767>
+<hgeokg/resource/813505725>	<http://www.w3.org/2000/01/rdf-schema#label>	IRT Broadway–Seventh Avenue Line
+<hgeokg/resource/426103181>	<hgeokg/schema/railwayTrackRef>	railwayTrackRef-1
+<hgeokg/resource/426103175>	<Line_railway-Adjacent-Line_railway>	<hgeokg/resource/426103181>
+<hgeokg/resource/813505728>	<hgeokg/schema/electrified>	electrified-rail
+<hgeokg/resource/6824835767>	<hgeokg/schema/phone>	phone-+1-347-706-3730
+<hgeokg/resource/44164415>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/RailwaySubway>
+<hgeokg/resource/426103181>	<hgeokg/schema/frequency>	frequency-0
+<hgeokg/resource/44164415>	<Line_railway-Adjacent-Line_railway>	<hgeokg/resource/813505726>
+<hgeokg/resource/357621395>	<hgeokg/schema/ele>	ele-25
+<hgeokg/resource/813505728>	<Line_railway-Adjacent-Line_railway>	<hgeokg/resource/426103181>
+<hgeokg/resource/813505725>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/RailwaySubway>
+<hgeokg/resource/813505727>	<Line_railway-Intersect-Line_railway>	<hgeokg/resource/44164415>
+<hgeokg/resource/5671626>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5781374253>
+<hgeokg/resource/46568312>	<hgeokg/schema/sidewalk>	sidewalk-both
+<hgeokg/resource/813505725>	<hgeokg/schema/voltage>	voltage-625
+<hgeokg/resource/505478248>	<hgeokg/schema/cyclewayLeft>	cyclewayLeft-no
+<hgeokg/resource/505478248>	<hgeokg/schema/lanes>	lanes-4
+<hgeokg/resource/426103175>	<hgeokg/schema/voltage>	voltage-625
+<hgeokg/resource/46568312>	<hgeokg/schema/oneway>	oneway-no
+<hgeokg/resource/46568312>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5781374253>
+<hgeokg/resource/813505726>	<Line_railway-Adjacent-Line_railway>	<hgeokg/resource/813505725>
+<hgeokg/resource/813505725>	<Line_railway-Adjacent-Line_railway>	<hgeokg/resource/426103175>
+<hgeokg/resource/44164415>	<Line_railway-Adjacent-Line_railway>	<hgeokg/resource/426103181>
+<hgeokg/resource/426103175>	<Line_railway-Adjacent-Line_railway>	<hgeokg/resource/813505728>
+<hgeokg/resource/813505725>	<hgeokg/schema/railwayTrackRef>	railwayTrackRef-1
+<hgeokg/resource/813505725>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/44164415>	<Line_railway-Adjacent-Line_railway>	<hgeokg/resource/813505728>
+<hgeokg/resource/813505727>	<hgeokg/schema/frequency>	frequency-0
+<hgeokg/resource/813505726>	<Line_railway-Adjacent-Line_railway>	<hgeokg/resource/44164415>
+<hgeokg/resource/426103175>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/RailwaySubway>
+<hgeokg/resource/5671626>	<hgeokg/schema/surface>	surface-asphalt
+<hgeokg/resource/46226328>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5781374253>
+<hgeokg/resource/813505726>	<hgeokg/schema/electrified>	electrified-rail
+<hgeokg/resource/44164415>	<Line_railway-Adjacent-Line_railway>	<hgeokg/resource/813505725>
+<hgeokg/resource/46226328>	<hgeokg/schema/lanes>	lanes-1
+<hgeokg/resource/357621395>	<hgeokg/schema/gnisFeatureId>	gnisFeatureId-2083895
+<hgeokg/resource/5781374253>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5671626>
+<hgeokg/resource/46226328>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Secondary>
+<hgeokg/resource/813505728>	<hgeokg/schema/voltage>	voltage-625

@@ -1,0 +1,574 @@
+<hgeokg/resource/677322260>	<hgeokg/schema/railwayTrackRef>	railwayTrackRef-2
+<hgeokg/resource/455098896>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Secondary>
+<hgeokg/resource/420590065>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/420590046>
+<hgeokg/resource/5972713665>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/196116967>
+<hgeokg/resource/5406632579>	<Point_transport-Adjacent-Line_railway>	<hgeokg/resource/677322260>
+<hgeokg/resource/5669683>	<hgeokg/schema/bicycle>	bicycle-yes
+<hgeokg/resource/357620989>	<http://www.w3.org/2000/01/rdf-schema#label>	Church of the Crucifixion
+<hgeokg/resource/455098896>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420590063>
+<hgeokg/resource/5281914816>	<Point_transport-Adjacent-Line_railway>	<hgeokg/resource/677322262>
+<hgeokg/resource/420590065>	<hgeokg/schema/maxspeed>	maxspeed-25 mph
+<hgeokg/resource/420590043>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/677322262>
+<hgeokg/resource/821683799>	<Line_railway-Intersect-Line_railway>	<hgeokg/resource/677322261>
+<hgeokg/resource/420590059>	<hgeokg/schema/bicycle>	bicycle-yes
+<hgeokg/resource/677322262>	<Point_transport-Adjacent-Line_railway>	<hgeokg/resource/5281914816>
+<hgeokg/resource/357620989>	<hgeokg/schema/addrHousenumber>	addrHousenumber-459
+<hgeokg/resource/196116967>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/420590059>	<hgeokg/schema/oneway>	oneway-no
+<hgeokg/resource/5281915344>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5296101437>
+<hgeokg/resource/196116967>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/243046578>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5669683>
+<hgeokg/resource/5281915344>	<Point_transport-Adjacent-Line_railway>	<hgeokg/resource/677322260>
+<hgeokg/resource/5296101437>	<hgeokg/schema/addrHousenumber>	addrHousenumber-763
+<hgeokg/resource/5406632579>	<hgeokg/schema/level>	level--3;-2
+<hgeokg/resource/677322260>	<Point_pois-Adjacent-Line_railway>	<hgeokg/resource/6296848389>
+<hgeokg/resource/677322261>	<Point_transport-Adjacent-Line_railway>	<hgeokg/resource/5281915344>
+<hgeokg/resource/455098896>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/620748644>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/357650517>
+<hgeokg/resource/5406632579>	<hgeokg/schema/internetAccess>	internetAccess-wlan
+<hgeokg/resource/6296848389>	<hgeokg/schema/addrHousenumber>	addrHousenumber-706
+<hgeokg/resource/5972713665>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/5281914816>	<http://www.w3.org/2000/01/rdf-schema#label>	Saint Nicholas Avenue & West 147th Street
+<hgeokg/resource/677322260>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/RailwaySubway>
+<hgeokg/resource/620748644>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/420590059>
+<hgeokg/resource/5281915344>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5669683>
+<hgeokg/resource/5281913440>	<http://www.w3.org/2000/01/rdf-schema#label>	West 145th Street & Saint Nicholas Avenue
+<hgeokg/resource/677322260>	<Point_transport-Adjacent-Line_railway>	<hgeokg/resource/5281914624>
+<hgeokg/resource/420590065>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5406632579>
+<hgeokg/resource/5281915344>	<Point_transport-Adjacent-Line_railway>	<hgeokg/resource/677322262>
+<hgeokg/resource/2603955363>	<hgeokg/schema/website>	website-http://www.villagefriedchicken.com/
+<hgeokg/resource/5281915344>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/455098896>
+<hgeokg/resource/5281913440>	<Point_transport-Adjacent-Line_railway>	<hgeokg/resource/677322261>
+<hgeokg/resource/420590046>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/420590061>
+<hgeokg/resource/677322261>	<Line_railway-Adjacent-Line_railway>	<hgeokg/resource/677322260>
+<hgeokg/resource/420590046>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5669683>
+<hgeokg/resource/6296848389>	<Point_pois-Adjacent-Line_railway>	<hgeokg/resource/677322260>
+<hgeokg/resource/420590063>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/420590059>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/455098896>
+<hgeokg/resource/5296101437>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5669683>
+<hgeokg/resource/677322260>	<Point_transport-Adjacent-Line_railway>	<hgeokg/resource/5281914816>
+<hgeokg/resource/5296101437>	<Point_pois-Adjacent-Line_railway>	<hgeokg/resource/677322262>
+<hgeokg/resource/5406632579>	<hgeokg/schema/startDate>	startDate-1932-09-10
+<hgeokg/resource/677322260>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/5669683>
+<hgeokg/resource/196116967>	<http://www.w3.org/2000/01/rdf-schema#label>	Amsterdam Avenue
+<hgeokg/resource/5669683>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420590063>
+<hgeokg/resource/5281910371>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/420590065>	<hgeokg/schema/hgv>	hgv-destination
+<hgeokg/resource/677322261>	<http://www.w3.org/2000/01/rdf-schema#label>	IND Concourse Line
+<hgeokg/resource/5296101437>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5281914816>
+<hgeokg/resource/455098896>	<hgeokg/schema/wikipedia>	wikipedia-en:St. Nicholas Avenue
+<hgeokg/resource/5281910371>	<hgeokg/schema/network>	network-NYC Transit
+<hgeokg/resource/420590061>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/CyclewayLane>
+<hgeokg/resource/420590046>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5281914816>
+<hgeokg/resource/2562438631>	<hgeokg/schema/brandWikidata>	brandWikidata-Q1034654
+<hgeokg/resource/677322260>	<Point_pois-Adjacent-Line_railway>	<hgeokg/resource/2562438631>
+<hgeokg/resource/2562438631>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/420590065>
+<hgeokg/resource/357616314>	<http://www.w3.org/2000/01/rdf-schema#label>	Childs Memorial Academy
+<hgeokg/resource/420590059>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/677322262>	<Point_pois-Adjacent-Line_railway>	<hgeokg/resource/357650517>
+<hgeokg/resource/5281914624>	<Point_transport-Adjacent-Line_railway>	<hgeokg/resource/677322262>
+<hgeokg/resource/420590065>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420590061>
+<hgeokg/resource/420590065>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/821683799>
+<hgeokg/resource/5281915344>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/6296848389>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/420590046>
+<hgeokg/resource/420590059>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/420590063>
+<hgeokg/resource/5281914816>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/420590046>
+<hgeokg/resource/2603955363>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5972713665>
+<hgeokg/resource/677322262>	<hgeokg/schema/layer>	layer--3
+<hgeokg/resource/5406632579>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/PublicTransportStation>
+<hgeokg/resource/196116967>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Secondary>
+<hgeokg/resource/677322262>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/420590059>
+<hgeokg/resource/420590065>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/677322262>
+<hgeokg/resource/677322262>	<Point_transport-Adjacent-Line_railway>	<hgeokg/resource/5281914624>
+<hgeokg/resource/243046578>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420590059>
+<hgeokg/resource/2562438631>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5281913440>
+<hgeokg/resource/357616314>	<hgeokg/schema/gnisFeatureId>	gnisFeatureId-2079010
+<hgeokg/resource/420590061>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5281915344>
+<hgeokg/resource/420590063>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/677322260>
+<hgeokg/resource/420590059>	<http://www.w3.org/2000/01/rdf-schema#label>	Saint Nicholas Avenue
+<hgeokg/resource/357650517>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/243046578>
+<hgeokg/resource/5281910371>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/PublicTransportPlatform>
+<hgeokg/resource/5281910371>	<http://www.w3.org/2000/01/rdf-schema#label>	West 145th Street & Amsterdam Avenue
+<hgeokg/resource/357650517>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Park>
+<hgeokg/resource/5281914624>	<Point_transport-Adjacent-Line_railway>	<hgeokg/resource/677322260>
+<hgeokg/resource/5281914624>	<hgeokg/schema/bench>	bench-no
+<hgeokg/resource/357650517>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/455098896>
+<hgeokg/resource/420590063>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/357650517>
+<hgeokg/resource/620748644>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5296101437>
+<hgeokg/resource/821683799>	<hgeokg/schema/electrified>	electrified-rail
+<hgeokg/resource/420590046>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5281915344>
+<hgeokg/resource/5281925325>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/PublicTransportPlatform>
+<hgeokg/resource/5669683>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/5281913440>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/BusStop>
+<hgeokg/resource/5281914816>	<hgeokg/schema/shelter>	shelter-no
+<hgeokg/resource/420590061>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/677322261>
+<hgeokg/resource/357650517>	<Point_pois-Adjacent-Line_railway>	<hgeokg/resource/677322262>
+<hgeokg/resource/455098896>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/357650517>
+<hgeokg/resource/6296848389>	<http://www.w3.org/2000/01/rdf-schema#label>	W Dental
+<hgeokg/resource/677322260>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/455098896>
+<hgeokg/resource/5296101437>	<hgeokg/schema/cuisine>	cuisine-ethiopian
+<hgeokg/resource/5281915344>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/PublicTransportPlatform>
+<hgeokg/resource/455098896>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/420590061>
+<hgeokg/resource/677322262>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/420590065>
+<hgeokg/resource/821683799>	<Point_pois-Adjacent-Line_railway>	<hgeokg/resource/357650517>
+<hgeokg/resource/677322261>	<hgeokg/schema/gauge>	gauge-1435
+<hgeokg/resource/420590046>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/821683799>
+<hgeokg/resource/5296101437>	<Point_pois-Adjacent-Line_railway>	<hgeokg/resource/677322260>
+<hgeokg/resource/677322260>	<Point_pois-Adjacent-Line_railway>	<hgeokg/resource/5296101437>
+<hgeokg/resource/5406632579>	<hgeokg/schema/wheelchairDescription>	wheelchairDescription-same-platform transfer only
+<hgeokg/resource/677322261>	<Line_railway-Adjacent-Line_railway>	<hgeokg/resource/677322262>
+<hgeokg/resource/420590065>	<hgeokg/schema/bicycle>	bicycle-yes
+<hgeokg/resource/5281914816>	<hgeokg/schema/bench>	bench-no
+<hgeokg/resource/2562438631>	<hgeokg/schema/addrPostcode>	addrPostcode-10031
+<hgeokg/resource/677322261>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/420590065>
+<hgeokg/resource/677322261>	<hgeokg/schema/electrified>	electrified-rail
+<hgeokg/resource/821683799>	<Line_roads-Intersect-Line_railway>	<hgeokg/resource/455098896>
+<hgeokg/resource/5281925325>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/677322262>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/420590061>
+<hgeokg/resource/821683799>	<hgeokg/schema/level>	level--3
+<hgeokg/resource/455098896>	<http://www.w3.org/2000/01/rdf-schema#label>	Saint Nicholas Avenue
+<hgeokg/resource/821683799>	<Line_railway-Adjacent-Line_railway>	<hgeokg/resource/677322262>
+<hgeokg/resource/455098896>	<Line_roads-Intersect-Line_railway>	<hgeokg/resource/821683799>
+<hgeokg/resource/420590046>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6296848389>
+<hgeokg/resource/5281910371>	<hgeokg/schema/bench>	bench-yes
+<hgeokg/resource/5406632579>	<hgeokg/schema/network>	network-NYC Subway
+<hgeokg/resource/420590043>	<http://www.w3.org/2000/01/rdf-schema#label>	Saint Nicholas Avenue
+<hgeokg/resource/2603955363>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/420590059>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Secondary>
+<hgeokg/resource/677322260>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/420590061>
+<hgeokg/resource/620748644>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/677322260>
+<hgeokg/resource/243046578>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-W
+<hgeokg/resource/357616314>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/AmenitySchool>
+<hgeokg/resource/357620989>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/PlaceOfWorship>
+<hgeokg/resource/677322260>	<hgeokg/schema/gauge>	gauge-1435
+<hgeokg/resource/5406632579>	<Point_transport-Adjacent-Line_railway>	<hgeokg/resource/677322262>
+<hgeokg/resource/420590046>	<hgeokg/schema/oneway>	oneway-no
+<hgeokg/resource/5281914816>	<hgeokg/schema/bus>	bus-yes
+<hgeokg/resource/821683799>	<hgeokg/schema/railwayTrackRef>	railwayTrackRef-3-4
+<hgeokg/resource/5972713665>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/2603955363>
+<hgeokg/resource/5972713665>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/BusStop>
+<hgeokg/resource/5406632579>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/6296848389>
+<hgeokg/resource/420590061>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5296101437>
+<hgeokg/resource/243046578>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/620748644>
+<hgeokg/resource/677322261>	<hgeokg/schema/frequency>	frequency-0
+<hgeokg/resource/620748644>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/455098896>
+<hgeokg/resource/5281915344>	<http://www.w3.org/2000/01/rdf-schema#label>	Saint Nicholas Avenue & West 148th Street
+<hgeokg/resource/677322260>	<Point_transport-Adjacent-Line_railway>	<hgeokg/resource/5281915344>
+<hgeokg/resource/420590059>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5281915344>
+<hgeokg/resource/5281914816>	<Point_transport-Adjacent-Line_railway>	<hgeokg/resource/677322261>
+<hgeokg/resource/620748644>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/FootwayCrossing>
+<hgeokg/resource/5281915344>	<hgeokg/schema/bus>	bus-yes
+<hgeokg/resource/420590063>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420590061>
+<hgeokg/resource/677322262>	<Line_railway-Adjacent-Line_railway>	<hgeokg/resource/821683799>
+<hgeokg/resource/677322262>	<Point_transport-Adjacent-Line_railway>	<hgeokg/resource/5281915344>
+<hgeokg/resource/821683799>	<Line_railway-Adjacent-Line_railway>	<hgeokg/resource/677322260>
+<hgeokg/resource/5296101437>	<hgeokg/schema/phone>	phone-+1-212-234-2070
+<hgeokg/resource/620748644>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/821683799>
+<hgeokg/resource/2562438631>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/420590046>
+<hgeokg/resource/5281914624>	<hgeokg/schema/shelter>	shelter-no
+<hgeokg/resource/420590046>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/677322260>
+<hgeokg/resource/677322261>	<hgeokg/schema/tunnel>	tunnel-yes
+<hgeokg/resource/455098896>	<hgeokg/schema/bicycle>	bicycle-yes
+<hgeokg/resource/620748644>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420590061>
+<hgeokg/resource/2603955363>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5281910371>
+<hgeokg/resource/420590046>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/2562438631>
+<hgeokg/resource/420590043>	<hgeokg/schema/maxspeed>	maxspeed-25 mph
+<hgeokg/resource/420590046>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5406632579>
+<hgeokg/resource/420590063>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/455098896>
+<hgeokg/resource/5281913440>	<hgeokg/schema/routeRef>	routeRef-Bx19
+<hgeokg/resource/243046578>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/357650517>
+<hgeokg/resource/620748644>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5669683>
+<hgeokg/resource/455098896>	<hgeokg/schema/maxspeed>	maxspeed-25 mph
+<hgeokg/resource/420590059>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/620748644>
+<hgeokg/resource/677322262>	<hgeokg/schema/gauge>	gauge-1435
+<hgeokg/resource/677322260>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/420590065>
+<hgeokg/resource/420590065>	<http://www.w3.org/2000/01/rdf-schema#label>	Saint Nicholas Avenue
+<hgeokg/resource/420590046>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/5281915344>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/420590046>
+<hgeokg/resource/420590063>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/243046578>
+<hgeokg/resource/5281914816>	<Point_transport-Adjacent-Point_transport>	<hgeokg/resource/5281915344>
+<hgeokg/resource/5281925325>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/196116967>
+<hgeokg/resource/677322261>	<Point_transport-Adjacent-Line_railway>	<hgeokg/resource/5281914816>
+<hgeokg/resource/677322261>	<Point_transport-Adjacent-Line_railway>	<hgeokg/resource/5281914624>
+<hgeokg/resource/821683799>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/420590059>
+<hgeokg/resource/5281914624>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/2562438631>
+<hgeokg/resource/6296848389>	<hgeokg/schema/openingHours>	openingHours-Mo-Fr 09:00-17:30
+<hgeokg/resource/5281910371>	<hgeokg/schema/routeRef>	routeRef-Bx19
+<hgeokg/resource/420590061>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420590059>
+<hgeokg/resource/420590065>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/677322260>
+<hgeokg/resource/357650517>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5669683>
+<hgeokg/resource/821683799>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/420590063>
+<hgeokg/resource/5972713665>	<hgeokg/schema/routeRef>	routeRef-M100;M101
+<hgeokg/resource/420590059>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5296101437>
+<hgeokg/resource/455098896>	<hgeokg/schema/oneway>	oneway-no
+<hgeokg/resource/420590046>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Secondary>
+<hgeokg/resource/5406632579>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/677322261>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/420590043>
+<hgeokg/resource/196116967>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5281925325>
+<hgeokg/resource/420590046>	<hgeokg/schema/wikipedia>	wikipedia-en:St. Nicholas Avenue
+<hgeokg/resource/5669683>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5296101437>
+<hgeokg/resource/677322261>	<Point_pois-Adjacent-Line_railway>	<hgeokg/resource/6296848389>
+<hgeokg/resource/5296101437>	<Point_pois-Adjacent-Line_railway>	<hgeokg/resource/821683799>
+<hgeokg/resource/677322260>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/420590046>
+<hgeokg/resource/5281914624>	<Point_transport-Adjacent-Line_railway>	<hgeokg/resource/677322261>
+<hgeokg/resource/5281914816>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5296101437>
+<hgeokg/resource/677322260>	<Point_transport-Adjacent-Line_railway>	<hgeokg/resource/5281913440>
+<hgeokg/resource/420590061>	<hgeokg/schema/bicycle>	bicycle-yes
+<hgeokg/resource/821683799>	<hgeokg/schema/layer>	layer--3
+<hgeokg/resource/6296848389>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5281914624>
+<hgeokg/resource/677322262>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/243046578>
+<hgeokg/resource/5296101437>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/420590059>
+<hgeokg/resource/677322260>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/620748644>
+<hgeokg/resource/677322262>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/420590046>
+<hgeokg/resource/420590063>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5296101437>
+<hgeokg/resource/5281914624>	<Point_transport-Adjacent-Point_transport>	<hgeokg/resource/5406632579>
+<hgeokg/resource/357620989>	<hgeokg/schema/religion>	religion-christian
+<hgeokg/resource/5669683>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/677322262>
+<hgeokg/resource/357620989>	<hgeokg/schema/addrPostcode>	addrPostcode-10031
+<hgeokg/resource/455098896>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/677322260>
+<hgeokg/resource/420590046>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420590043>
+<hgeokg/resource/677322261>	<Point_transport-Adjacent-Line_railway>	<hgeokg/resource/5281913440>
+<hgeokg/resource/420590063>	<hgeokg/schema/bicycle>	bicycle-yes
+<hgeokg/resource/420590061>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/677322260>
+<hgeokg/resource/2562438631>	<hgeokg/schema/brand>	brand-Capital One
+<hgeokg/resource/2562438631>	<Point_pois-Adjacent-Line_railway>	<hgeokg/resource/677322260>
+<hgeokg/resource/5281914624>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/420590046>
+<hgeokg/resource/420590061>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Secondary>
+<hgeokg/resource/2562438631>	<hgeokg/schema/openingHours>	openingHours-Mo-Fr 09:00-18:00; Sa 10:00-14:00
+<hgeokg/resource/677322262>	<hgeokg/schema/railwayTrackRef>	railwayTrackRef-1
+<hgeokg/resource/5281914816>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/455098896>
+<hgeokg/resource/5281910371>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/2603955363>
+<hgeokg/resource/821683799>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/420590063>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/620748644>
+<hgeokg/resource/5406632579>	<hgeokg/schema/wikimediaCommons>	wikimediaCommons-Category:145th Street (IND Eighth Avenue Line)
+<hgeokg/resource/677322262>	<http://www.w3.org/2000/01/rdf-schema#label>	IND Concourse Line
+<hgeokg/resource/196116967>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5972713665>
+<hgeokg/resource/357616314>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/196116967>
+<hgeokg/resource/677322260>	<hgeokg/schema/frequency>	frequency-0
+<hgeokg/resource/420590043>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6296848389>
+<hgeokg/resource/677322262>	<Line_roads-Intersect-Line_railway>	<hgeokg/resource/455098896>
+<hgeokg/resource/420590046>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/455098896>
+<hgeokg/resource/420590043>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/677322261>
+<hgeokg/resource/6296848389>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/420590065>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/677322261>
+<hgeokg/resource/5281915344>	<Point_transport-Adjacent-Line_railway>	<hgeokg/resource/677322261>
+<hgeokg/resource/455098896>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5281915344>
+<hgeokg/resource/420590043>	<hgeokg/schema/bicycle>	bicycle-yes
+<hgeokg/resource/420590063>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/821683799>
+<hgeokg/resource/196116967>	<hgeokg/schema/hgv>	hgv-local
+<hgeokg/resource/5669683>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/455098896>
+<hgeokg/resource/677322262>	<hgeokg/schema/level>	level--3
+<hgeokg/resource/420590065>	<hgeokg/schema/wikipedia>	wikipedia-en:St. Nicholas Avenue
+<hgeokg/resource/5669683>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5281915344>
+<hgeokg/resource/620748644>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Footway>
+<hgeokg/resource/357620989>	<hgeokg/schema/gnisFeatureId>	gnisFeatureId-2083670
+<hgeokg/resource/5281913440>	<hgeokg/schema/bus>	bus-yes
+<hgeokg/resource/420590046>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/CyclewayLane>
+<hgeokg/resource/5281915344>	<hgeokg/schema/shelter>	shelter-no
+<hgeokg/resource/420590063>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Secondary>
+<hgeokg/resource/821683799>	<Point_pois-Adjacent-Line_railway>	<hgeokg/resource/6296848389>
+<hgeokg/resource/357616314>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/420590043>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/2562438631>
+<hgeokg/resource/677322262>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/5281914624>	<Point_transport-Adjacent-Line_railway>	<hgeokg/resource/821683799>
+<hgeokg/resource/5669683>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5281914816>
+<hgeokg/resource/2603955363>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/FastFood>
+<hgeokg/resource/420590043>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5281914624>
+<hgeokg/resource/420590065>	<hgeokg/schema/oneway>	oneway-no
+<hgeokg/resource/2562438631>	<hgeokg/schema/addrHousenumber>	addrHousenumber-700
+<hgeokg/resource/5406632579>	<hgeokg/schema/subway>	subway-yes
+<hgeokg/resource/5972713665>	<hgeokg/schema/shelter>	shelter-yes
+<hgeokg/resource/5281914624>	<http://www.w3.org/2000/01/rdf-schema#label>	Saint Nicholas Avenue & West 145th Street
+<hgeokg/resource/420590061>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/455098896>
+<hgeokg/resource/420590061>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/420590043>	<hgeokg/schema/wikipedia>	wikipedia-en:St. Nicholas Avenue
+<hgeokg/resource/5296101437>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/420590063>
+<hgeokg/resource/420590059>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/357650517>
+<hgeokg/resource/2562438631>	<hgeokg/schema/addrState>	addrState-NY
+<hgeokg/resource/5296101437>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5281915344>
+<hgeokg/resource/821683799>	<hgeokg/schema/tunnel>	tunnel-yes
+<hgeokg/resource/5281914816>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5669683>
+<hgeokg/resource/455098896>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5669683>
+<hgeokg/resource/677322260>	<Line_roads-Intersect-Line_railway>	<hgeokg/resource/243046578>
+<hgeokg/resource/5296101437>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Restaurant>
+<hgeokg/resource/677322262>	<Point_pois-Adjacent-Line_railway>	<hgeokg/resource/2562438631>
+<hgeokg/resource/420590061>	<hgeokg/schema/maxspeed>	maxspeed-25 mph
+<hgeokg/resource/357620989>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/677322260>	<Point_pois-Adjacent-Line_railway>	<hgeokg/resource/357650517>
+<hgeokg/resource/420590063>	<hgeokg/schema/maxspeed>	maxspeed-25 mph
+<hgeokg/resource/5406632579>	<hgeokg/schema/internetAccessFee>	internetAccessFee-no
+<hgeokg/resource/821683799>	<hgeokg/schema/voltage>	voltage-625
+<hgeokg/resource/5281910371>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/BusStop>
+<hgeokg/resource/5669683>	<hgeokg/schema/maxspeed>	maxspeed-25 mph
+<hgeokg/resource/420590061>	<hgeokg/schema/lanes>	lanes-2
+<hgeokg/resource/455098896>	<hgeokg/schema/lanes>	lanes-2
+<hgeokg/resource/821683799>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/RailwaySubway>
+<hgeokg/resource/420590065>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/420590063>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/420590059>
+<hgeokg/resource/420590059>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420590061>
+<hgeokg/resource/243046578>	<Line_roads-Intersect-Line_railway>	<hgeokg/resource/821683799>
+<hgeokg/resource/620748644>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/420590059>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/677322262>
+<hgeokg/resource/5669683>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/677322260>
+<hgeokg/resource/357650517>	<http://www.w3.org/2000/01/rdf-schema#label>	Donnellan Square
+<hgeokg/resource/420590059>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/821683799>
+<hgeokg/resource/420590065>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/677322262>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/420590043>
+<hgeokg/resource/243046578>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/5281925325>	<hgeokg/schema/bench>	bench-no
+<hgeokg/resource/5281915344>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/BusStop>
+<hgeokg/resource/357650517>	<Point_pois-Adjacent-Line_railway>	<hgeokg/resource/821683799>
+<hgeokg/resource/420590046>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/2562438631>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/5669683>	<hgeokg/schema/lanes>	lanes-1
+<hgeokg/resource/677322262>	<hgeokg/schema/electrified>	electrified-rail
+<hgeokg/resource/5406632579>	<Point_transport-Adjacent-Point_transport>	<hgeokg/resource/5281914624>
+<hgeokg/resource/5281913440>	<hgeokg/schema/shelter>	shelter-no
+<hgeokg/resource/677322260>	<Line_railway-Adjacent-Line_railway>	<hgeokg/resource/677322261>
+<hgeokg/resource/455098896>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/5669683>	<hgeokg/schema/cyclewayRight>	cyclewayRight-lane
+<hgeokg/resource/5281914624>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/6296848389>
+<hgeokg/resource/677322262>	<hgeokg/schema/voltage>	voltage-625
+<hgeokg/resource/677322260>	<hgeokg/schema/tunnel>	tunnel-yes
+<hgeokg/resource/420590063>	<hgeokg/schema/oneway>	oneway-no
+<hgeokg/resource/420590063>	<hgeokg/schema/lanes>	lanes-2
+<hgeokg/resource/5281915344>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/420590061>
+<hgeokg/resource/196116967>	<hgeokg/schema/oneway>	oneway-no
+<hgeokg/resource/5281925325>	<hgeokg/schema/bus>	bus-yes
+<hgeokg/resource/677322262>	<Line_railway-Adjacent-Line_railway>	<hgeokg/resource/677322261>
+<hgeokg/resource/420590059>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/243046578>
+<hgeokg/resource/196116967>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/357616314>
+<hgeokg/resource/677322261>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/RailwaySubway>
+<hgeokg/resource/677322261>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/420590061>
+<hgeokg/resource/420590063>	<hgeokg/schema/hgv>	hgv-destination
+<hgeokg/resource/5281914624>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/BusStop>
+<hgeokg/resource/5281913440>	<Point_transport-Adjacent-Line_railway>	<hgeokg/resource/677322262>
+<hgeokg/resource/5406632579>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/420590043>
+<hgeokg/resource/5281913440>	<Point_transport-Adjacent-Line_railway>	<hgeokg/resource/677322260>
+<hgeokg/resource/5669683>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Tertiary>
+<hgeokg/resource/420590061>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5669683>
+<hgeokg/resource/5281925325>	<http://www.w3.org/2000/01/rdf-schema#label>	Amsterdam Avenue & West 149th Street
+<hgeokg/resource/420590046>	<hgeokg/schema/bicycle>	bicycle-yes
+<hgeokg/resource/677322262>	<Line_roads-Intersect-Line_railway>	<hgeokg/resource/620748644>
+<hgeokg/resource/420590046>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/677322262>
+<hgeokg/resource/420590061>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/821683799>
+<hgeokg/resource/2603955363>	<http://www.w3.org/2000/01/rdf-schema#label>	Village Fried Chicken
+<hgeokg/resource/677322262>	<Point_pois-Adjacent-Line_railway>	<hgeokg/resource/6296848389>
+<hgeokg/resource/5281914816>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/PublicTransportPlatform>
+<hgeokg/resource/677322261>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/677322260>	<hgeokg/schema/voltage>	voltage-625
+<hgeokg/resource/5406632579>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/420590046>
+<hgeokg/resource/5669683>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/357650517>
+<hgeokg/resource/455098896>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/620748644>
+<hgeokg/resource/357616314>	<hgeokg/schema/ele>	ele-37
+<hgeokg/resource/5296101437>	<http://www.w3.org/2000/01/rdf-schema#label>	Tsion Cafe
+<hgeokg/resource/677322260>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/420590063>
+<hgeokg/resource/5281915344>	<Point_transport-Adjacent-Line_railway>	<hgeokg/resource/821683799>
+<hgeokg/resource/821683799>	<hgeokg/schema/frequency>	frequency-0
+<hgeokg/resource/5281914816>	<Point_transport-Adjacent-Line_railway>	<hgeokg/resource/821683799>
+<hgeokg/resource/5972713665>	<hgeokg/schema/bus>	bus-yes
+<hgeokg/resource/420590065>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/420590043>
+<hgeokg/resource/5281913440>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/2562438631>
+<hgeokg/resource/677322262>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/5669683>
+<hgeokg/resource/420590065>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Secondary>
+<hgeokg/resource/6296848389>	<hgeokg/schema/phone>	phone-+1-212-939-9399
+<hgeokg/resource/6296848389>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/2562438631>
+<hgeokg/resource/420590043>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/357620989>	<hgeokg/schema/ele>	ele-35
+<hgeokg/resource/5281925325>	<hgeokg/schema/shelter>	shelter-no
+<hgeokg/resource/5296101437>	<hgeokg/schema/toilets>	toilets-yes
+<hgeokg/resource/2562438631>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5281914624>
+<hgeokg/resource/357650517>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/420590063>
+<hgeokg/resource/677322262>	<Point_pois-Adjacent-Line_railway>	<hgeokg/resource/5296101437>
+<hgeokg/resource/6296848389>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/420590043>
+<hgeokg/resource/6296848389>	<Point_pois-Adjacent-Line_railway>	<hgeokg/resource/821683799>
+<hgeokg/resource/5281914624>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/420590065>
+<hgeokg/resource/420590043>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/455098896>	<Line_roads-Intersect-Line_railway>	<hgeokg/resource/677322262>
+<hgeokg/resource/6296848389>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5281913440>
+<hgeokg/resource/420590063>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/5281915344>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/420590059>
+<hgeokg/resource/5296101437>	<hgeokg/schema/openingHours>	openingHours-Sa 10:00-23:30; Su 10:00-22:00; Tu, We 11:59-22:00; Th, Fr 11:59-23:30
+<hgeokg/resource/420590059>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5669683>
+<hgeokg/resource/196116967>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5281910371>
+<hgeokg/resource/357650517>	<hgeokg/schema/gnisFeatureId>	gnisFeatureId-2500781
+<hgeokg/resource/420590061>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/620748644>
+<hgeokg/resource/5406632579>	<Point_transport-Adjacent-Point_transport>	<hgeokg/resource/5281913440>
+<hgeokg/resource/6296848389>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5406632579>
+<hgeokg/resource/5281914816>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/677322262>	<Point_transport-Adjacent-Line_railway>	<hgeokg/resource/5281913440>
+<hgeokg/resource/5406632579>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/420590065>
+<hgeokg/resource/243046578>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/455098896>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5296101437>
+<hgeokg/resource/420590061>	<http://www.w3.org/2000/01/rdf-schema#label>	Saint Nicholas Avenue
+<hgeokg/resource/5406632579>	<hgeokg/schema/wheelchair>	wheelchair-limited
+<hgeokg/resource/5281913440>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/PublicTransportPlatform>
+<hgeokg/resource/677322260>	<hgeokg/schema/level>	level--3
+<hgeokg/resource/243046578>	<hgeokg/schema/oneway>	oneway-no
+<hgeokg/resource/5669683>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/420590061>
+<hgeokg/resource/2562438631>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5406632579>
+<hgeokg/resource/5972713665>	<http://www.w3.org/2000/01/rdf-schema#label>	Amsterdam Avenue & West 145th Street
+<hgeokg/resource/677322261>	<hgeokg/schema/layer>	layer--3
+<hgeokg/resource/420590046>	<hgeokg/schema/hgv>	hgv-destination
+<hgeokg/resource/5406632579>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/RailwayStation>
+<hgeokg/resource/821683799>	<Line_roads-Intersect-Line_railway>	<hgeokg/resource/5669683>
+<hgeokg/resource/5281910371>	<hgeokg/schema/networkWikidata>	networkWikidata-Q1325591
+<hgeokg/resource/5406632579>	<hgeokg/schema/station>	station-subway
+<hgeokg/resource/5281913440>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/420590065>
+<hgeokg/resource/677322261>	<Line_railway-Intersect-Line_railway>	<hgeokg/resource/821683799>
+<hgeokg/resource/5669683>	<http://www.w3.org/2000/01/rdf-schema#label>	Saint Nicholas Place
+<hgeokg/resource/5281913440>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/420590046>
+<hgeokg/resource/677322262>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/RailwaySubway>
+<hgeokg/resource/677322262>	<Point_transport-Adjacent-Line_railway>	<hgeokg/resource/5406632579>
+<hgeokg/resource/5296101437>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/677322260>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/420590043>
+<hgeokg/resource/821683799>	<http://www.w3.org/2000/01/rdf-schema#label>	IND Concourse Line
+<hgeokg/resource/5281910371>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/196116967>
+<hgeokg/resource/5281913440>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/420590059>	<hgeokg/schema/hgv>	hgv-destination
+<hgeokg/resource/5281910371>	<Point_transport-Adjacent-Point_transport>	<hgeokg/resource/5972713665>
+<hgeokg/resource/677322260>	<Point_transport-Adjacent-Line_railway>	<hgeokg/resource/5406632579>
+<hgeokg/resource/2562438631>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/420590043>
+<hgeokg/resource/677322260>	<hgeokg/schema/layer>	layer--3
+<hgeokg/resource/420590043>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5406632579>
+<hgeokg/resource/620748644>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/420590063>
+<hgeokg/resource/243046578>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/677322262>
+<hgeokg/resource/455098896>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/420590059>
+<hgeokg/resource/821683799>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/420590061>
+<hgeokg/resource/420590061>	<hgeokg/schema/hgv>	hgv-destination
+<hgeokg/resource/5281910371>	<hgeokg/schema/shelter>	shelter-yes
+<hgeokg/resource/5281914624>	<hgeokg/schema/bus>	bus-yes
+<hgeokg/resource/420590043>	<hgeokg/schema/oneway>	oneway-no
+<hgeokg/resource/677322260>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/420590059>
+<hgeokg/resource/357650517>	<hgeokg/schema/ele>	ele-31
+<hgeokg/resource/357650517>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/420590059>
+<hgeokg/resource/420590043>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5281913440>
+<hgeokg/resource/677322260>	<hgeokg/schema/electrified>	electrified-rail
+<hgeokg/resource/420590043>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/677322260>
+<hgeokg/resource/620748644>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/243046578>
+<hgeokg/resource/620748644>	<Line_roads-Intersect-Line_railway>	<hgeokg/resource/677322262>
+<hgeokg/resource/420590061>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/6296848389>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Dentist>
+<hgeokg/resource/357650517>	<Point_pois-Adjacent-Line_railway>	<hgeokg/resource/677322260>
+<hgeokg/resource/420590043>	<hgeokg/schema/lanes>	lanes-3
+<hgeokg/resource/420590065>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/2562438631>
+<hgeokg/resource/677322261>	<hgeokg/schema/level>	level--3
+<hgeokg/resource/821683799>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/420590065>
+<hgeokg/resource/5281910371>	<hgeokg/schema/bus>	bus-yes
+<hgeokg/resource/5972713665>	<Point_transport-Adjacent-Point_transport>	<hgeokg/resource/5281910371>
+<hgeokg/resource/420590043>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Secondary>
+<hgeokg/resource/5281914624>	<Point_transport-Adjacent-Point_transport>	<hgeokg/resource/5281913440>
+<hgeokg/resource/420590046>	<hgeokg/schema/maxspeed>	maxspeed-25 mph
+<hgeokg/resource/5281914624>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/455098896>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/CyclewayLane>
+<hgeokg/resource/420590063>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/CyclewayLane>
+<hgeokg/resource/821683799>	<Point_transport-Adjacent-Line_railway>	<hgeokg/resource/5281914624>
+<hgeokg/resource/2562438631>	<Point_pois-Adjacent-Line_railway>	<hgeokg/resource/677322262>
+<hgeokg/resource/677322261>	<Point_pois-Adjacent-Line_railway>	<hgeokg/resource/2562438631>
+<hgeokg/resource/5406632579>	<Point_transport-Adjacent-Line_railway>	<hgeokg/resource/677322261>
+<hgeokg/resource/5281914816>	<Point_transport-Adjacent-Line_railway>	<hgeokg/resource/677322260>
+<hgeokg/resource/5406632579>	<http://www.w3.org/2000/01/rdf-schema#label>	145th Street
+<hgeokg/resource/821683799>	<Point_pois-Adjacent-Line_railway>	<hgeokg/resource/5296101437>
+<hgeokg/resource/243046578>	<Line_roads-Intersect-Line_railway>	<hgeokg/resource/677322260>
+<hgeokg/resource/420590046>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5281913440>
+<hgeokg/resource/420590046>	<hgeokg/schema/lanes>	lanes-2
+<hgeokg/resource/677322260>	<http://www.w3.org/2000/01/rdf-schema#label>	IND Concourse Line
+<hgeokg/resource/821683799>	<Point_transport-Adjacent-Line_railway>	<hgeokg/resource/5281915344>
+<hgeokg/resource/420590065>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5281914624>
+<hgeokg/resource/5281915344>	<hgeokg/schema/bench>	bench-no
+<hgeokg/resource/420590063>	<hgeokg/schema/wikipedia>	wikipedia-en:St. Nicholas Avenue
+<hgeokg/resource/677322261>	<hgeokg/schema/voltage>	voltage-625
+<hgeokg/resource/5281915344>	<Point_transport-Adjacent-Point_transport>	<hgeokg/resource/5281914816>
+<hgeokg/resource/6296848389>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/420590065>
+<hgeokg/resource/677322260>	<Line_railway-Adjacent-Line_railway>	<hgeokg/resource/821683799>
+<hgeokg/resource/420590059>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/677322260>
+<hgeokg/resource/2562438631>	<hgeokg/schema/addrCountry>	addrCountry-US
+<hgeokg/resource/821683799>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/620748644>
+<hgeokg/resource/420590043>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/CyclewayLane>
+<hgeokg/resource/677322262>	<hgeokg/schema/tunnel>	tunnel-yes
+<hgeokg/resource/5281913440>	<hgeokg/schema/bench>	bench-no
+<hgeokg/resource/5281914624>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/PublicTransportPlatform>
+<hgeokg/resource/620748644>	<http://www.w3.org/2000/01/rdf-schema#label>	West 149th Street
+<hgeokg/resource/5669683>	<Line_roads-Intersect-Line_railway>	<hgeokg/resource/821683799>
+<hgeokg/resource/677322260>	<Line_railway-Adjacent-Line_railway>	<hgeokg/resource/677322262>
+<hgeokg/resource/455098896>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420590046>
+<hgeokg/resource/455098896>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5281914816>
+<hgeokg/resource/420590043>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/420590065>
+<hgeokg/resource/420590046>	<http://www.w3.org/2000/01/rdf-schema#label>	Saint Nicholas Avenue
+<hgeokg/resource/2562438631>	<http://www.w3.org/2000/01/rdf-schema#label>	Capital One
+<hgeokg/resource/420590046>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/420590065>
+<hgeokg/resource/821683799>	<hgeokg/schema/gauge>	gauge-1435
+<hgeokg/resource/420590063>	<http://www.w3.org/2000/01/rdf-schema#label>	Saint Nicholas Avenue
+<hgeokg/resource/420590059>	<hgeokg/schema/lanes>	lanes-3
+<hgeokg/resource/6296848389>	<Point_pois-Adjacent-Line_railway>	<hgeokg/resource/677322261>
+<hgeokg/resource/420590063>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5669683>
+<hgeokg/resource/5406632579>	<hgeokg/schema/openingHours>	openingHours-24/7
+<hgeokg/resource/821683799>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/420590046>
+<hgeokg/resource/420590046>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5281914624>
+<hgeokg/resource/821683799>	<Line_roads-Intersect-Line_railway>	<hgeokg/resource/243046578>
+<hgeokg/resource/2562438631>	<Point_pois-Adjacent-Line_railway>	<hgeokg/resource/677322261>
+<hgeokg/resource/420590061>	<hgeokg/schema/oneway>	oneway-no
+<hgeokg/resource/357650517>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/620748644>
+<hgeokg/resource/5281913440>	<Point_transport-Adjacent-Point_transport>	<hgeokg/resource/5406632579>
+<hgeokg/resource/5281914624>	<hgeokg/schema/routeRef>	routeRef-M3
+<hgeokg/resource/5281925325>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/BusStop>
+<hgeokg/resource/420590061>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/420590046>
+<hgeokg/resource/196116967>	<hgeokg/schema/wikipedia>	wikipedia-en:Tenth Avenue (Manhattan)
+<hgeokg/resource/5406632579>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/2562438631>
+<hgeokg/resource/243046578>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/420590043>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/821683799>
+<hgeokg/resource/243046578>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420590063>
+<hgeokg/resource/5281914816>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/BusStop>
+<hgeokg/resource/677322262>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/420590063>
+<hgeokg/resource/420590043>	<hgeokg/schema/hgv>	hgv-destination
+<hgeokg/resource/821683799>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/420590043>
+<hgeokg/resource/420590065>	<hgeokg/schema/lanes>	lanes-2
+<hgeokg/resource/821683799>	<Point_transport-Adjacent-Line_railway>	<hgeokg/resource/5281914816>
+<hgeokg/resource/5281913440>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/6296848389>
+<hgeokg/resource/5669683>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420590046>
+<hgeokg/resource/5281913440>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/420590043>
+<hgeokg/resource/5406632579>	<hgeokg/schema/wikipedia>	wikipedia-en:145th Street station (IND lines)
+<hgeokg/resource/2562438631>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6296848389>
+<hgeokg/resource/357650517>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/677322261>	<Point_transport-Adjacent-Line_railway>	<hgeokg/resource/5406632579>
+<hgeokg/resource/5296101437>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/620748644>
+<hgeokg/resource/5972713665>	<hgeokg/schema/bench>	bench-yes
+<hgeokg/resource/455098896>	<hgeokg/schema/hgv>	hgv-destination
+<hgeokg/resource/420590043>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420590046>
+<hgeokg/resource/420590059>	<hgeokg/schema/wikipedia>	wikipedia-en:St. Nicholas Avenue
+<hgeokg/resource/5669683>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420590059>
+<hgeokg/resource/420590061>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/677322262>
+<hgeokg/resource/2562438631>	<hgeokg/schema/brandWikipedia>	brandWikipedia-en:Capital One
+<hgeokg/resource/420590046>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/677322261>
+<hgeokg/resource/420590061>	<hgeokg/schema/wikipedia>	wikipedia-en:St. Nicholas Avenue
+<hgeokg/resource/196116967>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/CyclewayLane>
+<hgeokg/resource/677322260>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/5296101437>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/420590061>
+<hgeokg/resource/420590059>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/CyclewayLane>
+<hgeokg/resource/5669683>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/420590061>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420590063>
+<hgeokg/resource/2603955363>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/196116967>
+<hgeokg/resource/677322262>	<Line_railway-Adjacent-Line_railway>	<hgeokg/resource/677322260>
+<hgeokg/resource/6296848389>	<Point_pois-Adjacent-Line_railway>	<hgeokg/resource/677322262>
+<hgeokg/resource/5669683>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/420590065>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5281913440>
+<hgeokg/resource/243046578>	<http://www.w3.org/2000/01/rdf-schema#label>	West 150th Street
+<hgeokg/resource/677322262>	<hgeokg/schema/frequency>	frequency-0
+<hgeokg/resource/5669683>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/620748644>
+<hgeokg/resource/5972713665>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/PublicTransportPlatform>
+<hgeokg/resource/677322261>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/420590046>
+<hgeokg/resource/420590065>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6296848389>
+<hgeokg/resource/677322261>	<hgeokg/schema/railwayTrackRef>	railwayTrackRef-3-4
+<hgeokg/resource/420590065>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/CyclewayLane>
+<hgeokg/resource/420590061>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5281914816>
+<hgeokg/resource/5296101437>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/455098896>
+<hgeokg/resource/5669683>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/243046578>
+<hgeokg/resource/2562438631>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Bank>
+<hgeokg/resource/5281913440>	<Point_transport-Adjacent-Point_transport>	<hgeokg/resource/5281914624>
+<hgeokg/resource/420590061>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420590065>
+<hgeokg/resource/420590059>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/196116967>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/2603955363>
+<hgeokg/resource/5281914816>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/420590061>
+<hgeokg/resource/5406632579>	<hgeokg/schema/operator>	operator-New York City Transit Authority
+<hgeokg/resource/5281914624>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/420590043>
+<hgeokg/resource/420590063>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/677322262>

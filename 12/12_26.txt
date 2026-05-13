@@ -1,0 +1,302 @@
+<hgeokg/resource/763335105>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5709172302>
+<hgeokg/resource/141125506>	<hgeokg/schema/lanes>	lanes-2
+<hgeokg/resource/5709168838>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5709172302>
+<hgeokg/resource/197469195>	<http://www.w3.org/2000/01/rdf-schema#label>	West 215th Street
+<hgeokg/resource/2070984287>	<hgeokg/schema/brandWikidata>	brandWikidata-Q1423218
+<hgeokg/resource/197469195>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/566313758>	<hgeokg/schema/drinkTea>	drinkTea-served
+<hgeokg/resource/5709116127>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/164875073>
+<hgeokg/resource/5709116127>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/47845042>	<hgeokg/schema/segregated>	segregated-no
+<hgeokg/resource/5709168838>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/164875073>
+<hgeokg/resource/197469195>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/566313758>	<hgeokg/schema/happyHours>	happyHours-yes
+<hgeokg/resource/5709168838>	<hgeokg/schema/website>	website-https://twindonutplus.com/
+<hgeokg/resource/164875073>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5709168838>
+<hgeokg/resource/763335105>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Primary>
+<hgeokg/resource/566313758>	<hgeokg/schema/cocktails>	cocktails-yes
+<hgeokg/resource/5709168838>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/165399196>
+<hgeokg/resource/5709073963>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5709094152>
+<hgeokg/resource/5709073963>	<Point_traffic-Adjacent-Point_pois>	<hgeokg/resource/2070984287>
+<hgeokg/resource/5709073963>	<Point_pois-Adjacent-Line_railway>	<hgeokg/resource/813505717>
+<hgeokg/resource/5709073963>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/141125506>
+<hgeokg/resource/813505717>	<hgeokg/schema/voltage>	voltage-625
+<hgeokg/resource/2034003341>	<http://www.w3.org/2000/01/rdf-schema#label>	Broadway & West 215th Street
+<hgeokg/resource/763335104>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5709168838>
+<hgeokg/resource/197469195>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/5670798>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/763335105>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/763335104>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/141125506>
+<hgeokg/resource/2070984287>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/AmenityFuel>
+<hgeokg/resource/5709087978>	<http://www.w3.org/2000/01/rdf-schema#label>	Inwood Hill Spirits & Wine Room
+<hgeokg/resource/5709116127>	<hgeokg/schema/description>	description-Hookah lounge and Mediterranean-Latin fusion eatery.
+<hgeokg/resource/5670798>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/566313758>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/5709175050>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/763335104>
+<hgeokg/resource/5709087978>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5670798>
+<hgeokg/resource/813505717>	<Point_pois-Adjacent-Line_railway>	<hgeokg/resource/5709172302>
+<hgeokg/resource/165399196>	<hgeokg/schema/nameRu>	nameRu-Бродвей
+<hgeokg/resource/165399196>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/813505717>
+<hgeokg/resource/47845042>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5670798>
+<hgeokg/resource/141125506>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5709172302>
+<hgeokg/resource/566313758>	<hgeokg/schema/reservation>	reservation-recommended
+<hgeokg/resource/165399196>	<Point_traffic-Adjacent-Line_roads>	<hgeokg/resource/2070984287>
+<hgeokg/resource/5709116127>	<hgeokg/schema/phone>	phone-+1-212-567-6640
+<hgeokg/resource/5709116127>	<hgeokg/schema/email>	email-inquiries@cavalacafe.com
+<hgeokg/resource/763335104>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5709172302>
+<hgeokg/resource/5670798>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5709073963>
+<hgeokg/resource/164875073>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/566313758>	<hgeokg/schema/internetAccess>	internetAccess-wlan
+<hgeokg/resource/2034003341>	<hgeokg/schema/bench>	bench-yes
+<hgeokg/resource/5709116127>	<hgeokg/schema/addrHousenumber>	addrHousenumber-5034
+<hgeokg/resource/141125506>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5709168838>
+<hgeokg/resource/2070984287>	<http://www.w3.org/2000/01/rdf-schema#label>	Sunoco Gas Station
+<hgeokg/resource/141125506>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/165399196>
+<hgeokg/resource/5709087978>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5709073963>
+<hgeokg/resource/5709175050>	<hgeokg/schema/phone>	phone-+1-212-942-4890
+<hgeokg/resource/5709172302>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Convenience>
+<hgeokg/resource/5709172302>	<hgeokg/schema/phone>	phone-+1-212-569-5990
+<hgeokg/resource/763335105>	<hgeokg/schema/nameRu>	nameRu-Бродвей
+<hgeokg/resource/197469195>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/47845042>
+<hgeokg/resource/5709087978>	<hgeokg/schema/fax>	fax-+1-646-490-6667
+<hgeokg/resource/141125506>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/164875073>
+<hgeokg/resource/5709087978>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/763335104>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/165399196>
+<hgeokg/resource/5709168838>	<hgeokg/schema/cuisine>	cuisine-donut
+<hgeokg/resource/763335104>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/763335104>	<hgeokg/schema/wikipedia>	wikipedia-en:Broadway (Manhattan)
+<hgeokg/resource/5670798>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/47845042>
+<hgeokg/resource/566313758>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Restaurant>
+<hgeokg/resource/141125506>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/5709172302>	<hgeokg/schema/addrHousenumber>	addrHousenumber-510
+<hgeokg/resource/165399196>	<hgeokg/schema/lanes>	lanes-2
+<hgeokg/resource/2034003341>	<hgeokg/schema/shelter>	shelter-yes
+<hgeokg/resource/566313758>	<hgeokg/schema/toilets>	toilets-yes
+<hgeokg/resource/2070984287>	<hgeokg/schema/brandWikipedia>	brandWikipedia-en:Sunoco
+<hgeokg/resource/5709172302>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/763335105>
+<hgeokg/resource/5709172302>	<hgeokg/schema/delivery>	delivery-yes
+<hgeokg/resource/5709073963>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/164875073>
+<hgeokg/resource/5670798>	<http://www.w3.org/2000/01/rdf-schema#label>	West 217th Street
+<hgeokg/resource/813505717>	<Point_pois-Adjacent-Line_railway>	<hgeokg/resource/5709073963>
+<hgeokg/resource/5709073963>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5709168838>
+<hgeokg/resource/165399196>	<http://www.w3.org/2000/01/rdf-schema#label>	Broadway
+<hgeokg/resource/5709168838>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5709073963>
+<hgeokg/resource/5670798>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/763335105>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5709168838>
+<hgeokg/resource/813505717>	<Point_pois-Adjacent-Line_railway>	<hgeokg/resource/5709168838>
+<hgeokg/resource/141125506>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/763335105>
+<hgeokg/resource/5709168838>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/141125506>
+<hgeokg/resource/2034003341>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/164875073>
+<hgeokg/resource/165399196>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5709175050>
+<hgeokg/resource/5709087978>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/164875073>
+<hgeokg/resource/5709175050>	<hgeokg/schema/openingHours>	openingHours-Mo-Fr 07:00-19:30; Sa 08:00-18:30
+<hgeokg/resource/5709172302>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5709073963>
+<hgeokg/resource/47845042>	<hgeokg/schema/maxspeed>	maxspeed-20 mph
+<hgeokg/resource/5709073963>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Recycling>
+<hgeokg/resource/813505717>	<Point_traffic-Adjacent-Line_railway>	<hgeokg/resource/2070984287>
+<hgeokg/resource/164875073>	<hgeokg/schema/maxspeed>	maxspeed-20 mph
+<hgeokg/resource/47845042>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/47845042>	<hgeokg/schema/surface>	surface-asphalt
+<hgeokg/resource/141125506>	<hgeokg/schema/ref>	ref-US 9
+<hgeokg/resource/2034003341>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5709116127>
+<hgeokg/resource/165399196>	<hgeokg/schema/wikipedia>	wikipedia-en:Broadway (Manhattan)
+<hgeokg/resource/5709094152>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/VarietyStore>
+<hgeokg/resource/763335105>	<http://www.w3.org/2000/01/rdf-schema#label>	Broadway
+<hgeokg/resource/763335104>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/813505717>
+<hgeokg/resource/2070984287>	<Point_traffic-Adjacent-Line_roads>	<hgeokg/resource/141125506>
+<hgeokg/resource/5709175050>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5709168838>
+<hgeokg/resource/763335104>	<hgeokg/schema/ref>	ref-US 9
+<hgeokg/resource/5709087978>	<hgeokg/schema/openingHours>	openingHours-Mo-We 12:00-21:00; Th-Sa 12:00-22:00; Su 12:00-20:00
+<hgeokg/resource/141125506>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/5709087978>	<hgeokg/schema/addrHousenumber>	addrHousenumber-5057
+<hgeokg/resource/5709172302>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/763335104>
+<hgeokg/resource/566313758>	<hgeokg/schema/openingHours>	openingHours-Mo-Fr 07:00-22:30; Sa 07:00-23:00; Su 08:00-22:00
+<hgeokg/resource/141125506>	<hgeokg/schema/hgv>	hgv-local
+<hgeokg/resource/763335105>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/47845042>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/5670798>	<hgeokg/schema/maxspeed>	maxspeed-20 mph
+<hgeokg/resource/5670798>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5709087978>
+<hgeokg/resource/5709116127>	<hgeokg/schema/dietVegetarian>	dietVegetarian-yes
+<hgeokg/resource/5709172302>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/164875073>
+<hgeokg/resource/2070984287>	<Point_traffic-Adjacent-Point_pois>	<hgeokg/resource/5709168838>
+<hgeokg/resource/2070984287>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/5670798>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-W
+<hgeokg/resource/164875073>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/2034003341>
+<hgeokg/resource/566313758>	<hgeokg/schema/organic>	organic-yes
+<hgeokg/resource/2070984287>	<hgeokg/schema/phone>	phone-+1-212-304-1304
+<hgeokg/resource/164875073>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5709172302>
+<hgeokg/resource/164875073>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/5709087978>	<Point_traffic-Adjacent-Point_pois>	<hgeokg/resource/2070984287>
+<hgeokg/resource/5709087978>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Alcohol>
+<hgeokg/resource/141125506>	<Point_traffic-Adjacent-Line_roads>	<hgeokg/resource/2070984287>
+<hgeokg/resource/165399196>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Primary>
+<hgeokg/resource/5709116127>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/2034003341>
+<hgeokg/resource/566313758>	<hgeokg/schema/dietVegetarian>	dietVegetarian-yes
+<hgeokg/resource/5709094152>	<Point_pois-Adjacent-Line_railway>	<hgeokg/resource/813505717>
+<hgeokg/resource/813505717>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/763335104>
+<hgeokg/resource/2070984287>	<Point_traffic-Adjacent-Point_pois>	<hgeokg/resource/5709073963>
+<hgeokg/resource/763335104>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/164875073>
+<hgeokg/resource/763335104>	<Point_traffic-Adjacent-Line_roads>	<hgeokg/resource/2070984287>
+<hgeokg/resource/5709172302>	<Point_pois-Adjacent-Line_railway>	<hgeokg/resource/813505717>
+<hgeokg/resource/2070984287>	<Point_traffic-Adjacent-Line_railway>	<hgeokg/resource/813505717>
+<hgeokg/resource/5709116127>	<hgeokg/schema/dietVegan>	dietVegan-yes
+<hgeokg/resource/5709175050>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5709073963>
+<hgeokg/resource/763335104>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Primary>
+<hgeokg/resource/5709094152>	<http://www.w3.org/2000/01/rdf-schema#label>	Broadway Deals II
+<hgeokg/resource/164875073>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5709175050>
+<hgeokg/resource/5709175050>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/763335105>
+<hgeokg/resource/763335105>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/165399196>
+<hgeokg/resource/5709168838>	<hgeokg/schema/openingHours>	openingHours-24/7
+<hgeokg/resource/2070984287>	<Point_traffic-Adjacent-Line_roads>	<hgeokg/resource/763335105>
+<hgeokg/resource/813505717>	<hgeokg/schema/frequency>	frequency-0
+<hgeokg/resource/165399196>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/5709168838>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/FastFood>
+<hgeokg/resource/141125506>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/813505717>
+<hgeokg/resource/5709168838>	<http://www.w3.org/2000/01/rdf-schema#label>	Twin Donut Plus
+<hgeokg/resource/5670798>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/164875073>
+<hgeokg/resource/5709175050>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/763335105>	<hgeokg/schema/hgv>	hgv-local
+<hgeokg/resource/164875073>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5709073963>
+<hgeokg/resource/141125506>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/763335104>
+<hgeokg/resource/5709116127>	<hgeokg/schema/openingHours>	openingHours-Mo-Fr 17:00-02:00; Sa, Su 11:30-02:00
+<hgeokg/resource/5709172302>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/165399196>
+<hgeokg/resource/2034003341>	<hgeokg/schema/bus>	bus-yes
+<hgeokg/resource/165399196>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/763335104>
+<hgeokg/resource/813505717>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/141125506>
+<hgeokg/resource/141125506>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5709175050>
+<hgeokg/resource/5709073963>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5709087978>
+<hgeokg/resource/141125506>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5709073963>
+<hgeokg/resource/5709094152>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5709087978>
+<hgeokg/resource/5709087978>	<hgeokg/schema/delivery>	delivery-Mo-Sa 14:00-20:00; Su 14:00-19:00
+<hgeokg/resource/5709116127>	<hgeokg/schema/website>	website-http://cavalacafe.com/
+<hgeokg/resource/813505717>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/566313758>	<hgeokg/schema/website>	website-https://www.theinwoodfarm.com/
+<hgeokg/resource/5709073963>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/763335104>
+<hgeokg/resource/763335104>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5709175050>
+<hgeokg/resource/5709172302>	<Point_traffic-Adjacent-Point_pois>	<hgeokg/resource/2070984287>
+<hgeokg/resource/813505717>	<hgeokg/schema/railwayTrackRef>	railwayTrackRef-M
+<hgeokg/resource/5709094152>	<hgeokg/schema/addrPostcode>	addrPostcode-10463
+<hgeokg/resource/164875073>	<http://www.w3.org/2000/01/rdf-schema#label>	Park Terrace East
+<hgeokg/resource/5709168838>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/5709175050>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5709172302>
+<hgeokg/resource/165399196>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/164875073>
+<hgeokg/resource/5709172302>	<http://www.w3.org/2000/01/rdf-schema#label>	Park Terrace Deli
+<hgeokg/resource/47845042>	<http://www.w3.org/2000/01/rdf-schema#label>	Seaman Avenue
+<hgeokg/resource/2034003341>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/5709073963>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5709172302>
+<hgeokg/resource/5709172302>	<hgeokg/schema/website>	website-https://www.whyinside.com/park-terrace-deli-510-w-218th-st-new-york/menu/
+<hgeokg/resource/813505717>	<hgeokg/schema/electrified>	electrified-rail
+<hgeokg/resource/141125506>	<http://www.w3.org/2000/01/rdf-schema#label>	Broadway
+<hgeokg/resource/2070984287>	<hgeokg/schema/addrHousenumber>	addrHousenumber-5080
+<hgeokg/resource/763335104>	<http://www.w3.org/2000/01/rdf-schema#label>	Broadway
+<hgeokg/resource/197469195>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-W
+<hgeokg/resource/763335104>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5709073963>
+<hgeokg/resource/5709094152>	<Point_traffic-Adjacent-Point_pois>	<hgeokg/resource/2070984287>
+<hgeokg/resource/5709175050>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/DryCleaning>
+<hgeokg/resource/2070984287>	<hgeokg/schema/openingHours>	openingHours-24/7
+<hgeokg/resource/5709172302>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/141125506>
+<hgeokg/resource/5709087978>	<hgeokg/schema/website>	website-http://inwoodhillswines.com/
+<hgeokg/resource/47845042>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Tertiary>
+<hgeokg/resource/813505717>	<Point_pois-Adjacent-Line_railway>	<hgeokg/resource/5709094152>
+<hgeokg/resource/566313758>	<hgeokg/schema/takeaway>	takeaway-yes
+<hgeokg/resource/763335105>	<hgeokg/schema/ref>	ref-US 9
+<hgeokg/resource/763335105>	<hgeokg/schema/wikipedia>	wikipedia-en:Broadway (Manhattan)
+<hgeokg/resource/5709094152>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5709073963>
+<hgeokg/resource/566313758>	<hgeokg/schema/dietVegan>	dietVegan-yes
+<hgeokg/resource/763335104>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/763335105>
+<hgeokg/resource/5709168838>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5709175050>
+<hgeokg/resource/763335105>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/164875073>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/763335104>
+<hgeokg/resource/2070984287>	<Point_traffic-Adjacent-Point_pois>	<hgeokg/resource/5709094152>
+<hgeokg/resource/5709175050>	<Point_traffic-Adjacent-Point_pois>	<hgeokg/resource/2070984287>
+<hgeokg/resource/763335105>	<hgeokg/schema/lanes>	lanes-2
+<hgeokg/resource/813505717>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/RailwaySubway>
+<hgeokg/resource/813505717>	<hgeokg/schema/bridge>	bridge-yes
+<hgeokg/resource/5709168838>	<hgeokg/schema/wheelchair>	wheelchair-yes
+<hgeokg/resource/763335105>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/813505717>
+<hgeokg/resource/2070984287>	<Point_traffic-Adjacent-Line_roads>	<hgeokg/resource/763335104>
+<hgeokg/resource/2070984287>	<hgeokg/schema/website>	website-https://sunoco.com/
+<hgeokg/resource/566313758>	<hgeokg/schema/cuisine>	cuisine-american
+<hgeokg/resource/164875073>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/47845042>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/SharedLane>
+<hgeokg/resource/5709175050>	<http://www.w3.org/2000/01/rdf-schema#label>	Starlight Cleaners
+<hgeokg/resource/5709168838>	<Point_pois-Adjacent-Line_railway>	<hgeokg/resource/813505717>
+<hgeokg/resource/47845042>	<hgeokg/schema/inlineSkates>	inlineSkates-yes
+<hgeokg/resource/5709087978>	<hgeokg/schema/email>	email-nduran@inwoodhillswines.com
+<hgeokg/resource/5709172302>	<hgeokg/schema/wheelchair>	wheelchair-yes
+<hgeokg/resource/763335104>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/5709116127>	<http://www.w3.org/2000/01/rdf-schema#label>	Cavala Cafe
+<hgeokg/resource/566313758>	<hgeokg/schema/phone>	phone-+1-212-942-7451
+<hgeokg/resource/813505717>	<http://www.w3.org/2000/01/rdf-schema#label>	IRT Broadway–Seventh Avenue Line
+<hgeokg/resource/165399196>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/141125506>
+<hgeokg/resource/2034003341>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/BusStop>
+<hgeokg/resource/165399196>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/763335105>
+<hgeokg/resource/141125506>	<hgeokg/schema/wikipedia>	wikipedia-en:Broadway (Manhattan)
+<hgeokg/resource/813505717>	<hgeokg/schema/gauge>	gauge-1435
+<hgeokg/resource/197469195>	<hgeokg/schema/lit>	lit-yes
+<hgeokg/resource/5709172302>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5709168838>
+<hgeokg/resource/763335105>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/763335104>
+<hgeokg/resource/47845042>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/197469195>
+<hgeokg/resource/197469195>	<hgeokg/schema/surface>	surface-asphalt
+<hgeokg/resource/2034003341>	<hgeokg/schema/routeRef>	routeRef-Bx7; Bx20; M100
+<hgeokg/resource/763335105>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/141125506>
+<hgeokg/resource/5709094152>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/813505717>	<hgeokg/schema/level>	level-2
+<hgeokg/resource/164875073>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/141125506>
+<hgeokg/resource/5709168838>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/763335105>
+<hgeokg/resource/164875073>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5709087978>
+<hgeokg/resource/5709094152>	<hgeokg/schema/addrHousenumber>	addrHousenumber-5237
+<hgeokg/resource/2070984287>	<Point_traffic-Adjacent-Point_pois>	<hgeokg/resource/5709172302>
+<hgeokg/resource/141125506>	<hgeokg/schema/nameRu>	nameRu-Бродвей
+<hgeokg/resource/5709073963>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5670798>
+<hgeokg/resource/5709168838>	<hgeokg/schema/takeaway>	takeaway-yes
+<hgeokg/resource/5709087978>	<hgeokg/schema/phone>	phone-+1-646-490-6666
+<hgeokg/resource/763335104>	<hgeokg/schema/nameRu>	nameRu-Бродвей
+<hgeokg/resource/141125506>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Primary>
+<hgeokg/resource/5709073963>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/5709172302>	<hgeokg/schema/cuisine>	cuisine-sandwich
+<hgeokg/resource/5709175050>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/165399196>
+<hgeokg/resource/5709087978>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5709094152>
+<hgeokg/resource/5709168838>	<Point_traffic-Adjacent-Point_pois>	<hgeokg/resource/2070984287>
+<hgeokg/resource/165399196>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/165399196>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5709172302>
+<hgeokg/resource/47845042>	<hgeokg/schema/bicycle>	bicycle-yes
+<hgeokg/resource/813505717>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/763335105>
+<hgeokg/resource/5709172302>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/5709175050>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/164875073>
+<hgeokg/resource/5709073963>	<hgeokg/schema/recyclingType>	recyclingType-machine
+<hgeokg/resource/2034003341>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/PublicTransportPlatform>
+<hgeokg/resource/813505717>	<hgeokg/schema/layer>	layer-2
+<hgeokg/resource/2070984287>	<Point_traffic-Adjacent-Point_pois>	<hgeokg/resource/5709087978>
+<hgeokg/resource/164875073>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5709116127>
+<hgeokg/resource/2070984287>	<Point_traffic-Adjacent-Point_pois>	<hgeokg/resource/5709175050>
+<hgeokg/resource/165399196>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5709168838>
+<hgeokg/resource/5709168838>	<hgeokg/schema/phone>	phone-+1-646-918-6374
+<hgeokg/resource/5709168838>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/763335104>
+<hgeokg/resource/2070984287>	<hgeokg/schema/brand>	brand-Sunoco
+<hgeokg/resource/763335104>	<hgeokg/schema/lanes>	lanes-2
+<hgeokg/resource/5709172302>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5709175050>
+<hgeokg/resource/197469195>	<hgeokg/schema/maxspeed>	maxspeed-20 mph
+<hgeokg/resource/47845042>	<hgeokg/schema/foot>	foot-yes
+<hgeokg/resource/5709087978>	<hgeokg/schema/description>	description-Weekend tastings of a selection from over 300 vintages from around the world every weekend without fail.
+<hgeokg/resource/813505717>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/165399196>
+<hgeokg/resource/763335105>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5709175050>
+<hgeokg/resource/5670798>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/566313758>	<hgeokg/schema/addrPostcode>	addrPostcode-10034
+<hgeokg/resource/5709116127>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Restaurant>
+<hgeokg/resource/566313758>	<hgeokg/schema/internetAccessFee>	internetAccessFee-no
+<hgeokg/resource/2070984287>	<Point_traffic-Adjacent-Line_roads>	<hgeokg/resource/165399196>
+<hgeokg/resource/5709073963>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5709175050>
+<hgeokg/resource/164875073>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/165399196>
+<hgeokg/resource/5709175050>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/141125506>
+<hgeokg/resource/566313758>	<hgeokg/schema/addrHousenumber>	addrHousenumber-600
+<hgeokg/resource/165399196>	<hgeokg/schema/ref>	ref-US 9
+<hgeokg/resource/164875073>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5670798>
+<hgeokg/resource/566313758>	<hgeokg/schema/wheelchair>	wheelchair-yes
+<hgeokg/resource/5709175050>	<hgeokg/schema/addrHousenumber>	addrHousenumber-510
+<hgeokg/resource/566313758>	<hgeokg/schema/toiletsWheelchair>	toiletsWheelchair-yes
+<hgeokg/resource/763335105>	<Point_traffic-Adjacent-Line_roads>	<hgeokg/resource/2070984287>
+<hgeokg/resource/566313758>	<http://www.w3.org/2000/01/rdf-schema#label>	The Inwood Farm
+<hgeokg/resource/141125506>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/5709116127>	<hgeokg/schema/cuisine>	cuisine-soup;salad;sandwich;burger;seafood;pasta;chicken
+<hgeokg/resource/5709172302>	<hgeokg/schema/openingHours>	openingHours-Mo-Su 05:00-01:00

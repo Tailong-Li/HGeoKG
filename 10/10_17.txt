@@ -1,0 +1,545 @@
+<hgeokg/resource/420895466>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/196117043>
+<hgeokg/resource/5671255>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/630828566>
+<hgeokg/resource/420590072>	<hgeokg/schema/hgv>	hgv-local
+<hgeokg/resource/196117043>	<hgeokg/schema/lanes>	lanes-2
+<hgeokg/resource/420895468>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420590073>
+<hgeokg/resource/118524664>	<http://www.w3.org/2000/01/rdf-schema#label>	Renaissance Playground
+<hgeokg/resource/4111168990>	<hgeokg/schema/brandWikipedia>	brandWikipedia-en:Dunkin' Donuts
+<hgeokg/resource/243046575>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/5671255>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/357579334>
+<hgeokg/resource/420895465>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/243046575>
+<hgeokg/resource/420895465>	<http://www.w3.org/2000/01/rdf-schema#label>	Malcolm X Boulevard
+<hgeokg/resource/420590073>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5671255>
+<hgeokg/resource/420895462>	<hgeokg/schema/sidewalk>	sidewalk-separate
+<hgeokg/resource/420590072>	<hgeokg/schema/sidewalk>	sidewalk-separate
+<hgeokg/resource/405725701>	<http://www.w3.org/2000/01/rdf-schema#label>	Drew Hamilton Houses
+<hgeokg/resource/1740716039>	<hgeokg/schema/wikimediaCommons>	wikimediaCommons-Category:145th Street (IRT Lenox Avenue Line)
+<hgeokg/resource/243056521>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/46340295>
+<hgeokg/resource/4111168787>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/420895468>
+<hgeokg/resource/5670119>	<hgeokg/schema/wikipedia>	wikipedia-en:Lenox Avenue
+<hgeokg/resource/5415654674>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/420590073>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420590021>
+<hgeokg/resource/4111168786>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/420590021>
+<hgeokg/resource/5671255>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/4111168990>
+<hgeokg/resource/420590072>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/196117070>
+<hgeokg/resource/420895465>	<hgeokg/schema/wikipedia>	wikipedia-en:Lenox Avenue
+<hgeokg/resource/5671255>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/497748190>
+<hgeokg/resource/497748190>	<hgeokg/schema/surface>	surface-asphalt
+<hgeokg/resource/5670119>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/196117043>
+<hgeokg/resource/243046575>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/271873420>
+<hgeokg/resource/5670119>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/420895468>
+<hgeokg/resource/420895462>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420895461>
+<hgeokg/resource/4111168989>	<hgeokg/schema/brandWikipedia>	brandWikipedia-en:Speedway (store)
+<hgeokg/resource/420895468>	<Line_roads-Intersect-Line_railway>	<hgeokg/resource/46340295>
+<hgeokg/resource/4111168990>	<hgeokg/schema/brandWikidata>	brandWikidata-Q847743
+<hgeokg/resource/420895461>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420895466>
+<hgeokg/resource/420895462>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/196117043>	<hgeokg/schema/sidewalk>	sidewalk-separate
+<hgeokg/resource/243056521>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-W
+<hgeokg/resource/420895462>	<hgeokg/schema/altName>	altName-Lenox Avenue
+<hgeokg/resource/4111168786>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/420895468>
+<hgeokg/resource/420589991>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/RouteBicycle>
+<hgeokg/resource/243056521>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/420895465>
+<hgeokg/resource/196117070>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/118524701>
+<hgeokg/resource/243056521>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/357579334>
+<hgeokg/resource/243056521>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/271873420>
+<hgeokg/resource/420895468>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420590021>
+<hgeokg/resource/630828566>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/4111168786>
+<hgeokg/resource/1740716039>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/420895468>
+<hgeokg/resource/420895468>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/196117043>
+<hgeokg/resource/4111168787>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/630828566>
+<hgeokg/resource/420590072>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5671255>
+<hgeokg/resource/497748190>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Primary>
+<hgeokg/resource/420895462>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/46340295>
+<hgeokg/resource/420895465>	<hgeokg/schema/lanes>	lanes-2
+<hgeokg/resource/46340295>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/420895461>
+<hgeokg/resource/5670119>	<hgeokg/schema/altName>	altName-Lenox Avenue
+<hgeokg/resource/420895466>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/420895468>
+<hgeokg/resource/420895461>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/420589991>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420895468>
+<hgeokg/resource/118524664>	<Point_pois-Adjacent-Polygon_landuse>	<hgeokg/resource/405725701>
+<hgeokg/resource/630828566>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/118524701>
+<hgeokg/resource/5671255>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/271873420>
+<hgeokg/resource/196117043>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/1740716039>
+<hgeokg/resource/420895462>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/305323026>
+<hgeokg/resource/420895466>	<hgeokg/schema/lanes>	lanes-2
+<hgeokg/resource/630828566>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/196117070>
+<hgeokg/resource/420895466>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5671255>
+<hgeokg/resource/118524664>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/243056521>
+<hgeokg/resource/1740716039>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/420895466>
+<hgeokg/resource/4111168787>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5671255>
+<hgeokg/resource/46340295>	<Line_roads-Intersect-Line_railway>	<hgeokg/resource/420895466>
+<hgeokg/resource/1740716039>	<hgeokg/schema/network>	network-NYC Subway
+<hgeokg/resource/1740716039>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/196117043>
+<hgeokg/resource/420895468>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/630828566>
+<hgeokg/resource/420589991>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/405725701>	<Point_pois-Adjacent-Polygon_landuse>	<hgeokg/resource/118524664>
+<hgeokg/resource/420895465>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/305323026>
+<hgeokg/resource/46340295>	<hgeokg/schema/layer>	layer--1
+<hgeokg/resource/196117043>	<hgeokg/schema/altName>	altName-Lenox Avenue
+<hgeokg/resource/420589991>	<hgeokg/schema/hgv>	hgv-local
+<hgeokg/resource/5671255>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/420895468>	<http://www.w3.org/2000/01/rdf-schema#label>	West 145th Street
+<hgeokg/resource/357579334>	<hgeokg/schema/gnisFeatureId>	gnisFeatureId-961480
+<hgeokg/resource/420590073>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/196117043>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/420895461>
+<hgeokg/resource/630828566>	<hgeokg/schema/wikipedia>	wikipedia-en:145th Street (Manhattan)
+<hgeokg/resource/305323026>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/420895461>
+<hgeokg/resource/1740716039>	<hgeokg/schema/wheelchair>	wheelchair-no
+<hgeokg/resource/405725701>	<Point_pois-Adjacent-Polygon_landuse>	<hgeokg/resource/357579334>
+<hgeokg/resource/420590072>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/357579334>	<Point_pois-Adjacent-Polygon_landuse>	<hgeokg/resource/405725701>
+<hgeokg/resource/420590021>	<http://www.w3.org/2000/01/rdf-schema#label>	Adam Clayton Powell Jr. Boulevard
+<hgeokg/resource/420895466>	<hgeokg/schema/wikipedia>	wikipedia-en:Lenox Avenue
+<hgeokg/resource/46340295>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/RailwaySubway>
+<hgeokg/resource/196117043>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5670119>
+<hgeokg/resource/4111168787>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/420590072>
+<hgeokg/resource/196117070>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/4450329793>
+<hgeokg/resource/420895462>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/420895465>
+<hgeokg/resource/497748190>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/4111168786>	<hgeokg/schema/brandWikipedia>	brandWikipedia-en:Citibank
+<hgeokg/resource/243046575>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/420895465>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5671255>
+<hgeokg/resource/243046575>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/118524664>
+<hgeokg/resource/1740716039>	<hgeokg/schema/operator>	operator-New York City Transit Authority
+<hgeokg/resource/420590073>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/4111168787>
+<hgeokg/resource/46340295>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/196117043>
+<hgeokg/resource/271873420>	<hgeokg/schema/addrHousenumber>	addrHousenumber-248
+<hgeokg/resource/4111168989>	<http://www.w3.org/2000/01/rdf-schema#label>	Speedway
+<hgeokg/resource/5671255>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/1740716039>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5671255>
+<hgeokg/resource/420590072>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/4111168786>
+<hgeokg/resource/420590021>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420895468>
+<hgeokg/resource/420895462>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/243046575>
+<hgeokg/resource/243046575>	<Line_roads-Intersect-Polygon_landuse>	<hgeokg/resource/405725701>
+<hgeokg/resource/5415654674>	<http://www.w3.org/2000/01/rdf-schema#label>	West 145th Street & Frederick Douglass Boulevard
+<hgeokg/resource/420895461>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/420895466>	<hgeokg/schema/altName>	altName-Lenox Avenue
+<hgeokg/resource/243056521>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/420590021>
+<hgeokg/resource/420590021>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420590073>
+<hgeokg/resource/357579334>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/243056521>
+<hgeokg/resource/630828566>	<Line_roads-Adjacent-Polygon_landuse>	<hgeokg/resource/405725701>
+<hgeokg/resource/420589991>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/420590021>
+<hgeokg/resource/497748190>	<hgeokg/schema/wikipedia>	wikipedia-en:Seventh Avenue (Manhattan)
+<hgeokg/resource/196117070>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-W
+<hgeokg/resource/420590073>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/420590072>
+<hgeokg/resource/630828566>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/271873420>	<hgeokg/schema/gnisFeatureId>	gnisFeatureId-2084081,2084122
+<hgeokg/resource/1740716039>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/RailwayStation>
+<hgeokg/resource/420895462>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Secondary>
+<hgeokg/resource/420895465>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/420895462>
+<hgeokg/resource/118524701>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/5671255>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/4111168786>
+<hgeokg/resource/4111168989>	<Point_traffic-Adjacent-Line_roads>	<hgeokg/resource/5671255>
+<hgeokg/resource/4450329793>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/196117070>
+<hgeokg/resource/118524664>	<hgeokg/schema/ele>	ele-8
+<hgeokg/resource/405725701>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Polygon>
+<hgeokg/resource/305323026>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/243046575>
+<hgeokg/resource/196117043>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/420895465>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/420590072>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/4111168787>
+<hgeokg/resource/1740716039>	<hgeokg/schema/station>	station-subway
+<hgeokg/resource/420895461>	<hgeokg/schema/sidewalk>	sidewalk-separate
+<hgeokg/resource/420895468>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/497748190>
+<hgeokg/resource/243046575>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420895461>
+<hgeokg/resource/420590021>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Primary>
+<hgeokg/resource/405725701>	<Polygon_landuse-Contain-Point_pois>	<hgeokg/resource/271873420>
+<hgeokg/resource/630828566>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Secondary>
+<hgeokg/resource/305323026>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/5671255>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/5671255>	<Line_roads-Intersect-Line_railway>	<hgeokg/resource/46340295>
+<hgeokg/resource/1740716039>	<hgeokg/schema/internetAccess>	internetAccess-yes
+<hgeokg/resource/271873420>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/118524664>
+<hgeokg/resource/4111168786>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/4111168787>
+<hgeokg/resource/420895466>	<hgeokg/schema/sidewalk>	sidewalk-separate
+<hgeokg/resource/5415654674>	<hgeokg/schema/bench>	bench-no
+<hgeokg/resource/420590021>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/243056521>
+<hgeokg/resource/46340295>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/5670119>
+<hgeokg/resource/46340295>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/357579334>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/630828566>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/420590073>
+<hgeokg/resource/420590021>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/4111168787>
+<hgeokg/resource/420589991>	<hgeokg/schema/altName>	altName-7th Ave
+<hgeokg/resource/4111168990>	<http://www.w3.org/2000/01/rdf-schema#label>	Dunkin'
+<hgeokg/resource/420590021>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/630828566>
+<hgeokg/resource/243056521>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420895466>
+<hgeokg/resource/4111168786>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/420590073>
+<hgeokg/resource/357579334>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5671255>
+<hgeokg/resource/357579334>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/271873420>
+<hgeokg/resource/305323026>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/243056521>
+<hgeokg/resource/420895462>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/243056521>
+<hgeokg/resource/196117070>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420590072>
+<hgeokg/resource/420590073>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/196117070>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/46340295>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/243046575>
+<hgeokg/resource/5415654674>	<hgeokg/schema/bus>	bus-yes
+<hgeokg/resource/420590073>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/4111168786>
+<hgeokg/resource/271873420>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/4111168786>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/630828566>
+<hgeokg/resource/405725701>	<Line_roads-Intersect-Polygon_landuse>	<hgeokg/resource/243046575>
+<hgeokg/resource/118524664>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Park>
+<hgeokg/resource/46340295>	<Point_transport-Adjacent-Line_railway>	<hgeokg/resource/1740716039>
+<hgeokg/resource/5415654674>	<hgeokg/schema/routeRef>	routeRef-Bx19
+<hgeokg/resource/420895462>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/196117043>
+<hgeokg/resource/5671255>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5415654674>
+<hgeokg/resource/1740716039>	<http://www.w3.org/2000/01/rdf-schema#label>	145th Street
+<hgeokg/resource/420590072>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Secondary>
+<hgeokg/resource/420590072>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/420895465>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/420895461>
+<hgeokg/resource/420895468>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/4111168787>
+<hgeokg/resource/4111168787>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/ShopSupermarket>
+<hgeokg/resource/118524664>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/420590021>
+<hgeokg/resource/4450329793>	<hgeokg/schema/nameEn>	nameEn-T-Mobile
+<hgeokg/resource/420590021>	<hgeokg/schema/hgv>	hgv-local
+<hgeokg/resource/243046575>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-W
+<hgeokg/resource/4111168786>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Bank>
+<hgeokg/resource/420590021>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/4111168786>
+<hgeokg/resource/46340295>	<hgeokg/schema/level>	level--1
+<hgeokg/resource/420895465>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/4111168990>	<hgeokg/schema/brand>	brand-Dunkin'
+<hgeokg/resource/497748190>	<hgeokg/schema/bicycle>	bicycle-yes
+<hgeokg/resource/5671255>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/243056521>
+<hgeokg/resource/420589991>	<hgeokg/schema/surface>	surface-asphalt
+<hgeokg/resource/196117043>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420895468>
+<hgeokg/resource/420589991>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/4111168786>
+<hgeokg/resource/420895466>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/305323026>
+<hgeokg/resource/118524701>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Park>
+<hgeokg/resource/118524664>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/243046575>
+<hgeokg/resource/420895468>	<hgeokg/schema/oneway>	oneway-no
+<hgeokg/resource/497748190>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/RouteBicycle>
+<hgeokg/resource/4111168990>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/420895468>
+<hgeokg/resource/420589991>	<http://www.w3.org/2000/01/rdf-schema#label>	Adam Clayton Powell Jr. Boulevard
+<hgeokg/resource/420895461>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5671255>
+<hgeokg/resource/118524701>	<hgeokg/schema/source>	source-Bing
+<hgeokg/resource/196117043>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420895465>
+<hgeokg/resource/5415654674>	<hgeokg/schema/lit>	lit-yes
+<hgeokg/resource/497748190>	<hgeokg/schema/network>	network-lcn
+<hgeokg/resource/271873420>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/243046575>
+<hgeokg/resource/243056521>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/420895462>	<http://www.w3.org/2000/01/rdf-schema#label>	Malcolm X Boulevard
+<hgeokg/resource/196117070>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/5415654674>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/BusStop>
+<hgeokg/resource/196117043>	<hgeokg/schema/wikipedia>	wikipedia-en:Lenox Avenue
+<hgeokg/resource/243046575>	<http://www.w3.org/2000/01/rdf-schema#label>	West 142nd Street
+<hgeokg/resource/420589991>	<hgeokg/schema/bicycle>	bicycle-yes
+<hgeokg/resource/497748190>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/630828566>
+<hgeokg/resource/420589991>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Primary>
+<hgeokg/resource/420590072>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/630828566>
+<hgeokg/resource/196117043>	<http://www.w3.org/2000/01/rdf-schema#label>	Malcolm X Boulevard
+<hgeokg/resource/46340295>	<http://www.w3.org/2000/01/rdf-schema#label>	IRT Lenox Avenue Line
+<hgeokg/resource/4111168787>	<http://www.w3.org/2000/01/rdf-schema#label>	Fine Fare Supermarket
+<hgeokg/resource/420895461>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/196117043>
+<hgeokg/resource/630828566>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420589991>
+<hgeokg/resource/497748190>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/497748190>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/4111168787>
+<hgeokg/resource/497748190>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/4111168786>
+<hgeokg/resource/420895468>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/271873420>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/BuildingFireStation>
+<hgeokg/resource/305323026>	<hgeokg/schema/oneway>	oneway-no
+<hgeokg/resource/243056521>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/196117043>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/305323026>
+<hgeokg/resource/420589991>	<hgeokg/schema/lanes>	lanes-3
+<hgeokg/resource/5671255>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420895465>
+<hgeokg/resource/243056521>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/118524701>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/630828566>
+<hgeokg/resource/305323026>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/196117043>
+<hgeokg/resource/305323026>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420895462>
+<hgeokg/resource/420895466>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420895465>
+<hgeokg/resource/4111168786>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/497748190>
+<hgeokg/resource/420895466>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420895461>
+<hgeokg/resource/196117070>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420589991>
+<hgeokg/resource/271873420>	<http://www.w3.org/2000/01/rdf-schema#label>	FDNY Engine 69/Ladder 28/Battalion 16
+<hgeokg/resource/271873420>	<hgeokg/schema/operator>	operator-New York City Fire Department
+<hgeokg/resource/1740716039>	<hgeokg/schema/openingHours>	openingHours-24/7
+<hgeokg/resource/243046575>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/420895461>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/243056521>
+<hgeokg/resource/420589991>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/4111168787>
+<hgeokg/resource/46340295>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/243056521>
+<hgeokg/resource/420895465>	<hgeokg/schema/sidewalk>	sidewalk-separate
+<hgeokg/resource/118524701>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/196117070>
+<hgeokg/resource/4111168786>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/420590072>
+<hgeokg/resource/271873420>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/357579334>
+<hgeokg/resource/4450329793>	<http://www.w3.org/2000/01/rdf-schema#label>	T-Mobile
+<hgeokg/resource/420895465>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/420589991>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/630828566>
+<hgeokg/resource/305323026>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/118524664>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5671255>
+<hgeokg/resource/420895466>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/243056521>
+<hgeokg/resource/196117043>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420895462>
+<hgeokg/resource/46340295>	<hgeokg/schema/voltage>	voltage-625
+<hgeokg/resource/420590021>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420590072>
+<hgeokg/resource/4111168990>	<hgeokg/schema/takeaway>	takeaway-yes
+<hgeokg/resource/420895461>	<hgeokg/schema/hgv>	hgv-destination
+<hgeokg/resource/420590021>	<hgeokg/schema/lanes>	lanes-2
+<hgeokg/resource/420590073>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-W
+<hgeokg/resource/405725701>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/LanduseResidential>
+<hgeokg/resource/420895468>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/4111168786>	<hgeokg/schema/brand>	brand-Citibank
+<hgeokg/resource/630828566>	<hgeokg/schema/oneway>	oneway-no
+<hgeokg/resource/420589991>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/420590072>
+<hgeokg/resource/196117043>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5671255>
+<hgeokg/resource/243046575>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/243056521>
+<hgeokg/resource/420590021>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/118524664>
+<hgeokg/resource/630828566>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/4450329793>
+<hgeokg/resource/420590072>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/420590073>
+<hgeokg/resource/5671255>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420895461>
+<hgeokg/resource/420895461>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/4111168990>	<hgeokg/schema/cuisine>	cuisine-donut;coffee_shop
+<hgeokg/resource/4111168786>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/243046575>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/46340295>
+<hgeokg/resource/4111168989>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/4450329793>	<hgeokg/schema/brandWikipedia>	brandWikipedia-en:T-Mobile
+<hgeokg/resource/4111168786>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5671255>
+<hgeokg/resource/5415654674>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/4450329793>
+<hgeokg/resource/630828566>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/118524664>
+<hgeokg/resource/5671255>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420895468>
+<hgeokg/resource/420895466>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/1740716039>
+<hgeokg/resource/420590073>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/420589991>
+<hgeokg/resource/420590072>	<hgeokg/schema/oneway>	oneway-no
+<hgeokg/resource/271873420>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/5671255>
+<hgeokg/resource/5670119>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/1740716039>
+<hgeokg/resource/420895462>	<hgeokg/schema/hgv>	hgv-destination
+<hgeokg/resource/420590073>	<hgeokg/schema/wikipedia>	wikipedia-en:145th Street (Manhattan)
+<hgeokg/resource/420590021>	<hgeokg/schema/bicycle>	bicycle-yes
+<hgeokg/resource/5671255>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-W
+<hgeokg/resource/243056521>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/196117043>
+<hgeokg/resource/420895465>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/243056521>
+<hgeokg/resource/420590021>	<hgeokg/schema/maxspeed>	maxspeed-25 mph
+<hgeokg/resource/420895466>	<http://www.w3.org/2000/01/rdf-schema#label>	Malcolm X Boulevard
+<hgeokg/resource/243056521>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/243046575>
+<hgeokg/resource/5671255>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/420590021>
+<hgeokg/resource/4111168786>	<hgeokg/schema/brandWikidata>	brandWikidata-Q857063
+<hgeokg/resource/1740716039>	<hgeokg/schema/level>	level--1
+<hgeokg/resource/1740716039>	<hgeokg/schema/wikipedia>	wikipedia-en:145th Street station (IRT Lenox Avenue Line)
+<hgeokg/resource/196117043>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/243056521>
+<hgeokg/resource/497748190>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/420590021>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5671255>
+<hgeokg/resource/420589991>	<hgeokg/schema/network>	network-lcn
+<hgeokg/resource/420895466>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/5670119>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/357579334>	<hgeokg/schema/ele>	ele-8
+<hgeokg/resource/305323026>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-W
+<hgeokg/resource/497748190>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420589991>
+<hgeokg/resource/46340295>	<hgeokg/schema/tunnel>	tunnel-yes
+<hgeokg/resource/5671255>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/196117043>
+<hgeokg/resource/420895468>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/4111168990>
+<hgeokg/resource/271873420>	<Point_pois-Intersect-Polygon_landuse>	<hgeokg/resource/405725701>
+<hgeokg/resource/4450329793>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/420590072>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/420895468>
+<hgeokg/resource/118524664>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/630828566>
+<hgeokg/resource/420590073>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Secondary>
+<hgeokg/resource/243046575>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/420895462>
+<hgeokg/resource/420590021>	<hgeokg/schema/surface>	surface-asphalt
+<hgeokg/resource/420895465>	<hgeokg/schema/altName>	altName-Lenox Avenue
+<hgeokg/resource/5671255>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/420895466>
+<hgeokg/resource/497748190>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420895468>
+<hgeokg/resource/305323026>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420895466>
+<hgeokg/resource/420895465>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/46340295>
+<hgeokg/resource/420590073>	<hgeokg/schema/oneway>	oneway-no
+<hgeokg/resource/305323026>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/420895465>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Secondary>
+<hgeokg/resource/420895462>	<hgeokg/schema/wikipedia>	wikipedia-en:Lenox Avenue
+<hgeokg/resource/46340295>	<hgeokg/schema/railwayTrackRef>	railwayTrackRef-1
+<hgeokg/resource/420590073>	<hgeokg/schema/hgv>	hgv-local
+<hgeokg/resource/420590021>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/420895461>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420895462>
+<hgeokg/resource/420895465>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420895466>
+<hgeokg/resource/420895468>	<hgeokg/schema/hgv>	hgv-local
+<hgeokg/resource/243056521>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5671255>
+<hgeokg/resource/46340295>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/420895465>
+<hgeokg/resource/630828566>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/5671255>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420590073>
+<hgeokg/resource/420895466>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Secondary>
+<hgeokg/resource/420895461>	<hgeokg/schema/wikipedia>	wikipedia-en:Lenox Avenue
+<hgeokg/resource/420895461>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/420895465>
+<hgeokg/resource/420590073>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/196117070>
+<hgeokg/resource/497748190>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420590072>
+<hgeokg/resource/271873420>	<Point_pois-Within-Polygon_landuse>	<hgeokg/resource/405725701>
+<hgeokg/resource/271873420>	<hgeokg/schema/buildingLevels>	buildingLevels-3
+<hgeokg/resource/243046575>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/305323026>
+<hgeokg/resource/357579334>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/AmenitySchool>
+<hgeokg/resource/420589991>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/420590073>
+<hgeokg/resource/305323026>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5671255>
+<hgeokg/resource/118524664>	<hgeokg/schema/source>	source-Bing
+<hgeokg/resource/243056521>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420895462>
+<hgeokg/resource/243056521>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/420895461>
+<hgeokg/resource/420895461>	<http://www.w3.org/2000/01/rdf-schema#label>	Malcolm X Boulevard
+<hgeokg/resource/5415654674>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/196117070>
+<hgeokg/resource/4111168787>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/420895466>	<hgeokg/schema/hgv>	hgv-destination
+<hgeokg/resource/4111168989>	<hgeokg/schema/brandWikidata>	brandWikidata-Q7575683
+<hgeokg/resource/46340295>	<hgeokg/schema/frequency>	frequency-0
+<hgeokg/resource/420895468>	<Point_traffic-Adjacent-Line_roads>	<hgeokg/resource/4111168989>
+<hgeokg/resource/497748190>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5671255>
+<hgeokg/resource/630828566>	<hgeokg/schema/hgv>	hgv-local
+<hgeokg/resource/5671255>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/1740716039>
+<hgeokg/resource/630828566>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420895468>
+<hgeokg/resource/4111168787>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/4111168786>
+<hgeokg/resource/4450329793>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/630828566>
+<hgeokg/resource/420895468>	<hgeokg/schema/wikipedia>	wikipedia-en:145th Street (Manhattan)
+<hgeokg/resource/420590021>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/497748190>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/196117070>
+<hgeokg/resource/4111168989>	<hgeokg/schema/brand>	brand-Speedway
+<hgeokg/resource/420590072>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-W
+<hgeokg/resource/271873420>	<hgeokg/schema/ele>	ele-8
+<hgeokg/resource/5671255>	<http://www.w3.org/2000/01/rdf-schema#label>	West 144th Street
+<hgeokg/resource/420895468>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/420590072>
+<hgeokg/resource/630828566>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-W
+<hgeokg/resource/1740716039>	<Point_transport-Adjacent-Line_railway>	<hgeokg/resource/46340295>
+<hgeokg/resource/196117070>	<http://www.w3.org/2000/01/rdf-schema#label>	West 146th Street
+<hgeokg/resource/420590072>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420590021>
+<hgeokg/resource/420895461>	<hgeokg/schema/lanes>	lanes-4
+<hgeokg/resource/420590072>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/497748190>
+<hgeokg/resource/5671255>	<Line_roads-Adjacent-Polygon_landuse>	<hgeokg/resource/405725701>
+<hgeokg/resource/497748190>	<http://www.w3.org/2000/01/rdf-schema#label>	Adam Clayton Powell Jr. Boulevard
+<hgeokg/resource/420590073>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/497748190>
+<hgeokg/resource/46340295>	<Line_roads-Intersect-Line_railway>	<hgeokg/resource/5671255>
+<hgeokg/resource/196117070>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420590073>
+<hgeokg/resource/420895468>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Secondary>
+<hgeokg/resource/630828566>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/497748190>
+<hgeokg/resource/420895468>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/1740716039>
+<hgeokg/resource/243046575>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420895465>
+<hgeokg/resource/497748190>	<hgeokg/schema/maxspeed>	maxspeed-25 mph
+<hgeokg/resource/196117070>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5415654674>
+<hgeokg/resource/1740716039>	<hgeokg/schema/startDate>	startDate-1904-11-23
+<hgeokg/resource/630828566>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420590021>
+<hgeokg/resource/420589991>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/196117043>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Secondary>
+<hgeokg/resource/196117043>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/4111168990>	<hgeokg/schema/altName>	altName-Dunkin' Donuts
+<hgeokg/resource/5670119>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/420895466>
+<hgeokg/resource/5671255>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/118524664>
+<hgeokg/resource/420590021>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/420589991>
+<hgeokg/resource/357579334>	<http://www.w3.org/2000/01/rdf-schema#label>	Public School 194
+<hgeokg/resource/46340295>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/420895462>
+<hgeokg/resource/118524664>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/357579334>
+<hgeokg/resource/357579334>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/118524664>
+<hgeokg/resource/5671255>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5670119>
+<hgeokg/resource/420589991>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/196117070>
+<hgeokg/resource/420590073>	<http://www.w3.org/2000/01/rdf-schema#label>	West 145th Street
+<hgeokg/resource/4450329793>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/MobilePhone>
+<hgeokg/resource/420590021>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/630828566>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5415654674>
+<hgeokg/resource/196117043>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/46340295>
+<hgeokg/resource/1740716039>	<hgeokg/schema/subway>	subway-yes
+<hgeokg/resource/420590072>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/420589991>
+<hgeokg/resource/46340295>	<hgeokg/schema/electrified>	electrified-rail
+<hgeokg/resource/405725701>	<Point_pois-Intersect-Polygon_landuse>	<hgeokg/resource/271873420>
+<hgeokg/resource/630828566>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/4111168787>
+<hgeokg/resource/420895466>	<Line_roads-Intersect-Line_railway>	<hgeokg/resource/46340295>
+<hgeokg/resource/405725701>	<Line_roads-Adjacent-Polygon_landuse>	<hgeokg/resource/420590021>
+<hgeokg/resource/420895461>	<hgeokg/schema/altName>	altName-Lenox Avenue
+<hgeokg/resource/4111168786>	<http://www.w3.org/2000/01/rdf-schema#label>	Citibank
+<hgeokg/resource/5415654674>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/PublicTransportPlatform>
+<hgeokg/resource/420590021>	<Line_roads-Adjacent-Polygon_landuse>	<hgeokg/resource/405725701>
+<hgeokg/resource/243056521>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/305323026>
+<hgeokg/resource/420895468>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/420895466>
+<hgeokg/resource/118524664>	<hgeokg/schema/gnisFeatureId>	gnisFeatureId-2500788
+<hgeokg/resource/243056521>	<http://www.w3.org/2000/01/rdf-schema#label>	West 143rd Street
+<hgeokg/resource/420895468>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-W
+<hgeokg/resource/420590021>	<hgeokg/schema/network>	network-lcn
+<hgeokg/resource/271873420>	<hgeokg/schema/operatorWikipedia>	operatorWikipedia-en:New York City Fire Department
+<hgeokg/resource/4111168786>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/420589991>
+<hgeokg/resource/5671255>	<Point_traffic-Adjacent-Line_roads>	<hgeokg/resource/4111168989>
+<hgeokg/resource/1740716039>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5670119>
+<hgeokg/resource/497748190>	<hgeokg/schema/hgv>	hgv-local
+<hgeokg/resource/196117070>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/630828566>
+<hgeokg/resource/196117043>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/420895466>
+<hgeokg/resource/420589991>	<hgeokg/schema/maxspeed>	maxspeed-25 mph
+<hgeokg/resource/46340295>	<Line_roads-Intersect-Line_railway>	<hgeokg/resource/305323026>
+<hgeokg/resource/420590021>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/497748190>
+<hgeokg/resource/420895461>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/46340295>
+<hgeokg/resource/420895461>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/305323026>
+<hgeokg/resource/420895462>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/420895461>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/243046575>
+<hgeokg/resource/5671255>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/305323026>
+<hgeokg/resource/5415654674>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5671255>
+<hgeokg/resource/420895465>	<hgeokg/schema/hgv>	hgv-destination
+<hgeokg/resource/196117070>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/497748190>
+<hgeokg/resource/5670119>	<http://www.w3.org/2000/01/rdf-schema#label>	Malcolm X Boulevard
+<hgeokg/resource/420895461>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Secondary>
+<hgeokg/resource/271873420>	<hgeokg/schema/nycdoittBin>	nycdoittBin-1075491
+<hgeokg/resource/4111168990>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5671255>
+<hgeokg/resource/420590072>	<http://www.w3.org/2000/01/rdf-schema#label>	West 145th Street
+<hgeokg/resource/271873420>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/243056521>
+<hgeokg/resource/420589991>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/497748190>
+<hgeokg/resource/196117070>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/4111168990>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/FastFood>
+<hgeokg/resource/1740716039>	<hgeokg/schema/note>	note-no in-station transfer between platforms; exit only northbound
+<hgeokg/resource/46340295>	<hgeokg/schema/gauge>	gauge-1435
+<hgeokg/resource/5670119>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/420895466>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5670119>
+<hgeokg/resource/5415654674>	<hgeokg/schema/wheelchair>	wheelchair-yes
+<hgeokg/resource/4111168990>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/243046575>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/420590021>
+<hgeokg/resource/4450329793>	<hgeokg/schema/brandWikidata>	brandWikidata-Q327634
+<hgeokg/resource/196117043>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/271873420>	<hgeokg/schema/height>	height-18.1
+<hgeokg/resource/196117070>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/420895468>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420589991>
+<hgeokg/resource/4450329793>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5415654674>
+<hgeokg/resource/497748190>	<hgeokg/schema/altName>	altName-7th Ave
+<hgeokg/resource/405725701>	<Line_roads-Adjacent-Polygon_landuse>	<hgeokg/resource/630828566>
+<hgeokg/resource/305323026>	<http://www.w3.org/2000/01/rdf-schema#label>	West 143rd Street
+<hgeokg/resource/5671255>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/4111168787>
+<hgeokg/resource/630828566>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5671255>
+<hgeokg/resource/271873420>	<hgeokg/schema/addrState>	addrState-NY
+<hgeokg/resource/243046575>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/5670119>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/420589991>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/46340295>	<Line_roads-Intersect-Line_railway>	<hgeokg/resource/420895468>
+<hgeokg/resource/5671255>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420589991>
+<hgeokg/resource/5670119>	<Line_roads-Adjacent-Line_railway>	<hgeokg/resource/46340295>
+<hgeokg/resource/420590021>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/243046575>
+<hgeokg/resource/497748190>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420590021>
+<hgeokg/resource/420895462>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/1740716039>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/243056521>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/420590073>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/630828566>
+<hgeokg/resource/405725701>	<Line_roads-Intersect-Polygon_landuse>	<hgeokg/resource/243056521>
+<hgeokg/resource/196117043>	<hgeokg/schema/hgv>	hgv-destination
+<hgeokg/resource/271873420>	<hgeokg/schema/addrPostcode>	addrPostcode-10030
+<hgeokg/resource/4111168787>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/497748190>
+<hgeokg/resource/4111168787>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/420590073>
+<hgeokg/resource/4111168989>	<Point_traffic-Adjacent-Line_roads>	<hgeokg/resource/420895468>
+<hgeokg/resource/4450329793>	<hgeokg/schema/brand>	brand-T-Mobile
+<hgeokg/resource/4111168787>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/420589991>
+<hgeokg/resource/420589991>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5671255>
+<hgeokg/resource/420895468>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5671255>
+<hgeokg/resource/630828566>	<http://www.w3.org/2000/01/rdf-schema#label>	West 145th Street
+<hgeokg/resource/5415654674>	<hgeokg/schema/shelter>	shelter-no
+<hgeokg/resource/118524701>	<hgeokg/schema/ele>	ele-7
+<hgeokg/resource/243056521>	<Line_roads-Intersect-Polygon_landuse>	<hgeokg/resource/405725701>
+<hgeokg/resource/420895466>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/405725701>	<Line_roads-Adjacent-Polygon_landuse>	<hgeokg/resource/5671255>
+<hgeokg/resource/630828566>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420590072>
+<hgeokg/resource/5415654674>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/630828566>
+<hgeokg/resource/118524701>	<hgeokg/schema/gnisFeatureId>	gnisFeatureId-2500787
+<hgeokg/resource/118524664>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/497748190>	<hgeokg/schema/lanes>	lanes-2
+<hgeokg/resource/497748190>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/420590073>
+<hgeokg/resource/420895465>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/196117043>
+<hgeokg/resource/4111168989>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/AmenityFuel>
+<hgeokg/resource/4111168787>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/420590021>
+<hgeokg/resource/420590021>	<hgeokg/schema/altName>	altName-7th Ave
+<hgeokg/resource/420895468>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5670119>
+<hgeokg/resource/271873420>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/AmenityFireStation>
+<hgeokg/resource/420895468>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/4111168786>
+<hgeokg/resource/420590073>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420895468>
+<hgeokg/resource/5671255>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/420895466>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/4111168989>	<Point_traffic-Adjacent-Point_pois>	<hgeokg/resource/4111168990>
+<hgeokg/resource/420895468>	<hgeokg/schema/sidewalk>	sidewalk-separate
+<hgeokg/resource/5671255>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420590072>
+<hgeokg/resource/1740716039>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/PublicTransportStation>
+<hgeokg/resource/118524701>	<http://www.w3.org/2000/01/rdf-schema#label>	Bradhurst Urban Renewal Park
+<hgeokg/resource/305323026>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/420895465>
+<hgeokg/resource/420590072>	<hgeokg/schema/wikipedia>	wikipedia-en:145th Street (Manhattan)
+<hgeokg/resource/305323026>	<Line_roads-Intersect-Line_railway>	<hgeokg/resource/46340295>
+<hgeokg/resource/243056521>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/118524664>
+<hgeokg/resource/420590021>	<hgeokg/schema/wikipedia>	wikipedia-en:Seventh Avenue (Manhattan)
+<hgeokg/resource/4111168990>	<Point_traffic-Adjacent-Point_pois>	<hgeokg/resource/4111168989>
+<hgeokg/resource/5670119>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5671255>
+<hgeokg/resource/420589991>	<hgeokg/schema/wikipedia>	wikipedia-en:Seventh Avenue (Manhattan)
+<hgeokg/resource/118524664>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/271873420>
+<hgeokg/resource/420590021>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/RouteBicycle>

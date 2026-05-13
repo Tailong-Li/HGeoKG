@@ -1,0 +1,547 @@
+<hgeokg/resource/108311917>	<hgeokg/schema/surface>	surface-asphalt
+<hgeokg/resource/108220715>	<hgeokg/schema/maxspeed>	maxspeed-15 mph
+<hgeokg/resource/284878244>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/5672096>
+<hgeokg/resource/108220707>	<Point_pois-Adjacent-Polygon_landuse>	<hgeokg/resource/108220717>
+<hgeokg/resource/5672096>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/805082958>	<http://www.w3.org/2000/01/rdf-schema#label>	East Road
+<hgeokg/resource/805082970>	<http://www.w3.org/2000/01/rdf-schema#label>	East Road
+<hgeokg/resource/108220711>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/108311917>
+<hgeokg/resource/108220715>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5671637>
+<hgeokg/resource/3569401287>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/108220714>
+<hgeokg/resource/108220715>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/108220711>
+<hgeokg/resource/5671639>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/805122966>
+<hgeokg/resource/5671777>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/284878244>
+<hgeokg/resource/5671573>	<hgeokg/schema/layer>	layer-1
+<hgeokg/resource/284868921>	<hgeokg/schema/nycdoittBin>	nycdoittBin-1085553
+<hgeokg/resource/805122965>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/805122966>
+<hgeokg/resource/805122968>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5669355>
+<hgeokg/resource/108220723>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/805122968>
+<hgeokg/resource/284868921>	<hgeokg/schema/denomination>	denomination-evangelical
+<hgeokg/resource/5671573>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/108311917>
+<hgeokg/resource/528791520>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/805082970>
+<hgeokg/resource/5671639>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/108220710>
+<hgeokg/resource/805122966>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5671639>
+<hgeokg/resource/824434816>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/284878244>
+<hgeokg/resource/824434816>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/284868931>	<hgeokg/schema/nycdoittBin>	nycdoittBin-1088295
+<hgeokg/resource/284868947>	<hgeokg/schema/nycdoittBin>	nycdoittBin-1089263
+<hgeokg/resource/284868932>	<hgeokg/schema/layer>	layer-1
+<hgeokg/resource/108220723>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/108220715>
+<hgeokg/resource/284868932>	<Line_roads-Adjacent-Point_traffic>	<hgeokg/resource/108220714>
+<hgeokg/resource/528791520>	<hgeokg/schema/lanes>	lanes-2
+<hgeokg/resource/108311917>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/284868931>	<Point_pois-Adjacent-Polygon_landuse>	<hgeokg/resource/108220707>
+<hgeokg/resource/46422037>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Tennis>
+<hgeokg/resource/805082960>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/528791520>
+<hgeokg/resource/5671573>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Secondary>
+<hgeokg/resource/5669355>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/284879996>	<Polygon_landuse-Intersect-Polygon_buildings>	<hgeokg/resource/108220707>
+<hgeokg/resource/805122968>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5671639>
+<hgeokg/resource/284868931>	<hgeokg/schema/height>	height-3.4
+<hgeokg/resource/5671777>	<Line_roads-Adjacent-Polygon_landuse>	<hgeokg/resource/108220707>
+<hgeokg/resource/284868931>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/284868947>
+<hgeokg/resource/108220711>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/108220715>
+<hgeokg/resource/805122965>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/805122968>
+<hgeokg/resource/5671573>	<hgeokg/schema/lanes>	lanes-2
+<hgeokg/resource/108220710>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/805122968>
+<hgeokg/resource/805122968>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/284879996>
+<hgeokg/resource/741733330>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5672100>
+<hgeokg/resource/5671573>	<hgeokg/schema/bridgeName>	bridgeName-Roosevelt Island Bridge
+<hgeokg/resource/108220723>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5669355>
+<hgeokg/resource/3569401287>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5671573>
+<hgeokg/resource/284878244>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/824434816>
+<hgeokg/resource/824434816>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/46422037>
+<hgeokg/resource/805122965>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/108299273>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/108220717>
+<hgeokg/resource/284878244>	<hgeokg/schema/addrHousenumber>	addrHousenumber-888
+<hgeokg/resource/805122966>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/108220710>
+<hgeokg/resource/805082959>	<http://www.w3.org/2000/01/rdf-schema#label>	East Road
+<hgeokg/resource/3569401287>	<http://www.w3.org/2000/01/rdf-schema#label>	Foodtown
+<hgeokg/resource/5672100>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5672475>
+<hgeokg/resource/108299273>	<http://www.w3.org/2000/01/rdf-schema#label>	East Road
+<hgeokg/resource/284879996>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/5671777>
+<hgeokg/resource/5671637>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/46422037>
+<hgeokg/resource/5672100>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/741733331>
+<hgeokg/resource/805082960>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5672096>
+<hgeokg/resource/805122968>	<Line_roads-Adjacent-Polygon_landuse>	<hgeokg/resource/108220707>
+<hgeokg/resource/284868932>	<Line_roads-Adjacent-Point_traffic>	<hgeokg/resource/741733331>
+<hgeokg/resource/284878244>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/5671637>
+<hgeokg/resource/108220714>	<Line_roads-Adjacent-Point_traffic>	<hgeokg/resource/284868932>
+<hgeokg/resource/805082958>	<hgeokg/schema/maxspeed>	maxspeed-15 mph
+<hgeokg/resource/108220710>	<hgeokg/schema/maxspeed>	maxspeed-10 mph
+<hgeokg/resource/284868931>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/108299273>
+<hgeokg/resource/284879996>	<hgeokg/schema/height>	height-15.7
+<hgeokg/resource/108220715>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/284878244>
+<hgeokg/resource/805082958>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/284879996>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/805122968>
+<hgeokg/resource/741733330>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Pedestrian>
+<hgeokg/resource/5671637>	<hgeokg/schema/maxspeed>	maxspeed-10 mph
+<hgeokg/resource/108297872>	<hgeokg/schema/surface>	surface-asphalt
+<hgeokg/resource/5672100>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Pedestrian>
+<hgeokg/resource/108297872>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/108220717>
+<hgeokg/resource/284868932>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/AmenityParking>
+<hgeokg/resource/5672475>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/805122968>
+<hgeokg/resource/108297872>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/46422037>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5672096>
+<hgeokg/resource/805082970>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5672096>
+<hgeokg/resource/528791520>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/741733330>	<hgeokg/schema/covered>	covered-yes
+<hgeokg/resource/284868947>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/108220717>
+<hgeokg/resource/5672475>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/5672100>	<Line_roads-Adjacent-Polygon_landuse>	<hgeokg/resource/108220707>
+<hgeokg/resource/357554659>	<hgeokg/schema/wikipedia>	wikipedia-en:Coler Specialty Hospital
+<hgeokg/resource/108299273>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/108297872>
+<hgeokg/resource/805082959>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/805122968>	<hgeokg/schema/foot>	foot-yes
+<hgeokg/resource/108220706>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/5672100>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/108220715>
+<hgeokg/resource/108220706>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5671637>
+<hgeokg/resource/108220710>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/5671639>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/805122968>
+<hgeokg/resource/284868947>	<Polygon_landuse-Adjacent-Polygon_buildings>	<hgeokg/resource/108220707>
+<hgeokg/resource/108311917>	<Line_roads-Adjacent-Polygon_landuse>	<hgeokg/resource/108220707>
+<hgeokg/resource/805122965>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5669355>
+<hgeokg/resource/805082970>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/528791520>
+<hgeokg/resource/528791520>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/805082960>
+<hgeokg/resource/284868921>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/BuildingChurch>
+<hgeokg/resource/5672096>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/108220715>
+<hgeokg/resource/5671573>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/741733330>
+<hgeokg/resource/805122965>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/5671573>	<hgeokg/schema/wikipedia>	wikipedia-en:Roosevelt Island Bridge
+<hgeokg/resource/284868932>	<hgeokg/schema/nycdoittBin>	nycdoittBin-1083211
+<hgeokg/resource/805122966>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/805122965>
+<hgeokg/resource/284868932>	<Point_traffic-Contain-Point_pois>	<hgeokg/resource/3569401287>
+<hgeokg/resource/805122965>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5671639>
+<hgeokg/resource/741733331>	<hgeokg/schema/layer>	layer--1
+<hgeokg/resource/805122966>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/357554659>
+<hgeokg/resource/108220711>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/46422037>
+<hgeokg/resource/357554659>	<hgeokg/schema/website>	website-https://www.nychealthandhospitals.org/coler/
+<hgeokg/resource/46422037>	<http://www.w3.org/2000/01/rdf-schema#label>	Octagon Tennis Courts
+<hgeokg/resource/5669355>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/805122968>
+<hgeokg/resource/108311917>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/108220717>
+<hgeokg/resource/108220706>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5669355>
+<hgeokg/resource/108297872>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/108299273>
+<hgeokg/resource/5669355>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/284878244>
+<hgeokg/resource/824434816>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5672096>
+<hgeokg/resource/805122966>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/805122968>
+<hgeokg/resource/284868921>	<Line_roads-Adjacent-Point_pofw>	<hgeokg/resource/108220723>
+<hgeokg/resource/741733331>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5672100>
+<hgeokg/resource/108220723>	<http://www.w3.org/2000/01/rdf-schema#label>	Road 10
+<hgeokg/resource/805122966>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/284879996>	<hgeokg/schema/addrPostcode>	addrPostcode-10044
+<hgeokg/resource/108220723>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/108220711>
+<hgeokg/resource/284878244>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/46422037>
+<hgeokg/resource/284868932>	<hgeokg/schema/parking>	parking-multi-storey
+<hgeokg/resource/5671637>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/108220715>
+<hgeokg/resource/741733330>	<Line_roads-Intersect-Point_traffic>	<hgeokg/resource/284868932>
+<hgeokg/resource/108311917>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/108297872>
+<hgeokg/resource/284878244>	<Point_pofw-Adjacent-Polygon_buildings>	<hgeokg/resource/284868921>
+<hgeokg/resource/284868947>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/284868931>
+<hgeokg/resource/46422037>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Pitch>
+<hgeokg/resource/824434816>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/108220723>
+<hgeokg/resource/108299273>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/108220715>
+<hgeokg/resource/284879996>	<hgeokg/schema/addrHousenumber>	addrHousenumber-645
+<hgeokg/resource/5672475>	<hgeokg/schema/maxspeed>	maxspeed-15 mph
+<hgeokg/resource/5672096>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/284878244>
+<hgeokg/resource/5672475>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/741733330>
+<hgeokg/resource/824434816>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/108220715>
+<hgeokg/resource/108220717>	<Point_pois-Adjacent-Point_traffic>	<hgeokg/resource/284868932>
+<hgeokg/resource/805122966>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5669355>
+<hgeokg/resource/108220715>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/108311917>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/284868931>	<http://www.w3.org/2000/01/rdf-schema#label>	Octagon Comfort Station
+<hgeokg/resource/108220710>	<http://www.w3.org/2000/01/rdf-schema#label>	West Road
+<hgeokg/resource/805082960>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/5671637>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/805122968>
+<hgeokg/resource/108220717>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/284868947>
+<hgeokg/resource/284868921>	<Line_roads-Adjacent-Point_pofw>	<hgeokg/resource/805122968>
+<hgeokg/resource/5672100>	<hgeokg/schema/motorVehicle>	motorVehicle-no
+<hgeokg/resource/5672096>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/805082960>
+<hgeokg/resource/357554659>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/805122966>
+<hgeokg/resource/284879996>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/108311917>
+<hgeokg/resource/108299273>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/5671637>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/108220723>
+<hgeokg/resource/805082958>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/805082970>
+<hgeokg/resource/108220711>	<Point_pofw-Adjacent-Point_pois>	<hgeokg/resource/284868921>
+<hgeokg/resource/108220707>	<Line_roads-Adjacent-Polygon_landuse>	<hgeokg/resource/741733330>
+<hgeokg/resource/284868931>	<hgeokg/schema/addrPostcode>	addrPostcode-10044
+<hgeokg/resource/805122968>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5672475>
+<hgeokg/resource/741733330>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5671573>
+<hgeokg/resource/5672100>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/108297872>
+<hgeokg/resource/46422037>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5669355>
+<hgeokg/resource/5671639>	<http://www.w3.org/2000/01/rdf-schema#label>	West Road
+<hgeokg/resource/741733331>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/108297872>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5672100>
+<hgeokg/resource/108220707>	<Polygon_landuse-Adjacent-Polygon_buildings>	<hgeokg/resource/284868947>
+<hgeokg/resource/741733330>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/108311917>
+<hgeokg/resource/5672096>	<http://www.w3.org/2000/01/rdf-schema#label>	East Road
+<hgeokg/resource/108220723>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/108297872>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/108311917>
+<hgeokg/resource/805122966>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/108299273>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/284868931>
+<hgeokg/resource/284868947>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/5672100>
+<hgeokg/resource/108220714>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Pedestrian>
+<hgeokg/resource/108220707>	<Line_roads-Intersect-Polygon_landuse>	<hgeokg/resource/5672475>
+<hgeokg/resource/284868947>	<http://www.w3.org/2000/01/rdf-schema#label>	Avac Facility NYC Dept. Of Sanitation
+<hgeokg/resource/108311917>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/108299273>
+<hgeokg/resource/805122968>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/108220717>
+<hgeokg/resource/5671777>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Pedestrian>
+<hgeokg/resource/108220710>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/284878244>
+<hgeokg/resource/5671777>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/108220717>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/357554659>	<hgeokg/schema/operator>	operator-NYC Health + Hospitals/
+<hgeokg/resource/5671573>	<hgeokg/schema/foot>	foot-no
+<hgeokg/resource/824434816>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/805082960>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/805082970>
+<hgeokg/resource/805082958>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/284868947>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/108311917>
+<hgeokg/resource/108220723>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/824434816>
+<hgeokg/resource/805082970>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/805082959>
+<hgeokg/resource/108299273>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5672100>
+<hgeokg/resource/108220707>	<Line_roads-Adjacent-Polygon_landuse>	<hgeokg/resource/5671573>
+<hgeokg/resource/284868931>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/108220711>
+<hgeokg/resource/528791520>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/805082958>
+<hgeokg/resource/284868947>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Polygon>
+<hgeokg/resource/5672100>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/108299273>
+<hgeokg/resource/5672100>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/108220710>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/5671573>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5672475>
+<hgeokg/resource/108220706>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5672096>
+<hgeokg/resource/5672096>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/805082958>
+<hgeokg/resource/5669355>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/46422037>
+<hgeokg/resource/5672096>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/108220711>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Pitch>
+<hgeokg/resource/741733330>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/284878244>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/108220710>
+<hgeokg/resource/5671777>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/108220717>
+<hgeokg/resource/108220715>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5672100>
+<hgeokg/resource/805122968>	<http://www.w3.org/2000/01/rdf-schema#label>	Roosevelt Island Greenway
+<hgeokg/resource/108220711>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/284878244>
+<hgeokg/resource/5671777>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/284879996>
+<hgeokg/resource/108220707>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Polygon>
+<hgeokg/resource/108220710>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5669355>
+<hgeokg/resource/284868921>	<Line_roads-Adjacent-Point_pofw>	<hgeokg/resource/5671777>
+<hgeokg/resource/284879996>	<http://www.w3.org/2000/01/rdf-schema#label>	Public School 217/Intermediate School 217
+<hgeokg/resource/284868931>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/5672100>
+<hgeokg/resource/5672096>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/108220723>
+<hgeokg/resource/805122968>	<hgeokg/schema/lanes>	lanes-2
+<hgeokg/resource/108220710>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/805122968>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Cycleway>
+<hgeokg/resource/108220717>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5672475>
+<hgeokg/resource/284868932>	<Line_roads-Adjacent-Point_traffic>	<hgeokg/resource/5672100>
+<hgeokg/resource/284878244>	<hgeokg/schema/wikipedia>	wikipedia-en:The Octagon (Roosevelt Island)
+<hgeokg/resource/108220715>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/108220706>
+<hgeokg/resource/108220715>	<http://www.w3.org/2000/01/rdf-schema#label>	Main Street
+<hgeokg/resource/5672100>	<http://www.w3.org/2000/01/rdf-schema#label>	East Road
+<hgeokg/resource/357554659>	<hgeokg/schema/addrHousenumber>	addrHousenumber-900
+<hgeokg/resource/284878244>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/108220715>
+<hgeokg/resource/5669355>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/108220710>
+<hgeokg/resource/46422037>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/108220711>
+<hgeokg/resource/528791520>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Cycleway>
+<hgeokg/resource/805122966>	<hgeokg/schema/maxspeed>	maxspeed-10 mph
+<hgeokg/resource/741733331>	<http://www.w3.org/2000/01/rdf-schema#label>	East Road
+<hgeokg/resource/108311917>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/108220715>
+<hgeokg/resource/284879996>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Polygon>
+<hgeokg/resource/284868931>	<hgeokg/schema/addrHousenumber>	addrHousenumber-755
+<hgeokg/resource/805122966>	<http://www.w3.org/2000/01/rdf-schema#label>	West Road
+<hgeokg/resource/46422037>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/108220706>
+<hgeokg/resource/108311917>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/284868947>
+<hgeokg/resource/108220714>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5671573>
+<hgeokg/resource/284868932>	<Line_roads-Intersect-Point_traffic>	<hgeokg/resource/741733330>
+<hgeokg/resource/5671777>	<http://www.w3.org/2000/01/rdf-schema#label>	West Road
+<hgeokg/resource/3569401287>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/741733330>
+<hgeokg/resource/5669355>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/108220723>
+<hgeokg/resource/108299273>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/5671637>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/108220717>	<http://www.w3.org/2000/01/rdf-schema#label>	Jack McManus Field
+<hgeokg/resource/3569401287>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/ShopSupermarket>
+<hgeokg/resource/108220717>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/108299273>
+<hgeokg/resource/5672100>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/108311917>
+<hgeokg/resource/284868947>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/108299273>
+<hgeokg/resource/5672100>	<hgeokg/schema/access>	access-no
+<hgeokg/resource/805082970>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/108297872>	<http://www.w3.org/2000/01/rdf-schema#label>	Main Street
+<hgeokg/resource/108297872>	<hgeokg/schema/maxspeed>	maxspeed-15 mph
+<hgeokg/resource/741733330>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5672475>
+<hgeokg/resource/284868932>	<Line_roads-Adjacent-Point_traffic>	<hgeokg/resource/5671573>
+<hgeokg/resource/805082970>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/284878244>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/5671777>
+<hgeokg/resource/824434816>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/3569401287>	<Point_pois-Adjacent-Polygon_landuse>	<hgeokg/resource/108220707>
+<hgeokg/resource/805082970>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/284868921>	<Point_pofw-Adjacent-Polygon_buildings>	<hgeokg/resource/284878244>
+<hgeokg/resource/108220715>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/805082960>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/108220707>	<Point_pois-Adjacent-Polygon_landuse>	<hgeokg/resource/3569401287>
+<hgeokg/resource/108220723>	<hgeokg/schema/maxspeed>	maxspeed-10 mph
+<hgeokg/resource/5671637>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5672096>
+<hgeokg/resource/5671637>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/108220706>
+<hgeokg/resource/108220714>	<hgeokg/schema/covered>	covered-yes
+<hgeokg/resource/108220707>	<Line_roads-Adjacent-Polygon_landuse>	<hgeokg/resource/805122968>
+<hgeokg/resource/284868932>	<http://www.w3.org/2000/01/rdf-schema#label>	Motorgate Public Parking Garage
+<hgeokg/resource/284868932>	<Point_traffic-Adjacent-Polygon_landuse>	<hgeokg/resource/108220707>
+<hgeokg/resource/284868947>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/5672475>
+<hgeokg/resource/824434816>	<hgeokg/schema/maxspeed>	maxspeed-10 mph
+<hgeokg/resource/284879996>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/BuildingSchool>
+<hgeokg/resource/5672475>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/108311917>
+<hgeokg/resource/108297872>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/284868931>
+<hgeokg/resource/108220707>	<Polygon_landuse-Intersect-Polygon_buildings>	<hgeokg/resource/284879996>
+<hgeokg/resource/805082958>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/805122968>	<hgeokg/schema/bicycle>	bicycle-yes
+<hgeokg/resource/108220710>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/805122966>
+<hgeokg/resource/357554659>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5671639>
+<hgeokg/resource/5669355>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/805122965>
+<hgeokg/resource/108220717>	<Point_pois-Adjacent-Polygon_landuse>	<hgeokg/resource/108220707>
+<hgeokg/resource/824434816>	<http://www.w3.org/2000/01/rdf-schema#label>	Road 10
+<hgeokg/resource/108220723>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/46422037>
+<hgeokg/resource/5671573>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/CyclewayLane>
+<hgeokg/resource/108220715>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/108311917>
+<hgeokg/resource/805082959>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/528791520>
+<hgeokg/resource/108297872>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/5672096>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/5671573>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/3569401287>
+<hgeokg/resource/284868932>	<Point_traffic-Adjacent-Polygon_buildings>	<hgeokg/resource/284868947>
+<hgeokg/resource/108220710>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5671639>
+<hgeokg/resource/284878244>	<hgeokg/schema/nycdoittBin>	nycdoittBin-1086085
+<hgeokg/resource/5671777>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5672475>
+<hgeokg/resource/284868932>	<hgeokg/schema/height>	height-21.7
+<hgeokg/resource/805122968>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5671637>
+<hgeokg/resource/108220723>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/108220706>
+<hgeokg/resource/5671573>	<http://www.w3.org/2000/01/rdf-schema#label>	Roosevelt Island Bridge
+<hgeokg/resource/741733330>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/108220714>
+<hgeokg/resource/108220711>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Baseball>
+<hgeokg/resource/805082958>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/805082959>
+<hgeokg/resource/108220706>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/824434816>
+<hgeokg/resource/108299273>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/108311917>
+<hgeokg/resource/805122968>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/805122965>
+<hgeokg/resource/5671639>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/284878244>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/108220723>
+<hgeokg/resource/108299273>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/108220711>
+<hgeokg/resource/108220706>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/108220715>
+<hgeokg/resource/5671573>	<hgeokg/schema/sidewalk>	sidewalk-left
+<hgeokg/resource/284868931>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/108220717>
+<hgeokg/resource/5672096>	<hgeokg/schema/maxspeed>	maxspeed-15 mph
+<hgeokg/resource/805122968>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/805122968>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/108220710>
+<hgeokg/resource/108220706>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/108220723>
+<hgeokg/resource/5671573>	<Line_roads-Adjacent-Polygon_landuse>	<hgeokg/resource/108220707>
+<hgeokg/resource/284868932>	<Line_roads-Adjacent-Point_traffic>	<hgeokg/resource/5672475>
+<hgeokg/resource/108311917>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/108220711>
+<hgeokg/resource/528791520>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/805082959>
+<hgeokg/resource/5669355>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/108220707>	<Line_roads-Adjacent-Polygon_landuse>	<hgeokg/resource/5671777>
+<hgeokg/resource/5671573>	<hgeokg/schema/bicycle>	bicycle-yes
+<hgeokg/resource/108220706>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/284878244>
+<hgeokg/resource/108220717>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Pitch>
+<hgeokg/resource/5669355>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/824434816>
+<hgeokg/resource/805082958>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/528791520>
+<hgeokg/resource/805122968>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/805122966>
+<hgeokg/resource/3569401287>	<Point_pois-Within-Point_traffic>	<hgeokg/resource/284868932>
+<hgeokg/resource/5671637>	<http://www.w3.org/2000/01/rdf-schema#label>	Main Street
+<hgeokg/resource/5672096>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/108220706>
+<hgeokg/resource/741733330>	<http://www.w3.org/2000/01/rdf-schema#label>	East Road
+<hgeokg/resource/741733331>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Pedestrian>
+<hgeokg/resource/108220706>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/46422037>
+<hgeokg/resource/3569401287>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/108220715>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5672096>
+<hgeokg/resource/5672100>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/108220711>
+<hgeokg/resource/805082959>	<hgeokg/schema/maxspeed>	maxspeed-15 mph
+<hgeokg/resource/5672100>	<Line_roads-Adjacent-Point_traffic>	<hgeokg/resource/284868932>
+<hgeokg/resource/108297872>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/108220711>
+<hgeokg/resource/46422037>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5671637>
+<hgeokg/resource/284868931>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/108297872>
+<hgeokg/resource/805122968>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/284878244>
+<hgeokg/resource/5672475>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/108220717>
+<hgeokg/resource/108311917>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/3569401287>
+<hgeokg/resource/108220723>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5671777>
+<hgeokg/resource/108220710>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5671637>
+<hgeokg/resource/357554659>	<hgeokg/schema/addrPostcode>	addrPostcode-10044
+<hgeokg/resource/284868921>	<hgeokg/schema/religion>	religion-christian
+<hgeokg/resource/284878244>	<http://www.w3.org/2000/01/rdf-schema#label>	The Octagon
+<hgeokg/resource/805122965>	<hgeokg/schema/maxspeed>	maxspeed-10 mph
+<hgeokg/resource/108220715>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/46422037>
+<hgeokg/resource/108311917>	<Line_roads-Adjacent-Point_traffic>	<hgeokg/resource/284868932>
+<hgeokg/resource/5672096>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/824434816>
+<hgeokg/resource/46422037>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/108220723>
+<hgeokg/resource/284868921>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/805082960>	<http://www.w3.org/2000/01/rdf-schema#label>	East Road
+<hgeokg/resource/46422037>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/824434816>
+<hgeokg/resource/5669355>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/108220706>
+<hgeokg/resource/824434816>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5671637>
+<hgeokg/resource/5672475>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5672100>
+<hgeokg/resource/108220711>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/108299273>
+<hgeokg/resource/5671637>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/108220710>
+<hgeokg/resource/284868931>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/5672096>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/46422037>
+<hgeokg/resource/108220707>	<Line_roads-Adjacent-Polygon_landuse>	<hgeokg/resource/741733331>
+<hgeokg/resource/5672096>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5671637>
+<hgeokg/resource/108220714>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/3569401287>
+<hgeokg/resource/108220715>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/805082960>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/805082959>
+<hgeokg/resource/46422037>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/108220715>
+<hgeokg/resource/528791520>	<hgeokg/schema/foot>	foot-yes
+<hgeokg/resource/5672475>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5671777>
+<hgeokg/resource/5671777>	<hgeokg/schema/surface>	surface-paving_stones
+<hgeokg/resource/5671639>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/357554659>
+<hgeokg/resource/284868921>	<Point_pofw-Adjacent-Point_pois>	<hgeokg/resource/108220711>
+<hgeokg/resource/5671573>	<hgeokg/schema/maxspeed>	maxspeed-25 mph
+<hgeokg/resource/108220717>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/108297872>
+<hgeokg/resource/5672475>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/284868947>
+<hgeokg/resource/357554659>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/108220715>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/284868931>
+<hgeokg/resource/108220714>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/741733330>
+<hgeokg/resource/108220707>	<Point_traffic-Adjacent-Polygon_landuse>	<hgeokg/resource/284868932>
+<hgeokg/resource/284868921>	<hgeokg/schema/height>	height-9.2
+<hgeokg/resource/284868932>	<Line_roads-Adjacent-Point_traffic>	<hgeokg/resource/108311917>
+<hgeokg/resource/284868931>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/108220715>
+<hgeokg/resource/5672100>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/741733330>
+<hgeokg/resource/46422037>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/805082959>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/805082958>
+<hgeokg/resource/5672100>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/108311917>	<hgeokg/schema/maxspeed>	maxspeed-15 mph
+<hgeokg/resource/108220706>	<http://www.w3.org/2000/01/rdf-schema#label>	Road 10
+<hgeokg/resource/5671573>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/108311917>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/108220714>
+<hgeokg/resource/5671639>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/108220711>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/805082959>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/805082970>
+<hgeokg/resource/805082958>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5672096>
+<hgeokg/resource/108220715>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/824434816>
+<hgeokg/resource/5672475>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/5672475>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/3569401287>
+<hgeokg/resource/284868921>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/PlaceOfWorship>
+<hgeokg/resource/284878244>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/108220706>
+<hgeokg/resource/108311917>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/284879996>
+<hgeokg/resource/5672475>	<Line_roads-Adjacent-Point_traffic>	<hgeokg/resource/284868932>
+<hgeokg/resource/108220711>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/108220723>
+<hgeokg/resource/108220707>	<Point_pois-Adjacent-Polygon_landuse>	<hgeokg/resource/284868931>
+<hgeokg/resource/108297872>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/284868947>
+<hgeokg/resource/284878244>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/805122968>
+<hgeokg/resource/5672475>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/5672475>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/284868932>	<hgeokg/schema/addrHousenumber>	addrHousenumber-686
+<hgeokg/resource/108220723>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5672096>
+<hgeokg/resource/5671777>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/108220723>
+<hgeokg/resource/108220714>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/284868931>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/108311917>
+<hgeokg/resource/5671573>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/108311917>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5672100>
+<hgeokg/resource/108220717>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Soccer>
+<hgeokg/resource/5671639>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/5671573>	<hgeokg/schema/bridge>	bridge-yes
+<hgeokg/resource/108220715>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/108297872>
+<hgeokg/resource/108220717>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/805122968>
+<hgeokg/resource/5672100>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/284868931>
+<hgeokg/resource/108220714>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/108311917>
+<hgeokg/resource/284878244>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Apartments>
+<hgeokg/resource/5669355>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5671637>
+<hgeokg/resource/5671637>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/284879996>	<hgeokg/schema/nycdoittBin>	nycdoittBin-1084848
+<hgeokg/resource/284868947>	<Point_traffic-Adjacent-Polygon_buildings>	<hgeokg/resource/284868932>
+<hgeokg/resource/5671637>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/284878244>
+<hgeokg/resource/108220711>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/5672100>
+<hgeokg/resource/284868947>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/108297872>
+<hgeokg/resource/108220715>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/108299273>
+<hgeokg/resource/108220711>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/108297872>
+<hgeokg/resource/805082959>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/5671573>	<Line_roads-Adjacent-Point_traffic>	<hgeokg/resource/284868932>
+<hgeokg/resource/108220714>	<http://www.w3.org/2000/01/rdf-schema#label>	East Road
+<hgeokg/resource/5671777>	<Line_roads-Adjacent-Point_pofw>	<hgeokg/resource/284868921>
+<hgeokg/resource/284868932>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/284868932>	<hgeokg/schema/addrPostcode>	addrPostcode-10044
+<hgeokg/resource/805122965>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/3569401287>	<hgeokg/schema/openingHours>	openingHours-Mo-Sa 07:00-24:00; Su 07:00-23:00
+<hgeokg/resource/5672475>	<http://www.w3.org/2000/01/rdf-schema#label>	River Road
+<hgeokg/resource/5671639>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/805122965>
+<hgeokg/resource/108311917>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Tertiary>
+<hgeokg/resource/5672475>	<Line_roads-Intersect-Polygon_landuse>	<hgeokg/resource/108220707>
+<hgeokg/resource/108220723>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/284878244>
+<hgeokg/resource/5671573>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/108220714>
+<hgeokg/resource/108220717>	<Point_pofw-Adjacent-Point_pois>	<hgeokg/resource/284868921>
+<hgeokg/resource/108297872>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/108220711>	<http://www.w3.org/2000/01/rdf-schema#label>	Pony Field
+<hgeokg/resource/108220723>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5671637>
+<hgeokg/resource/284868947>	<hgeokg/schema/height>	height-10.6
+<hgeokg/resource/805122965>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/3569401287>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/108311917>
+<hgeokg/resource/5669355>	<hgeokg/schema/maxspeed>	maxspeed-10 mph
+<hgeokg/resource/108220707>	<http://www.w3.org/2000/01/rdf-schema#label>	Old Church Bell
+<hgeokg/resource/108297872>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/108220715>
+<hgeokg/resource/108220715>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/108220723>
+<hgeokg/resource/805082960>	<hgeokg/schema/maxspeed>	maxspeed-15 mph
+<hgeokg/resource/3569401287>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5672475>
+<hgeokg/resource/108311917>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/741733331>
+<hgeokg/resource/741733330>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/3569401287>
+<hgeokg/resource/108220715>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/108220717>
+<hgeokg/resource/357554659>	<http://www.w3.org/2000/01/rdf-schema#label>	NYC Health + Hospitals/Coler
+<hgeokg/resource/805082959>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/805082960>
+<hgeokg/resource/108311917>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5671573>
+<hgeokg/resource/805082960>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/805082958>
+<hgeokg/resource/805082958>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/805082960>
+<hgeokg/resource/108220714>	<hgeokg/schema/layer>	layer--1
+<hgeokg/resource/824434816>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5669355>
+<hgeokg/resource/284878244>	<hgeokg/schema/height>	height-38.1
+<hgeokg/resource/46422037>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/284878244>
+<hgeokg/resource/108220717>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/108311917>
+<hgeokg/resource/284868932>	<Point_pois-Adjacent-Point_traffic>	<hgeokg/resource/108220717>
+<hgeokg/resource/805122968>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5671777>
+<hgeokg/resource/108220706>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/5669355>	<http://www.w3.org/2000/01/rdf-schema#label>	Main Street
+<hgeokg/resource/5672096>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/805082970>
+<hgeokg/resource/805082970>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/805082960>
+<hgeokg/resource/284868921>	<http://www.w3.org/2000/01/rdf-schema#label>	Dayspring Church
+<hgeokg/resource/5672100>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/284868947>
+<hgeokg/resource/741733330>	<Line_roads-Adjacent-Polygon_landuse>	<hgeokg/resource/108220707>
+<hgeokg/resource/357554659>	<hgeokg/schema/phone>	phone-+1 212 848 6000
+<hgeokg/resource/741733330>	<hgeokg/schema/layer>	layer--1
+<hgeokg/resource/805082970>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/805082958>
+<hgeokg/resource/108220706>	<hgeokg/schema/maxspeed>	maxspeed-10 mph
+<hgeokg/resource/805122966>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/805082970>	<hgeokg/schema/maxspeed>	maxspeed-15 mph
+<hgeokg/resource/805122968>	<Line_roads-Adjacent-Point_pofw>	<hgeokg/resource/284868921>
+<hgeokg/resource/108311917>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/741733330>
+<hgeokg/resource/108299273>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/284868947>
+<hgeokg/resource/108220710>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/805122965>
+<hgeokg/resource/5671639>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/284868931>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/AmenityToilets>
+<hgeokg/resource/108311917>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5672475>
+<hgeokg/resource/108220707>	<Line_roads-Adjacent-Polygon_landuse>	<hgeokg/resource/5672100>
+<hgeokg/resource/108220707>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/LanduseResidential>
+<hgeokg/resource/108299273>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/824434816>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/108220706>
+<hgeokg/resource/5669355>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/805122966>
+<hgeokg/resource/528791520>	<http://www.w3.org/2000/01/rdf-schema#label>	Roosevelt Island Greenway
+<hgeokg/resource/108299273>	<hgeokg/schema/maxspeed>	maxspeed-15 mph
+<hgeokg/resource/108220707>	<Line_roads-Adjacent-Polygon_landuse>	<hgeokg/resource/108311917>
+<hgeokg/resource/108311917>	<http://www.w3.org/2000/01/rdf-schema#label>	Main Street
+<hgeokg/resource/108220723>	<Line_roads-Adjacent-Point_pofw>	<hgeokg/resource/284868921>
+<hgeokg/resource/805122965>	<http://www.w3.org/2000/01/rdf-schema#label>	West Road
+<hgeokg/resource/108220717>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/284868931>
+<hgeokg/resource/5672475>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5671573>
+<hgeokg/resource/741733331>	<Line_roads-Adjacent-Point_traffic>	<hgeokg/resource/284868932>
+<hgeokg/resource/805122965>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/108220710>
+<hgeokg/resource/284878244>	<hgeokg/schema/addrPostcode>	addrPostcode-10044
+<hgeokg/resource/284878244>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/5669355>
+<hgeokg/resource/741733331>	<Line_roads-Adjacent-Polygon_landuse>	<hgeokg/resource/108220707>
+<hgeokg/resource/108220717>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5671777>
+<hgeokg/resource/108220723>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/284868921>	<Point_pofw-Adjacent-Point_pois>	<hgeokg/resource/108220717>
+<hgeokg/resource/357554659>	<hgeokg/schema/gnisFeatureId>	gnisFeatureId-947119
+<hgeokg/resource/5671637>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5669355>
+<hgeokg/resource/805122968>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/108220723>
+<hgeokg/resource/108220717>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/108220715>
+<hgeokg/resource/5671637>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/824434816>
+<hgeokg/resource/5671637>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/5669355>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/741733331>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/741733330>
+<hgeokg/resource/357554659>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/AmenityHospital>
+<hgeokg/resource/5671777>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/805122968>
+<hgeokg/resource/5671639>	<hgeokg/schema/maxspeed>	maxspeed-10 mph
+<hgeokg/resource/805082960>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/108220711>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/284868931>
+<hgeokg/resource/284878244>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Polygon>
+<hgeokg/resource/284878244>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/108220711>
+<hgeokg/resource/741733330>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/741733331>
+<hgeokg/resource/741733331>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/108311917>
+<hgeokg/resource/5671573>	<hgeokg/schema/maxweight>	maxweight-36
+<hgeokg/resource/108311917>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/284868931>

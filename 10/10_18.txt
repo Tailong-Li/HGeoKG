@@ -1,0 +1,220 @@
+<hgeokg/resource/5673110>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/543907517>
+<hgeokg/resource/2830368769>	<hgeokg/schema/addrState>	addrState-NY
+<hgeokg/resource/420590075>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/584850102>	<hgeokg/schema/wikipedia>	wikipedia-en:Lenox Avenue
+<hgeokg/resource/5415653683>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5670250>
+<hgeokg/resource/440122876>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/543907517>
+<hgeokg/resource/5673110>	<http://www.w3.org/2000/01/rdf-schema#label>	West 146th Street
+<hgeokg/resource/420589994>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/196117071>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-W
+<hgeokg/resource/5670250>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-W
+<hgeokg/resource/420590075>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/196117071>
+<hgeokg/resource/420590075>	<http://www.w3.org/2000/01/rdf-schema#label>	West 147th Street
+<hgeokg/resource/5670776>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-W
+<hgeokg/resource/548660978>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Polygon>
+<hgeokg/resource/420590075>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/5670250>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/480966277>
+<hgeokg/resource/420589994>	<http://www.w3.org/2000/01/rdf-schema#label>	Adam Clayton Powell Jr. Boulevard
+<hgeokg/resource/204085725>	<http://www.w3.org/2000/01/rdf-schema#label>	Adam Clayton Powell Jr. Boulevard
+<hgeokg/resource/5670776>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/2830368769>
+<hgeokg/resource/196117071>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/440122876>
+<hgeokg/resource/5673110>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/196117071>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/2830368769>	<hgeokg/schema/openingHours>	openingHours-Mo-Th, Sa 09:00-21:00; Fr 09:00-19:00; Su 10:00-19:00
+<hgeokg/resource/584850102>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/5670776>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/196116962>
+<hgeokg/resource/543907517>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/196116962>
+<hgeokg/resource/5670250>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5670776>
+<hgeokg/resource/543907517>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/440122876>
+<hgeokg/resource/5670776>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/440122876>	<hgeokg/schema/wikipedia>	wikipedia-en:Seventh Avenue (Manhattan)
+<hgeokg/resource/543907517>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/5673110>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420589994>
+<hgeokg/resource/440122876>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Primary>
+<hgeokg/resource/420589994>	<hgeokg/schema/network>	network-lcn
+<hgeokg/resource/420589994>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5673110>
+<hgeokg/resource/5415653683>	<hgeokg/schema/bench>	bench-yes
+<hgeokg/resource/420589994>	<hgeokg/schema/lanes>	lanes-3
+<hgeokg/resource/440122876>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/RouteBicycle>
+<hgeokg/resource/204085725>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Primary>
+<hgeokg/resource/5670250>	<http://www.w3.org/2000/01/rdf-schema#label>	West 149th Street
+<hgeokg/resource/204085725>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/196117071>
+<hgeokg/resource/196116962>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5670776>
+<hgeokg/resource/440122876>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5670776>
+<hgeokg/resource/440122876>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/2830368769>
+<hgeokg/resource/440122876>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/420590075>
+<hgeokg/resource/480966277>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Park>
+<hgeokg/resource/420589994>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Primary>
+<hgeokg/resource/480966277>	<hgeokg/schema/description>	description-Park for neighborhood residents of 148th Street and their guests.
+<hgeokg/resource/440122876>	<hgeokg/schema/bicycle>	bicycle-yes
+<hgeokg/resource/5673110>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/5670776>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/2830368769>	<hgeokg/schema/addrHousenumber>	addrHousenumber-2574
+<hgeokg/resource/420589994>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/440122876>
+<hgeokg/resource/548660978>	<Point_transport-Adjacent-Polygon_landuse>	<hgeokg/resource/5415653683>
+<hgeokg/resource/543907517>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420590075>
+<hgeokg/resource/440122876>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5673110>
+<hgeokg/resource/5415653683>	<hgeokg/schema/lit>	lit-yes
+<hgeokg/resource/5415653683>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/2830368769>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Car>
+<hgeokg/resource/196117071>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/204085725>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/548660978>	<Point_pois-Adjacent-Polygon_landuse>	<hgeokg/resource/480966277>
+<hgeokg/resource/440122876>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/440122876>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/196116962>
+<hgeokg/resource/5415653683>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/BusStop>
+<hgeokg/resource/543907517>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5673110>
+<hgeokg/resource/204085725>	<hgeokg/schema/bicycle>	bicycle-yes
+<hgeokg/resource/196117071>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/480966277>
+<hgeokg/resource/420589994>	<hgeokg/schema/hgv>	hgv-local
+<hgeokg/resource/420589994>	<hgeokg/schema/bicycle>	bicycle-yes
+<hgeokg/resource/548660978>	<Line_roads-Adjacent-Polygon_landuse>	<hgeokg/resource/5670776>
+<hgeokg/resource/420589994>	<hgeokg/schema/surface>	surface-asphalt
+<hgeokg/resource/584850102>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/548660978>	<hgeokg/schema/residential>	residential-apartments
+<hgeokg/resource/5415653683>	<hgeokg/schema/routeRef>	routeRef-M10
+<hgeokg/resource/420590075>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5673110>
+<hgeokg/resource/480966277>	<Point_pois-Adjacent-Polygon_landuse>	<hgeokg/resource/548660978>
+<hgeokg/resource/204085725>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/420589994>
+<hgeokg/resource/5670250>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/480966277>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5670776>
+<hgeokg/resource/584850102>	<http://www.w3.org/2000/01/rdf-schema#label>	Malcolm X Boulevard
+<hgeokg/resource/196116962>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/204085725>
+<hgeokg/resource/543907517>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/204085725>	<hgeokg/schema/network>	network-lcn
+<hgeokg/resource/420589994>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/543907517>
+<hgeokg/resource/5670250>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/480966277>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5670250>
+<hgeokg/resource/2830368769>	<http://www.w3.org/2000/01/rdf-schema#label>	Auto 4 Leasing
+<hgeokg/resource/196117071>	<http://www.w3.org/2000/01/rdf-schema#label>	West 147th Street
+<hgeokg/resource/5673110>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-W
+<hgeokg/resource/584850102>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/196116962>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/196117071>
+<hgeokg/resource/5415653683>	<hgeokg/schema/bus>	bus-yes
+<hgeokg/resource/420590075>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/204085725>
+<hgeokg/resource/420590075>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/196116962>
+<hgeokg/resource/196117071>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/204085725>
+<hgeokg/resource/420590075>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/440122876>	<Line_roads-Adjacent-Polygon_landuse>	<hgeokg/resource/548660978>
+<hgeokg/resource/420590075>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/420589994>
+<hgeokg/resource/420590075>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-W
+<hgeokg/resource/196117071>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420589994>
+<hgeokg/resource/204085725>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/543907517>
+<hgeokg/resource/196117071>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/196116962>
+<hgeokg/resource/440122876>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/196117071>
+<hgeokg/resource/204085725>	<hgeokg/schema/lanes>	lanes-2
+<hgeokg/resource/5670776>	<Line_roads-Adjacent-Polygon_landuse>	<hgeokg/resource/548660978>
+<hgeokg/resource/420589994>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/204085725>
+<hgeokg/resource/204085725>	<hgeokg/schema/surface>	surface-asphalt
+<hgeokg/resource/543907517>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/420589994>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5670776>
+<hgeokg/resource/440122876>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/5673110>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/440122876>	<hgeokg/schema/altName>	altName-7th Ave
+<hgeokg/resource/5673110>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/584850102>
+<hgeokg/resource/196116962>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/440122876>
+<hgeokg/resource/2830368769>	<hgeokg/schema/addrPostcode>	addrPostcode-10039
+<hgeokg/resource/196117071>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5670776>
+<hgeokg/resource/440122876>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/204085725>
+<hgeokg/resource/5673110>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/204085725>
+<hgeokg/resource/420590075>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/440122876>
+<hgeokg/resource/548660978>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/LanduseResidential>
+<hgeokg/resource/204085725>	<hgeokg/schema/altName>	altName-7th Ave
+<hgeokg/resource/440122876>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420589994>
+<hgeokg/resource/548660978>	<http://www.w3.org/2000/01/rdf-schema#label>	Dunbar Apartments
+<hgeokg/resource/2830368769>	<hgeokg/schema/secondHand>	secondHand-no
+<hgeokg/resource/420589994>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/RouteBicycle>
+<hgeokg/resource/196117071>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/543907517>
+<hgeokg/resource/480966277>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/196117071>
+<hgeokg/resource/196116962>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/543907517>
+<hgeokg/resource/204085725>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/440122876>
+<hgeokg/resource/420589994>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/196117071>
+<hgeokg/resource/196116962>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/420590075>
+<hgeokg/resource/5670250>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5415653683>
+<hgeokg/resource/204085725>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/RouteBicycle>
+<hgeokg/resource/440122876>	<hgeokg/schema/surface>	surface-asphalt
+<hgeokg/resource/548660978>	<hgeokg/schema/wikipedia>	wikipedia-en:Dunbar Apartments
+<hgeokg/resource/5670776>	<http://www.w3.org/2000/01/rdf-schema#label>	West 148th Street
+<hgeokg/resource/5670776>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420589994>
+<hgeokg/resource/5670250>	<Line_roads-Adjacent-Polygon_landuse>	<hgeokg/resource/548660978>
+<hgeokg/resource/204085725>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5673110>
+<hgeokg/resource/420589994>	<hgeokg/schema/altName>	altName-7th Ave
+<hgeokg/resource/420589994>	<hgeokg/schema/maxspeed>	maxspeed-25 mph
+<hgeokg/resource/584850102>	<hgeokg/schema/altName>	altName-Lenox Avenue
+<hgeokg/resource/204085725>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/5673110>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/196117071>
+<hgeokg/resource/2830368769>	<hgeokg/schema/startDate>	startDate-1996-08-08
+<hgeokg/resource/204085725>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420590075>
+<hgeokg/resource/420589994>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/196116962>
+<hgeokg/resource/420590075>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/543907517>
+<hgeokg/resource/5670250>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/196117071>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/5415653683>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5670776>
+<hgeokg/resource/480966277>	<hgeokg/schema/source>	source-www.nycgovparks.org
+<hgeokg/resource/5670776>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/548660978>	<Line_roads-Adjacent-Polygon_landuse>	<hgeokg/resource/5670250>
+<hgeokg/resource/5670776>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/480966277>
+<hgeokg/resource/2830368769>	<hgeokg/schema/website>	website-http://auto4leasing.com
+<hgeokg/resource/440122876>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5670250>
+<hgeokg/resource/543907517>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/204085725>
+<hgeokg/resource/5415653683>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/PublicTransportPlatform>
+<hgeokg/resource/420589994>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/5670250>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/440122876>
+<hgeokg/resource/548660978>	<Line_roads-Adjacent-Polygon_landuse>	<hgeokg/resource/440122876>
+<hgeokg/resource/5670776>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5670250>
+<hgeokg/resource/204085725>	<hgeokg/schema/maxspeed>	maxspeed-25 mph
+<hgeokg/resource/196117071>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5673110>
+<hgeokg/resource/440122876>	<hgeokg/schema/hgv>	hgv-local
+<hgeokg/resource/204085725>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/196116962>
+<hgeokg/resource/204085725>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/2830368769>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/196116962>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420589994>
+<hgeokg/resource/2830368769>	<hgeokg/schema/email>	email-auto4leasingny@gmail.com
+<hgeokg/resource/5670776>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/196117071>
+<hgeokg/resource/5670776>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420590075>
+<hgeokg/resource/548660978>	<hgeokg/schema/addrPostcode>	addrPostcode-10039
+<hgeokg/resource/5673110>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/196116962>
+<hgeokg/resource/420590075>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/543907517>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420589994>
+<hgeokg/resource/440122876>	<hgeokg/schema/maxspeed>	maxspeed-25 mph
+<hgeokg/resource/420589994>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/420590075>
+<hgeokg/resource/5415653683>	<hgeokg/schema/wheelchair>	wheelchair-yes
+<hgeokg/resource/196116962>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5673110>
+<hgeokg/resource/440122876>	<http://www.w3.org/2000/01/rdf-schema#label>	Adam Clayton Powell Jr. Boulevard
+<hgeokg/resource/480966277>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/543907517>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-W
+<hgeokg/resource/548660978>	<hgeokg/schema/addrState>	addrState-NY
+<hgeokg/resource/5673110>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/420590075>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5670776>
+<hgeokg/resource/2830368769>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5670776>
+<hgeokg/resource/5670776>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/440122876>
+<hgeokg/resource/480966277>	<http://www.w3.org/2000/01/rdf-schema#label>	Onehundredfourtyeighth Street Block Association Park
+<hgeokg/resource/196117071>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/420590075>
+<hgeokg/resource/440122876>	<hgeokg/schema/lanes>	lanes-2
+<hgeokg/resource/5415653683>	<http://www.w3.org/2000/01/rdf-schema#label>	Frederick Douglass Boulevard & West 148th Street
+<hgeokg/resource/5415653683>	<hgeokg/schema/shelter>	shelter-yes
+<hgeokg/resource/2830368769>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/440122876>
+<hgeokg/resource/5670250>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/2830368769>
+<hgeokg/resource/5670776>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/2830368769>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5670250>
+<hgeokg/resource/5673110>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/420590075>
+<hgeokg/resource/5670250>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/548660978>	<Point_pois-Adjacent-Polygon_landuse>	<hgeokg/resource/2830368769>
+<hgeokg/resource/2830368769>	<hgeokg/schema/phone>	phone-+1-347-706-1105
+<hgeokg/resource/5670776>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5415653683>
+<hgeokg/resource/543907517>	<http://www.w3.org/2000/01/rdf-schema#label>	West 146th Street
+<hgeokg/resource/440122876>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/420589994>	<hgeokg/schema/wikipedia>	wikipedia-en:Seventh Avenue (Manhattan)
+<hgeokg/resource/2830368769>	<Point_pois-Adjacent-Polygon_landuse>	<hgeokg/resource/548660978>
+<hgeokg/resource/2830368769>	<hgeokg/schema/operator>	operator-Leonardo Williams
+<hgeokg/resource/5673110>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/440122876>
+<hgeokg/resource/543907517>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/204085725>	<hgeokg/schema/wikipedia>	wikipedia-en:Seventh Avenue (Manhattan)
+<hgeokg/resource/5673110>	<hgeokg/schema/sidewalk>	sidewalk-separate
+<hgeokg/resource/440122876>	<hgeokg/schema/network>	network-lcn
+<hgeokg/resource/584850102>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5673110>
+<hgeokg/resource/5415653683>	<Point_transport-Adjacent-Polygon_landuse>	<hgeokg/resource/548660978>
+<hgeokg/resource/543907517>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/196117071>
+<hgeokg/resource/196117071>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/420589994>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/204085725>	<hgeokg/schema/hgv>	hgv-local

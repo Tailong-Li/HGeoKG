@@ -1,0 +1,295 @@
+<hgeokg/resource/5774352546>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/266934229>
+<hgeokg/resource/543906141>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/68668527>
+<hgeokg/resource/266934229>	<hgeokg/schema/addrCountry>	addrCountry-US
+<hgeokg/resource/266934254>	<hgeokg/schema/museum>	museum-art
+<hgeokg/resource/68668527>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5781151294>
+<hgeokg/resource/7165016685>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5781151294>
+<hgeokg/resource/68668527>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/7123476606>
+<hgeokg/resource/3583312>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/BuildingSchool>
+<hgeokg/resource/266934250>	<hgeokg/schema/addrPostcode>	addrPostcode-10028
+<hgeokg/resource/3583312>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/7165016685>
+<hgeokg/resource/2689474985>	<hgeokg/schema/brand>	brand-Starbucks
+<hgeokg/resource/5781151294>	<hgeokg/schema/brandWikipedia>	brandWikipedia-en:Lululemon Athletica
+<hgeokg/resource/357621689>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/AmenitySchool>
+<hgeokg/resource/5781151294>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/266934229>
+<hgeokg/resource/7165016685>	<hgeokg/schema/addrHousenumber>	addrHousenumber-1134
+<hgeokg/resource/7165016685>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/543906141>
+<hgeokg/resource/46613697>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/2689474985>	<hgeokg/schema/website>	website-https://www.starbucks.com/store-locator/store/1015661/85th-madison-1142-madison-ave-new-york-ny-100280414-us
+<hgeokg/resource/3583312>	<Polygon_buildings-Contain-Point_pois>	<hgeokg/resource/357621689>
+<hgeokg/resource/6920873862>	<http://www.w3.org/2000/01/rdf-schema#label>	USPS
+<hgeokg/resource/5781151294>	<hgeokg/schema/openingHours>	openingHours-Mo-Fr 09:30-19:00; Sa 10:00-19:00; Su 11:00-19:00
+<hgeokg/resource/2689474985>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/266934229>
+<hgeokg/resource/2689474985>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/46613697>
+<hgeokg/resource/46613697>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/68668527>
+<hgeokg/resource/5471959738>	<hgeokg/schema/addrState>	addrState-NY
+<hgeokg/resource/2689474985>	<http://www.w3.org/2000/01/rdf-schema#label>	Starbucks
+<hgeokg/resource/46613697>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6920873862>
+<hgeokg/resource/7165016685>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/68668527>
+<hgeokg/resource/543906141>	<http://www.w3.org/2000/01/rdf-schema#label>	East 85th Street
+<hgeokg/resource/68668527>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/7165016685>
+<hgeokg/resource/266933141>	<hgeokg/schema/wikipedia>	wikipedia-en:Park Avenue Christian Church
+<hgeokg/resource/266934229>	<hgeokg/schema/country>	country-BG
+<hgeokg/resource/3583312>	<hgeokg/schema/height>	height-26.5
+<hgeokg/resource/3583312>	<hgeokg/schema/buildingLevels>	buildingLevels-5
+<hgeokg/resource/5781151294>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/266934229>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/7165016685>
+<hgeokg/resource/5781151294>	<hgeokg/schema/phone>	phone-+1 212-452-1909
+<hgeokg/resource/68668527>	<hgeokg/schema/lanes>	lanes-3
+<hgeokg/resource/5781151294>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/7123476606>
+<hgeokg/resource/266934229>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/46613697>
+<hgeokg/resource/68668527>	<hgeokg/schema/wikipedia>	wikipedia-en:Madison Avenue
+<hgeokg/resource/68668527>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/46613697>
+<hgeokg/resource/2689474985>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/543906141>
+<hgeokg/resource/46613697>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/266934254>
+<hgeokg/resource/46613697>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/3583312>
+<hgeokg/resource/68668527>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/3583312>
+<hgeokg/resource/7123476606>	<hgeokg/schema/brand>	brand-Chase
+<hgeokg/resource/543906141>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5774352546>
+<hgeokg/resource/357621689>	<Point_pois-Adjacent-Point_pofw>	<hgeokg/resource/266933141>
+<hgeokg/resource/6920873862>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5471959738>
+<hgeokg/resource/7123476606>	<http://www.w3.org/2000/01/rdf-schema#label>	Chase
+<hgeokg/resource/5781151294>	<hgeokg/schema/brand>	brand-Lululemon
+<hgeokg/resource/5781151294>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5774352546>
+<hgeokg/resource/7165016685>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Restaurant>
+<hgeokg/resource/266933141>	<Point_pofw-Intersect-Polygon_buildings>	<hgeokg/resource/3583312>
+<hgeokg/resource/543906141>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/266933141>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/PlaceOfWorship>
+<hgeokg/resource/46613697>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Secondary>
+<hgeokg/resource/6920873862>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/266934254>
+<hgeokg/resource/3583312>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/7123476606>
+<hgeokg/resource/5781151294>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/357621689>
+<hgeokg/resource/7165016685>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/2689474985>
+<hgeokg/resource/5471959738>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Doctors>
+<hgeokg/resource/543906141>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/7165016685>
+<hgeokg/resource/5781151294>	<hgeokg/schema/email>	email-madisonave-store@lululemon.com
+<hgeokg/resource/68668527>	<hgeokg/schema/hgv>	hgv-local
+<hgeokg/resource/266934254>	<http://www.w3.org/2000/01/rdf-schema#label>	Neue Galerie New York
+<hgeokg/resource/357621689>	<Point_pois-Within-Polygon_buildings>	<hgeokg/resource/3583312>
+<hgeokg/resource/5781151294>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/543906141>
+<hgeokg/resource/3583312>	<hgeokg/schema/addrState>	addrState-NY
+<hgeokg/resource/3583312>	<hgeokg/schema/addrHousenumber>	addrHousenumber-55
+<hgeokg/resource/5774352546>	<http://www.w3.org/2000/01/rdf-schema#label>	Madewell
+<hgeokg/resource/266933141>	<hgeokg/schema/startDate>	startDate-1911
+<hgeokg/resource/266933141>	<hgeokg/schema/height>	height-26.5
+<hgeokg/resource/5774352546>	<hgeokg/schema/addrHousenumber>	addrHousenumber-1144
+<hgeokg/resource/3583312>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/5774352546>
+<hgeokg/resource/3583312>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/543906141>
+<hgeokg/resource/68668527>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/266934229>
+<hgeokg/resource/5471959738>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6920873862>
+<hgeokg/resource/266934229>	<hgeokg/schema/addrHousenumber>	addrHousenumber-11
+<hgeokg/resource/266934229>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Diplomatic>
+<hgeokg/resource/266934250>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Museum>
+<hgeokg/resource/5774352546>	<hgeokg/schema/openingHours>	openingHours-Mo-Sa 10:00-19:00; Su 11:00-18:00
+<hgeokg/resource/543906141>	<hgeokg/schema/wikipedia>	wikipedia-en:85th Street (Manhattan)
+<hgeokg/resource/5774352546>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/46613697>
+<hgeokg/resource/5471959738>	<hgeokg/schema/addrHousenumber>	addrHousenumber-1049
+<hgeokg/resource/5471959738>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/46613697>
+<hgeokg/resource/5774352546>	<hgeokg/schema/branch>	branch-Madison Avenue
+<hgeokg/resource/7165016685>	<http://www.w3.org/2000/01/rdf-schema#label>	The New Amity Restaurant
+<hgeokg/resource/266933141>	<http://www.w3.org/2000/01/rdf-schema#label>	Park Avenue Christian Church
+<hgeokg/resource/543906141>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5781151294>
+<hgeokg/resource/357621689>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/68668527>
+<hgeokg/resource/5774352546>	<hgeokg/schema/brandWikidata>	brandWikidata-Q64026213
+<hgeokg/resource/2689474985>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5774352546>
+<hgeokg/resource/5781151294>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/266934250>
+<hgeokg/resource/6920873862>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/266934229>
+<hgeokg/resource/543906141>	<hgeokg/schema/hgv>	hgv-destination
+<hgeokg/resource/5774352546>	<hgeokg/schema/brand>	brand-Madewell
+<hgeokg/resource/68668527>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/266934229>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/5774352546>
+<hgeokg/resource/543906141>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-E
+<hgeokg/resource/266934250>	<hgeokg/schema/addrState>	addrState-NY
+<hgeokg/resource/3583312>	<http://www.w3.org/2000/01/rdf-schema#label>	Regis High School
+<hgeokg/resource/266933141>	<hgeokg/schema/nycdoittBin>	nycdoittBin-1046823
+<hgeokg/resource/46613697>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5471959738>
+<hgeokg/resource/543906141>	<Line_roads-Adjacent-Point_pofw>	<hgeokg/resource/266933141>
+<hgeokg/resource/46613697>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/7123476606>
+<hgeokg/resource/357621689>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/46613697>
+<hgeokg/resource/3583312>	<hgeokg/schema/description>	description-Regis High School is a private Jesuit university-preparatory school for Roman Catholic young men located on Manhattan's Upper East Side. Annual class enrollment is limited to approximately 135 male students.
+<hgeokg/resource/46613697>	<hgeokg/schema/surface>	surface-asphalt
+<hgeokg/resource/7165016685>	<hgeokg/schema/fax>	fax-+1 212-861-3260
+<hgeokg/resource/5781151294>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/2689474985>
+<hgeokg/resource/266934250>	<hgeokg/schema/operator>	operator-The Leon Levy Foundation
+<hgeokg/resource/543906141>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/46613697>
+<hgeokg/resource/6920873862>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/5774352546>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Clothes>
+<hgeokg/resource/5471959738>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/5781151294>	<hgeokg/schema/branch>	branch-Madison Avenue
+<hgeokg/resource/68668527>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/266934250>
+<hgeokg/resource/46613697>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-E
+<hgeokg/resource/266933141>	<hgeokg/schema/denomination>	denomination-protestant
+<hgeokg/resource/5781151294>	<hgeokg/schema/brandWikidata>	brandWikidata-Q6702957
+<hgeokg/resource/266934229>	<hgeokg/schema/addrPostcode>	addrPostcode-10028
+<hgeokg/resource/46613697>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/266934229>	<hgeokg/schema/target>	target-UN
+<hgeokg/resource/7123476606>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/5774352546>	<hgeokg/schema/addrPostcode>	addrPostcode-10028
+<hgeokg/resource/5774352546>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/2689474985>
+<hgeokg/resource/543906141>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/266934250>
+<hgeokg/resource/3583312>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/5781151294>
+<hgeokg/resource/46613697>	<hgeokg/schema/wikipedia>	wikipedia-en:85th Street (Manhattan)
+<hgeokg/resource/7165016685>	<hgeokg/schema/phone>	phone-+1 212-861-3255
+<hgeokg/resource/5781151294>	<http://www.w3.org/2000/01/rdf-schema#label>	Lululemon
+<hgeokg/resource/266934254>	<hgeokg/schema/nycdoittBin>	nycdoittBin-1046843
+<hgeokg/resource/46613697>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/2689474985>
+<hgeokg/resource/5774352546>	<hgeokg/schema/phone>	phone-+1 212-249-2409
+<hgeokg/resource/3583312>	<hgeokg/schema/addrPostcode>	addrPostcode-10028
+<hgeokg/resource/5774352546>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5781151294>
+<hgeokg/resource/266934254>	<hgeokg/schema/addrHousenumber>	addrHousenumber-1048
+<hgeokg/resource/266933141>	<Line_roads-Adjacent-Point_pofw>	<hgeokg/resource/543906141>
+<hgeokg/resource/46613697>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/5471959738>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/266934254>
+<hgeokg/resource/46613697>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5774352546>
+<hgeokg/resource/3583312>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Polygon>
+<hgeokg/resource/5781151294>	<hgeokg/schema/addrHousenumber>	addrHousenumber-1146
+<hgeokg/resource/46613697>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5781151294>
+<hgeokg/resource/3583312>	<hgeokg/schema/nycdoittBin>	nycdoittBin-1046821
+<hgeokg/resource/7165016685>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/3583312>
+<hgeokg/resource/6920873862>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/46613697>
+<hgeokg/resource/266933141>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/BuildingChurch>
+<hgeokg/resource/543906141>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/7123476606>
+<hgeokg/resource/3583312>	<Point_pofw-Intersect-Polygon_buildings>	<hgeokg/resource/266933141>
+<hgeokg/resource/266934250>	<hgeokg/schema/addrHousenumber>	addrHousenumber-15
+<hgeokg/resource/266933141>	<hgeokg/schema/religion>	religion-christian
+<hgeokg/resource/266934254>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6920873862>
+<hgeokg/resource/6920873862>	<hgeokg/schema/brandWikipedia>	brandWikipedia-en:United States Postal Service
+<hgeokg/resource/266934250>	<hgeokg/schema/website>	website-http://isaw.nyu.edu/
+<hgeokg/resource/5471959738>	<hgeokg/schema/phone>	phone-+1-212-257-3263
+<hgeokg/resource/7123476606>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/543906141>
+<hgeokg/resource/543906141>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/5774352546>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/357621689>
+<hgeokg/resource/7123476606>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/3583312>
+<hgeokg/resource/7123476606>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Bank>
+<hgeokg/resource/5774352546>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/266934250>
+<hgeokg/resource/357621689>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5774352546>
+<hgeokg/resource/7123476606>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5781151294>
+<hgeokg/resource/5781151294>	<hgeokg/schema/website>	website-https://info.lululemon.com/stores/us/new-york/madisonave
+<hgeokg/resource/266934254>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/266934250>	<hgeokg/schema/height>	height-29.8
+<hgeokg/resource/266934254>	<hgeokg/schema/ele>	ele-29
+<hgeokg/resource/266934250>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Library>
+<hgeokg/resource/266934229>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/2689474985>
+<hgeokg/resource/266934250>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5774352546>
+<hgeokg/resource/266934254>	<hgeokg/schema/height>	height-23.1
+<hgeokg/resource/266934250>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/46613697>
+<hgeokg/resource/46613697>	<http://www.w3.org/2000/01/rdf-schema#label>	East 85th Street
+<hgeokg/resource/266934229>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Polygon>
+<hgeokg/resource/266934250>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/5471959738>	<hgeokg/schema/description>	description-cosmetic operation
+<hgeokg/resource/5774352546>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/543906141>
+<hgeokg/resource/68668527>	<http://www.w3.org/2000/01/rdf-schema#label>	Madison Avenue
+<hgeokg/resource/266934229>	<hgeokg/schema/diplomatic>	diplomatic-permanent_mission
+<hgeokg/resource/7123476606>	<hgeokg/schema/brandWikipedia>	brandWikipedia-en:Chase Bank
+<hgeokg/resource/357621689>	<hgeokg/schema/gnisFeatureId>	gnisFeatureId-2084000
+<hgeokg/resource/5781151294>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Clothes>
+<hgeokg/resource/357621689>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/543906141>
+<hgeokg/resource/3583312>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/46613697>
+<hgeokg/resource/266934250>	<hgeokg/schema/phone>	phone-212-992-7800
+<hgeokg/resource/5471959738>	<http://www.w3.org/2000/01/rdf-schema#label>	Steven Wallach MD, FACS
+<hgeokg/resource/3583312>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/2689474985>
+<hgeokg/resource/266934229>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/5781151294>
+<hgeokg/resource/46613697>	<hgeokg/schema/hgv>	hgv-destination
+<hgeokg/resource/5774352546>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/46613697>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/266934250>
+<hgeokg/resource/6920873862>	<hgeokg/schema/brandWikidata>	brandWikidata-Q668687
+<hgeokg/resource/543906141>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/357621689>
+<hgeokg/resource/5774352546>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/3583312>
+<hgeokg/resource/68668527>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/543906141>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/2689474985>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Cafe>
+<hgeokg/resource/46613697>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/543906141>
+<hgeokg/resource/2689474985>	<hgeokg/schema/cuisine>	cuisine-coffee_shop
+<hgeokg/resource/266934254>	<hgeokg/schema/architect>	architect-Carrère and Hastings
+<hgeokg/resource/68668527>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/543906141>
+<hgeokg/resource/2689474985>	<hgeokg/schema/brandWikipedia>	brandWikipedia-en:Starbucks
+<hgeokg/resource/357621689>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/543906141>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/7165016685>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/5471959738>	<hgeokg/schema/addrPostcode>	addrPostcode-10028
+<hgeokg/resource/2689474985>	<hgeokg/schema/addrHousenumber>	addrHousenumber-1142
+<hgeokg/resource/266933141>	<hgeokg/schema/addrHousenumber>	addrHousenumber-1010
+<hgeokg/resource/46613697>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/357621689>
+<hgeokg/resource/2689474985>	<hgeokg/schema/openingHours>	openingHours-Mo-Fr 05:30-20:00; Sa, Su 06:00-20:00
+<hgeokg/resource/3583312>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/68668527>
+<hgeokg/resource/266933141>	<hgeokg/schema/ele>	ele-28
+<hgeokg/resource/266934254>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/46613697>
+<hgeokg/resource/5774352546>	<hgeokg/schema/clothes>	clothes-men;women
+<hgeokg/resource/5781151294>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/3583312>
+<hgeokg/resource/357621689>	<hgeokg/schema/ele>	ele-29
+<hgeokg/resource/2689474985>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/3583312>
+<hgeokg/resource/2689474985>	<hgeokg/schema/takeaway>	takeaway-yes
+<hgeokg/resource/6920873862>	<hgeokg/schema/brand>	brand-USPS
+<hgeokg/resource/266934229>	<hgeokg/schema/altName>	altName-UN Mission Bulgaria
+<hgeokg/resource/46613697>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/266934229>
+<hgeokg/resource/266934250>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/68668527>
+<hgeokg/resource/266933141>	<hgeokg/schema/addrPostcode>	addrPostcode-10028
+<hgeokg/resource/266934254>	<hgeokg/schema/buildingArchitecture>	buildingArchitecture-Louis XIII
+<hgeokg/resource/357621689>	<http://www.w3.org/2000/01/rdf-schema#label>	Regis High School
+<hgeokg/resource/266934254>	<hgeokg/schema/gnisFeatureId>	gnisFeatureId-2083546
+<hgeokg/resource/266934254>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Museum>
+<hgeokg/resource/266934229>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/6920873862>
+<hgeokg/resource/2689474985>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/68668527>
+<hgeokg/resource/68668527>	<hgeokg/schema/surface>	surface-asphalt
+<hgeokg/resource/5781151294>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/68668527>
+<hgeokg/resource/266934254>	<hgeokg/schema/wikipedia>	wikipedia-en:Neue Galerie New York
+<hgeokg/resource/543906141>	<hgeokg/schema/surface>	surface-asphalt
+<hgeokg/resource/7165016685>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/266934250>
+<hgeokg/resource/6920873862>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/PostBox>
+<hgeokg/resource/2689474985>	<hgeokg/schema/brandWikidata>	brandWikidata-Q37158
+<hgeokg/resource/266934250>	<http://www.w3.org/2000/01/rdf-schema#label>	Institute for the Study of the Ancient World
+<hgeokg/resource/68668527>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/357621689>
+<hgeokg/resource/266934250>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5781151294>
+<hgeokg/resource/266933141>	<Point_pois-Adjacent-Point_pofw>	<hgeokg/resource/357621689>
+<hgeokg/resource/266934229>	<http://www.w3.org/2000/01/rdf-schema#label>	Permanent Mission of the Republic of Bulgaria to the United Nations
+<hgeokg/resource/266933141>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/266934250>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/543906141>
+<hgeokg/resource/2689474985>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/266934254>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5471959738>
+<hgeokg/resource/2689474985>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5781151294>
+<hgeokg/resource/266934254>	<hgeokg/schema/addrState>	addrState-NY
+<hgeokg/resource/266933141>	<hgeokg/schema/website>	website-https://www.parkavenuechristian.com/
+<hgeokg/resource/5781151294>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/7165016685>
+<hgeokg/resource/7165016685>	<hgeokg/schema/openingHours>	openingHours-06:00-21:00
+<hgeokg/resource/266934250>	<hgeokg/schema/nycdoittBin>	nycdoittBin-1046815
+<hgeokg/resource/266934250>	<hgeokg/schema/buildingLevels>	buildingLevels-6
+<hgeokg/resource/7165016685>	<hgeokg/schema/addrPostcode>	addrPostcode-10028
+<hgeokg/resource/266934250>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/2689474985>
+<hgeokg/resource/5774352546>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/7165016685>
+<hgeokg/resource/266933141>	<hgeokg/schema/oldName>	oldName-South Reformed Church
+<hgeokg/resource/266934254>	<hgeokg/schema/website>	website-https://www.neuegalerie.org/
+<hgeokg/resource/2689474985>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/7165016685>
+<hgeokg/resource/5781151294>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/46613697>
+<hgeokg/resource/2689474985>	<hgeokg/schema/phone>	phone-+1 212-288-1506
+<hgeokg/resource/543906141>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/2689474985>
+<hgeokg/resource/7123476606>	<hgeokg/schema/brandWikidata>	brandWikidata-Q524629
+<hgeokg/resource/7165016685>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5774352546>
+<hgeokg/resource/68668527>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5774352546>
+<hgeokg/resource/357621689>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5781151294>
+<hgeokg/resource/7123476606>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/46613697>
+<hgeokg/resource/266934229>	<hgeokg/schema/height>	height-25.1
+<hgeokg/resource/5781151294>	<hgeokg/schema/clothes>	clothes-men;women
+<hgeokg/resource/266934229>	<hgeokg/schema/nycdoittBin>	nycdoittBin-1046814
+<hgeokg/resource/543906141>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/3583312>
+<hgeokg/resource/7165016685>	<hgeokg/schema/cuisine>	cuisine-diner; greek
+<hgeokg/resource/266934250>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/7165016685>
+<hgeokg/resource/266934229>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/68668527>
+<hgeokg/resource/2689474985>	<hgeokg/schema/drinkTea>	drinkTea-yes
+<hgeokg/resource/266934254>	<hgeokg/schema/addrPostcode>	addrPostcode-10028
+<hgeokg/resource/266933141>	<hgeokg/schema/gnisFeatureId>	gnisFeatureId-2083545
+<hgeokg/resource/5471959738>	<hgeokg/schema/website>	website-https://www.stevenwallachmd.com/
+<hgeokg/resource/68668527>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/2689474985>
+<hgeokg/resource/7165016685>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/266934229>
+<hgeokg/resource/68668527>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/46613697>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/7165016685>
+<hgeokg/resource/68668527>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Secondary>
+<hgeokg/resource/5774352546>	<hgeokg/schema/website>	website-https://stores.madewell.com/en/madewell-madison-avenue
+<hgeokg/resource/266934229>	<Point_pois-Intersect-Polygon_buildings>	<hgeokg/resource/266934250>
+<hgeokg/resource/7123476606>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/68668527>
+<hgeokg/resource/357621689>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/2689474985>
+<hgeokg/resource/5774352546>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/68668527>
+<hgeokg/resource/3583312>	<hgeokg/schema/type>	type-multipolygon
+<hgeokg/resource/2689474985>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/357621689>
+<hgeokg/resource/266934250>	<Point_pois-Intersect-Polygon_buildings>	<hgeokg/resource/266934229>
+<hgeokg/resource/2689474985>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/266934250>
+<hgeokg/resource/7165016685>	<hgeokg/schema/level>	level-0

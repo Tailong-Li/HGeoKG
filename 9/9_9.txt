@@ -1,0 +1,374 @@
+<hgeokg/resource/39243853>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/562510587>	<hgeokg/schema/website>	website-http://www.mountsinai.org/locations/st-lukes
+<hgeokg/resource/271461232>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/7024230437>
+<hgeokg/resource/196116986>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/726428014>	<Point_natual-Adjacent-Line_roads>	<hgeokg/resource/5670859>
+<hgeokg/resource/438314990>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/562510587>
+<hgeokg/resource/7024230437>	<hgeokg/schema/operator>	operator-Motivate
+<hgeokg/resource/167920333>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/167920334>
+<hgeokg/resource/669622649>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/167920333>
+<hgeokg/resource/166084358>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/438314990>
+<hgeokg/resource/167920333>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/669622648>
+<hgeokg/resource/7022723856>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/196116986>
+<hgeokg/resource/5670859>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/1504407840>
+<hgeokg/resource/562510587>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/560851637>
+<hgeokg/resource/3624833>	<Point_pofw-Adjacent-Polygon_buildings>	<hgeokg/resource/271461235>
+<hgeokg/resource/39243853>	<Point_pofw-Adjacent-Point_pois>	<hgeokg/resource/3624833>
+<hgeokg/resource/1504407840>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/726428014>	<http://www.w3.org/2000/01/rdf-schema#label>	Sequoia Tree
+<hgeokg/resource/418371676>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Tertiary>
+<hgeokg/resource/167920333>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/560851637>	<Polygon_buildings-Adjacent-Polygon_buildings>	<hgeokg/resource/438314990>
+<hgeokg/resource/1310874087>	<Point_pois-Within-Point_pois>	<hgeokg/resource/39243853>
+<hgeokg/resource/5670859>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/271460385>	<hgeokg/schema/buildingLevels>	buildingLevels-5
+<hgeokg/resource/438314990>	<Polygon_buildings-Adjacent-Polygon_buildings>	<hgeokg/resource/271461235>
+<hgeokg/resource/196116986>	<hgeokg/schema/wikipedia>	wikipedia-en:110th Street (Manhattan)
+<hgeokg/resource/3624833>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Attraction>
+<hgeokg/resource/2212963>	<http://www.w3.org/2000/01/rdf-schema#label>	Morningside Pond
+<hgeokg/resource/608955193>	<hgeokg/schema/artistName>	artistName-Gregg Wyatt
+<hgeokg/resource/39243853>	<hgeokg/schema/wikipedia>	wikipedia-en:Morningside Park (Manhattan)
+<hgeokg/resource/166084358>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/39243853>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Park>
+<hgeokg/resource/5670859>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/669622649>
+<hgeokg/resource/271460385>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/BuildingSchool>
+<hgeokg/resource/166084358>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/196116986>	<hgeokg/schema/surface>	surface-asphalt
+<hgeokg/resource/7024230437>	<hgeokg/schema/network>	network-Citi Bike
+<hgeokg/resource/167920334>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/1310874087>
+<hgeokg/resource/271461232>	<hgeokg/schema/height>	height-62.179
+<hgeokg/resource/560851637>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/166084358>
+<hgeokg/resource/418371676>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/167920334>
+<hgeokg/resource/7022723856>	<hgeokg/schema/brand>	brand-USPS
+<hgeokg/resource/39243853>	<http://www.w3.org/2000/01/rdf-schema#label>	Morningside Park
+<hgeokg/resource/562510587>	<hgeokg/schema/phone>	phone-+1-212-523-4000
+<hgeokg/resource/271461235>	<hgeokg/schema/addrHousenumber>	addrHousenumber-30
+<hgeokg/resource/669622648>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/669622649>
+<hgeokg/resource/167920334>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/669622648>
+<hgeokg/resource/669622649>	<Line_roads-Intersect-Point_pois>	<hgeokg/resource/39243853>
+<hgeokg/resource/562510587>	<http://www.w3.org/2000/01/rdf-schema#label>	Mount Sinai St. Luke's
+<hgeokg/resource/166084358>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/418371676>
+<hgeokg/resource/1504407840>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/7004398599>
+<hgeokg/resource/166084358>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/271461235>
+<hgeokg/resource/608955193>	<Line_roads-Adjacent-Polygon_water>	<hgeokg/resource/196116986>
+<hgeokg/resource/167920334>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5670859>
+<hgeokg/resource/167920334>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/7004398599>
+<hgeokg/resource/271461234>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/3624833>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Cathedral>
+<hgeokg/resource/1310874087>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/1504407840>
+<hgeokg/resource/5672019>	<hgeokg/schema/hgv>	hgv-local
+<hgeokg/resource/271461232>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Apartments>
+<hgeokg/resource/438314990>	<hgeokg/schema/addrCountry>	addrCountry-US
+<hgeokg/resource/167920333>	<http://www.w3.org/2000/01/rdf-schema#label>	West 116th Street
+<hgeokg/resource/196116986>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/RouteBicycle>
+<hgeokg/resource/5672019>	<hgeokg/schema/surface>	surface-asphalt
+<hgeokg/resource/560851637>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/271461234>
+<hgeokg/resource/1504407840>	<hgeokg/schema/source>	source-osmsync:findafountain
+<hgeokg/resource/562510587>	<Point_pofw-Adjacent-Point_pois>	<hgeokg/resource/3624833>
+<hgeokg/resource/418371676>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/39243853>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5670859>
+<hgeokg/resource/7024230437>	<hgeokg/schema/operatorType>	operatorType-private
+<hgeokg/resource/7024230437>	<hgeokg/schema/brand>	brand-Citi Bike
+<hgeokg/resource/3624833>	<Point_pofw-Adjacent-Point_pois>	<hgeokg/resource/562510587>
+<hgeokg/resource/39243853>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/196116986>
+<hgeokg/resource/3624833>	<hgeokg/schema/religion>	religion-christian
+<hgeokg/resource/7004398599>	<http://www.w3.org/2000/01/rdf-schema#label>	guard house
+<hgeokg/resource/577906687>	<hgeokg/schema/waste>	waste-dog_excrement
+<hgeokg/resource/608955193>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/NaturalWater>
+<hgeokg/resource/2212963>	<hgeokg/schema/type>	type-multipolygon
+<hgeokg/resource/271461232>	<hgeokg/schema/startDate>	startDate-2008
+<hgeokg/resource/271460385>	<hgeokg/schema/addrHousenumber>	addrHousenumber-123
+<hgeokg/resource/5672019>	<hgeokg/schema/wikipedia>	wikipedia-en:110th Street (Manhattan)
+<hgeokg/resource/167920334>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/1504407840>
+<hgeokg/resource/562510587>	<hgeokg/schema/wikipedia>	wikipedia-en:St. Luke's–Roosevelt Hospital Center
+<hgeokg/resource/418371676>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/271461235>
+<hgeokg/resource/3624833>	<Point_pofw-Adjacent-Point_pois>	<hgeokg/resource/39243853>
+<hgeokg/resource/271461232>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/39243853>
+<hgeokg/resource/669622648>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/1504407840>
+<hgeokg/resource/438314990>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Apartments>
+<hgeokg/resource/3624833>	<hgeokg/schema/altName>	altName-Cathedral Church of Saint John the Divine in the City and Diocese of New York
+<hgeokg/resource/271461235>	<hgeokg/schema/nycdoittBin>	nycdoittBin-1084029
+<hgeokg/resource/1504407840>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/669622649>
+<hgeokg/resource/669622649>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/167920334>
+<hgeokg/resource/271461235>	<Point_pofw-Adjacent-Polygon_buildings>	<hgeokg/resource/3624833>
+<hgeokg/resource/669622649>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/669622648>
+<hgeokg/resource/3624833>	<Point_pofw-Adjacent-Polygon_buildings>	<hgeokg/resource/438314990>
+<hgeokg/resource/3624833>	<http://www.w3.org/2000/01/rdf-schema#label>	Cathedral of Saint John the Divine
+<hgeokg/resource/562510587>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/39243853>
+<hgeokg/resource/39243853>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/271461232>
+<hgeokg/resource/7024230437>	<http://www.w3.org/2000/01/rdf-schema#label>	Citi Bike - Cathedral Pky / Amsterdam Av
+<hgeokg/resource/196116986>	<http://www.w3.org/2000/01/rdf-schema#label>	Cathedral Parkway
+<hgeokg/resource/167920333>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/7004398599>
+<hgeokg/resource/7004398599>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/418371676>
+<hgeokg/resource/5672019>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/418371676>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/196116986>
+<hgeokg/resource/39243853>	<Line_roads-Intersect-Point_pois>	<hgeokg/resource/669622649>
+<hgeokg/resource/669622649>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/5670859>
+<hgeokg/resource/271461234>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/560851637>
+<hgeokg/resource/418371676>	<http://www.w3.org/2000/01/rdf-schema#label>	Morningside Drive
+<hgeokg/resource/669622649>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/5670859>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/669622649>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/1310874087>
+<hgeokg/resource/1310874087>	<hgeokg/schema/artworkType>	artworkType-statue
+<hgeokg/resource/418371676>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/271461235>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Polygon>
+<hgeokg/resource/271461235>	<Point_pois-Intersect-Polygon_buildings>	<hgeokg/resource/562510587>
+<hgeokg/resource/560851637>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/418371676>
+<hgeokg/resource/5672019>	<hgeokg/schema/maxspeed>	maxspeed-25 mph
+<hgeokg/resource/418371676>	<hgeokg/schema/maxspeed>	maxspeed-25 mph
+<hgeokg/resource/438314990>	<hgeokg/schema/addrPostcode>	addrPostcode-10027
+<hgeokg/resource/167920334>	<http://www.w3.org/2000/01/rdf-schema#label>	West 116th Street
+<hgeokg/resource/271461234>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/39243853>
+<hgeokg/resource/2212963>	<Polygon_water-Adjacent-Point_pois>	<hgeokg/resource/577906687>
+<hgeokg/resource/438314990>	<hgeokg/schema/addrHousenumber>	addrHousenumber-400
+<hgeokg/resource/271460385>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Polygon>
+<hgeokg/resource/726428014>	<hgeokg/schema/ele>	ele-30.407226
+<hgeokg/resource/669622649>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Footway>
+<hgeokg/resource/438314990>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/166084358>
+<hgeokg/resource/3624833>	<hgeokg/schema/nycdoittBin>	nycdoittBin-1082706
+<hgeokg/resource/7022723856>	<http://www.w3.org/2000/01/rdf-schema#label>	USPS
+<hgeokg/resource/5672019>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/CyclewayLane>
+<hgeokg/resource/166084358>	<http://www.w3.org/2000/01/rdf-schema#label>	West 113th Street
+<hgeokg/resource/167920333>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/1504407840>
+<hgeokg/resource/167920333>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/669622649>
+<hgeokg/resource/7024230437>	<Point_pois-Adjacent-Polygon_water>	<hgeokg/resource/608955193>
+<hgeokg/resource/271461235>	<hgeokg/schema/height>	height-38.2
+<hgeokg/resource/7024230437>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/167920333>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Footway>
+<hgeokg/resource/271461234>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/418371676>
+<hgeokg/resource/560851637>	<Polygon_buildings-Adjacent-Polygon_buildings>	<hgeokg/resource/271461235>
+<hgeokg/resource/7004398599>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/1310874087>
+<hgeokg/resource/7022723856>	<hgeokg/schema/operatorType>	operatorType-public
+<hgeokg/resource/669622648>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Steps>
+<hgeokg/resource/608955193>	<Polygon_water-Adjacent-Point_pofw>	<hgeokg/resource/3624833>
+<hgeokg/resource/1504407840>	<hgeokg/schema/description>	description-http://www.nycgovparks.org/facilities/waterfountains
+<hgeokg/resource/39243853>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/560851637>
+<hgeokg/resource/271461235>	<Polygon_buildings-Adjacent-Polygon_buildings>	<hgeokg/resource/560851637>
+<hgeokg/resource/167920334>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/167920333>
+<hgeokg/resource/560851637>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/562510587>
+<hgeokg/resource/3624833>	<hgeokg/schema/nameFr>	nameFr-Cathédrale Saint-Jean le Divin
+<hgeokg/resource/167920334>	<Line_roads-Intersect-Point_pois>	<hgeokg/resource/39243853>
+<hgeokg/resource/271460385>	<hgeokg/schema/nycdoittBin>	nycdoittBin-1055890
+<hgeokg/resource/39243853>	<Point_pois-Contain-Polygon_water>	<hgeokg/resource/2212963>
+<hgeokg/resource/39243853>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/7004398599>
+<hgeokg/resource/196116986>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/271461232>
+<hgeokg/resource/196116986>	<hgeokg/schema/hgv>	hgv-local
+<hgeokg/resource/196116986>	<hgeokg/schema/altName>	altName-West 110th Street
+<hgeokg/resource/1310874087>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/7004398599>
+<hgeokg/resource/7022723856>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/PostBox>
+<hgeokg/resource/418371676>	<hgeokg/schema/wikipedia>	wikipedia-en:Morningside Drive (Manhattan)
+<hgeokg/resource/39243853>	<Point_pois-Contain-Line_roads>	<hgeokg/resource/167920333>
+<hgeokg/resource/271460385>	<hgeokg/schema/addrPostcode>	addrPostcode-10027
+<hgeokg/resource/3624833>	<Point_pofw-Adjacent-Polygon_buildings>	<hgeokg/resource/271461232>
+<hgeokg/resource/39243853>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/562510587>
+<hgeokg/resource/562510587>	<Point_pois-Intersect-Polygon_buildings>	<hgeokg/resource/271461235>
+<hgeokg/resource/167920334>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Footway>
+<hgeokg/resource/3624833>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/PlaceOfWorship>
+<hgeokg/resource/167920334>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/669622649>
+<hgeokg/resource/7004398599>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/1504407840>
+<hgeokg/resource/669622648>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/167920333>
+<hgeokg/resource/3624833>	<Point_pofw-Adjacent-Point_pois>	<hgeokg/resource/271461234>
+<hgeokg/resource/5672019>	<hgeokg/schema/maxspeedType>	maxspeedType-sign
+<hgeokg/resource/418371676>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/7004398599>
+<hgeokg/resource/418371676>	<hgeokg/schema/sidewalk>	sidewalk-separate
+<hgeokg/resource/7022723856>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/271461235>	<Polygon_buildings-Adjacent-Polygon_buildings>	<hgeokg/resource/438314990>
+<hgeokg/resource/5670859>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/669622648>
+<hgeokg/resource/3624833>	<hgeokg/schema/height>	height-51.4
+<hgeokg/resource/39243853>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/271461235>
+<hgeokg/resource/560851637>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Polygon>
+<hgeokg/resource/271461234>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/AmenitySchool>
+<hgeokg/resource/271461232>	<Point_pofw-Adjacent-Polygon_buildings>	<hgeokg/resource/3624833>
+<hgeokg/resource/726428014>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/562510587>	<hgeokg/schema/addrPostcode>	addrPostcode-10029
+<hgeokg/resource/167920333>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5670859>
+<hgeokg/resource/7024230437>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/196116986>
+<hgeokg/resource/271461235>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/166084358>
+<hgeokg/resource/196116986>	<Line_roads-Adjacent-Polygon_water>	<hgeokg/resource/608955193>
+<hgeokg/resource/3624833>	<hgeokg/schema/denomination>	denomination-episcopal
+<hgeokg/resource/271461235>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Apartments>
+<hgeokg/resource/196116986>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/39243853>
+<hgeokg/resource/418371676>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/560851637>
+<hgeokg/resource/7024230437>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/271461232>
+<hgeokg/resource/196116986>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/CyclewayLane>
+<hgeokg/resource/3624833>	<hgeokg/schema/gnisFeatureId>	gnisFeatureId-946040
+<hgeokg/resource/726428014>	<Point_natual-Adjacent-Point_pois>	<hgeokg/resource/39243853>
+<hgeokg/resource/3624833>	<hgeokg/schema/namePl>	namePl-Katedra świętego Jana
+<hgeokg/resource/5672019>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/39243853>
+<hgeokg/resource/1504407840>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/418371676>
+<hgeokg/resource/669622648>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/167920334>
+<hgeokg/resource/418371676>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/577906687>
+<hgeokg/resource/7024230437>	<hgeokg/schema/fee>	fee-yes
+<hgeokg/resource/196116986>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/7022723856>
+<hgeokg/resource/577906687>	<hgeokg/schema/dog>	dog-off_leash
+<hgeokg/resource/196116986>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/418371676>
+<hgeokg/resource/608955193>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Polygon>
+<hgeokg/resource/562510587>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/438314990>
+<hgeokg/resource/3624833>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/271461232>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Polygon>
+<hgeokg/resource/166084358>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/560851637>
+<hgeokg/resource/3624833>	<hgeokg/schema/altNameFr>	altNameFr-Cathédrale Saint-Jean le Théologien;Cathédrale Saint-Jean le Théologien de New York
+<hgeokg/resource/1504407840>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/167920334>
+<hgeokg/resource/7004398599>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/39243853>
+<hgeokg/resource/418371676>	<hgeokg/schema/oneway>	oneway-no
+<hgeokg/resource/167920334>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/577906687>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/DogPark>
+<hgeokg/resource/2212963>	<Polygon_water-Intersect-Point_pois>	<hgeokg/resource/39243853>
+<hgeokg/resource/3624833>	<hgeokg/schema/type>	type-multipolygon
+<hgeokg/resource/167920333>	<Line_roads-Intersect-Point_pois>	<hgeokg/resource/39243853>
+<hgeokg/resource/608955193>	<Point_pois-Adjacent-Polygon_water>	<hgeokg/resource/7022723856>
+<hgeokg/resource/418371676>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/271461234>
+<hgeokg/resource/271461232>	<hgeokg/schema/nycdoittBin>	nycdoittBin-1087754
+<hgeokg/resource/271461234>	<hgeokg/schema/height>	height-20.6
+<hgeokg/resource/577906687>	<Point_pois-Intersect-Point_pois>	<hgeokg/resource/39243853>
+<hgeokg/resource/669622648>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/271461235>	<http://www.w3.org/2000/01/rdf-schema#label>	30 Morningside
+<hgeokg/resource/271461232>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/196116986>
+<hgeokg/resource/669622648>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5670859>
+<hgeokg/resource/562510587>	<hgeokg/schema/oldName>	oldName-Saint Luke's Hospital Center
+<hgeokg/resource/1310874087>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/167920334>
+<hgeokg/resource/5672019>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Secondary>
+<hgeokg/resource/562510587>	<hgeokg/schema/gnisFeatureId>	gnisFeatureId-963825
+<hgeokg/resource/271461234>	<Point_pofw-Adjacent-Point_pois>	<hgeokg/resource/3624833>
+<hgeokg/resource/39243853>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/166084358>
+<hgeokg/resource/271460385>	<hgeokg/schema/altName>	altName-PS36
+<hgeokg/resource/7004398599>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/167920334>
+<hgeokg/resource/438314990>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Polygon>
+<hgeokg/resource/3624833>	<hgeokg/schema/ele>	ele-37
+<hgeokg/resource/39243853>	<hgeokg/schema/gnisFeatureId>	gnisFeatureId-957684
+<hgeokg/resource/39243853>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/418371676>
+<hgeokg/resource/5672019>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/3624833>	<hgeokg/schema/website>	website-https://www.stjohndivine.org
+<hgeokg/resource/438314990>	<Polygon_buildings-Adjacent-Polygon_buildings>	<hgeokg/resource/560851637>
+<hgeokg/resource/5670859>	<hgeokg/schema/bicycle>	bicycle-designated
+<hgeokg/resource/418371676>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/271461232>
+<hgeokg/resource/5670859>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/167920334>
+<hgeokg/resource/418371676>	<hgeokg/schema/oldName>	oldName-Morningside Park West
+<hgeokg/resource/1504407840>	<hgeokg/schema/maintenance>	maintenance-ok
+<hgeokg/resource/7024230437>	<hgeokg/schema/networkWikidata>	networkWikidata-Q2974438
+<hgeokg/resource/1310874087>	<http://www.w3.org/2000/01/rdf-schema#label>	Carl Schurz Memorial
+<hgeokg/resource/560851637>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/39243853>
+<hgeokg/resource/166084358>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/562510587>
+<hgeokg/resource/1310874087>	<hgeokg/schema/startDate>	startDate-1913
+<hgeokg/resource/39243853>	<Line_roads-Intersect-Point_pois>	<hgeokg/resource/669622648>
+<hgeokg/resource/560851637>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Apartments>
+<hgeokg/resource/577906687>	<http://www.w3.org/2000/01/rdf-schema#label>	Morningside Dog Run
+<hgeokg/resource/2212963>	<Polygon_water-Within-Point_pois>	<hgeokg/resource/39243853>
+<hgeokg/resource/3624833>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/418371676>
+<hgeokg/resource/7004398599>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/3624833>	<Point_pofw-Adjacent-Polygon_buildings>	<hgeokg/resource/560851637>
+<hgeokg/resource/39243853>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5672019>
+<hgeokg/resource/196116986>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/7024230437>
+<hgeokg/resource/167920333>	<Line_roads-Within-Point_pois>	<hgeokg/resource/39243853>
+<hgeokg/resource/2212963>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/NaturalWater>
+<hgeokg/resource/3624833>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/166084358>
+<hgeokg/resource/271461232>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/418371676>
+<hgeokg/resource/608955193>	<http://www.w3.org/2000/01/rdf-schema#label>	The Peace Fountain
+<hgeokg/resource/562510587>	<hgeokg/schema/addrHousenumber>	addrHousenumber-1111
+<hgeokg/resource/418371676>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/3624833>
+<hgeokg/resource/438314990>	<hgeokg/schema/addrState>	addrState-NY
+<hgeokg/resource/5670859>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/418371676>	<hgeokg/schema/lanes>	lanes-2
+<hgeokg/resource/39243853>	<Point_pois-Intersect-Polygon_buildings>	<hgeokg/resource/271460385>
+<hgeokg/resource/669622648>	<http://www.w3.org/2000/01/rdf-schema#label>	West 116th Street
+<hgeokg/resource/7024230437>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/BicycleRental>
+<hgeokg/resource/562510587>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/418371676>
+<hgeokg/resource/418371676>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/271460385>
+<hgeokg/resource/560851637>	<http://www.w3.org/2000/01/rdf-schema#label>	Enclave
+<hgeokg/resource/7024230437>	<hgeokg/schema/operatorWikipedia>	operatorWikipedia-en:Motivate (company)
+<hgeokg/resource/3624833>	<hgeokg/schema/addrHousenumber>	addrHousenumber-1047
+<hgeokg/resource/196116986>	<hgeokg/schema/network>	network-lcn
+<hgeokg/resource/39243853>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/271461234>
+<hgeokg/resource/562510587>	<hgeokg/schema/openingHours>	openingHours-24/7
+<hgeokg/resource/418371676>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/1504407840>
+<hgeokg/resource/5670859>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/39243853>
+<hgeokg/resource/7022723856>	<hgeokg/schema/operatorWikipedia>	operatorWikipedia-en:United States Postal Service
+<hgeokg/resource/7024230437>	<hgeokg/schema/brandWikipedia>	brandWikipedia-en:Citi Bike
+<hgeokg/resource/418371676>	<hgeokg/schema/surface>	surface-paved
+<hgeokg/resource/608955193>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Kerb>
+<hgeokg/resource/5672019>	<hgeokg/schema/altName>	altName-West 110th Street
+<hgeokg/resource/5670859>	<hgeokg/schema/oneway>	oneway-no
+<hgeokg/resource/1504407840>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/669622648>
+<hgeokg/resource/166084358>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/39243853>
+<hgeokg/resource/7022723856>	<hgeokg/schema/brandWikipedia>	brandWikipedia-en:United States Postal Service
+<hgeokg/resource/1504407840>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/1310874087>
+<hgeokg/resource/196116986>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Secondary>
+<hgeokg/resource/577906687>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/438314990>	<http://www.w3.org/2000/01/rdf-schema#label>	Enclave 1
+<hgeokg/resource/5670859>	<Point_natual-Adjacent-Line_roads>	<hgeokg/resource/726428014>
+<hgeokg/resource/39243853>	<Point_pois-Contain-Point_pois>	<hgeokg/resource/1310874087>
+<hgeokg/resource/271460385>	<hgeokg/schema/height>	height-13.6
+<hgeokg/resource/166084358>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/39243853>	<Point_pois-Intersect-Point_pois>	<hgeokg/resource/577906687>
+<hgeokg/resource/418371676>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/166084358>
+<hgeokg/resource/3624833>	<hgeokg/schema/addrPostcode>	addrPostcode-10025
+<hgeokg/resource/1504407840>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/167920333>
+<hgeokg/resource/669622648>	<hgeokg/schema/incline>	incline-down
+<hgeokg/resource/418371676>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/1310874087>
+<hgeokg/resource/271460385>	<Point_pois-Intersect-Polygon_buildings>	<hgeokg/resource/39243853>
+<hgeokg/resource/418371676>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/167920333>
+<hgeokg/resource/271461234>	<hgeokg/schema/nycdoittBin>	nycdoittBin-1086190
+<hgeokg/resource/3624833>	<hgeokg/schema/addrState>	addrState-NY
+<hgeokg/resource/418371676>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/5672019>
+<hgeokg/resource/418371676>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/562510587>
+<hgeokg/resource/271461235>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/418371676>
+<hgeokg/resource/39243853>	<Polygon_water-Intersect-Point_pois>	<hgeokg/resource/2212963>
+<hgeokg/resource/1504407840>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/AmenityDrinkingWater>
+<hgeokg/resource/196116986>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/1310874087>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/167920334>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/418371676>
+<hgeokg/resource/438314990>	<Point_pofw-Adjacent-Polygon_buildings>	<hgeokg/resource/3624833>
+<hgeokg/resource/167920333>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/418371676>
+<hgeokg/resource/562510587>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/2212963>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Polygon>
+<hgeokg/resource/271461234>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/271461232>
+<hgeokg/resource/7004398599>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/167920333>
+<hgeokg/resource/166084358>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/3624833>
+<hgeokg/resource/608955193>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Fountain>
+<hgeokg/resource/7024230437>	<hgeokg/schema/brandWikidata>	brandWikidata-Q2974438
+<hgeokg/resource/562510587>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/AmenityHospital>
+<hgeokg/resource/577906687>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/418371676>
+<hgeokg/resource/608955193>	<Point_pois-Adjacent-Polygon_water>	<hgeokg/resource/7024230437>
+<hgeokg/resource/271460385>	<http://www.w3.org/2000/01/rdf-schema#label>	Public School 36
+<hgeokg/resource/7004398599>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Police>
+<hgeokg/resource/1310874087>	<hgeokg/schema/subjectWikipedia>	subjectWikipedia-en:Carl Schurz
+<hgeokg/resource/726428014>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Tree>
+<hgeokg/resource/562510587>	<hgeokg/schema/operator>	operator-Mount Sinai
+<hgeokg/resource/1504407840>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5670859>
+<hgeokg/resource/271461234>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/196116986>
+<hgeokg/resource/608955193>	<hgeokg/schema/startDate>	startDate-1985
+<hgeokg/resource/3624833>	<hgeokg/schema/wikipedia>	wikipedia-en:Cathedral of St. John the Divine
+<hgeokg/resource/577906687>	<Polygon_water-Adjacent-Point_pois>	<hgeokg/resource/2212963>
+<hgeokg/resource/5672019>	<http://www.w3.org/2000/01/rdf-schema#label>	Cathedral Parkway
+<hgeokg/resource/669622649>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/1504407840>
+<hgeokg/resource/3624833>	<Polygon_water-Adjacent-Point_pofw>	<hgeokg/resource/608955193>
+<hgeokg/resource/1310874087>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/669622649>
+<hgeokg/resource/1310874087>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Memorial>
+<hgeokg/resource/418371676>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/39243853>
+<hgeokg/resource/5670859>	<http://www.w3.org/2000/01/rdf-schema#label>	Morningside Avenue
+<hgeokg/resource/271460385>	<hgeokg/schema/startDate>	startDate-1966
+<hgeokg/resource/271461232>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/271461234>
+<hgeokg/resource/271461235>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/39243853>
+<hgeokg/resource/39243853>	<Line_roads-Intersect-Point_pois>	<hgeokg/resource/167920334>
+<hgeokg/resource/1310874087>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/669622648>
+<hgeokg/resource/39243853>	<Line_roads-Intersect-Point_pois>	<hgeokg/resource/167920333>
+<hgeokg/resource/562510587>	<Line_roads-Adjacent-Point_pois>	<hgeokg/resource/166084358>
+<hgeokg/resource/669622648>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/1310874087>
+<hgeokg/resource/1310874087>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/167920333>
+<hgeokg/resource/5672019>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/418371676>
+<hgeokg/resource/271461235>	<hgeokg/schema/website>	website-https://30morningsidedrive.com
+<hgeokg/resource/7022723856>	<hgeokg/schema/operator>	operator-United States Postal Service
+<hgeokg/resource/669622649>	<http://www.w3.org/2000/01/rdf-schema#label>	West 116th Street
+<hgeokg/resource/39243853>	<Point_natual-Adjacent-Point_pois>	<hgeokg/resource/726428014>
+<hgeokg/resource/5670859>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/167920333>
+<hgeokg/resource/271461234>	<http://www.w3.org/2000/01/rdf-schema#label>	The Cathedral School
+<hgeokg/resource/560851637>	<Point_pofw-Adjacent-Polygon_buildings>	<hgeokg/resource/3624833>
+<hgeokg/resource/7022723856>	<hgeokg/schema/brandWikidata>	brandWikidata-Q668687
+<hgeokg/resource/271461232>	<http://www.w3.org/2000/01/rdf-schema#label>	Avalon Morningside Park
+<hgeokg/resource/7022723856>	<Point_pois-Adjacent-Polygon_water>	<hgeokg/resource/608955193>
+<hgeokg/resource/669622648>	<Line_roads-Intersect-Point_pois>	<hgeokg/resource/39243853>
+<hgeokg/resource/669622648>	<hgeokg/schema/wikipedia>	wikipedia-en:116th Street (Manhattan)
+<hgeokg/resource/1310874087>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/418371676>
+<hgeokg/resource/167920333>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/1310874087>
+<hgeokg/resource/271460385>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/418371676>
+<hgeokg/resource/196116986>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/271461234>

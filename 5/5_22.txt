@@ -1,0 +1,949 @@
+<hgeokg/resource/497165756>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/159843711>
+<hgeokg/resource/2629371811>	<hgeokg/schema/addrHousenumber>	addrHousenumber-630
+<hgeokg/resource/266233360>	<hgeokg/schema/wikipedia>	wikipedia-en:Central Synagogue
+<hgeokg/resource/357579218>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/2629371811>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/458180192>
+<hgeokg/resource/497165756>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6631461418>
+<hgeokg/resource/511924978>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6631461418>
+<hgeokg/resource/3573490>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/PlaceOfWorship>
+<hgeokg/resource/2629371841>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/FastFood>
+<hgeokg/resource/2629371820>	<hgeokg/schema/openingHours>	openingHours-Mo-Fr 11:00-22:00
+<hgeokg/resource/266233406>	<Polygon_buildings-Intersect-Polygon_buildings>	<hgeokg/resource/159843711>
+<hgeokg/resource/597928319>	<Point_transport-Adjacent-Point_pofw>	<hgeokg/resource/3573490>
+<hgeokg/resource/597928319>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/743358444>
+<hgeokg/resource/3573490>	<Line_roads-Adjacent-Point_pofw>	<hgeokg/resource/458180193>
+<hgeokg/resource/118116810>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/BuildingCommercial>
+<hgeokg/resource/6342212317>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/226041013>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/266233364>
+<hgeokg/resource/159843711>	<hgeokg/schema/nycdoittBin>	nycdoittBin-1081163
+<hgeokg/resource/743358444>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/3708656565>
+<hgeokg/resource/6631198486>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6631461418>
+<hgeokg/resource/137885993>	<hgeokg/schema/height>	height-40
+<hgeokg/resource/226041013>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6351737294>
+<hgeokg/resource/511924978>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/458180193>
+<hgeokg/resource/3573490>	<Point_pois-Adjacent-Point_pofw>	<hgeokg/resource/357579218>
+<hgeokg/resource/497165756>	<hgeokg/schema/nameRu>	nameRu-Парк-Авеню
+<hgeokg/resource/137885993>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/3708656565>
+<hgeokg/resource/3708656565>	<hgeokg/schema/website>	website-https://citibikenyc.com/
+<hgeokg/resource/6342212317>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Restaurant>
+<hgeokg/resource/2629371820>	<http://www.w3.org/2000/01/rdf-schema#label>	Dos Toros Taqueria
+<hgeokg/resource/265947377>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6631198486>
+<hgeokg/resource/5090752487>	<hgeokg/schema/bench>	bench-no
+<hgeokg/resource/145341258>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/BuildingCommercial>
+<hgeokg/resource/266233432>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/497165756>
+<hgeokg/resource/266233360>	<hgeokg/schema/nycdoittBin>	nycdoittBin-1036488
+<hgeokg/resource/4291285989>	<hgeokg/schema/addrPostcode>	addrPostcode-10022
+<hgeokg/resource/3708656565>	<Point_pois-Adjacent-Point_pofw>	<hgeokg/resource/3573490>
+<hgeokg/resource/2629371820>	<hgeokg/schema/addrPostcode>	addrPostcode-10022
+<hgeokg/resource/266233402>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/226041011>
+<hgeokg/resource/458180193>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/257389724>
+<hgeokg/resource/458180193>	<Line_roads-Adjacent-Point_pofw>	<hgeokg/resource/3573490>
+<hgeokg/resource/266233406>	<Polygon_buildings-Adjacent-Polygon_buildings>	<hgeokg/resource/266233364>
+<hgeokg/resource/6351737294>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/118116810>
+<hgeokg/resource/743358444>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/458180193>
+<hgeokg/resource/2629371811>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/257389724>
+<hgeokg/resource/137885993>	<hgeokg/schema/nycdoittBin>	nycdoittBin-1036459
+<hgeokg/resource/266233360>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/569345502>
+<hgeokg/resource/2629371820>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/FastFood>
+<hgeokg/resource/2629371811>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Pharmacy>
+<hgeokg/resource/6351737294>	<hgeokg/schema/openingHours>	openingHours-Tu-Fr 17:00-04:00; Sa, Su 14:00-04:00
+<hgeokg/resource/3573490>	<Point_transport-Adjacent-Point_pofw>	<hgeokg/resource/4782506036>
+<hgeokg/resource/497165756>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/137891657>	<hgeokg/schema/addrHousenumber>	addrHousenumber-345
+<hgeokg/resource/458180192>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5090752487>
+<hgeokg/resource/118116810>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/2955441511>
+<hgeokg/resource/266233406>	<hgeokg/schema/addrPostcode>	addrPostcode-10022
+<hgeokg/resource/597928319>	<http://www.w3.org/2000/01/rdf-schema#label>	51st Street
+<hgeokg/resource/266233406>	<hgeokg/schema/height>	height-17.2
+<hgeokg/resource/511924978>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/569345508>
+<hgeokg/resource/2629371841>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/145341258>
+<hgeokg/resource/4291285989>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/458180192>	<hgeokg/schema/note>	note-thru street
+<hgeokg/resource/5804736154>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/458180192>
+<hgeokg/resource/458180192>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/118116810>
+<hgeokg/resource/357579218>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/137891657>
+<hgeokg/resource/6631461418>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6631198486>
+<hgeokg/resource/226041011>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/266233402>
+<hgeokg/resource/3708656565>	<hgeokg/schema/brandWikipedia>	brandWikipedia-en:Citi Bike
+<hgeokg/resource/458180186>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/4782506036>
+<hgeokg/resource/266233364>	<hgeokg/schema/startDate>	startDate-1987
+<hgeokg/resource/266233402>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/TourismHotel>
+<hgeokg/resource/597928319>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/85393997>
+<hgeokg/resource/511924978>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Secondary>
+<hgeokg/resource/458180192>	<hgeokg/schema/wikipedia>	wikipedia-en:53rd Street (Manhattan)
+<hgeokg/resource/458180193>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/1290043792>
+<hgeokg/resource/2955441511>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/118116810>
+<hgeokg/resource/85393997>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/265947377>
+<hgeokg/resource/5090752486>	<hgeokg/schema/shelter>	shelter-no
+<hgeokg/resource/569345508>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/511924978>
+<hgeokg/resource/85393997>	<hgeokg/schema/addrHousenumber>	addrHousenumber-301
+<hgeokg/resource/3573490>	<hgeokg/schema/religion>	religion-christian
+<hgeokg/resource/2629371820>	<Point_pofw-Adjacent-Point_pois>	<hgeokg/resource/266233360>
+<hgeokg/resource/266233360>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Synagogue>
+<hgeokg/resource/6351737294>	<hgeokg/schema/cuisine>	cuisine-mediterranean
+<hgeokg/resource/266233406>	<hgeokg/schema/addrState>	addrState-NY
+<hgeokg/resource/6631198486>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/497165756>
+<hgeokg/resource/458180193>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/265947377>
+<hgeokg/resource/145341258>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/458180193>
+<hgeokg/resource/5804736154>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/257389724>
+<hgeokg/resource/265947377>	<hgeokg/schema/addrPostcode>	addrPostcode-10022
+<hgeokg/resource/266233360>	<hgeokg/schema/startDate>	startDate-1873
+<hgeokg/resource/226041013>	<http://www.w3.org/2000/01/rdf-schema#label>	East 55th Street
+<hgeokg/resource/569345508>	<hgeokg/schema/wikipedia>	wikipedia-en:51st Street (Manhattan)
+<hgeokg/resource/3573490>	<Line_roads-Adjacent-Point_pofw>	<hgeokg/resource/458180186>
+<hgeokg/resource/6351737294>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/2629371831>
+<hgeokg/resource/266233360>	<Point_pofw-Adjacent-Point_pois>	<hgeokg/resource/2955441511>
+<hgeokg/resource/137891657>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/4291285989>
+<hgeokg/resource/266233360>	<Point_pofw-Adjacent-Polygon_buildings>	<hgeokg/resource/266233364>
+<hgeokg/resource/458180186>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/569345502>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/226041011>
+<hgeokg/resource/137891657>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/BuildingCommercial>
+<hgeokg/resource/2629371820>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/118116810>
+<hgeokg/resource/2629371841>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/2629371831>
+<hgeokg/resource/569345502>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/2629371841>
+<hgeokg/resource/597928319>	<hgeokg/schema/subway>	subway-yes
+<hgeokg/resource/6351737294>	<hgeokg/schema/fax>	fax-+1-212-759-7787
+<hgeokg/resource/226041013>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/569345502>
+<hgeokg/resource/265947377>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/85393997>
+<hgeokg/resource/511924978>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/137885993>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/357579218>
+<hgeokg/resource/597928319>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/3708656565>
+<hgeokg/resource/6351737294>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/2629371820>
+<hgeokg/resource/3573490>	<Point_pois-Adjacent-Point_pofw>	<hgeokg/resource/3708656565>
+<hgeokg/resource/2629371841>	<hgeokg/schema/website>	website-http://www.pret.com/us/find_a_pret/shops/US0007.shtm
+<hgeokg/resource/137885993>	<Point_pofw-Intersect-Polygon_buildings>	<hgeokg/resource/3573490>
+<hgeokg/resource/265947377>	<hgeokg/schema/openingHours>	openingHours-Mo-Th 10:00-18:00; Fr 10:00-17:00
+<hgeokg/resource/597928319>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/265947377>	<hgeokg/schema/wheelchair>	wheelchair-limited
+<hgeokg/resource/118116810>	<Polygon_buildings-Adjacent-Polygon_buildings>	<hgeokg/resource/145341258>
+<hgeokg/resource/159843711>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Polygon>
+<hgeokg/resource/497165756>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/743358444>
+<hgeokg/resource/569345508>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/743358444>
+<hgeokg/resource/5804736154>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/137885993>
+<hgeokg/resource/266233432>	<Polygon_buildings-Adjacent-Polygon_buildings>	<hgeokg/resource/266233364>
+<hgeokg/resource/137891657>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/3708656565>
+<hgeokg/resource/226041011>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/2955441511>
+<hgeokg/resource/357579218>	<http://www.w3.org/2000/01/rdf-schema#label>	Public School 18
+<hgeokg/resource/85393997>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6631461418>
+<hgeokg/resource/6631198486>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/569345508>
+<hgeokg/resource/3573490>	<hgeokg/schema/type>	type-multipolygon
+<hgeokg/resource/137891657>	<hgeokg/schema/nycdoittBin>	nycdoittBin-1036460
+<hgeokg/resource/6631461418>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/569345508>
+<hgeokg/resource/266233406>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Polygon>
+<hgeokg/resource/597928319>	<hgeokg/schema/operator>	operator-New York City Transit Authority
+<hgeokg/resource/4782506036>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/511924978>
+<hgeokg/resource/743358444>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/257389724>
+<hgeokg/resource/159843711>	<http://www.w3.org/2000/01/rdf-schema#label>	Tower 56
+<hgeokg/resource/2955441511>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6351737294>
+<hgeokg/resource/226041011>	<hgeokg/schema/bicycle>	bicycle-yes
+<hgeokg/resource/3573490>	<Line_roads-Adjacent-Point_pofw>	<hgeokg/resource/743358444>
+<hgeokg/resource/226041013>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/357579218>	<Point_pois-Within-Point_pois>	<hgeokg/resource/265947377>
+<hgeokg/resource/6342212317>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/743358444>
+<hgeokg/resource/265947377>	<hgeokg/schema/nycdoittBin>	nycdoittBin-1036451
+<hgeokg/resource/266233402>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/BuildingHotel>
+<hgeokg/resource/257389724>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/2629371831>
+<hgeokg/resource/266233406>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/569345502>
+<hgeokg/resource/4782506036>	<Point_transport-Adjacent-Point_pofw>	<hgeokg/resource/3573490>
+<hgeokg/resource/4782506036>	<hgeokg/schema/bus>	bus-yes
+<hgeokg/resource/743358444>	<hgeokg/schema/wikipedia>	wikipedia-en:52nd Street (Manhattan)
+<hgeokg/resource/743358444>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/497165756>
+<hgeokg/resource/4291285989>	<hgeokg/schema/cuisine>	cuisine-greek
+<hgeokg/resource/266233406>	<hgeokg/schema/nycdoittBin>	nycdoittBin-1036529
+<hgeokg/resource/265947377>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/458180193>
+<hgeokg/resource/3573490>	<Point_pofw-Adjacent-Point_pois>	<hgeokg/resource/85393997>
+<hgeokg/resource/2629371841>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/226041011>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6351737294>
+<hgeokg/resource/597928319>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/265947377>
+<hgeokg/resource/6351737294>	<hgeokg/schema/happyHours>	happyHours-Tu-Fr 17:00-20:00
+<hgeokg/resource/266233402>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/159843711>
+<hgeokg/resource/2629371831>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/2629371820>
+<hgeokg/resource/6342212317>	<hgeokg/schema/addrState>	addrState-NY
+<hgeokg/resource/257389724>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/5804736154>
+<hgeokg/resource/511924978>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/137891657>
+<hgeokg/resource/743358444>	<hgeokg/schema/lanes>	lanes-1
+<hgeokg/resource/226041011>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Secondary>
+<hgeokg/resource/458180186>	<hgeokg/schema/hgv>	hgv-destination
+<hgeokg/resource/2955441511>	<http://www.w3.org/2000/01/rdf-schema#label>	Stefano Ricci
+<hgeokg/resource/257389724>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Polygon>
+<hgeokg/resource/511924978>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/4782506036>
+<hgeokg/resource/265947377>	<hgeokg/schema/website>	website-https://www.nypl.org/locations/cathedral
+<hgeokg/resource/6351737294>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/2955441511>
+<hgeokg/resource/5804736154>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/743358444>
+<hgeokg/resource/257389724>	<Point_transport-Adjacent-Polygon_buildings>	<hgeokg/resource/5090752487>
+<hgeokg/resource/266233406>	<hgeokg/schema/country>	country-ZW
+<hgeokg/resource/458180192>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-E
+<hgeokg/resource/266233402>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6351737294>
+<hgeokg/resource/569345502>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/458180192>
+<hgeokg/resource/569345502>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/2629371811>
+<hgeokg/resource/145341258>	<hgeokg/schema/roofShape>	roofShape-flat
+<hgeokg/resource/137891657>	<hgeokg/schema/startDate>	startDate-1969
+<hgeokg/resource/497165756>	<hgeokg/schema/oldName>	oldName-4th Avenue
+<hgeokg/resource/266233364>	<Polygon_buildings-Adjacent-Polygon_buildings>	<hgeokg/resource/266233406>
+<hgeokg/resource/159843711>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/569345502>
+<hgeokg/resource/226041013>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/497165756>
+<hgeokg/resource/497165756>	<hgeokg/schema/nameEn>	nameEn-Park Avenue
+<hgeokg/resource/3708656565>	<hgeokg/schema/capacity>	capacity-51
+<hgeokg/resource/3573490>	<Point_pofw-Intersect-Polygon_buildings>	<hgeokg/resource/137885993>
+<hgeokg/resource/458180193>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/137891657>
+<hgeokg/resource/5804736154>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/458180193>
+<hgeokg/resource/497165756>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/226041013>
+<hgeokg/resource/4291285989>	<hgeokg/schema/openingHours>	openingHours-Mo-Fr 10:00-16:00
+<hgeokg/resource/226041011>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/2629371811>
+<hgeokg/resource/118116810>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/497165756>
+<hgeokg/resource/569345502>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/2629371831>
+<hgeokg/resource/6631198486>	<Point_pois-Adjacent-Point_pofw>	<hgeokg/resource/3573490>
+<hgeokg/resource/137891657>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/458180192>
+<hgeokg/resource/226041013>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/2955441511>
+<hgeokg/resource/743358444>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/145341258>
+<hgeokg/resource/2629371831>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/458180192>
+<hgeokg/resource/137885993>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/569345508>
+<hgeokg/resource/226041013>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/266233432>
+<hgeokg/resource/597928319>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/RailwayStation>
+<hgeokg/resource/266233360>	<Point_transport-Adjacent-Point_pofw>	<hgeokg/resource/5090752486>
+<hgeokg/resource/145341258>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/2629371841>
+<hgeokg/resource/597928319>	<hgeokg/schema/station>	station-subway
+<hgeokg/resource/3708656565>	<hgeokg/schema/operatorWikipedia>	operatorWikipedia-en:Motivate (company)
+<hgeokg/resource/4291285989>	<hgeokg/schema/website>	website-https://unclegussys.com/
+<hgeokg/resource/137891657>	<Polygon_buildings-Adjacent-Polygon_buildings>	<hgeokg/resource/137885993>
+<hgeokg/resource/458180192>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/137891657>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/511924978>
+<hgeokg/resource/458180192>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/257389724>
+<hgeokg/resource/159843711>	<hgeokg/schema/gnisFeatureId>	gnisFeatureId-2129197
+<hgeokg/resource/137891657>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/497165756>
+<hgeokg/resource/265947377>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/597928319>
+<hgeokg/resource/6351737294>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/266233402>
+<hgeokg/resource/511924978>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/357579218>
+<hgeokg/resource/265947377>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/4782506036>
+<hgeokg/resource/137891657>	<Point_pofw-Adjacent-Polygon_buildings>	<hgeokg/resource/3573490>
+<hgeokg/resource/2629371811>	<hgeokg/schema/addrPostcode>	addrPostcode-10022
+<hgeokg/resource/597928319>	<hgeokg/schema/level>	level--1
+<hgeokg/resource/3708656565>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/357579218>
+<hgeokg/resource/6631198486>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/137891657>
+<hgeokg/resource/137885993>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/6631198486>
+<hgeokg/resource/257389724>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/226041011>
+<hgeokg/resource/266233402>	<hgeokg/schema/nycdoittBin>	nycdoittBin-1036510
+<hgeokg/resource/2629371841>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/458180192>
+<hgeokg/resource/226041011>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/569345502>
+<hgeokg/resource/266233364>	<Polygon_buildings-Adjacent-Polygon_buildings>	<hgeokg/resource/159843711>
+<hgeokg/resource/6351737294>	<hgeokg/schema/reservation>	reservation-yes
+<hgeokg/resource/2955441511>	<Point_pofw-Adjacent-Point_pois>	<hgeokg/resource/266233360>
+<hgeokg/resource/6342212317>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/118116810>
+<hgeokg/resource/226041011>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/118116810>
+<hgeokg/resource/5090752486>	<Point_transport-Adjacent-Polygon_buildings>	<hgeokg/resource/159843711>
+<hgeokg/resource/266233432>	<hgeokg/schema/nycdoittBin>	nycdoittBin-1036476
+<hgeokg/resource/743358444>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/4291285989>
+<hgeokg/resource/569345502>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/118116810>
+<hgeokg/resource/511924978>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/597928319>
+<hgeokg/resource/5090752487>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/6342212317>
+<hgeokg/resource/497165756>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/85393997>
+<hgeokg/resource/569345508>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/3708656565>
+<hgeokg/resource/3708656565>	<hgeokg/schema/operatorType>	operatorType-private
+<hgeokg/resource/6631198486>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/266233364>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/226041013>
+<hgeokg/resource/569345508>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/3708656565>	<hgeokg/schema/operator>	operator-Motivate
+<hgeokg/resource/118116810>	<hgeokg/schema/roofShape>	roofShape-flat
+<hgeokg/resource/1290043792>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6342212317>
+<hgeokg/resource/6351737294>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Restaurant>
+<hgeokg/resource/511924978>	<hgeokg/schema/lanes>	lanes-2
+<hgeokg/resource/2629371811>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5090752487>
+<hgeokg/resource/145341258>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/2629371811>
+<hgeokg/resource/266233364>	<hgeokg/schema/addrHousenumber>	addrHousenumber-110
+<hgeokg/resource/265947377>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Library>
+<hgeokg/resource/497165756>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/2955441511>
+<hgeokg/resource/265947377>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Public>
+<hgeokg/resource/5090752487>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5804736154>
+<hgeokg/resource/266233406>	<hgeokg/schema/altName>	altName-Zimbabwe House
+<hgeokg/resource/2629371811>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/2629371841>
+<hgeokg/resource/458180192>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6351737294>
+<hgeokg/resource/458180186>	<http://www.w3.org/2000/01/rdf-schema#label>	East 49th Street
+<hgeokg/resource/4782506036>	<http://www.w3.org/2000/01/rdf-schema#label>	East 49th Street/Lexington Avenue
+<hgeokg/resource/266233432>	<http://www.w3.org/2000/01/rdf-schema#label>	405 Park Avenue
+<hgeokg/resource/743358444>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/458180192>
+<hgeokg/resource/137891657>	<hgeokg/schema/addrState>	addrState-NY
+<hgeokg/resource/2629371831>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/FastFood>
+<hgeokg/resource/458180192>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/1290043792>
+<hgeokg/resource/266233364>	<Polygon_buildings-Adjacent-Polygon_buildings>	<hgeokg/resource/118116810>
+<hgeokg/resource/6631461418>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/85393997>
+<hgeokg/resource/569345502>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/2629371820>
+<hgeokg/resource/137885993>	<hgeokg/schema/altName>	altName-570 Lexington Avenue
+<hgeokg/resource/6631461418>	<Point_pois-Adjacent-Point_pofw>	<hgeokg/resource/3573490>
+<hgeokg/resource/266233364>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/266233402>
+<hgeokg/resource/266233360>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/2955441511>	<hgeokg/schema/addrHousenumber>	addrHousenumber-407
+<hgeokg/resource/569345508>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/497165756>
+<hgeokg/resource/226041013>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/159843711>
+<hgeokg/resource/85393997>	<hgeokg/schema/wheelchair>	wheelchair-yes
+<hgeokg/resource/85393997>	<hgeokg/schema/startDate>	startDate-1931
+<hgeokg/resource/357579218>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/137885993>
+<hgeokg/resource/5090752486>	<hgeokg/schema/passengerInformationDisplay>	passengerInformationDisplay-yes
+<hgeokg/resource/4291285989>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/569345508>
+<hgeokg/resource/137885993>	<hgeokg/schema/addrHousenumber>	addrHousenumber-570
+<hgeokg/resource/569345508>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/265947377>
+<hgeokg/resource/2629371811>	<Point_pois-Within-Polygon_buildings>	<hgeokg/resource/118116810>
+<hgeokg/resource/145341258>	<hgeokg/schema/nycdoittBin>	nycdoittBin-1036465
+<hgeokg/resource/2955441511>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/266233364>
+<hgeokg/resource/226041011>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/257389724>
+<hgeokg/resource/266233402>	<http://www.w3.org/2000/01/rdf-schema#label>	Concorde Hotel
+<hgeokg/resource/265947377>	<hgeokg/schema/addrHousenumber>	addrHousenumber-560
+<hgeokg/resource/511924978>	<hgeokg/schema/hgv>	hgv-destination
+<hgeokg/resource/2629371841>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/266233364>
+<hgeokg/resource/1290043792>	<hgeokg/schema/addrHousenumber>	addrHousenumber-99
+<hgeokg/resource/743358444>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/137885993>	<hgeokg/schema/refNrhp>	refNrhp-03001515
+<hgeokg/resource/85393997>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/137885993>
+<hgeokg/resource/497165756>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/458180186>
+<hgeokg/resource/5090752486>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/BusStop>
+<hgeokg/resource/266233406>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Diplomatic>
+<hgeokg/resource/743358444>	<hgeokg/schema/maxspeed>	maxspeed-25 mph
+<hgeokg/resource/3573490>	<hgeokg/schema/addrHousenumber>	addrHousenumber-109
+<hgeokg/resource/497165756>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6342212317>
+<hgeokg/resource/511924978>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/137885993>
+<hgeokg/resource/85393997>	<hgeokg/schema/website>	website-http://www.waldorfnewyork.com/
+<hgeokg/resource/4782506036>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/85393997>
+<hgeokg/resource/226041011>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/2629371841>
+<hgeokg/resource/511924978>	<Line_roads-Adjacent-Point_pofw>	<hgeokg/resource/3573490>
+<hgeokg/resource/85393997>	<http://www.w3.org/2000/01/rdf-schema#label>	Waldorf-Astoria Hotel
+<hgeokg/resource/1290043792>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/266233364>	<hgeokg/schema/addrPostcode>	addrPostcode-10022
+<hgeokg/resource/266233360>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/226041013>
+<hgeokg/resource/266233432>	<hgeokg/schema/addrHousenumber>	addrHousenumber-405
+<hgeokg/resource/266233360>	<Point_pofw-Adjacent-Polygon_buildings>	<hgeokg/resource/266233406>
+<hgeokg/resource/85393997>	<Point_pofw-Adjacent-Point_pois>	<hgeokg/resource/3573490>
+<hgeokg/resource/3708656565>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/137885993>
+<hgeokg/resource/2629371831>	<Point_pofw-Adjacent-Point_pois>	<hgeokg/resource/266233360>
+<hgeokg/resource/458180193>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/357579218>
+<hgeokg/resource/265947377>	<hgeokg/schema/operatorType>	operatorType-public
+<hgeokg/resource/3573490>	<http://www.w3.org/2000/01/rdf-schema#label>	St. Bartholomew's
+<hgeokg/resource/145341258>	<Point_transport-Adjacent-Polygon_buildings>	<hgeokg/resource/5090752487>
+<hgeokg/resource/597928319>	<hgeokg/schema/network>	network-NYC Subway
+<hgeokg/resource/569345502>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/266233402>
+<hgeokg/resource/85393997>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/569345508>
+<hgeokg/resource/266233406>	<hgeokg/schema/phone>	phone-+1 (212) 980-9511
+<hgeokg/resource/1290043792>	<hgeokg/schema/website>	website-https://www.fourseasonsrestaurant.com/
+<hgeokg/resource/265947377>	<hgeokg/schema/startDate>	startDate-1981
+<hgeokg/resource/118116810>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/6351737294>
+<hgeokg/resource/85393997>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/357579218>
+<hgeokg/resource/137885993>	<hgeokg/schema/startDate>	startDate-1931
+<hgeokg/resource/226041011>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/458180192>
+<hgeokg/resource/266233364>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Polygon>
+<hgeokg/resource/1290043792>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/458180193>
+<hgeokg/resource/569345502>	<http://www.w3.org/2000/01/rdf-schema#label>	Lexington Avenue
+<hgeokg/resource/118116810>	<http://www.w3.org/2000/01/rdf-schema#label>	399 Park Avenue
+<hgeokg/resource/6351737294>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/458180192>
+<hgeokg/resource/5090752486>	<hgeokg/schema/bench>	bench-no
+<hgeokg/resource/2629371820>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/2629371831>
+<hgeokg/resource/2629371811>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/569345502>
+<hgeokg/resource/145341258>	<Polygon_buildings-Intersect-Polygon_buildings>	<hgeokg/resource/257389724>
+<hgeokg/resource/2629371820>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/266233402>
+<hgeokg/resource/3573490>	<hgeokg/schema/refNrhp>	refNrhp-80002719
+<hgeokg/resource/257389724>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/2629371811>
+<hgeokg/resource/5090752487>	<http://www.w3.org/2000/01/rdf-schema#label>	Lexington Avenue & East 52nd Street
+<hgeokg/resource/3573490>	<Point_pois-Adjacent-Point_pofw>	<hgeokg/resource/4291285989>
+<hgeokg/resource/6342212317>	<http://www.w3.org/2000/01/rdf-schema#label>	The Lobster Club
+<hgeokg/resource/2629371811>	<hgeokg/schema/dispensing>	dispensing-yes
+<hgeokg/resource/2629371831>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/5090752487>	<hgeokg/schema/bus>	bus-yes
+<hgeokg/resource/6351737294>	<hgeokg/schema/phone>	phone-+1-212-755-7777
+<hgeokg/resource/266233406>	<hgeokg/schema/addrHousenumber>	addrHousenumber-128
+<hgeokg/resource/5090752486>	<Point_transport-Adjacent-Polygon_buildings>	<hgeokg/resource/266233406>
+<hgeokg/resource/497165756>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Secondary>
+<hgeokg/resource/743358444>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/569345508>
+<hgeokg/resource/265947377>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/4291285989>
+<hgeokg/resource/743358444>	<http://www.w3.org/2000/01/rdf-schema#label>	East 52nd Street
+<hgeokg/resource/6351737294>	<hgeokg/schema/website>	website-https://www.lerevenyc.com
+<hgeokg/resource/85393997>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/511924978>
+<hgeokg/resource/4291285989>	<http://www.w3.org/2000/01/rdf-schema#label>	Uncle Gussy's
+<hgeokg/resource/118116810>	<Point_transport-Adjacent-Polygon_buildings>	<hgeokg/resource/5090752487>
+<hgeokg/resource/458180192>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/2629371831>
+<hgeokg/resource/569345508>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6631198486>
+<hgeokg/resource/2629371841>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/257389724>
+<hgeokg/resource/2629371841>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/2629371820>
+<hgeokg/resource/159843711>	<hgeokg/schema/addrHousenumber>	addrHousenumber-126
+<hgeokg/resource/257389724>	<Polygon_buildings-Adjacent-Polygon_buildings>	<hgeokg/resource/118116810>
+<hgeokg/resource/4291285989>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/137885993>
+<hgeokg/resource/1290043792>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/743358444>
+<hgeokg/resource/569345502>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/159843711>
+<hgeokg/resource/226041011>	<hgeokg/schema/wikipedia>	wikipedia-en:54th Street (Manhattan)
+<hgeokg/resource/118116810>	<hgeokg/schema/addrHousenumber>	addrHousenumber-399
+<hgeokg/resource/118116810>	<Point_pofw-Adjacent-Polygon_buildings>	<hgeokg/resource/266233360>
+<hgeokg/resource/2629371820>	<hgeokg/schema/website>	website-https://www.dostoros.com/locations/new-york#54th-lex
+<hgeokg/resource/118116810>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/569345502>
+<hgeokg/resource/3708656565>	<hgeokg/schema/network>	network-Citi Bike
+<hgeokg/resource/159843711>	<hgeokg/schema/ele>	ele-15
+<hgeokg/resource/597928319>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/PublicTransportStation>
+<hgeokg/resource/266233360>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/PlaceOfWorship>
+<hgeokg/resource/458180192>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/266233432>
+<hgeokg/resource/6342212317>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/458180192>
+<hgeokg/resource/458180193>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/3708656565>
+<hgeokg/resource/137885993>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/4291285989>
+<hgeokg/resource/497165756>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/569345508>
+<hgeokg/resource/569345508>	<http://www.w3.org/2000/01/rdf-schema#label>	East 51st Street
+<hgeokg/resource/458180193>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/569345502>	<hgeokg/schema/wikipedia>	wikipedia-en:Lexington Avenue
+<hgeokg/resource/569345508>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/137891657>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/6631461418>
+<hgeokg/resource/1290043792>	<hgeokg/schema/startDate>	startDate-1959
+<hgeokg/resource/266233402>	<hgeokg/schema/addrHousenumber>	addrHousenumber-127
+<hgeokg/resource/3708656565>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/511924978>
+<hgeokg/resource/137885993>	<hgeokg/schema/buildingColour>	buildingColour-#BEA17F
+<hgeokg/resource/5090752487>	<Point_transport-Adjacent-Polygon_buildings>	<hgeokg/resource/118116810>
+<hgeokg/resource/265947377>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6631461418>
+<hgeokg/resource/5090752487>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/BusStop>
+<hgeokg/resource/265947377>	<hgeokg/schema/operator>	operator-New York Public Library
+<hgeokg/resource/3708656565>	<hgeokg/schema/fee>	fee-yes
+<hgeokg/resource/118116810>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/6342212317>
+<hgeokg/resource/458180192>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/226041011>
+<hgeokg/resource/145341258>	<Polygon_buildings-Contain-Point_pois>	<hgeokg/resource/1290043792>
+<hgeokg/resource/266233432>	<Polygon_buildings-Adjacent-Polygon_buildings>	<hgeokg/resource/118116810>
+<hgeokg/resource/3573490>	<Point_pois-Adjacent-Point_pofw>	<hgeokg/resource/6631198486>
+<hgeokg/resource/458180192>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/145341258>
+<hgeokg/resource/5804736154>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/3708656565>
+<hgeokg/resource/6342212317>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/257389724>
+<hgeokg/resource/2629371811>	<hgeokg/schema/website>	website-https://www.cvs.com/store-locator/details-directions/3752
+<hgeokg/resource/2629371820>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/266233364>
+<hgeokg/resource/4291285989>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6631198486>
+<hgeokg/resource/85393997>	<hgeokg/schema/ele>	ele-16
+<hgeokg/resource/137885993>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/458180193>
+<hgeokg/resource/3708656565>	<hgeokg/schema/brand>	brand-Citi Bike
+<hgeokg/resource/137891657>	<Polygon_buildings-Adjacent-Polygon_buildings>	<hgeokg/resource/145341258>
+<hgeokg/resource/226041013>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/266233402>
+<hgeokg/resource/266233402>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/2629371820>
+<hgeokg/resource/2629371831>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/266233364>
+<hgeokg/resource/85393997>	<hgeokg/schema/brandWikipedia>	brandWikipedia-en:Waldorf Astoria Hotels & Resorts
+<hgeokg/resource/4291285989>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/511924978>
+<hgeokg/resource/257389724>	<Polygon_buildings-Intersect-Polygon_buildings>	<hgeokg/resource/145341258>
+<hgeokg/resource/85393997>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/458180193>
+<hgeokg/resource/85393997>	<hgeokg/schema/brand>	brand-Waldorf Astoria
+<hgeokg/resource/137885993>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/6631461418>
+<hgeokg/resource/265947377>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/497165756>
+<hgeokg/resource/266233360>	<hgeokg/schema/website>	website-https://www.centralsynagogue.org/
+<hgeokg/resource/6351737294>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/2629371841>
+<hgeokg/resource/6631461418>	<http://www.w3.org/2000/01/rdf-schema#label>	Inside Park at St. Beet’s
+<hgeokg/resource/266233360>	<hgeokg/schema/height>	height-23.6
+<hgeokg/resource/6342212317>	<hgeokg/schema/cuisine>	cuisine-japanese;sushi;fine_dining
+<hgeokg/resource/118116810>	<hgeokg/schema/height>	height-30
+<hgeokg/resource/266233406>	<Point_pofw-Adjacent-Polygon_buildings>	<hgeokg/resource/266233360>
+<hgeokg/resource/743358444>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/4291285989>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/497165756>
+<hgeokg/resource/569345502>	<hgeokg/schema/surface>	surface-asphalt
+<hgeokg/resource/137885993>	<hgeokg/schema/roofMaterial>	roofMaterial-concrete
+<hgeokg/resource/3573490>	<Point_pofw-Intersect-Point_pois>	<hgeokg/resource/265947377>
+<hgeokg/resource/137891657>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/1290043792>
+<hgeokg/resource/266233402>	<hgeokg/schema/phone>	phone-+1 212-355-2755
+<hgeokg/resource/5090752487>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/226041013>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/266233360>
+<hgeokg/resource/85393997>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/TourismHotel>
+<hgeokg/resource/266233432>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/6351737294>
+<hgeokg/resource/159843711>	<hgeokg/schema/startDate>	startDate-1982
+<hgeokg/resource/497165756>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6351737294>
+<hgeokg/resource/458180193>	<hgeokg/schema/hgv>	hgv-local
+<hgeokg/resource/85393997>	<hgeokg/schema/nycdoittBin>	nycdoittBin-1084771
+<hgeokg/resource/2629371811>	<hgeokg/schema/brandWikipedia>	brandWikipedia-en:CVS Pharmacy
+<hgeokg/resource/458180192>	<hgeokg/schema/hgv>	hgv-destination
+<hgeokg/resource/265947377>	<hgeokg/schema/internetAccess>	internetAccess-terminal; wlan
+<hgeokg/resource/257389724>	<Polygon_buildings-Adjacent-Polygon_buildings>	<hgeokg/resource/137891657>
+<hgeokg/resource/357579218>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/85393997>
+<hgeokg/resource/357579218>	<hgeokg/schema/ele>	ele-15
+<hgeokg/resource/137891657>	<Point_transport-Adjacent-Polygon_buildings>	<hgeokg/resource/5090752487>
+<hgeokg/resource/226041013>	<hgeokg/schema/lanes>	lanes-1
+<hgeokg/resource/118116810>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/226041011>
+<hgeokg/resource/266233402>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/226041013>
+<hgeokg/resource/266233406>	<hgeokg/schema/diplomatic>	diplomatic-embassy
+<hgeokg/resource/266233364>	<http://www.w3.org/2000/01/rdf-schema#label>	Park 55
+<hgeokg/resource/5090752487>	<Point_transport-Adjacent-Polygon_buildings>	<hgeokg/resource/257389724>
+<hgeokg/resource/4782506036>	<hgeokg/schema/networkWikidata>	networkWikidata-Q1325591
+<hgeokg/resource/145341258>	<hgeokg/schema/startDate>	startDate-1958
+<hgeokg/resource/497165756>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/5804736154>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/597928319>
+<hgeokg/resource/458180193>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/597928319>
+<hgeokg/resource/2629371841>	<hgeokg/schema/brand>	brand-Pret A Manger
+<hgeokg/resource/2629371811>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6351737294>
+<hgeokg/resource/6351737294>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/226041011>
+<hgeokg/resource/2629371831>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/226041011>
+<hgeokg/resource/4291285989>	<hgeokg/schema/phone>	phone-+19296001111
+<hgeokg/resource/3708656565>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/137891657>
+<hgeokg/resource/5090752487>	<hgeokg/schema/routeRef>	routeRef-SIM6;SIM11;SIM22;SIM26
+<hgeokg/resource/85393997>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/4291285989>
+<hgeokg/resource/3708656565>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/597928319>
+<hgeokg/resource/2629371841>	<hgeokg/schema/brandWikipedia>	brandWikipedia-en:Pret a Manger
+<hgeokg/resource/3708656565>	<hgeokg/schema/networkWikidata>	networkWikidata-Q2974438
+<hgeokg/resource/458180192>	<http://www.w3.org/2000/01/rdf-schema#label>	East 53rd Street
+<hgeokg/resource/511924978>	<hgeokg/schema/note>	note-thru street
+<hgeokg/resource/497165756>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/118116810>
+<hgeokg/resource/265947377>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/137885993>	<Point_pois-Intersect-Polygon_buildings>	<hgeokg/resource/265947377>
+<hgeokg/resource/6631461418>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/265947377>
+<hgeokg/resource/226041011>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/266233364>
+<hgeokg/resource/118116810>	<hgeokg/schema/roofMaterial>	roofMaterial-concrete
+<hgeokg/resource/257389724>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/743358444>
+<hgeokg/resource/118116810>	<Polygon_buildings-Adjacent-Polygon_buildings>	<hgeokg/resource/266233432>
+<hgeokg/resource/458180193>	<hgeokg/schema/wikipedia>	wikipedia-en:Lexington Avenue
+<hgeokg/resource/511924978>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/85393997>
+<hgeokg/resource/226041013>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/266233406>
+<hgeokg/resource/3573490>	<Point_transport-Adjacent-Point_pofw>	<hgeokg/resource/597928319>
+<hgeokg/resource/597928319>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5804736154>
+<hgeokg/resource/569345502>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/266233360>
+<hgeokg/resource/137885993>	<hgeokg/schema/buildingPart>	buildingPart-yes
+<hgeokg/resource/5090752486>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/226041013>
+<hgeokg/resource/6351737294>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/3573490>	<Point_pofw-Adjacent-Polygon_buildings>	<hgeokg/resource/137891657>
+<hgeokg/resource/569345508>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/137891657>
+<hgeokg/resource/265947377>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/569345508>
+<hgeokg/resource/458180192>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6342212317>
+<hgeokg/resource/5090752487>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/1290043792>
+<hgeokg/resource/266233360>	<http://www.w3.org/2000/01/rdf-schema#label>	Central Synagogue
+<hgeokg/resource/3573490>	<Point_pois-Adjacent-Point_pofw>	<hgeokg/resource/6631461418>
+<hgeokg/resource/458180193>	<http://www.w3.org/2000/01/rdf-schema#label>	Lexington Avenue
+<hgeokg/resource/2629371820>	<hgeokg/schema/phone>	phone-+1 347-486-5856
+<hgeokg/resource/159843711>	<hgeokg/schema/addrState>	addrState-NY
+<hgeokg/resource/511924978>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/3708656565>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/6342212317>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/1290043792>
+<hgeokg/resource/137891657>	<Point_transport-Adjacent-Polygon_buildings>	<hgeokg/resource/597928319>
+<hgeokg/resource/4782506036>	<hgeokg/schema/ref>	ref-402186
+<hgeokg/resource/226041011>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/266233402>	<Point_pofw-Adjacent-Point_pois>	<hgeokg/resource/266233360>
+<hgeokg/resource/2629371841>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/226041011>
+<hgeokg/resource/3573490>	<hgeokg/schema/nycdoittBin>	nycdoittBin-1036450
+<hgeokg/resource/3573490>	<Line_roads-Adjacent-Point_pofw>	<hgeokg/resource/511924978>
+<hgeokg/resource/2955441511>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/266233432>
+<hgeokg/resource/226041013>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/118116810>
+<hgeokg/resource/266233406>	<hgeokg/schema/embassy>	embassy-mission
+<hgeokg/resource/266233402>	<hgeokg/schema/buildingLevels>	buildingLevels-37
+<hgeokg/resource/257389724>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/2629371841>
+<hgeokg/resource/511924978>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/497165756>
+<hgeokg/resource/4782506036>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/BusStop>
+<hgeokg/resource/2629371820>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6351737294>
+<hgeokg/resource/266233402>	<hgeokg/schema/addrPostcode>	addrPostcode-10022
+<hgeokg/resource/2629371831>	<http://www.w3.org/2000/01/rdf-schema#label>	Hale and Hearty
+<hgeokg/resource/2629371820>	<hgeokg/schema/addrHousenumber>	addrHousenumber-636
+<hgeokg/resource/85393997>	<hgeokg/schema/gnisFeatureId>	gnisFeatureId-2083255
+<hgeokg/resource/5804736154>	<http://www.w3.org/2000/01/rdf-schema#label>	Marilyn Monroe subway grate
+<hgeokg/resource/2629371841>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/2629371811>
+<hgeokg/resource/265947377>	<Point_pois-Intersect-Polygon_buildings>	<hgeokg/resource/137885993>
+<hgeokg/resource/159843711>	<hgeokg/schema/website>	website-http://www.tower56nyc.com/
+<hgeokg/resource/85393997>	<hgeokg/schema/brandWikidata>	brandWikidata-Q3239392
+<hgeokg/resource/145341258>	<Polygon_buildings-Adjacent-Polygon_buildings>	<hgeokg/resource/118116810>
+<hgeokg/resource/2629371841>	<Point_pofw-Adjacent-Point_pois>	<hgeokg/resource/266233360>
+<hgeokg/resource/1290043792>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5804736154>
+<hgeokg/resource/497165756>	<hgeokg/schema/wikipedia>	wikipedia-en:Park Avenue
+<hgeokg/resource/145341258>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/2629371831>
+<hgeokg/resource/265947377>	<Point_pofw-Intersect-Point_pois>	<hgeokg/resource/3573490>
+<hgeokg/resource/458180186>	<hgeokg/schema/lanes>	lanes-2
+<hgeokg/resource/743358444>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/1290043792>
+<hgeokg/resource/2629371820>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/2629371811>
+<hgeokg/resource/2629371820>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/2629371841>
+<hgeokg/resource/357579218>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/597928319>
+<hgeokg/resource/118116810>	<hgeokg/schema/nycdoittBin>	nycdoittBin-1071457
+<hgeokg/resource/3708656565>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/145341258>
+<hgeokg/resource/5090752487>	<hgeokg/schema/shelter>	shelter-no
+<hgeokg/resource/458180192>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/226041011>	<hgeokg/schema/note>	note-thru street
+<hgeokg/resource/137891657>	<hgeokg/schema/roofShape>	roofShape-flat
+<hgeokg/resource/569345508>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/4291285989>
+<hgeokg/resource/569345502>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/266233406>
+<hgeokg/resource/2629371820>	<hgeokg/schema/addrState>	addrState-NY
+<hgeokg/resource/226041011>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/SharedLane>
+<hgeokg/resource/137885993>	<hgeokg/schema/wikipedia>	wikipedia-en:570 Lexington Avenue
+<hgeokg/resource/4291285989>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/743358444>
+<hgeokg/resource/497165756>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/458180192>
+<hgeokg/resource/2955441511>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/497165756>
+<hgeokg/resource/6342212317>	<hgeokg/schema/phone>	phone-+1-212-375-9001
+<hgeokg/resource/597928319>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/357579218>
+<hgeokg/resource/265947377>	<http://www.w3.org/2000/01/rdf-schema#label>	Terence Cardinal Cooke - Cathedral Library
+<hgeokg/resource/458180193>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5804736154>
+<hgeokg/resource/2629371831>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/257389724>
+<hgeokg/resource/5804736154>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/145341258>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/226041011>
+<hgeokg/resource/458180193>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/743358444>
+<hgeokg/resource/497165756>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/226041011>
+<hgeokg/resource/266233364>	<Polygon_buildings-Adjacent-Polygon_buildings>	<hgeokg/resource/266233432>
+<hgeokg/resource/357579218>	<Point_pois-Adjacent-Point_pofw>	<hgeokg/resource/3573490>
+<hgeokg/resource/145341258>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/3708656565>
+<hgeokg/resource/266233364>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/497165756>
+<hgeokg/resource/4291285989>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/FastFood>
+<hgeokg/resource/6351737294>	<hgeokg/schema/email>	email-info@lerevenyc.com
+<hgeokg/resource/5090752486>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/PublicTransportPlatform>
+<hgeokg/resource/265947377>	<hgeokg/schema/refIsil>	refIsil-US-nnbr
+<hgeokg/resource/2629371811>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/458180193>
+<hgeokg/resource/226041011>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/266233360>
+<hgeokg/resource/118116810>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Polygon>
+<hgeokg/resource/4782506036>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/159843711>	<Point_transport-Adjacent-Polygon_buildings>	<hgeokg/resource/5090752486>
+<hgeokg/resource/458180193>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/511924978>
+<hgeokg/resource/137891657>	<hgeokg/schema/addrPostcode>	addrPostcode-10154
+<hgeokg/resource/266233364>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/226041011>
+<hgeokg/resource/137891657>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/6631198486>
+<hgeokg/resource/458180193>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Secondary>
+<hgeokg/resource/145341258>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/743358444>
+<hgeokg/resource/266233406>	<hgeokg/schema/target>	target-UN
+<hgeokg/resource/1290043792>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5090752487>
+<hgeokg/resource/266233364>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/2629371841>
+<hgeokg/resource/2629371811>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/2629371820>
+<hgeokg/resource/4782506036>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/PublicTransportPlatform>
+<hgeokg/resource/597928319>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/511924978>
+<hgeokg/resource/569345508>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/5804736154>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/137891657>
+<hgeokg/resource/2629371811>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/266233432>	<Point_pofw-Adjacent-Polygon_buildings>	<hgeokg/resource/266233360>
+<hgeokg/resource/4782506036>	<hgeokg/schema/network>	network-NYC Transit
+<hgeokg/resource/266233402>	<hgeokg/schema/website>	website-https://www.concordehotelnewyork.com/
+<hgeokg/resource/118116810>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/458180193>
+<hgeokg/resource/458180186>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/511924978>
+<hgeokg/resource/497165756>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/137885993>
+<hgeokg/resource/6631198486>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/511924978>
+<hgeokg/resource/257389724>	<http://www.w3.org/2000/01/rdf-schema#label>	610 Lexington Avenue
+<hgeokg/resource/569345508>	<Line_roads-Adjacent-Point_pofw>	<hgeokg/resource/3573490>
+<hgeokg/resource/266233364>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/2629371831>
+<hgeokg/resource/266233432>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Polygon>
+<hgeokg/resource/458180192>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/2629371820>
+<hgeokg/resource/511924978>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/3708656565>
+<hgeokg/resource/145341258>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/458180192>
+<hgeokg/resource/118116810>	<Polygon_buildings-Adjacent-Polygon_buildings>	<hgeokg/resource/257389724>
+<hgeokg/resource/3573490>	<hgeokg/schema/height>	height-41.6
+<hgeokg/resource/5090752487>	<Point_transport-Adjacent-Polygon_buildings>	<hgeokg/resource/137891657>
+<hgeokg/resource/5090752486>	<hgeokg/schema/wheelchair>	wheelchair-limited
+<hgeokg/resource/2629371831>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/145341258>
+<hgeokg/resource/159843711>	<Polygon_buildings-Intersect-Polygon_buildings>	<hgeokg/resource/266233406>
+<hgeokg/resource/743358444>	<Line_roads-Adjacent-Point_pofw>	<hgeokg/resource/3573490>
+<hgeokg/resource/2629371820>	<hgeokg/schema/branch>	branch-54th & Lex
+<hgeokg/resource/159843711>	<Polygon_buildings-Adjacent-Polygon_buildings>	<hgeokg/resource/266233364>
+<hgeokg/resource/2955441511>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/145341258>	<Polygon_buildings-Adjacent-Polygon_buildings>	<hgeokg/resource/137891657>
+<hgeokg/resource/2629371811>	<http://www.w3.org/2000/01/rdf-schema#label>	CVS Pharmacy
+<hgeokg/resource/497165756>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/266233432>
+<hgeokg/resource/497165756>	<hgeokg/schema/surface>	surface-asphalt
+<hgeokg/resource/6342212317>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5090752487>
+<hgeokg/resource/226041013>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/4291285989>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/265947377>
+<hgeokg/resource/569345508>	<hgeokg/schema/bicycle>	bicycle-yes
+<hgeokg/resource/226041011>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/2629371820>
+<hgeokg/resource/118116810>	<Polygon_buildings-Adjacent-Polygon_buildings>	<hgeokg/resource/266233364>
+<hgeokg/resource/6351737294>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/226041013>
+<hgeokg/resource/3708656565>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/265947377>
+<hgeokg/resource/118116810>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/1290043792>
+<hgeokg/resource/266233402>	<hgeokg/schema/facebook>	facebook-https://www.facebook.com/ConcordeHotelNewYork/
+<hgeokg/resource/3573490>	<Line_roads-Adjacent-Point_pofw>	<hgeokg/resource/497165756>
+<hgeokg/resource/1290043792>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/257389724>
+<hgeokg/resource/226041011>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-E
+<hgeokg/resource/6351737294>	<hgeokg/schema/addrHousenumber>	addrHousenumber-125
+<hgeokg/resource/6351737294>	<Point_pois-Adjacent-Point_pofw>	<hgeokg/resource/266233360>
+<hgeokg/resource/6342212317>	<hgeokg/schema/addrPostcode>	addrPostcode-10022
+<hgeokg/resource/458180186>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/265947377>
+<hgeokg/resource/266233432>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/458180192>
+<hgeokg/resource/266233360>	<hgeokg/schema/gnisFeatureId>	gnisFeatureId-2083258
+<hgeokg/resource/357579218>	<hgeokg/schema/gnisFeatureId>	gnisFeatureId-961446
+<hgeokg/resource/257389724>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/458180193>
+<hgeokg/resource/1290043792>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/118116810>
+<hgeokg/resource/85393997>	<hgeokg/schema/nameRu>	nameRu-Уолдорф-Астория
+<hgeokg/resource/137885993>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Polygon>
+<hgeokg/resource/743358444>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/2629371831>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/569345502>
+<hgeokg/resource/137891657>	<hgeokg/schema/roofMaterial>	roofMaterial-concrete
+<hgeokg/resource/3708656565>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/458180193>
+<hgeokg/resource/5090752487>	<Point_transport-Adjacent-Polygon_buildings>	<hgeokg/resource/145341258>
+<hgeokg/resource/265947377>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/458180186>
+<hgeokg/resource/458180193>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/458180192>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Secondary>
+<hgeokg/resource/137885993>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/BuildingCommercial>
+<hgeokg/resource/226041011>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/2629371831>
+<hgeokg/resource/159843711>	<hgeokg/schema/addrPostcode>	addrPostcode-10022
+<hgeokg/resource/266233402>	<hgeokg/schema/twitter>	twitter-https://twitter.com/concordehotelny
+<hgeokg/resource/569345502>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/137885993>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/511924978>
+<hgeokg/resource/266233402>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5090752486>
+<hgeokg/resource/1290043792>	<hgeokg/schema/cuisine>	cuisine-new_american
+<hgeokg/resource/6631198486>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/85393997>
+<hgeokg/resource/1290043792>	<Point_pois-Within-Polygon_buildings>	<hgeokg/resource/145341258>
+<hgeokg/resource/497165756>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/137891657>
+<hgeokg/resource/85393997>	<hgeokg/schema/addrState>	addrState-NY
+<hgeokg/resource/511924978>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/265947377>
+<hgeokg/resource/2955441511>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/226041011>
+<hgeokg/resource/226041011>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/145341258>
+<hgeokg/resource/266233360>	<Point_pofw-Adjacent-Point_pois>	<hgeokg/resource/2629371831>
+<hgeokg/resource/118116810>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/2629371820>
+<hgeokg/resource/159843711>	<Point_pofw-Adjacent-Polygon_buildings>	<hgeokg/resource/266233360>
+<hgeokg/resource/266233360>	<hgeokg/schema/religion>	religion-jewish
+<hgeokg/resource/85393997>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/2955441511>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/226041013>
+<hgeokg/resource/137891657>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/5804736154>
+<hgeokg/resource/226041011>	<http://www.w3.org/2000/01/rdf-schema#label>	East 54th Street
+<hgeokg/resource/159843711>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/226041013>
+<hgeokg/resource/4291285989>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/137891657>
+<hgeokg/resource/6351737294>	<http://www.w3.org/2000/01/rdf-schema#label>	Le Reve
+<hgeokg/resource/2629371820>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/226041011>
+<hgeokg/resource/458180192>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/743358444>
+<hgeokg/resource/458180186>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-E
+<hgeokg/resource/3708656565>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/5804736154>
+<hgeokg/resource/597928319>	<Point_transport-Adjacent-Polygon_buildings>	<hgeokg/resource/137885993>
+<hgeokg/resource/497165756>	<http://www.w3.org/2000/01/rdf-schema#label>	Park Avenue
+<hgeokg/resource/137891657>	<hgeokg/schema/wikipedia>	wikipedia-en:345 Park Avenue
+<hgeokg/resource/6351737294>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/569345502>
+<hgeokg/resource/497165756>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/145341258>
+<hgeokg/resource/569345502>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/85393997>	<hgeokg/schema/wikipedia>	wikipedia-en:Waldorf-Astoria Hotel
+<hgeokg/resource/137891657>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/265947377>
+<hgeokg/resource/226041013>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/743358444>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6342212317>
+<hgeokg/resource/2955441511>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Clothes>
+<hgeokg/resource/5090752486>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/137891657>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/458180193>
+<hgeokg/resource/6351737294>	<hgeokg/schema/addrPostcode>	addrPostcode-10022
+<hgeokg/resource/3708656565>	<hgeokg/schema/brandWikidata>	brandWikidata-Q2974438
+<hgeokg/resource/597928319>	<hgeokg/schema/wheelchair>	wheelchair-yes
+<hgeokg/resource/159843711>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/497165756>
+<hgeokg/resource/3708656565>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/743358444>
+<hgeokg/resource/458180186>	<hgeokg/schema/note>	note-thru street
+<hgeokg/resource/743358444>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5804736154>
+<hgeokg/resource/458180193>	<hgeokg/schema/lanes>	lanes-4
+<hgeokg/resource/458180193>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/137885993>
+<hgeokg/resource/137885993>	<hgeokg/schema/addrState>	addrState-NY
+<hgeokg/resource/458180193>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/85393997>
+<hgeokg/resource/266233364>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/6351737294>
+<hgeokg/resource/6631461418>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/137885993>
+<hgeokg/resource/266233364>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/2955441511>
+<hgeokg/resource/5090752487>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/PublicTransportPlatform>
+<hgeokg/resource/597928319>	<Point_transport-Adjacent-Polygon_buildings>	<hgeokg/resource/137891657>
+<hgeokg/resource/511924978>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/4291285989>
+<hgeokg/resource/118116810>	<Polygon_buildings-Contain-Point_pois>	<hgeokg/resource/2629371811>
+<hgeokg/resource/266233402>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/569345502>
+<hgeokg/resource/497165756>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/266233364>
+<hgeokg/resource/265947377>	<Point_pois-Contain-Point_pois>	<hgeokg/resource/357579218>
+<hgeokg/resource/2629371811>	<hgeokg/schema/brand>	brand-CVS Pharmacy
+<hgeokg/resource/458180193>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/118116810>
+<hgeokg/resource/2629371841>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6351737294>
+<hgeokg/resource/266233360>	<Point_pois-Adjacent-Point_pofw>	<hgeokg/resource/6351737294>
+<hgeokg/resource/569345508>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-E
+<hgeokg/resource/266233432>	<hgeokg/schema/addrPostcode>	addrPostcode-10022
+<hgeokg/resource/458180192>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/569345502>
+<hgeokg/resource/569345508>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6631461418>
+<hgeokg/resource/497165756>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6631198486>
+<hgeokg/resource/5090752487>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/458180193>
+<hgeokg/resource/266233360>	<Point_pofw-Adjacent-Point_pois>	<hgeokg/resource/266233402>
+<hgeokg/resource/226041011>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/6342212317>	<hgeokg/schema/addrHousenumber>	addrHousenumber-98
+<hgeokg/resource/85393997>	<hgeokg/schema/note>	note-closed on Febraury 28 2017 due to renovation
+<hgeokg/resource/511924978>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-E
+<hgeokg/resource/118116810>	<hgeokg/schema/buildingLevels>	buildingLevels-6
+<hgeokg/resource/6351737294>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/2629371811>
+<hgeokg/resource/511924978>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/458180186>
+<hgeokg/resource/266233360>	<hgeokg/schema/namePl>	namePl-Synagoga Centralna w Nowym Jorku
+<hgeokg/resource/2629371831>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/2629371841>
+<hgeokg/resource/1290043792>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/137891657>
+<hgeokg/resource/2629371841>	<hgeokg/schema/brandWikidata>	brandWikidata-Q2109109
+<hgeokg/resource/137885993>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/743358444>
+<hgeokg/resource/5804736154>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Monument>
+<hgeokg/resource/266233406>	<http://www.w3.org/2000/01/rdf-schema#label>	Permanent Mission of the Republic of Zimbabwe
+<hgeokg/resource/137891657>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/743358444>
+<hgeokg/resource/226041011>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/226041013>
+<hgeokg/resource/85393997>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/4782506036>
+<hgeokg/resource/226041011>	<hgeokg/schema/tigerReviewed>	tigerReviewed-no
+<hgeokg/resource/85393997>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/597928319>
+<hgeokg/resource/569345508>	<hgeokg/schema/cyclewayLeft>	cyclewayLeft-shared_lane
+<hgeokg/resource/357579218>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/3708656565>
+<hgeokg/resource/497165756>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/265947377>
+<hgeokg/resource/2629371811>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/226041011>
+<hgeokg/resource/6351737294>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/266233364>
+<hgeokg/resource/137891657>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Polygon>
+<hgeokg/resource/2629371811>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/2629371831>
+<hgeokg/resource/497165756>	<hgeokg/schema/hgv>	hgv-no
+<hgeokg/resource/5804736154>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/5090752487>
+<hgeokg/resource/6631198486>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/137885993>
+<hgeokg/resource/4782506036>	<hgeokg/schema/operator>	operator-New York City Transit Authority
+<hgeokg/resource/511924978>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6631198486>
+<hgeokg/resource/226041013>	<hgeokg/schema/bicycle>	bicycle-yes
+<hgeokg/resource/85393997>	<hgeokg/schema/namePl>	namePl-Hotel Waldorf-Astoria
+<hgeokg/resource/145341258>	<hgeokg/schema/height>	height-20
+<hgeokg/resource/743358444>	<hgeokg/schema/cyclewayRight>	cyclewayRight-lane
+<hgeokg/resource/137891657>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/6342212317>
+<hgeokg/resource/743358444>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/597928319>
+<hgeokg/resource/118116810>	<hgeokg/schema/buildingPart>	buildingPart-yes
+<hgeokg/resource/458180186>	<Line_roads-Adjacent-Point_pofw>	<hgeokg/resource/3573490>
+<hgeokg/resource/458180186>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Line>
+<hgeokg/resource/226041013>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-E
+<hgeokg/resource/597928319>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/458180193>
+<hgeokg/resource/145341258>	<hgeokg/schema/addrHousenumber>	addrHousenumber-375
+<hgeokg/resource/265947377>	<hgeokg/schema/operatorWikipedia>	operatorWikipedia-en:New York Public Library
+<hgeokg/resource/2955441511>	<hgeokg/schema/addrPostcode>	addrPostcode-10022
+<hgeokg/resource/145341258>	<hgeokg/schema/roofMaterial>	roofMaterial-concrete
+<hgeokg/resource/2629371811>	<hgeokg/schema/phone>	phone-+1 917-369-8688
+<hgeokg/resource/266233364>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/2629371820>
+<hgeokg/resource/266233360>	<Point_pofw-Adjacent-Point_pois>	<hgeokg/resource/2629371820>
+<hgeokg/resource/266233402>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/266233406>
+<hgeokg/resource/497165756>	<hgeokg/schema/lanes>	lanes-3
+<hgeokg/resource/597928319>	<hgeokg/schema/openingHours>	openingHours-24/7
+<hgeokg/resource/458180192>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/2629371811>
+<hgeokg/resource/5804736154>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/145341258>
+<hgeokg/resource/266233402>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/257389724>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/1290043792>
+<hgeokg/resource/137891657>	<http://www.w3.org/2000/01/rdf-schema#label>	345 Park Avenue
+<hgeokg/resource/85393997>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/458180186>
+<hgeokg/resource/1290043792>	<hgeokg/schema/addrPostcode>	addrPostcode-10152
+<hgeokg/resource/511924978>	<http://www.w3.org/2000/01/rdf-schema#label>	East 50th Street
+<hgeokg/resource/265947377>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/137891657>
+<hgeokg/resource/226041013>	<hgeokg/schema/cyclewayLeft>	cyclewayLeft-track
+<hgeokg/resource/458180192>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/2629371841>
+<hgeokg/resource/266233432>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/226041013>
+<hgeokg/resource/118116810>	<hgeokg/schema/buildingColour>	buildingColour-#919489
+<hgeokg/resource/266233402>	<hgeokg/schema/startDate>	startDate-1983
+<hgeokg/resource/569345502>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/226041013>
+<hgeokg/resource/6631198486>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/265947377>
+<hgeokg/resource/5090752486>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/266233402>
+<hgeokg/resource/569345502>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Secondary>
+<hgeokg/resource/266233360>	<Point_pofw-Adjacent-Polygon_buildings>	<hgeokg/resource/266233432>
+<hgeokg/resource/265947377>	<hgeokg/schema/source>	source-Wikipedia: List of New York Public Library Branches
+<hgeokg/resource/357579218>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/AmenitySchool>
+<hgeokg/resource/1290043792>	<hgeokg/schema/wikipedia>	wikipedia-en:The Four Seasons Restaurant
+<hgeokg/resource/743358444>	<hgeokg/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-E
+<hgeokg/resource/137885993>	<Point_transport-Adjacent-Polygon_buildings>	<hgeokg/resource/597928319>
+<hgeokg/resource/2629371841>	<hgeokg/schema/cuisine>	cuisine-sandwich
+<hgeokg/resource/266233432>	<hgeokg/schema/startDate>	startDate-1915
+<hgeokg/resource/458180193>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/458180192>
+<hgeokg/resource/137885993>	<hgeokg/schema/roofShape>	roofShape-flat
+<hgeokg/resource/2629371820>	<hgeokg/schema/cuisine>	cuisine-mexican
+<hgeokg/resource/145341258>	<hgeokg/schema/wikipedia>	wikipedia-en:Seagram Building
+<hgeokg/resource/2629371811>	<hgeokg/schema/ref>	ref-3752
+<hgeokg/resource/569345502>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/6351737294>
+<hgeokg/resource/266233360>	<Point_pofw-Adjacent-Line_roads>	<hgeokg/resource/226041011>
+<hgeokg/resource/6351737294>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/266233432>
+<hgeokg/resource/145341258>	<hgeokg/schema/buildingPart>	buildingPart-yes
+<hgeokg/resource/226041011>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/497165756>
+<hgeokg/resource/6351737294>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/497165756>
+<hgeokg/resource/5090752486>	<hgeokg/schema/bus>	bus-yes
+<hgeokg/resource/137885993>	<http://www.w3.org/2000/01/rdf-schema#label>	General Electric Building
+<hgeokg/resource/257389724>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/6342212317>
+<hgeokg/resource/357579218>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/458180193>
+<hgeokg/resource/266233364>	<Point_pofw-Adjacent-Polygon_buildings>	<hgeokg/resource/266233360>
+<hgeokg/resource/458180186>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/85393997>
+<hgeokg/resource/569345502>	<hgeokg/schema/hgv>	hgv-local
+<hgeokg/resource/569345508>	<hgeokg/schema/lanes>	lanes-2
+<hgeokg/resource/226041013>	<hgeokg/schema/wikipedia>	wikipedia-en:55th Street (Manhattan)
+<hgeokg/resource/6631461418>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/4291285989>
+<hgeokg/resource/497165756>	<Line_roads-Adjacent-Point_pofw>	<hgeokg/resource/3573490>
+<hgeokg/resource/6631198486>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/4291285989>
+<hgeokg/resource/145341258>	<hgeokg/schema/buildingMaterial>	buildingMaterial-glass
+<hgeokg/resource/5090752486>	<http://www.w3.org/2000/01/rdf-schema#label>	Lexington Avenue & East 56th Street
+<hgeokg/resource/266233360>	<Point_pofw-Adjacent-Polygon_buildings>	<hgeokg/resource/159843711>
+<hgeokg/resource/226041011>	<hgeokg/schema/lanes>	lanes-2
+<hgeokg/resource/226041011>	<hgeokg/schema/hgv>	hgv-destination
+<hgeokg/resource/118116810>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/226041013>
+<hgeokg/resource/458180192>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/458180193>
+<hgeokg/resource/4782506036>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/265947377>
+<hgeokg/resource/3708656565>	<http://www.w3.org/2000/01/rdf-schema#label>	Citi Bike - East 51st Street / Lexington Avenue
+<hgeokg/resource/3573490>	<hgeokg/schema/addrPostcode>	addrPostcode-10022
+<hgeokg/resource/226041013>	<Line_roads-Adjacent-Line_roads>	<hgeokg/resource/226041011>
+<hgeokg/resource/3708656565>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/BicycleRental>
+<hgeokg/resource/145341258>	<http://www.w3.org/2000/01/rdf-schema#label>	Seagram Building
+<hgeokg/resource/118116810>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/743358444>
+<hgeokg/resource/5804736154>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/1290043792>
+<hgeokg/resource/2629371831>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6351737294>
+<hgeokg/resource/226041011>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/266233432>
+<hgeokg/resource/226041013>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/2629371820>
+<hgeokg/resource/266233360>	<Point_pofw-Adjacent-Point_pois>	<hgeokg/resource/2629371841>
+<hgeokg/resource/137891657>	<hgeokg/schema/buildingColour>	buildingColour-#ACA39E
+<hgeokg/resource/85393997>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6631198486>
+<hgeokg/resource/3573490>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/4782506036>	<hgeokg/schema/routeRef>	routeRef-M50
+<hgeokg/resource/6631461418>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/511924978>
+<hgeokg/resource/4291285989>	<Point_pois-Adjacent-Point_pofw>	<hgeokg/resource/3573490>
+<hgeokg/resource/458180192>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/497165756>
+<hgeokg/resource/6631461418>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/357579218>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/511924978>
+<hgeokg/resource/511924978>	<hgeokg/schema/wikipedia>	wikipedia-en:50th Street (Manhattan)
+<hgeokg/resource/2629371841>	<hgeokg/schema/takeaway>	takeaway-yes
+<hgeokg/resource/137891657>	<hgeokg/schema/height>	height-22
+<hgeokg/resource/145341258>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/5804736154>
+<hgeokg/resource/2629371820>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/569345502>
+<hgeokg/resource/145341258>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/497165756>
+<hgeokg/resource/458180186>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Secondary>
+<hgeokg/resource/2629371820>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/458180192>
+<hgeokg/resource/266233432>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/226041011>
+<hgeokg/resource/85393997>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/497165756>
+<hgeokg/resource/6342212317>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/497165756>
+<hgeokg/resource/1290043792>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/458180192>
+<hgeokg/resource/266233432>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/2955441511>
+<hgeokg/resource/3573490>	<hgeokg/schema/wikipedia>	wikipedia-en:St. Bartholomew's Episcopal Church (Manhattan)
+<hgeokg/resource/137885993>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/497165756>
+<hgeokg/resource/4291285989>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/6631461418>
+<hgeokg/resource/2629371820>	<hgeokg/schema/addrCountry>	addrCountry-US
+<hgeokg/resource/159843711>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/266233402>
+<hgeokg/resource/226041013>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/2629371831>
+<hgeokg/resource/6631198486>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Cafe>
+<hgeokg/resource/569345502>	<hgeokg/schema/lanes>	lanes-4
+<hgeokg/resource/137891657>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/357579218>
+<hgeokg/resource/137885993>	<Polygon_buildings-Adjacent-Polygon_buildings>	<hgeokg/resource/137891657>
+<hgeokg/resource/458180192>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/5804736154>
+<hgeokg/resource/266233360>	<hgeokg/schema/ele>	ele-14
+<hgeokg/resource/458180192>	<hgeokg/schema/lanes>	lanes-2
+<hgeokg/resource/569345508>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/137885993>
+<hgeokg/resource/2629371841>	<http://www.w3.org/2000/01/rdf-schema#label>	Pret A Manger
+<hgeokg/resource/4782506036>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/458180186>
+<hgeokg/resource/137885993>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/5804736154>
+<hgeokg/resource/85393997>	<hgeokg/schema/toiletsWheelchair>	toiletsWheelchair-yes
+<hgeokg/resource/257389724>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/458180192>
+<hgeokg/resource/6631461418>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/497165756>
+<hgeokg/resource/3573490>	<hgeokg/schema/denomination>	denomination-anglican
+<hgeokg/resource/497165756>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/4291285989>
+<hgeokg/resource/266233364>	<hgeokg/schema/nycdoittBin>	nycdoittBin-1036493
+<hgeokg/resource/497165756>	<hgeokg/schema/oneway>	oneway-yes
+<hgeokg/resource/266233360>	<Point_pofw-Adjacent-Polygon_buildings>	<hgeokg/resource/118116810>
+<hgeokg/resource/2629371811>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/145341258>
+<hgeokg/resource/3573490>	<Line_roads-Adjacent-Point_pofw>	<hgeokg/resource/569345508>
+<hgeokg/resource/2629371831>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/226041013>
+<hgeokg/resource/2629371811>	<hgeokg/schema/brandWikidata>	brandWikidata-Q2078880
+<hgeokg/resource/118116810>	<hgeokg/schema/startDate>	startDate-1961
+<hgeokg/resource/6351737294>	<hgeokg/schema/contactFacebook>	contactFacebook-https://www.facebook.com/LeReveNewYork/
+<hgeokg/resource/743358444>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5090752487>
+<hgeokg/resource/3708656565>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/85393997>
+<hgeokg/resource/266233402>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/266233364>
+<hgeokg/resource/6342212317>	<hgeokg/schema/openingHours>	openingHours-Mo-Fr 07:00-10:30, 11:45-14:00; 17:00-00:00; Sa 17:00-00:00
+<hgeokg/resource/226041013>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5090752486>
+<hgeokg/resource/85393997>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/3708656565>
+<hgeokg/resource/137885993>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/85393997>
+<hgeokg/resource/743358444>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/137891657>
+<hgeokg/resource/458180193>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/145341258>
+<hgeokg/resource/137891657>	<hgeokg/schema/buildingPart>	buildingPart-yes
+<hgeokg/resource/2629371820>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/226041013>
+<hgeokg/resource/5090752487>	<Point_transport-Adjacent-Point_pois>	<hgeokg/resource/2629371811>
+<hgeokg/resource/118116810>	<hgeokg/schema/wikipedia>	wikipedia-en:399 Park Avenue
+<hgeokg/resource/2629371841>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/569345502>
+<hgeokg/resource/1290043792>	<http://www.w3.org/2000/01/rdf-schema#label>	Four Seasons
+<hgeokg/resource/5090752487>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/458180192>
+<hgeokg/resource/458180193>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/2629371811>
+<hgeokg/resource/458180186>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/497165756>
+<hgeokg/resource/5090752486>	<Point_transport-Adjacent-Point_pofw>	<hgeokg/resource/266233360>
+<hgeokg/resource/4291285989>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/85393997>
+<hgeokg/resource/743358444>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/137885993>
+<hgeokg/resource/2629371831>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/2629371811>
+<hgeokg/resource/1290043792>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Restaurant>
+<hgeokg/resource/2629371820>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Point>
+<hgeokg/resource/743358444>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/118116810>
+<hgeokg/resource/137891657>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/569345508>
+<hgeokg/resource/266233406>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/266233402>
+<hgeokg/resource/3708656565>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/569345508>
+<hgeokg/resource/5090752487>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/743358444>
+<hgeokg/resource/118116810>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/458180192>
+<hgeokg/resource/3708656565>	<hgeokg/schema/openingHours>	openingHours-24/7
+<hgeokg/resource/497165756>	<Line_roads-Intersect-Line_roads>	<hgeokg/resource/511924978>
+<hgeokg/resource/5090752486>	<hgeokg/schema/routeRef>	routeRef-M101;M102;M103
+<hgeokg/resource/569345508>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/85393997>
+<hgeokg/resource/137891657>	<Polygon_buildings-Adjacent-Polygon_buildings>	<hgeokg/resource/257389724>
+<hgeokg/resource/266233406>	<Point_transport-Adjacent-Polygon_buildings>	<hgeokg/resource/5090752486>
+<hgeokg/resource/569345502>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5090752486>
+<hgeokg/resource/458180193>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/5090752487>
+<hgeokg/resource/145341258>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#spacetype>	<http://www.opengis.net/ont/sf#Polygon>
+<hgeokg/resource/265947377>	<Point_pois-Adjacent-Point_pois>	<hgeokg/resource/3708656565>
+<hgeokg/resource/137885993>	<hgeokg/schema/roofColour>	roofColour-#696E68
+<hgeokg/resource/226041013>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/HighwayResidential>
+<hgeokg/resource/265947377>	<Point_pois-Adjacent-Line_roads>	<hgeokg/resource/511924978>
+<hgeokg/resource/265947377>	<hgeokg/schema/phone>	phone-+1 212-752-3824
+<hgeokg/resource/266233406>	<Line_roads-Adjacent-Polygon_buildings>	<hgeokg/resource/226041013>
+<hgeokg/resource/6631198486>	<http://www.w3.org/2000/01/rdf-schema#label>	Church Cafe Outside
+<hgeokg/resource/6631461418>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<hgeokg/schema/Cafe>
+<hgeokg/resource/5090752486>	<Point_transport-Adjacent-Line_roads>	<hgeokg/resource/569345502>
+<hgeokg/resource/6342212317>	<hgeokg/schema/website>	website-https://thelobsterclub.com/
+<hgeokg/resource/6342212317>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/137891657>
+<hgeokg/resource/6631461418>	<Point_pois-Adjacent-Polygon_buildings>	<hgeokg/resource/137891657>
+<hgeokg/resource/145341258>	<hgeokg/schema/buildingColour>	buildingColour-#2A3333
